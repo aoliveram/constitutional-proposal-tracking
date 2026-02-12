@@ -1,7 +1,7 @@
 # Constitutional Proposal Tracking
 
 ## Descripción
-Herramienta de IA para rastrear la genealogía de normas constitucionales desde su iniciativa original hasta el borrador final, aplicando indicaciones de votación. Este proyecto utiliza Modelos de Lenguaje (LLMs) para reconstruir la historia fidedigna del proceso constituyente chileno.
+Conjunto de scripts (varios de ellos usando API Gemini) para rastrear la genealogía del de iniciativas e indicaciones de votación de la Convención Constitucional Chile 2021-2022, desde su iniciativa original hasta el borrador final.
 
 ## Estructura del Proyecto
 
@@ -13,6 +13,27 @@ Herramienta de IA para rastrear la genealogía de normas constitucionales desde 
     - `genesis-extracted/`: Datos base de las propuestas originales.
     - `indicaciones-universal-extracted/`: Datos de las votaciones e indicaciones extraídos.
 - **`reports/`**: Reportes de estado y análisis de calidad de datos.
+
+## Perfiles de Extracción por Comisión
+
+El archivo `constitutional_proposal_tracking/config/commission_profiles.py` define la estrategia de extracción para cada comisión, adaptándose a la estructura variable de sus documentos originales (PDFs de "Génesis" y "Votación").
+
+### Tipos de Perfil
+*   **NARRATIVE (Narrativo):** Documentos de texto continuo donde los artículos e indicaciones se identifican por patrones de lenguaje natural y palabras clave (ej: "Artículo 1...").
+*   **TABULAR (Tabular):** Documentos estructurados en tablas de dos columnas (ej: columna izquierda para ID de iniciativa, derecha para texto del artículo).
+*   **CUSTOM_COMPLEX:** Lógica ad-hoc para casos con formatos irregulares.
+
+### Asignación Actual por Comisión
+
+| Comisión | Perfil Génesis | Perfil Votación |
+| :--- | :--- | :--- |
+| **1 (Sistema Político)** | NARRATIVE | NARRATIVE |
+| **2 (Principios)** | NARRATIVE | CUSTOM_COMPLEX |
+| **3 (Forma de Estado)** | TABULAR | TABULAR |
+| **4 (Derechos Fund.)** | CUSTOM_COMPLEX | NARRATIVE |
+| **5 (Medio Ambiente)** | TABULAR | NARRATIVE |
+| **6 (Sistemas de Justicia)** | TABULAR | NARRATIVE |
+| **7 (Sistemas de Conoc.)** | NARRATIVE | NARRATIVE |
 
 ## Setup
 
