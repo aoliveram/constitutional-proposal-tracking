@@ -1,0 +1,663 @@
+[
+  {
+    "number": "186",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "193",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "195",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "196",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "203",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "224",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "228",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "233",
+    "authors_matched": [
+      "Vergara, Lisette"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "233.1",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "236",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 4-. El Estado garantiza los recursos para hacer efectiva la actividad artística y cultural desarrollada por personas y comunidades, asegurando la descentralización y autonomía de las regiones, localidades y pueblos en esta materia.\nLa ley deberá asegurar criterios de perspectiva de género, plurinacionalidad, inclusión, pluralismo y pertinencia territorial en la distribución de los recursos.",
+    "content_to_remove": null,
+    "placement_instructions": "siguiente artículo 4, nuevo"
+  },
+  {
+    "number": "237",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "245",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 5-. El Estado velará por remover los obstáculos que impidan o dificulten el acceso, goce y ejercicio de los derechos culturales, con el objeto de desarrollar una vida cultural plena.",
+    "content_to_remove": null,
+    "placement_instructions": "siguiente artículo 5, nuevo"
+  },
+  {
+    "number": "246",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 6.- El Estado promueve la cooperación internacional cultural y la integración regional, fortaleciendo sus relaciones solidarias con otros Estados y pueblos velando por el respeto de las culturas migrantes y extranjeras.",
+    "content_to_remove": null,
+    "placement_instructions": "siguiente artículo 5, nuevo"
+  },
+  {
+    "number": "247",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "250",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 5,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "su",
+    "content_to_remove": "la",
+    "placement_instructions": "sustituir el artículo 'la', que está entre la palabra 'A' y la palabra 'vez'"
+  },
+  {
+    "number": "260",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": 5,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "y las expresiones populares de la ruralidad",
+    "content_to_remove": null,
+    "placement_instructions": "antes de 'a través de los mecanismos,'"
+  },
+  {
+    "number": "264",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 1,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 1: Todas las personas, individual y colectivamente, tienen derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "266",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 1,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "269",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 2: El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras. El Estado participa y promueve activamente el desarrollo e implementación de las telecomunicaciones, servicios de conectividad y las tecnologías de la información y comunicación, posibilitando distintos modelos y alternativas, respetando los principios de igualdad, continuidad, adaptabilidad, sustentabilidad, equidad territorial, descentralización y gestión compartida. La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "273",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 4: El Estado garantiza el cumplimiento del principio de neutralidad en la red. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "275",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 3: El Estado garantiza el acceso libre, equitativo y descentralizado, con condiciones de calidad y velocidad adecuadas y efectivas a los servicios básicos de comunicación",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "283",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "285",
+    "authors_matched": [
+      "Vergara, Lisette"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "285.1",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "290",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 5: Toda persona tiene el derecho a la educación digital, al desarrollo del conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus beneficios. El Estado asegurará que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual creará políticas públicas y financiará planes y programas gratuitos con tal objeto",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "292",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 5,
+    "target_scope": "INCISO",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "293",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 6: Se reconoce el derecho de todas las personas a una vida libre de violencia en cualquier plataforma o medio digital, con especial énfasis en los grupos históricamente excluidos. El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "298",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 1: Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre. La legislación establecerá un límite máximo a la jornada de trabajo y los derechos al descanso semanal y a todos los demás derechos laborales que establezca la Constitución y las leyes.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "299",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO",
+    "action": "SUBSTITUTE",
+    "content": "En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades, especialmente en el nivel local, el respeto de los derechos de los pueblos indígenas, la promoción del diálogo intercultural, así como la protección, conservación y restauración de la naturaleza y su biodiversidad",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "304.1",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 2: Todas las personas tienen el derecho a desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "309",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 2,
+    "target_scope": "INCISO",
+    "action": "SUBSTITUTE",
+    "content": "Asimismo, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "310",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 2,
+    "target_scope": "INCISO",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "312",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 2,
+    "target_scope": "INCISO",
+    "action": "SUBSTITUTE",
+    "content": "El Estado debe promover una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "326",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 0,
+    "target_scope": "INCISO",
+    "action": "SUBSTITUTE",
+    "content": "Artículo X: Las ciencias y tecnologías están al servicio de las personas y comunidades, teniendo como fin la promoción del desarrollo integral y del bien común, con respeto a la dignidad humana y la protección de los derechos fundamentales, los derechos de los animales no humanos y los derechos de la naturaleza, además de los otros derechos consagrados en esta Constitución y la Ley.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "number": "328",
+    "authors_matched": [
+      "Valenzuela, Paulina",
+      "Caamano, Francisco"
+    ],
+    "target_article": 0,
+    "target_scope": "INCISO",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": null,
+    "placement_instructions": null
+  }
+]

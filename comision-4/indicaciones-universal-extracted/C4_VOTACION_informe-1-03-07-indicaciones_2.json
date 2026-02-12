@@ -1,0 +1,570 @@
+[
+  {
+    "number": "80",
+    "authors_matched": [
+      "Barbara Rebolledo"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "91",
+    "authors_matched": [
+      "Lidia Gonzalez"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo X.- Límites de los derechos fundamentales. Las limitaciones a los derechos fundamentales podrán ser establecidas únicamente en virtud de una ley de carácter general, en la que se consideren medidas idóneas, necesarias y proporcionadas en una sociedad democrática. Se deberá tener, además, especial consideración por el respeto a la identidad e integridad cultural del individuo o pueblo y nación de indígena al que pertenece. En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "99",
+    "authors_matched": [
+      "Patricio Fernandez",
+      "Alvin Saldaña",
+      "Barbara Rebolledo"
+    ],
+    "target_article": 13,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "104",
+    "authors_matched": [
+      "Patricio Fernandez"
+    ],
+    "target_article": 14,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo X.- Titularidad de los derechos. Las personas naturales son titulares de derechos fundamentales. Los derechos podrán ser ejercidos y exigidos individual o colectivamente. Los Pueblos y Naciones Indígenas son titulares de derechos fundamentales colectivos. La titularidad establecida en los incisos anteriores comprende los derechos consagrados en esta Constitución, en los tratados internacionales de derechos humanos ratificados y vigentes en Chile y la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas. La naturaleza será titular de los derechos que le sean aplicables y los que reconozca la Constitución y las leyes. Las personas jurídicas sólo serán titulares de los derechos que la Constitución consagre expresamente.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "116",
+    "authors_matched": [
+      "Rocio Cantuarias",
+      "Patricio Fernandez",
+      "Felipe Harboe",
+      "Ricardo Neumann"
+    ],
+    "target_article": 15,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "4",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 1,
+    "target_scope": "WORDING",
+    "action": "SUBSTITUTE",
+    "content": "Derecho a la libertad de conciencia, pensamiento, creencias, cosmovisión y religión",
+    "content_to_remove": "epígrafe original",
+    "placement_instructions": "sustituir el epígrafe"
+  },
+  {
+    "number": "6",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO 1",
+    "action": "MODIFY_PHRASE",
+    "content": "de conciencia, de religión y cosmovisión; este derecho incluye la libertad de profesar y cambiar de religión o creencias",
+    "content_to_remove": "de religión o cosmovisión; este derecho incluye la libertad de tener o de adoptar la religión o las creencias de su elección, así como la libertad de manifestar su religión o sus creencias",
+    "placement_instructions": ""
+  },
+  {
+    "number": "9",
+    "authors_matched": [
+      "Javier Fuchslocher"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO 1",
+    "action": "ADD",
+    "content": "espirituales",
+    "content_to_remove": "",
+    "placement_instructions": "luego de “prácticas”"
+  },
+  {
+    "number": "10",
+    "authors_matched": [
+      "Valentina Miranda",
+      "Roberto Celedon",
+      "Janis Meneses"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO 1",
+    "action": "ADD",
+    "content": "Podrán erigir templos, dependencias y lugares para el culto.",
+    "content_to_remove": "",
+    "placement_instructions": "al final del inciso primero"
+  },
+  {
+    "number": "17",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "El Estado se rige por el principio de neutralidad religiosa, el que implica la igualdad de trato ante las distintas entidades religiosas y grupos de orden espiritual, y reconoce la espiritualidad como elemento esencial del ser humano.",
+    "content_to_remove": "",
+    "placement_instructions": "penúltimo inciso"
+  },
+  {
+    "number": "19",
+    "authors_matched": [
+      "Alfredo Moreno",
+      "Janis Meneses"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO 3",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "28",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Estas entidades y grupos podrán organizarse como personas jurídicas, con arreglo a la ley, respetando los derechos y deberes que esta Constitución establece. Las personas jurídicas con fines religiosos no podrán perseguir fines de lucro y sus bienes deberán gestionarse de forma transparente y de acuerdo a los otros principios que la ley establezca.",
+    "content_to_remove": "",
+    "placement_instructions": "inciso final"
+  },
+  {
+    "number": "31",
+    "authors_matched": [
+      "Alfredo Moreno",
+      "Claudia Castro",
+      "Lidia Gonzalez",
+      "Janis Meneses"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "38",
+    "authors_matched": [
+      "Lidia Gonzalez",
+      "Janis Meneses"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "46",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "67",
+    "authors_matched": [
+      "Janis Meneses",
+      "Barbara Rebolledo",
+      "Rodrigo Logan"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "87",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 1",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "y que sean necesarias en una sociedad democrática",
+    "placement_instructions": ""
+  },
+  {
+    "number": "92",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Estará prohibida la propaganda en favor de la guerra; el discurso xenófobo o apología de odio racial, religioso, sexual, de género o de cualquier otra índole, que constituya incitación a la violencia, la discriminación o la hostilidad, lo cual deberá ser regulado por la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo inciso segundo"
+  },
+  {
+    "number": "95",
+    "authors_matched": [
+      "Valentina Miranda",
+      "Roberto Celedon"
+    ],
+    "target_article": 6,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "Los medios de comunicación tienen la responsabilidad social de contribuir y asegurar la pluralidad de opiniones e informaciones",
+    "content_to_remove": "Los medios de comunicación tienen una especial responsabilidad social de contribuir a la pluralidad de opiniones en una sociedad libre y democrática",
+    "placement_instructions": ""
+  },
+  {
+    "number": "101",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 3",
+    "action": "MODIFY_PHRASE",
+    "content": "afectada por informaciones inexactas o agraviantes emitidas en su perjuicio",
+    "content_to_remove": "ofendida o injustamente aludida",
+    "placement_instructions": ""
+  },
+  {
+    "number": "104",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 3",
+    "action": "ADD",
+    "content": "En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.",
+    "content_to_remove": "",
+    "placement_instructions": "al final del inciso tercero"
+  },
+  {
+    "number": "108",
+    "authors_matched": [
+      "Claudia Castro",
+      "Janis Meneses"
+    ],
+    "target_article": 7,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "115",
+    "authors_matched": [
+      "Claudia Castro",
+      "Felipe Harboe",
+      "Luis Barcelo",
+      "Janis Meneses",
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 8,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "117",
+    "authors_matched": [
+      "Alfredo Moreno",
+      "Janis Meneses",
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "126",
+    "authors_matched": [
+      "Rocio Cantuarias",
+      "Teresa Marinovic",
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 10,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "148",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 12,
+    "target_scope": "INCISO 1",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "168",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 12,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Las disposiciones legales que autorizan la restricción de la libertad o de otros derechos del imputado o del ejercicio de alguna de sus facultades serán interpretadas restrictivamente y no se podrán aplicar por analogía.",
+    "content_to_remove": "",
+    "placement_instructions": "como inciso final"
+  },
+  {
+    "number": "169",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 13,
+    "target_scope": "WORDING",
+    "action": "ADD",
+    "content": "y prohibición de desplazamiento forzado",
+    "content_to_remove": "",
+    "placement_instructions": "Añadir en el epígrafe"
+  },
+  {
+    "number": "175",
+    "authors_matched": [
+      "Valentina Miranda",
+      "Roberto Celedon"
+    ],
+    "target_article": 13,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Nadie podrá ser arbitrariamente privado del derecho a entrar en su propio país ni a salir libremente de él.",
+    "content_to_remove": "",
+    "placement_instructions": "como inciso segundo"
+  },
+  {
+    "number": "176",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 13,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Se prohíbe todo desplazamiento forzado provocado por acción u omisión del Estado. Las personas y comunidades víctimas de desplazamiento forzado tendrán derecho a la verdad, justicia y reparación integral. Asimismo, tendrán derecho a recibir protección y asistencia humanitaria preferente y especializada, que asegure el acceso a alimentos, alojamiento, vivienda y servicios médicos; a retornar a su hogar de forma voluntaria, segura y digna, recibiendo asistencia para la recuperación de sus propiedades y posesiones de las que hayan sido despojadas; y a la restauración, conservación y reunificación de la unidad familiar y la vida en comunidad.",
+    "content_to_remove": "",
+    "placement_instructions": "añadir a continuación"
+  },
+  {
+    "number": "178",
+    "authors_matched": [
+      "Alfredo Moreno",
+      "Janis Meneses"
+    ],
+    "target_article": 14,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "192",
+    "authors_matched": [
+      "Mauricio Daza"
+    ],
+    "target_article": 15,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 15.- Derecho a la identidad. Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su identidad, en todas sus dimensiones y manifestaciones, incluyendo la nacionalidad, etnia, cultura, edad, características sexuales, identidades y expresiones de género, y orientaciones sexoafectivas, entre otras. El Estado deberá garantizar y remover los obstáculos para el reconocimiento de este derecho, de acuerdo a los estándares internacionales de los derechos humanos, a través de las herramientas, acciones judiciales y administrativas adecuadas y pertinentes, entre ellas, el otorgamiento de documentos de identidad e inscripción registral.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "203",
+    "authors_matched": [
+      "Mauricio Daza",
+      "Claudia Castro",
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 16,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "209",
+    "authors_matched": [
+      "Mauricio Daza"
+    ],
+    "target_article": 17,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 17.- Derecho a la autonomía y a la libre determinación. Toda persona tiene derecho a la libertad, entendida como la libre determinación de su personalidad, de sus proyectos de vida, de su identidad y la autonomía sobre su cuerpo. El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "241",
+    "authors_matched": [
+      "Natalia Henriquez"
+    ],
+    "target_article": 18,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Las prácticas de colusión entre empresas y abusos de posición monopólica, así como de concentraciones empresariales que afecten o puedan afectar el funcionamiento eficiente, justo y leal de los mercados y el bienestar de las y los consumidores y usuarios y usuarias, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables y su obligación de reparación integral.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo último inciso"
+  },
+  {
+    "number": "246",
+    "authors_matched": [
+      "Bernardo Fontaine"
+    ],
+    "target_article": 18,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "La actividad económica del Estado estará siempre sujeta a criterios de control, transparencia y probidad, los que determinará la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo inciso (sexto)"
+  },
+  {
+    "number": "250",
+    "authors_matched": [
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 19,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "La inviolabilidad del hogar, de los demás espacios donde la persona desarrolle su vida privada y de toda comunicación privada, ya sea física o digital. El hogar y demás espacios familiares solo podrán allanarse, y las comunicaciones y documentos privados interceptarse, abrirse o registrarse en los casos que la Constitución o las leyes lo establezcan expresamente.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "263",
+    "authors_matched": [
+      "Mauricio Daza"
+    ],
+    "target_article": 20,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 20.- Todas las personas son titulares de derechos sexuales y derechos reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción. El Estado garantiza el ejercicio de los derechos sexuales y reproductivos sin discriminación, con enfoque de género, inclusión y pertinencia cultural, así como el acceso a la información, educación, salud, y a los servicios y prestaciones requeridos para ello, asegurando a todas las mujeres y personas con capacidad de gestar, las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos. Asimismo, garantiza su ejercicio libre de violencias y de interferencias por parte de terceros, ya sean individuos o instituciones. El Estado reconoce y garantiza el derecho de las personas a beneficiarse del progreso científico para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "267",
+    "authors_matched": [
+      "Rocio Cantuarias",
+      "Teresa Marinovic",
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 21,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "276",
+    "authors_matched": [
+      "Rocio Cantuarias",
+      "Teresa Marinovic",
+      "Barbara Rebolledo",
+      "Manuel Ossandon"
+    ],
+    "target_article": 22,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "284",
+    "authors_matched": [
+      "Mauricio Daza"
+    ],
+    "target_article": 23,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 23.- Educación sexual integral. Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el desarrollo del consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual. Es deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "516",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 42,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX. Derecho al acceso a la justicia y a la tutela judicial efectiva. Toda persona tiene derecho a la efectiva protección de sus derechos y a que el Estado le garantice la igualdad de acceso a la justicia. El Estado deberá disponer diversos mecanismos que favorezcan una respuesta accesible, oportuna y eficaz que resulte apropiada a las circunstancias concretas. Toda persona tiene derecho a una tutela judicial efectiva y a la resolución de sus conflictos jurídicos a través de un procedimiento adecuado a sus fines. Al legislador le corresponderá establecer estos, así como las medidas necesarias para asegurar el cumplimiento efectivo y oportuno de toda resolución judicial.",
+    "content_to_remove": "",
+    "placement_instructions": "previo al artículo 42"
+  },
+  {
+    "number": "529",
+    "authors_matched": [
+      "Janis Meneses"
+    ],
+    "target_article": 42,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "El proceso y sus resoluciones serán públicos, salvo las excepciones expresamente establecidas por ley, debiendo concluir en un plazo razonable y sin dilaciones indebidas. Toda resolución emanada de un tribunal deberá ser fundada, con excepción de aquellas que se pronuncien sobre cuestiones de mero trámite.",
+    "content_to_remove": "",
+    "placement_instructions": "intercalar un nuevo inciso tercero"
+  },
+  {
+    "number": "532",
+    "authors_matched": [
+      "Rocio Cantuarias",
+      "Teresa Marinovic"
+    ],
+    "target_article": 42,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
+    "content_to_remove": "",
+    "placement_instructions": "un nuevo inciso final"
+  }
+]

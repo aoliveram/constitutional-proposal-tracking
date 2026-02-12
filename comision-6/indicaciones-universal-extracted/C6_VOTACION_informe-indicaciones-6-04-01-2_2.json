@@ -1,0 +1,570 @@
+[
+  {
+    "number": 146,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 24,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 24.- De la Defensoría Penal Pública. La Defensoría Penal Pública es un organismo autónomo, con personalidad jurídica y patrimonio propio, que tiene por función proporcionar defensa penal a los imputados por hechos que pudiesen configurar un delito que deban ser conocidos por los tribunales con competencia en lo penal, desde la primera actuación de la investigación dirigida en su contra y hasta la completa ejecución de la pena que le haya sido impuesta, y que carezcan de defensa letrada. Estará facultada para denunciar al Estado ante los Organismos Internacionales de Derechos Humanos, cuando en el curso de las investigaciones y procedimientos penales en que intervenga, constate violaciones de derechos fundamentales, en coordinación con otros órganos del Estado. La ley determinará la organización y atribuciones de la Defensoría Penal Pública, debiendo garantizarse su independencia externa.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
+    "number": 147,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis",
+      "Harboe, Felipe"
+    ],
+    "target_article": 24,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 24 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 150,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis",
+      "Harboe, Felipe"
+    ],
+    "target_article": 24,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 24 B",
+    "placement_instructions": ""
+  },
+  {
+    "number": 152,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 25,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 25.- De la defensa penal pública. La función de defensa penal pública será ejercida exclusivamente por defensoras y defensores penales públicos. Los servicios de defensa jurídica que preste la Defensoría Penal Pública no podrán ser licitados o delegados en abogados particulares, sin perjuicio de la contratación excepcional que pueda realizar en los casos y forma que establezca la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
+    "number": 153,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 26,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": 155,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 27,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 27.- Dirección de la Defensoría Penal Pública. La dirección superior de la Defensoría Penal Pública reside en un Consejo Superior, órgano colegiado, paritario, que designará de entre sus miembros a un presidente y a un director ejecutivo.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
+    "number": 156,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis",
+      "Harboe, Felipe"
+    ],
+    "target_article": 27,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 27 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 159,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis",
+      "Harboe, Felipe"
+    ],
+    "target_article": 27,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 27 B",
+    "placement_instructions": ""
+  },
+  {
+    "number": 161,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 28,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 28.- Del Consejo Superior de la Defensoría Penal Pública. El Consejo Superior estará integrado por siete integrantes designados de la siguiente manera: a) Tres integrantes elegidos democráticamente por los defensores y defensoras entre sus pares. b) Un integrante elegido democráticamente por funcionarios y funcionarias de la Defensoría Penal Pública entre sus pares. c) Tres integrantes elegidos por el Congreso plurinacional a partir de ternas elaboradas por el Consejo de Alta Dirección Pública. Los candidatos y candidatas no podrán haber desempeñado cargos de elección popular ni haber sido candidatos a ellos, así como tampoco podrán haber desarrollado funciones en el Gobierno o Administración del Estado en cargos que sean de exclusiva confianza del Presidente de la República, en los últimos cuatro años. La ley establecerá el procedimiento y los requisitos que deberán reunir los consejeros de la Defensoría Penal Pública. Los consejeros durarán cuatro años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades en conformidad a lo que señale la ley. La calidad de consejero es incompatible con todo otro cargo o función sea o no remunerada, con excepción de la docencia universitaria con los límites que señale la ley. Las y los consejeros indicados en las letras a) y b) se entenderán suspendidos del ejercicio de su función mientras dure su cometido, pudiendo retornar al ejercicio de sus funciones una vez cumplido este desempeño.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
+    "number": 163,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 28,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 31.- Atribuciones del Consejo Superior de la Defensoría Penal Pública. El Consejo Superior de la Defensoría Penal Pública tendrá las siguientes atribuciones: a) Dirigir el organismo, velando por el cumplimiento de sus objetivos; b) Determinar la política de gestión profesional de las y los funcionarios de la Defensoría Penal Pública. c) Evaluar y calificar permanentemente el desempeño de las y los funcionarios. d) Designar al defensor nacional y a los defensores regionales en conformidad a la ley. e) Ejercer la potestad disciplinaria respecto de las y los funcionarios, en conformidad a la ley. f) Definir las necesidades presupuestarias, gestionando los recursos para su adecuado funcionamiento. g) Las demás atribuciones que establezca la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "reemplazar el artículo 28 A por un nuevo artículo"
+  },
+  {
+    "number": 164,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 29,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 29.- Del Defensor o Defensora Nacional. La o el Defensor Nacional dirigirá las sesiones ordinarias y extraordinarias del Consejo Superior de la Defensoría Penal Pública y representará a la institución ante los demás órganos del Estado, sin perjuicio de las demás atribuciones que señale la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
+    "number": 165,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis",
+      "Harboe, Felipe"
+    ],
+    "target_article": 30,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículos 30 a 33 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 178,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 33,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Títulos Defensoría de los Derechos Humanos y Defensoría de los Pueblos",
+    "placement_instructions": ""
+  },
+  {
+    "number": 179,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 34,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 34. Defensoría del Pueblo. Un organismo autónomo, de carácter técnico, con personalidad jurídica de derecho público, patrimonio propio y titularidad unipersonal denominada Defensoría del Pueblo tendrá por finalidad la promoción, protección y colaboración en la defensa de los derechos fundamentales asegurados en esta Constitución, en los tratados e instrumentos internacionales de derechos humanos y en las leyes, ante los actos u omisiones de los órganos de la administración del Estado y de entidades privadas que ejerzan actividades de servicio o utilidad pública, en los términos que establezca la ley respectiva. La Defensoría del Pueblo velará siempre por el resguardo efectivo del interés ciudadano en la gestión y finalidad que la Constitución y las leyes confieren a dichos órganos y entidades. La ley determinará la organización, funciones, financiamiento y atribuciones de la Defensoría del Pueblo. El presupuesto de la Defensoría del Pueblo estará fijado en una glosa especial del presupuesto del Estado para el desempeño de sus funciones.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituirlo por el siguiente texto"
+  },
+  {
+    "number": 181,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 34,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 34 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 182,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 34,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 34 B",
+    "placement_instructions": ""
+  },
+  {
+    "number": 184,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 35,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 35. Actuación de la Defensoría del Pueblo. La Defensoría del Pueblo actuará de manera gratuita y simplificada y ejercerá sus atribuciones, de oficio o a petición de parte, en favor de las personas, agrupaciones o pueblos, según sea el caso. Las autoridades estarán obligadas a colaborar con los requerimientos necesarios para la libre función de la Defensoría del Pueblo, la que podrá acceder a la información reservada de las instituciones, sin obstáculo alguno, y podrá constituirse en dependencias de los órganos objeto de fiscalización.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituirlo por el siguiente texto"
+  },
+  {
+    "number": 185,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 36,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 36. Atribuciones de la Defensoría del Pueblo. La Defensoría del Pueblo tendrá, a lo menos, las siguientes atribuciones: 1. Supervigilar, en relación a su mandato constitucional, a los órganos del Estado y entidades privadas. 2. Formular recomendaciones a los órganos del Estado y entidades privadas que ejerzan actividades de servicio o utilidad pública, en materias de su competencia, las que no serán vinculantes. 3. Realizar acciones de seguimiento y monitoreo respecto de las recomendaciones realizadas por los organismos internacionales en materia de derechos humanos y las sentencias dictadas en contra del estado por tribunales internacionales. 4. Tramitar quejas o reclamos a solicitud de cualquier persona o agrupación que lo solicite ante el organismo que corresponda, el que estará siempre obligado a proporcionarle la información y colaboración necesaria para su solución. 5. Practicar mediaciones o buenos oficios entre las personas y los organismos públicos o entidades privadas, en materias de su competencia. 6. Litigar cuando se identifiquen patrones de violación de derechos humanos, interponiendo las acciones y recursos que esta Constitución y las leyes establecen, incluidas las de naturaleza colectiva y administrativa, que determine su ley. 7. Interponer acciones legales ante los tribunales de justicia respecto de hechos que revistan carácter de crímenes de genocidio, de lesa humanidad o de guerra, tortura, desaparición forzada de personas, y demás que establezca la ley. 8. Custodiar y preservar los antecedentes reunidos por comisiones de verdad, justicia, reparación y garantía de no repetición. 9. Educar en derechos humanos. 10. Iniciativa de ley en materias de su competencia. 11. Las demás que fije la ley. La Defensoría del Pueblo ejercerá plenamente sus atribuciones en todo tiempo y lugar, incluido durante la vigencia de los estados de excepción que se establezcan.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituirlo por el siguiente texto"
+  },
+  {
+    "number": 186,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 36,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 36 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 187,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 36,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 36 B",
+    "placement_instructions": ""
+  },
+  {
+    "number": 188,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 37,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 37. Defensor del Pueblo. La Defensoría del Pueblo estará a cargo de una Defensora o de un Defensor que será designado por acuerdo de la mayoría absoluta de las y los miembros en ejercicio del Congreso, según proposición que efectúen las organizaciones sociales y de derechos humanos, en la forma y cumpliendo los requisitos que determine la ley. El procedimiento de las organizaciones sociales y de derechos humanos deberá asegurar que las personas propuestas por las organizaciones cumplan los requisitos de experiencia comprobable, trayectoria, pluralismo, compromiso y conocimiento en materia de derechos humanos. La Defensora o el Defensor del Pueblo durará un período de cinco años en el ejercicio del cargo. Sólo podrá ser reelegido, por una vez para un nuevo período. Al cesar su mandato y durante los dos años siguientes, no podrá optar a ningún cargo de elección popular ni de exclusiva confianza de alguna autoridad. Gozará de inamovilidad en su cargo y será inviolable en el ejercicio de sus atribuciones. Cesará en su cargo únicamente por condena por crimen o simple delito, renuncia, enfermedad incompatible con el ejercicio de la función y por remoción. Sólo podrá ser removido por el Congreso, por iniciativa propia o del número de ciudadanos/as que determine la ley orgánica, con un quórum igual o superior al de su designación, por notable abandono de deberes o por conducta incompatible con la ética pública, los valores democráticos o los derechos humanos, en la forma que establezca la ley. La Defensoría del Pueblo rendirá cuenta pública anual ante la ciudadanía, sin perjuicio del informe que deberá remitir una vez al año al Congreso, el que también será público.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituirlo por el siguiente texto"
+  },
+  {
+    "number": 189,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 37,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 37 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 190,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 38,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 38",
+    "placement_instructions": ""
+  },
+  {
+    "number": 191,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 38,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 38 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 192,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 39,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 39. Organización de la Defensoría del Pueblo. La Defensoría del Pueblo se organizará internamente, de manera paritaria, con equidad territorial y con la participación de los pueblos indígenas, a través de defensorías regionales y defensorías especializadas, que funcionarán en forma desconcentrada, con autonomía relativa, en conformidad a lo que señale su ley. Dentro de las defensorías especializadas se contemplarán áreas de derechos de niños, niñas y adolescentes; de mujeres, disidencias y diversidades sexo genéricas; de personas mayores; de personas de pueblos originarios y afrodescendientes; de personas con discapacidad; de personas privadas de libertad; de personas migrantes, refugiadas y apátridas, sin perjuicio de las demás áreas que señale la ley. Asimismo, la Defensoría del Pueblo contará con consejos consultivos nacionales, regionales y comunales y de los pueblos indígenas, en los términos que establezca la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituirlo por el siguiente texto"
+  },
+  {
+    "number": 193,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 39,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 39 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 195,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid"
+    ],
+    "target_article": 40,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 40",
+    "placement_instructions": ""
+  },
+  {
+    "number": 197,
+    "authors_matched": [
+      "Hoppe, Vanessa",
+      "Royo, Manuela",
+      "Giustinianovich, Elisa"
+    ],
+    "target_article": 41,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 41 A",
+    "placement_instructions": "suprimir el artículo 41 A"
+  },
+  {
+    "number": 198,
+    "authors_matched": [
+      "Hoppe, Vanessa",
+      "Royo, Manuela",
+      "Giustinianovich, Elisa"
+    ],
+    "target_article": 42,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 42 A.-Unidad de producción de conocimiento e investigación. Existirá una unidad de producción de conocimiento e investigación cuyo objeto será apoyar aquellas causas en las que asuma patrocinio y demás fines de estas institución.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituir el artículo 42 A"
+  },
+  {
+    "number": 199,
+    "authors_matched": [
+      "Hoppe, Vanessa",
+      "Royo, Manuela",
+      "Giustinianovich, Elisa"
+    ],
+    "target_article": 45,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 45 A",
+    "placement_instructions": ""
+  },
+  {
+    "number": 202,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 49,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 49.- Del Consejo Autónomo del Medio Ambiente. El Consejo del Medio Ambiente es un órgano colegiado, autónomo, con personalidad jurídica y patrimonio propio, encargado de llevar a cabo la evaluación de impacto ambiental de proyectos, dictar la autorización final del proceso de evaluación ambiental, fiscalizar y sancionar toda clase de infracciones a las normas e instrumentos de protección ambiental, y demás facultades que establezca ley. El Consejo del Medio Ambiente estará dirigido por un Consejo Nacional, integrado por siete miembros, con comprobada competencia en materia ambiental, elegidos por el Congreso Nacional a partir de ternas elaboradas por el Consejo de Alta Dirección Pública. Además, funcionará desconcentradamente a través de consejos regionales. La ley regulará, en lo demás, su integración y funcionamiento. Se organizará conforme a los criterios de plurinacionalidad, paridad y equidad territorial.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
+    "number": 209,
+    "authors_matched": [
+      "Royo, Manuela",
+      "Hoppe, Vanessa",
+      "Vilches, Carolina",
+      "Alvarado, Gloria",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Olivares, Ivanna",
+      "Dorador, Cristina",
+      "Delgado, Aurora"
+    ],
+    "target_article": 56,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "artículo 56",
+    "placement_instructions": ""
+  },
+  {
+    "number": 211,
+    "authors_matched": [
+      "Royo, Manuela",
+      "Hoppe, Vanessa",
+      "Vilches, Carolina",
+      "Alvarado, Gloria",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Olivares, Ivanna",
+      "Dorador, Cristina",
+      "Delgado, Aurora"
+    ],
+    "target_article": 56,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo X. Agencia Nacional del Agua. La Agencia Nacional del Agua es un órgano autónomo, descentralizado, con personalidad jurídica y patrimonio propio, cuya finalidad es asegurar el uso sostenible del agua, el acceso al derecho humano al agua y al saneamiento y la conservación y preservación de sus ecosistemas asociados. Para ello, se encargará de recopilar información, coordinar, dirigir y fiscalizar la actuación de los órganos del Estado con competencias en materia hídrica. Será el órgano encargado de proponer e implementar la Política Hídrica Nacional, para lo cual deberá elaborar y gestionar un sistema público unificado de información hídrica con enfoque integrado de cuencas, que permita garantizar las prioridades de uso establecidas en esta Constitución. Además, estará a cargo de otorgar, revisar, modificar, caducar y revocar autorizaciones de uso de agua. Deberá fiscalizar el uso responsable y sostenible del agua y aplicar las sanciones administrativas que correspondan. Podrá determinar la calidad de los servicios sanitarios, así como las demás que señale la ley. La Agencia Nacional del Agua financiará y otorgará asistencia técnica a los Consejos de Cuenca, teniendo asiento propio en dicho órgano. En el evento que éstos no se hayan constituido, la Agencia Nacional del Agua podrá reemplazarlos en sus funciones.",
+    "content_to_remove": "artículo 56 A",
+    "placement_instructions": "sustituir el actual artículo 56 A"
+  },
+  {
+    "number": 217,
+    "authors_matched": [
+      "Hoppe, Vanessa",
+      "Royo, Manuela",
+      "Giustinianovich, Elisa"
+    ],
+    "target_article": 59,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 59.- Consejo de Transformación Productiva. El Consejo de Transformación Productiva es un organismo autónomo encargado de definir la Estrategia Nacional de Transformación Productiva Socio-Ecológica, en coordinación con la institucionalidad pública, sea ésta a nivel estatal, regional o local. Este Consejo deberá coordinar la elaboración de las Estrategias Regionales de Transformación Productiva con los correspondientes gobiernos regionales. La organización y atribuciones del Consejo serán determinadas por la ley. Con todo, esta deberá disponer los procedimientos de elaboración de las estrategias así como los mecanismos de rendición de cuentas para la evaluación de su implementación. Asimismo, dispondrá la incidencia en las definiciones presupuestarias y el procedimiento de seguimiento de las responsabilidades institucionales definidas en las estrategias nacionales o regionales. El Consejo formará parte en el nombramiento de la Dirección de agencias y empresas públicas estratégicas para la transformación productiva del país, de la manera que lo disponga la ley. El Consejo será paritario y plurinacional, y estará conformado proporcionalmente por representantes del poder ejecutivo y de los gobiernos regionales, junto con las y los principales actores que se desempeñan en el ámbito del fomento productivo, innovativo, educacional, científico, social y ecológico. Los nombramientos serán realizados por parcialidades, y en estos participaran el poder ejecutivo y legislativo según lo señale la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituir el actual artículo 59"
+  },
+  {
+    "number": 227,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 61,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 1.- Del Banco Central. El Banco Central es un órgano autónomo con personalidad jurídica y patrimonio propio, de carácter técnico, encargado de formular y conducir la política monetaria. La ley determinará su organización, atribuciones y sistemas de control, así como la determinación de instancias de coordinación entre el Banco y el Gobierno.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituir el artículo 61 C"
+  },
+  {
+    "number": 232,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 62,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 2.- Objeto del Banco Central. Le corresponderá en especial al Banco Central, para contribuir al bienestar de la población, velar por la estabilidad de los precios y el normal funcionamiento de los pagos internos y externos, en coordinación con las principales orientaciones de política económica definidas con el Gobierno. Para el cumplimiento de sus objetivos, el Banco Central deberá considerar la estabilidad financiera, la volatilidad cambiaria, la protección del empleo, la diversificación productiva, el cuidado del medioambiente y patrimonio natural y los principios que señale la Constitución y la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "sustituir el actual artículo 62"
+  },
+  {
+    "number": 284,
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Hoppe, Vanessa",
+      "Daza, Mauricio",
+      "Viera, Christian",
+      "Laibe, Tomas",
+      "Jimenez, Luis"
+    ],
+    "target_article": 73,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 73.- De la Contraloría General de la República. La Contraloría General de la República es un órgano técnico, autónomo, con personalidad jurídica y patrimonio propio, encargada de velar por el cumplimiento del principio de probidad en la función pública, ejercer el control de constitucionalidad y legalidad de los actos de la Administración del Estado, incluidos los gobiernos regionales, locales y demás entidades, organismos y servicios que determine la ley. Estará encargado de fiscalizar y auditar el ingreso, cuentas y gastos de los fondos públicos. En el ejercicio de sus funciones, no podrá evaluar los aspectos de mérito o conveniencia de las decisiones políticas o administrativas.",
+    "content_to_remove": "artículo 73 B",
+    "placement_instructions": "reemplazar el artículo 73 B"
+  }
+]

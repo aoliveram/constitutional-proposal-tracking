@@ -1,0 +1,1346 @@
+[
+  {
+    "number": "173",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "174",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1.3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "179",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "180",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1.4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "196",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.5",
+    "target_scope": "INCISO 1",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": "eliminar su párrafo primero"
+  },
+  {
+    "number": "197",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.5",
+    "target_scope": "INCISO 2",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": "eliminar su párrafo segundo"
+  },
+  {
+    "number": "198",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.5",
+    "target_scope": "INCISO 3",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": "eliminar su párrafo tercero"
+  },
+  {
+    "number": "199",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.5",
+    "target_scope": "INCISO 4",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": "eliminar su párrafo cuarto"
+  },
+  {
+    "number": "200",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.5",
+    "target_scope": "INCISO 5",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": "eliminar su párrafo quinto"
+  },
+  {
+    "number": "203",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "B",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "B) DERECHO DE PROPIEDAD INTELECTUAL INDIGENA",
+    "placement_instructions": ""
+  },
+  {
+    "number": "204",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "B",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "206",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "1.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "207",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "210",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "1.3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "211",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1.3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "212",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "213",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "215",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "216",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "218",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "3.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "219",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "3.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "220",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "3.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "221",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "3.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "222",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "3.3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "223",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "3.3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "224",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "225",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "233",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "1.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "234",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "235",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "239",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "1.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "240",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "244",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "247",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "248",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "249",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "255",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "2.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "256",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "2.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "257",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "2.2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "267",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "268",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "277",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "278",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "279",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "282",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "283",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "284",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "289",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "290",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "291",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "292",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "5",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "293",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "5",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "294",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "5",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "296",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "6",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "297",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "6",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "297.1",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "6",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "298",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "7",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "299",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "7",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "300",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "7",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "301",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "8",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "302",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "8",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "303",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "8",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "305",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "9",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "306",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "9",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "307",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "9",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "308",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "10",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "309",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "10",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "310",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "10",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "311",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "11",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "312",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "11",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "313",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "11",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "333",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "10",
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo X.- Reconocimiento del aporte de las culturas, artes y patrimonios. El Estado reconoce el aporte fundamental de las culturas, las artes y los patrimonios para el desarrollo integral de las personas, las comunidades, los pueblos y naciones indígenas preexistentes.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "319",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "13",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "320",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "13",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "321",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "13",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "326",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "14",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "327",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "14",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "328",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "14",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "334",
+    "authors_matched": [
+      "Caiguan, Alexis"
+    ],
+    "target_article": "15",
+    "target_scope": "INCISO 2",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 15: Rol del Estado en el patrimonio cultural indígena. El Estado, en conjunto con los pueblos y naciones indígenas, adoptará medidas positivas para la recuperación, revitalización y fortalecimiento del patrimonio cultural indígena",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "335",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "16",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "336",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "16",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "337",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "17",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "338",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "17",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "339",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "18",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "340",
+    "authors_matched": [
+      "Villena, Ingrid",
+      "Bravo, Daniel"
+    ],
+    "target_article": "18",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "341",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": "18",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "354",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "1",
+    "target_scope": "INCISO 2",
+    "action": "ADD",
+    "content": "Ninguna persona podrá ser objeto de una decisión basada únicamente en el tratamiento automatizado de datos, salvo en los casos que expresamente lo señala la ley.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "359",
+    "authors_matched": [
+      "Caamaño, Francisco",
+      "Caiguan, Alexis",
+      "Pinto, Malucha"
+    ],
+    "target_article": "1",
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "La ley establecerá los límites del tratamiento de datos de carácter personal que tenga por objeto inducir, de cualquier forma, el comportamiento de las personas.",
+    "content_to_remove": "",
+    "placement_instructions": "inciso final"
+  },
+  {
+    "number": "361",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "1.1",
+    "target_scope": "WORDING",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "epígrafe",
+    "placement_instructions": ""
+  },
+  {
+    "number": "362",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Numeral 1",
+    "placement_instructions": ""
+  },
+  {
+    "number": "369",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica",
+      "Calvo, Carlos"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Numeral 2",
+    "placement_instructions": ""
+  },
+  {
+    "number": "376",
+    "authors_matched": [
+      "Caamaño, Francisco"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 2.- Derecho a la seguridad informática. La Constitución asegura la protección, promoción y respeto del derecho a la seguridad informática de las personas, individual y colectivamente. El Estado y los particulares deberán adoptar las medidas que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "378",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "379",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "383",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "3.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "384",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "3.1",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "386",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "1",
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "No podrá ser sometida a régimen de reserva la información que, a juicio de los tribunales competentes, permita esclarecer y sancionar actos de corrupción y violaciones a los derechos humanos y a la Naturaleza.",
+    "content_to_remove": "",
+    "placement_instructions": "inciso tercero"
+  },
+  {
+    "number": "387",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "387.1",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "2",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "388",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "3",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "390",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "391",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "4",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "393",
+    "authors_matched": [
+      "Neumann, Ricardo",
+      "Letelier, Margarita",
+      "Tepper, Maria Angelica"
+    ],
+    "target_article": "5",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "394",
+    "authors_matched": [
+      "Calvo, Carlos"
+    ],
+    "target_article": "5",
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  }
+]

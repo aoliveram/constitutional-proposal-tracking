@@ -1,0 +1,719 @@
+[
+  {
+    "number": "2",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "§ De los Tribunales del Sistema Nacional de Justicia",
+    "content_to_remove": "§ Función jurisdiccional",
+    "placement_instructions": ""
+  },
+  {
+    "number": "5",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 1,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 1.- Principio de unidad jurisdiccional. Los tribunales de justicia se estructuran conforme al principio de unidad jurisdiccional como base de su organización y funcionamiento, estando sujetos al mismo estatuto jurídico y principios.",
+    "content_to_remove": "Artículo 1.- Funciones de los tribunales. (Texto original)",
+    "placement_instructions": ""
+  },
+  {
+    "number": "15",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 2,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 2.- Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno. Sólo la ley podrá́ establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares. La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
+    "content_to_remove": "Artículo 2.- Bases orgánicas para la función jurisdiccional. (Texto original)",
+    "placement_instructions": ""
+  },
+  {
+    "number": "26",
+    "authors_matched": [
+      "Labra, Patricia",
+      "Mayol, Luis",
+      "Cozzi, Ruggero"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 3.- Mecanismos colaborativos, autocompositivos y restaurativos de justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "27",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 3.- Mecanismos colaborativos, autocompositivos y restaurativos de justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "29",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 3.- Cesación de juezas y jueces. Las juezas y jueces cesan en sus cargos por alcanzar los setenta años de edad, por renuncia, por constatarse una incapacidad legal sobreviniente o por remoción.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 3"
+  },
+  {
+    "number": "30",
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid",
+      "Viera, Christian",
+      "Cruz, Andres"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 3 A.- Fuero. Las juezas y los jueces no podrán ser acusados o privados de libertad, salvo el caso de delito flagrante, si la Corte de Apelaciones correspondiente no declara admisible uno o más capítulos de la acusación respectiva. La resolución que se pronuncie sobre la querella de capítulos será apelable para ante la Corte Suprema. Encontrándose firme la resolución que acoge la querella, el procedimiento penal continuará de acuerdo a las reglas generales y la jueza o el juez quedará suspendido del ejercicio de sus funciones.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar el siguiente artículo nuevo"
+  },
+  {
+    "number": "31",
+    "authors_matched": [
+      "Labra, Patricia",
+      "Mayol, Luis",
+      "Cozzi, Ruggero"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 4.- Aplicación de la Constitución, los tratados internacionales y derecho indígena.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "32",
+    "authors_matched": [
+      "Bown, Carol",
+      "Hurtado, Ruth"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 4.- Aplicación de la Constitución, los tratados internacionales y derecho indígena.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "33",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 4.- Aplicación de la Constitución, los tratados internacionales y derecho indígena.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "39",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 4.- Autonomía financiera. El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se destinarán en la Ley de Presupuestos del Estado los fondos necesarios para su adecuado funcionamiento.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 4"
+  },
+  {
+    "number": "40",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 5.- Resoluciones judiciales.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "44",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 5.- Publicidad. Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 5"
+  },
+  {
+    "number": "45",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 6.- Separación de funciones en el sistema judicial.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "51",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 6.- Principio de proximidad e itinerancia. Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 6"
+  },
+  {
+    "number": "52",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "§ De los Tribunales",
+    "placement_instructions": ""
+  },
+  {
+    "number": "55",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 7,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 7.- De los tribunales. El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema. Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar el correcto ejercicio de sus funciones en conformidad a lo señalado en la Constitución y la ley.",
+    "content_to_remove": "Artículo 7.- Función Jurisdiccional. (Texto original)",
+    "placement_instructions": ""
+  },
+  {
+    "number": "59",
+    "authors_matched": [
+      "Bown, Carol",
+      "Hurtado, Ruth"
+    ],
+    "target_article": 7,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 7 A.- Órganos jurisdiccionales ordinarios.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "62",
+    "authors_matched": [
+      "Bown, Carol",
+      "Hurtado, Ruth"
+    ],
+    "target_article": 7,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 7 B.- Estructura orgánica del Sistema Nacional de Justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "64",
+    "authors_matched": [
+      "Jimenez, Luis"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX. Acceso a la justicia intercultural. Las personas indígenas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos. El Estado debe garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural. En sus resoluciones y razonamientos, los tribunales deberán considerar las costumbres, tradiciones, protocolos y el derecho propio de los pueblos y naciones.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”"
+  },
+  {
+    "number": "65",
+    "authors_matched": [
+      "Jimenez, Luis"
+    ],
+    "target_article": 10,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX. Tutela efectiva de los derechos de los pueblos y naciones indígenas. Las personas pertenecientes a pueblos y naciones indígenas tienen derecho a acceder a un proceso judicial en la justicia ordinaria, a la tutela efectiva de sus derechos, a la pronta resolución de los conflictos y a la reparación efectiva de los daños causados, con pleno respeto a sus prácticas, sistemas jurídicos propios y los derechos garantizados en esta Constitución y el Derecho Internacional de los Derechos Humanos.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”"
+  },
+  {
+    "number": "66",
+    "authors_matched": [
+      "Antilef, Victorino",
+      "Caiguan, Alexis",
+      "Linconao, Francisca"
+    ],
+    "target_article": 11,
+    "target_scope": "INCISO 1",
+    "action": "ADD",
+    "content": "Artículo xx: De los principios para la composición paritaria y plurinacional de los Tribunales del Sistema Nacional de Justicia. El Consejo Supremo de Justicia deberá asegurar que los nombramientos de juezas y jueces en los Tribunales del Sistema Nacional de Justicia se realizarán respetando los principios de paridad de género y de plurinacionalidad.",
+    "content_to_remove": "",
+    "placement_instructions": "adicionar un nuevo artículo bajo la numeración que corresponda"
+  },
+  {
+    "number": "67",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Epígrafes “§ De la Corte Suprema” y “§ Tribunal Supremo de Justicia”",
+    "placement_instructions": ""
+  },
+  {
+    "number": "72",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 8,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 8.- De la Corte Suprema. La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley. Se compone de veintiún juezas y jueces, elegidos conforme a criterios de paridad de género, plurinacionalidad y descentralización. Sus juezas y jueces duran en sus cargos un máximo de doce años sin posibilidad de reelección, pudiendo postular al término de dicho mandato a cualquier otro cargo del Sistema Nacional de Justicia distinto al de jueza o juez de la Corte Suprema. Funcionará en pleno o salas especializadas integradas por cinco juezas o jueces, de conformidad a lo dispuesto por la ley. La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.",
+    "content_to_remove": "Artículo 8.- Funciones y composición. (Texto original)",
+    "placement_instructions": ""
+  },
+  {
+    "number": "77",
+    "authors_matched": [
+      "Saldana, Alvin"
+    ],
+    "target_article": 8,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 8 A.- Funciones y composición.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "85",
+    "authors_matched": [
+      "Saldana, Alvin"
+    ],
+    "target_article": 8,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 8 B.- Funciones y composición.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "90",
+    "authors_matched": [
+      "Saldana, Alvin"
+    ],
+    "target_article": 8,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 8 C.- Corte Suprema.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "96",
+    "authors_matched": [
+      "Harboe, Felipe"
+    ],
+    "target_article": 8,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 8 D.- Tribunal Supremo de Justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "102",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 9.- Nombramiento.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "105",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 9 A.- Nombramiento de ministros y ministras.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "109",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 9 B.- Nombramientos.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "111",
+    "authors_matched": [
+      "Harboe, Felipe"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 9 C.- Nombramientos.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "115",
+    "authors_matched": [
+      "Labra, Patricia",
+      "Mayol, Luis",
+      "Cozzi, Ruggero"
+    ],
+    "target_article": 10,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 10.- Funcionamiento.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "118",
+    "authors_matched": [
+      "Bown, Carol",
+      "Hurtado, Ruth"
+    ],
+    "target_article": 10,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 10 A.- Funcionamiento del Tribunal Supremo de Justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "122",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 11.- Requisitos.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "124",
+    "authors_matched": [
+      "Harboe, Felipe"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 11 A.- Requisitos.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "128",
+    "authors_matched": [
+      "Harboe, Felipe"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 11 B.- Requisitos para ser juez del Tribunal Supremo de Justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "132",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Epígrafes “§ Cortes de Apelaciones” y “§ Tribunales de Apelaciones”",
+    "placement_instructions": ""
+  },
+  {
+    "number": "137",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 9.- De las Cortes de Apelaciones. Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley. Se componen por el número de juezas o jueces que determine la ley, con un mínimo de cuatro conforme a criterios de paridad de género, plurinacionalidad y descentralización. Funcionará en pleno, o en salas preferentemente especializadas integradas por tres juezas o jueces, de conformidad a lo dispuesto por la ley. La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años, sin posibilidad de ejercer nuevamente el cargo.",
+    "content_to_remove": "Artículo 12.- Cortes de Apelaciones. (Texto original)",
+    "placement_instructions": ""
+  },
+  {
+    "number": "143",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 12 A.- Los Tribunales de Apelaciones.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "147",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 13,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 13.- Funcionamiento de los Tribunales de Apelaciones.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "151",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 14,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 14.- Requisitos para ser juez de los Tribunales de Apelaciones.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "156",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Epígrafe “§ Tribunales de Instancia”",
+    "placement_instructions": ""
+  },
+  {
+    "number": "161",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 15,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 10.- De los Tribunales de Instancia. Son tribunales de instancia los civiles, penales, de ejecución de penas, de familia, laborales, administrativos, ambientales, de competencia común o mixtos, vecinales y demás que establezca la ley. La competencia de estos tribunales y el número de juezas o jueces que los integrarán serán determinados por la ley.",
+    "content_to_remove": "Artículo 15.- Tribunales de instancia. (Texto original)",
+    "placement_instructions": ""
+  },
+  {
+    "number": "167",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 15,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 15 A.- De los Tribunales de Instancia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "174",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 16,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 16.- De los Tribunales de Instancia Especiales.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "181",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 17,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 17.- Requisitos para ser Juez de un Tribunal de Instancia o Tribunal de Instancia Especial.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "188",
+    "authors_matched": [
+      "Cruz, Andres",
+      "Laibe, Tomas"
+    ],
+    "target_article": 18,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Artículo 18.- De los principios para la composición paritaria y plurinacional de los Tribunales del Sistema Nacional de Justicia.",
+    "placement_instructions": ""
+  },
+  {
+    "number": "194",
+    "authors_matched": [
+      "Harboe, Felipe"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "Epígrafe §“Justicia administrativa”",
+    "placement_instructions": ""
+  }
+]
