@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venvs/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# System
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment Variables
+.env
+.env.local
+.env.*
+
+# Project Specific
+# Exclude large PDFs if they are just raw sources and we have extracted JSONs
+# Identifying by extension to be safe, but allowing if explicit add is forced later
+*.pdf
+
+# Logs and Temp
+*.log
+temp/
+tmp/
