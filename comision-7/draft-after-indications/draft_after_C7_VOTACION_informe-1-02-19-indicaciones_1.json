@@ -1,7 +1,12 @@
 [
   {
     "original_id": "G-1",
-    "current_number": "Artículo 1",
+    "current_number": [
+      "Artículo 1",
+      "Artículo 1",
+      "Artículo 1",
+      "Artículo 3"
+    ],
     "status": "active",
     "final_content": "El Estado asegura el derecho de todas las personas y comunidades a participar libremente de los procesos de creación, desarrollo, transmisión, conservación y enriquecimiento de los diversos sistemas de conocimientos y sus aplicaciones, y a gozar de sus beneficios, sin discriminación arbitraria alguna y de forma equitativa y descentralizada. El Estado garantiza activamente la conservación, el desarrollo, la promoción, la difusión, las iniciativas de divulgación y la educación científica de los conocimientos y sus aplicaciones en diferentes contextos culturales, sociales y territoriales, poniendo especial atención a su acceso abierto y de calidad. La formulación de normas jurídicas, planes, proyectos, políticas y programas deberá considerar las mejores evidencias científicas y de otros sistemas de conocimientos pertinentes, que se encuentren disponibles.",
     "accumulated_authors": [
@@ -24,7 +29,9 @@
       "Royo, Manuela",
       "Vidal, Rossana",
       "Vargas, Margarita",
-      "Caamano, Francisco"
+      "Caamano, Francisco",
+      "Marinovic, Teresa",
+      "Ubilla, Maria Cecilia"
     ],
     "history": [
       {
@@ -56,6 +63,40 @@
         ],
         "source_ids": [
           "24-7"
+        ]
+      },
+      {
+        "step": indicacion-1,
+        "action": "modificate",
+        "content": "El Estado asegura..... (cambio) ... fin.",
+        "authors_involved": [
+          "Valenzuela, Paulina",
+          "Flores, Alejandra"
+        ],
+        "source_ids": [indicacion-1-03-17_1
+        ]
+      },
+      {
+        "step": indicacion-2,
+        "action": "substitute",
+        "content": "(New content)",
+        "authors_involved": [
+          "Marinovic, Teresa",
+          "Ubilla, Maria Cecilia"
+        ],
+        "source_ids": [indicacion-2-04-11_3
+        ]
+      },
+      {
+        "step": indicacion-2,
+        "action": "modificate",
+        "content": "change article number (1 --> 3)",
+        "authors_involved": [
+          "Caiguan, Alexis",
+          "Valenzuela, Paulina",
+          "Flores, Alejandra"
+        ],
+        "source_ids": [indicacion-3-04-12_1
         ]
       }
     ]
