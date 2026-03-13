@@ -4028,6 +4028,60 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 48.- La Presidencia y Vicepresidencia de la República durará cuatro años en el ejercicio de sus funciones, tras los cuales podrá ser reelegida o reelegido de forma inmediata o posterior, hasta una sola vez.",
+        "number": "527",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 48,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "La Presidencia y Vicepresidencia",
+        "content_to_remove": "La Presidenta o Presidente",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 48.- La Presidencia y Vicepresidencia de la República durará cuatro años en el ejercicio de sus funciones, tras los cuales podrán ser reelegidas o reelegidos conjunta o separadamente, de forma inmediata o posterior, hasta una sola vez.",
+        "number": "528",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 48,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "podrán ser reelegidas o reelegidos conjunta o separadamente,",
+        "content_to_remove": "podrá ser reelegida o reelegido",
+        "placement_instructions": "a continuación de la expresión “de sus funciones,”"
+      }
     ]
   },
   {
@@ -4047,6 +4101,112 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 49.- Serán impedimentos temporales para el ejercicio del cargo de Presidenta o Presidente de la República, la ausencia temporal del territorio nacional por un periodo mayor a treinta días sin la debida autorización del Congreso Plurinacional y el impedimento temporal que haya sido declarado por el Congreso Plurinacional. En caso de impedimento absoluto de ambas autoridades, asumirá la Presidencia de la República la Presidenta o Presidente del Congreso Plurinacional, hasta tanto sean convocadas nuevas elecciones dentro de los treinta días siguientes a la declaratoria del Congreso Plurinacional.",
+        "number": "530",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 49,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "para el ejercicio del cargo de Presidenta o Presidente de la República,",
+        "content_to_remove": "",
+        "placement_instructions": "entre las expresiones “temporales” y “la ausencia”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 49.- Serán impedimentos temporales para el ejercicio del cargo de Presidenta o Presidente de la República la enfermedad, la ausencia temporal del territorio nacional por un periodo mayor a treinta días sin la debida autorización del Congreso Plurinacional y el impedimento temporal que haya sido declarado por el Congreso Plurinacional. En caso de impedimento absoluto de ambas autoridades, asumirá la Presidencia de la República la Presidenta o Presidente del Congreso Plurinacional, hasta tanto sean convocadas nuevas elecciones dentro de los treinta días siguientes a la declaratoria del Congreso Plurinacional.",
+        "number": "531",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 49,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "la enfermedad,",
+        "content_to_remove": "",
+        "placement_instructions": "antes de la expresión “la ausencia”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 49.- Serán impedimentos temporales para el ejercicio del cargo de Presidenta o Presidente de la República la enfermedad, la ausencia temporal del territorio nacional por un periodo mayor a treinta días sin la debida autorización del Congreso Plurinacional u otro grave motivo declarado por el Congreso Plurinacional. En caso de impedimento absoluto de ambas autoridades, asumirá la Presidencia de la República la Presidenta o Presidente del Congreso Plurinacional, hasta tanto sean convocadas nuevas elecciones dentro de los treinta días siguientes a la declaratoria del Congreso Plurinacional.",
+        "number": "532",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 49,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "u otro grave motivo declarado",
+        "content_to_remove": "y el impedimento temporal que haya sido declarado",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 49.- Serán impedimentos temporales para el ejercicio del cargo de Presidenta o Presidente de la República la enfermedad, la ausencia temporal del territorio nacional por un periodo mayor a treinta días sin la debida autorización del Congreso Plurinacional u otro grave motivo declarado por el Congreso Plurinacional. Son impedimentos definitivos para el ejercicio del cargo de Presidenta o Presidente de la República la muerte, la dimisión debidamente aceptada por el Congreso Plurinacional y la condena por acusación constitucional, conforme a las reglas establecidas en esta Constitución. En caso de impedimento absoluto de ambas autoridades, asumirá la Presidencia de la República la Presidenta o Presidente del Congreso Plurinacional, hasta tanto sean convocadas nuevas elecciones dentro de los treinta días siguientes a la declaratoria del Congreso Plurinacional.",
+        "number": "533",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 49,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "“Son impedimentos definitivos para el ejercicio del cargo de Presidenta o Presidente de la República la muerte, la dimisión debidamente aceptada por el Congreso Plurinacional y la condena por acusación constitucional, conforme a las reglas establecidas en esta Constitución. En caso de impedimento absoluto de ambas autoridades, asumirá la Presidencia de la República la Presidenta o Presidente del Congreso Plurinacional, hasta tanto sean convocadas nuevas elecciones dentro de los treinta días siguientes a la declaratoria del Congreso Plurinacional.”",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -4066,6 +4226,280 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución. 7. Ejercer la iniciativa de ley en materia tributaria salvo las relacionadas con la base imponible y los hechos gravados, en materia de conflictos armados; y en materias de atención al desabastecimiento. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional, con asesoría del Consejo de Política Exterior y Defensa Nacional, de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "536",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "la Ministra o Ministro de Gobierno, a",
+        "content_to_remove": "",
+        "placement_instructions": "entre las frases “nombrar y remover a” y “Ministras y Ministros”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución. 7. Ejercer la iniciativa de ley en materia tributaria salvo las relacionadas con la base imponible y los hechos gravados, en materia de conflictos armados; y en materias de atención al desabastecimiento. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional, con asesoría del Consejo de Política Exterior y Defensa Nacional, de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "537",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Subsecretarias y Subsecretarios,",
+        "content_to_remove": "",
+        "placement_instructions": "a continuación de la expresión “Ministras y Ministros de Estado,”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución. 7. Ejercer la iniciativa de ley en materia tributaria salvo las relacionadas con la base imponible y los hechos gravados, en materia de conflictos armados; y en materias de atención al desabastecimiento. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional, con asesoría del Consejo de Política Exterior y Defensa Nacional, de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "538",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Subsecretarias y Subsecretarios",
+        "content_to_remove": "",
+        "placement_instructions": "entre la frase “Ministros de Estado,” y la frase “y a las demás funcionarias”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución. 7. Ejercer la iniciativa de ley en materia tributaria salvo las relacionadas con la base imponible y los hechos gravados, en materia de conflictos armados; y en materias de atención al desabastecimiento. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional, con asesoría del Consejo de Política Exterior y Defensa Nacional, de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "540",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella",
+        "content_to_remove": "",
+        "placement_instructions": "incorpora la frase en numeral 3"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 7. Ejercer la iniciativa de ley en materia tributaria salvo las relacionadas con la base imponible y los hechos gravados, en materia de conflictos armados; y en materias de atención al desabastecimiento. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional, con asesoría del Consejo de Política Exterior y Defensa Nacional, de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "543",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "y promulgarlas",
+        "content_to_remove": "",
+        "placement_instructions": "al final la frase (del numeral 6)"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional, con asesoría del Consejo de Política Exterior y Defensa Nacional, de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "545",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 50,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 7",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de orden y seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "553",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Barraza, Marcos"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "con asesoría del Consejo de Política Exterior y de Defensa Nacional",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de seguridad pública, y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "564",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "orden y",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de seguridad pública, remover y designar a los integrantes del alto mando policial. 19. Convocar referendos en los casos previstos en esta Constitución.",
+        "number": "565",
+        "authors_matched": [
+          "Arauna, Francisca"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "remover",
+        "content_to_remove": "",
+        "placement_instructions": "a continuación de “seguridad pública”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de seguridad pública, remover y designar a los integrantes del alto mando policial. 19. Convocar referendos, plebiscitos, consultas y nuevas elecciones de carácter nacional, en los casos previstos en esta Constitución.",
+        "number": "569",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "plebiscitos, consultas y nuevas elecciones de carácter nacional,",
+        "content_to_remove": "",
+        "placement_instructions": "a continuación de la palabra “referendos”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. 18. Ejercer la jefatura máxima de las fuerzas de seguridad pública, remover y designar a los integrantes del alto mando policial. 19. Convocar referendos, plebiscitos, consultas y nuevas elecciones de carácter nacional, en los casos previstos en esta Constitución. 21. Presentar anualmente al Congreso Plurinacional la ley de presupuestos.",
+        "number": "570",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 50,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "21. Presentar anualmente al Congreso Plurinacional la ley de presupuestos.",
+        "content_to_remove": "",
+        "placement_instructions": "añade un nuevo numeral"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. Cuidar la recaudación de las rentas públicas y formular los criterios orientadores de su inversión con acuerdo a la ley. El Presidente de la República, con la firma de todos los Ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, de agresión exterior, de conmoción interior, de grave daño o peligro para la seguridad nacional o del agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Los Ministros de Estado o funcionario que autoricen o den curso a gastos que contravengan lo dispuesto en este numeral serán responsables, solidaria y personalmente de su reintegro, y culpables del delito de malversación de caudales públicos. 18. Ejercer la jefatura máxima de las fuerzas de seguridad pública, remover y designar a los integrantes del alto mando policial. 19. Convocar referendos, plebiscitos, consultas y nuevas elecciones de carácter nacional, en los casos previstos en esta Constitución. 21. Presentar anualmente al Congreso Plurinacional la ley de presupuestos.",
+        "number": "572",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 50,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Cuidar la recaudación de las rentas públicas y formular los criterios orientadores de su inversión con acuerdo a la ley. El Presidente de la República, con la firma de todos los Ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, de agresión exterior, de conmoción interior, de grave daño o peligro para la seguridad nacional o del agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Los Ministros de Estado o funcionario que autoricen o den curso a gastos que contravengan lo dispuesto en este numeral serán responsables, solidaria y personalmente de su reintegro, y culpables del delito de malversación de caudales públicos.",
+        "content_to_remove": "",
+        "placement_instructions": "párrafo aditivo al número 17 del artículo"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 50.- Serán atribuciones del Presidente o Presidenta de la República: 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones. 2. Dirigir la administración del Estado. 3. Nombrar y remover a la Ministra o Ministro de Gobierno, a las Ministras y Ministros de Estado, Subsecretarias y Subsecretarios, y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella. 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, y nombrar y remover a Embajadoras y Embajadores, y jefas y jefes de misiones diplomáticas. 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley. 6. Concurrir a la formación de las leyes conforme a lo que establece esta Constitución y promulgarlas. 8. Dictar decretos con fuerza de ley, previa autorización del Congreso Plurinacional, por motivos de necesidad o urgencia, conforme lo que se establece en esta Constitución. 9. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley. 10. Ejercer la Jefatura Suprema de las Fuerzas Armadas permanentemente, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto. 11. Designar al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas, y conferir grados a oficiales generales, con acuerdo del Congreso Plurinacional. 12. Remover al Jefe del Estado Mayor Conjunto, a Comandantes en Jefe de las Fuerzas Armadas. 13. Proponer al Congreso Plurinacional la Política de Defensa Nacional de acuerdo a la ley. 14. Nombrar a la Contralora o Contralor General con acuerdo del Congreso Plurinacional. 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley. 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso y si los hechos por los cuales la persona fue condenada constituyen delitos de lesa humanidad, violaciones graves de los derechos humanos y los crímenes de guerra. 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. Cuidar la recaudación de las rentas públicas y formular los criterios orientadores de su inversión con acuerdo a la ley. El Presidente de la República, con la firma de todos los Ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, de agresión exterior, de conmoción interior, de grave daño o peligro para la seguridad nacional o del agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Los Ministros de Estado o funcionario que autoricen o den curso a gastos que contravengan lo dispuesto en este numeral serán responsables, solidaria y personalmente de su reintegro, y culpables del delito de malversación de caudales públicos. 18. Ejercer la jefatura máxima de las fuerzas de seguridad pública, remover y designar a los integrantes del alto mando policial. 19. Convocar referendos, plebiscitos, consultas y nuevas elecciones de carácter nacional, en los casos previstos en esta Constitución. 21. Presentar anualmente al Congreso Plurinacional la ley de presupuestos. 22. Pedir, indicando los motivos, que se cite a sesión especial al Congreso. En tal caso, la sesión deberá celebrarse a la brevedad posible.",
+        "number": "574",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 50,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Pedir, indicando los motivos, que se cite a sesión especial al Congreso. En tal caso, la sesión deberá celebrarse a la brevedad posible.",
+        "content_to_remove": "",
+        "placement_instructions": "incorpora un nuevo numeral"
+      }
     ]
   },
   {
@@ -4085,6 +4519,23 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 51.- La Vicepresidenta o Vicepresidente es parte integrante del poder ejecutivo.",
+        "number": "579",
+        "authors_matched": [
+          "Monckeberg, Cristian"
+        ],
+        "target_article": 51,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "coadyuva en la gestión de gobierno y administración del Estado",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -4104,6 +4555,34 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 52.- Para ser Vicepresidenta o Vicepresidente serán aplicables los mismos requisitos exigidos a la Presidenta o Presidente. Entre la Presidenta o Presidente de la República y la Vicepresidenta o Vicepresidente no pueden existir relaciones de parentesco hasta el tercer grado de afinidad o el cuarto grado de consanguinidad.",
+        "number": "582",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 52,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Entre la Presidenta o Presidente de la República y la Vicepresidenta o Vicepresidente no pueden existir relaciones de parentesco hasta el tercer grado de afinidad o el cuarto grado de consanguinidad.",
+        "content_to_remove": "",
+        "placement_instructions": "añade un nuevo inciso"
+      }
     ]
   },
   {
@@ -4123,7 +4602,235 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 3. Coordinar el gabinete de Ministras y Ministros. 4. Ejercer facultades administrativas de gobierno, de conformidad con esta Constitución y la ley. 5. Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "584",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 53,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "ausencias",
+        "content_to_remove": "faltas",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 4. Ejercer facultades administrativas de gobierno, de conformidad con esta Constitución y la ley. 5. Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "585",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 3",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 4. Ejercer facultades administrativas de gobierno, de conformidad con esta Constitución y la ley. 5. Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "586",
+        "authors_matched": [
+          "Monckeberg, Cristian"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 3",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 4. Ejercer facultades administrativas de gobierno, de conformidad con esta Constitución y la ley. 5. Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "587",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 3",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 5. Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "589",
+        "authors_matched": [
+          "Monckeberg, Cristian"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 4",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 5. Presidir y participar en las sesiones del Consejo Territorial, sin derecho a voto. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "590",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "5. Presidir y participar en las sesiones del Consejo Territorial, sin derecho a voto.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 5. Presidir y participar en las sesiones del Consejo Territorial, sin derecho a voto. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales, en los casos que éste determine. 7. Nombrar y remover Subsecretarias/os y otros funcionarios, exceptuando los que correspondan a la Presidenta o Presidente, de acuerdo con esta Constitución y la ley. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "593",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 53,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": ", en los casos que éste determine.",
+        "content_to_remove": "",
+        "placement_instructions": "añade en su parte final"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 5. Presidir y participar en las sesiones del Consejo Territorial, sin derecho a voto. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales, en los casos que éste determine. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "594",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 7",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 5. Presidir y participar en las sesiones del Consejo Territorial, sin derecho a voto. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales, en los casos que éste determine. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "595",
+        "authors_matched": [
+          "Monckeberg, Cristian"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 7",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 53.- La Vicepresidenta o Vicepresidente tendrá las siguientes atribuciones: 1. Asumir la conducción del ejecutivo, en caso de cesación en el cargo de la Presidenta o Presidente. 2. Suplir las ausencias temporales de la Presidenta o Presidente. 5. Presidir y participar en las sesiones del Consejo Territorial, sin derecho a voto. 6. Representar a la Presidenta o Presidente en actividades nacionales e internacionales, en los casos que éste determine. 8. Ejercer las funciones y atribuciones que le delegue la Presidenta o Presidente en el ámbito de su competencia.",
+        "number": "596",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Numeral 7",
+        "placement_instructions": ""
+      }
     ]
+  },
+  {
+    "article_uid": "C1-IND-CH02-ARTX53-54",
+    "article": "artículo X 53-54",
+    "text": "ARTÍCULO NUEVO. No podrá ser elegido Vicepresidente de la República: 1- Un ex Presidente de la República cuando la elección del Vicepresidente de la República sea para el período siguiente al suyo. 2- Los parientes dentro del tercer grado de consanguinidad o segundo de afinidad del Presidente de la República, para el período que sigue a aquel en el que el Presidente de la República hubiere ejercido el cargo. 3- El ciudadano que como Vicepresidente de la República hubiere ejercido el cargo de Presidente de la República. 4- Los parientes dentro del cuarto grado de consanguinidad y segundo de afinidad del ciudadano expresado en el numeral anterior para el período inmediatamente siguiente a aquel en que éste hubiere ejercido la Presidencia de la República. 5- Los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad del Presidente de la República.",
+    "number": "600",
+    "authors_matched": [
+      "Cubillos, Marcela",
+      "Hube, Constanza",
+      "Zuniga, Luis Arturo"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "ARTÍCULO NUEVO. No podrá ser elegido Vicepresidente de la República: 1- Un ex Presidente de la República cuando la elección del Vicepresidente de la República sea para el período siguiente al suyo. 2- Los parientes dentro del tercer grado de consanguinidad o segundo de afinidad del Presidente de la República, para el período que sigue a aquel en el que el Presidente de la República hubiere ejercido el cargo. 3- El ciudadano que como Vicepresidente de la República hubiere ejercido el cargo de Presidente de la República. 4- Los parientes dentro del cuarto grado de consanguinidad y segundo de afinidad del ciudadano expresado en el numeral anterior para el período inmediatamente siguiente a aquel en que éste hubiere ejercido la Presidencia de la República. 5- Los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad del Presidente de la República.",
+    "content_to_remove": "",
+    "placement_instructions": "incorpora el siguiente artículo nuevo"
   },
   {
     "article_uid": "C1-GEN-CH02-ART54",
@@ -4161,7 +4868,88 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 55.- Las Ministras y Ministros integran el Ejecutivo y colaboran directa e inmediatamente en la gestión de gobierno y administración del Estado. La ley determinará el número y organización de los Ministerios. La conformación del Gabinete deberá ser con respeto del principio de paridad.",
+        "number": "605",
+        "authors_matched": [
+          "Cubillos, Marcela",
+          "Hube, Constanza",
+          "Zuniga, Luis Arturo"
+        ],
+        "target_article": 55,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "colaboran directa e inmediatamente",
+        "content_to_remove": "coadyuvan",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 55.- Las Ministras y Ministros integran el Ejecutivo y colaboran directa e inmediatamente en la gestión de gobierno y administración del Estado. La ley determinará el número y organización de los Ministerios. El Gabinete será paritario y deberá orientarse por el principio de plurinacionalidad.",
+        "number": "607",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 55,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "El Gabinete será paritario y deberá orientarse por el principio de plurinacionalidad.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 55.- Las Ministras y Ministros integran el Ejecutivo y colaboran directa e inmediatamente en la gestión de gobierno y administración del Estado. La ley determinará el número y organización de los Ministerios. El Gabinete será paritario y deberá orientarse por el principio de plurinacionalidad. Al menos un ministro o ministra deberá pertenecer a un pueblo y nación indígena.",
+        "number": "608",
+        "authors_matched": [
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Arellano, Marco"
+        ],
+        "target_article": 55,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Al menos un ministro o ministra deberá pertenecer a un pueblo y nación indígena.",
+        "content_to_remove": "",
+        "placement_instructions": "en un carácter aditivo (a la segunda oración)"
+      }
     ]
+  },
+  {
+    "article_uid": "C1-GEN-CH02-ART55BIS",
+    "article": "Artículo 55 bis",
+    "text": "Artículo 55 bis: El Ministro o Ministra de Gobierno será nombrada por el o la Presidenta de la República de entre los diputados y diputadas y es la encargada de conducir las gestiones legislativas del Gobierno y de dirigir la ejecución de su programa de gobierno y legislativo. El Ministro o Ministra de Gobierno mantendrá sus derechos de voto en el Congreso mientras dure su mandato. Sin perjuicio de ello, deberá nombrar un delegado que ejerza a su nombre ese derecho y que participe de las sesiones y actividades del Congreso Plurinacional. El Ministro de Gobierno podrá siempre participar directamente de las sesiones del Congreso. Artículo 55 ter: A la Ministra o Ministro de Gobierno le corresponden las siguientes atribuciones: 1. Ejercer la coordinación política de los ministros de Estado. 2. Coordinar la relación política del Gobierno con el Congreso Plurinacional y con el Consejo Territorial. 3. Presentar, con acuerdo del Presidente o Presidenta, un programa legislativo de Gobierno al Congreso Plurinacional. La Ministra o Ministro de Gobierno podrá someter el programa a votación del Congreso Plurinacional. 4. Dar tramitación a un proyecto de ley solicitando al Congreso la aprobación de un voto de confianza por la mayoría de sus miembros. La Ministra o Ministro de Gobierno presentará su renuncia a la Presidenta o Presidente de la República si la ley no fuera aprobada por el Congreso en las condiciones que la Ministra o Ministro de Gobierno definiera como aceptables. 5. Presidir el Consejo de Gabinete, salvo en las situaciones en que la Presidenta o Presidente participe de éste.",
+    "timestamp": "03-17",
+    "step": "Indicacion",
+    "number": "613",
+    "authors_matched": [
+      "Atria, Fernando",
+      "Schonhaut, Constanza",
+      "Bassa, Jaime"
+    ],
+    "target_article": 55,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 55 bis: El Ministro o Ministra de Gobierno será nombrada por el o la Presidenta de la República de entre los diputados y diputadas y es la encargada de conducir las gestiones legislativas del Gobierno y de dirigir la ejecución de su programa de gobierno y legislativo. El Ministro o Ministra de Gobierno mantendrá sus derechos de voto en el Congreso mientras dure su mandato. Sin perjuicio de ello, deberá nombrar un delegado que ejerza a su nombre ese derecho y que participe de las sesiones y actividades del Congreso Plurinacional. El Ministro de Gobierno podrá siempre participar directamente de las sesiones del Congreso. Artículo 55 ter: A la Ministra o Ministro de Gobierno le corresponden las siguientes atribuciones: 1. Ejercer la coordinación política de los ministros de Estado. 2. Coordinar la relación política del Gobierno con el Congreso Plurinacional y con el Consejo Territorial. 3. Presentar, con acuerdo del Presidente o Presidenta, un programa legislativo de Gobierno al Congreso Plurinacional. La Ministra o Ministro de Gobierno podrá someter el programa a votación del Congreso Plurinacional. 4. Dar tramitación a un proyecto de ley solicitando al Congreso la aprobación de un voto de confianza por la mayoría de sus miembros. La Ministra o Ministro de Gobierno presentará su renuncia a la Presidenta o Presidente de la República si la ley no fuera aprobada por el Congreso en las condiciones que la Ministra o Ministro de Gobierno definiera como aceptables. 5. Presidir el Consejo de Gabinete, salvo en las situaciones en que la Presidenta o Presidente participe de éste.",
+    "content_to_remove": "",
+    "placement_instructions": "incorpora a continuación del artículo 55 los siguientes artículos"
   },
   {
     "article_uid": "C1-GEN-CH02-ART56",
@@ -4180,6 +4968,112 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 56.- Para ser nombrada Ministra o Ministro de Estado se requiere tener la nacionalidad chilena, tener cumplidos veintiún años de edad y cumplir con los requisitos generales para el ingreso a la administración pública. Los Ministros y Ministras se reemplazarán en caso de ausencia, impedimento o renuncia de acuerdo a lo que establece la ley.",
+        "number": "615",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 56,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "de Estado",
+        "content_to_remove": "",
+        "placement_instructions": "a continuación de la expresión “Ministra o Ministro”"
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 56.- Para ser nombrada Ministra o Ministro de Estado se requiere ser ciudadano con derecho a sufragio, tener cumplidos veintiún años de edad y cumplir con los requisitos generales para el ingreso a la administración pública. Los Ministros y Ministras se reemplazarán en caso de ausencia, impedimento o renuncia de acuerdo a lo que establece la ley.",
+        "number": "617",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 56,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "ser ciudadano con derecho a sufragio",
+        "content_to_remove": "tener la nacionalidad chilena",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 56.- Para ser nombrada Ministra o Ministro de Estado se requiere ser ciudadano con derecho a sufragio y cumplir con los requisitos generales para el ingreso a la administración pública. Los Ministros y Ministras se reemplazarán en caso de ausencia, impedimento o renuncia de acuerdo a lo que establece la ley.",
+        "number": "618",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 56,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ", tener cumplidos veintiún años de edad",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 56.- Para ser nombrada Ministra o Ministro de Estado se requiere ser ciudadano con derecho a sufragio y cumplir con los requisitos generales para el ingreso a la administración pública. Los Ministros y Ministras se reemplazarán en caso de ausencia, impedimento o renuncia o cuando por otra causa se produzca vacancia del cargo de acuerdo a lo que establece la ley.",
+        "number": "619",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 56,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "o cuando por otra causa se produzca vacancia del cargo,",
+        "content_to_remove": "",
+        "placement_instructions": "entre las expresiones “renuncia” y “de acuerdo a lo que establece la ley.”"
+      }
     ]
   },
   {
@@ -4199,6 +5093,23 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 57.- Los reglamentos y decretos de la Presidencia de la República deberán firmarse por el Ministro o Ministra respectivo y no serán obedecidos sin este esencial requisito. Los decretos e instrucciones podrán expedirse con la sola firma del Ministro o Ministra respectivo, por orden del Presidente o Presidenta de la República, en conformidad a las normas que al efecto establezca la ley.",
+        "number": "623",
+        "authors_matched": [
+          "Larrain, Hernan"
+        ],
+        "target_article": 57,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Los reglamentos y decretos de la Presidencia de la República deberán firmarse por el Ministro o Ministra respectivo y no serán obedecidos sin este esencial requisito. Los decretos e instrucciones podrán expedirse con la sola firma del Ministro o Ministra respectivo, por orden del Presidente o Presidenta de la República, en conformidad a las normas que al efecto establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -4218,7 +5129,61 @@
       "Gutierrez, Hugo",
       "Portilla, Ericka",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-17",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 58.- Las Ministras y Ministros de Estado son responsables directamente de la conducción de sus carteras respectivas. Las Ministras y Ministros serán responsables de los actos que firmen y solidariamente de los que suscriban o acuerden con los otros y otras Ministros.",
+        "number": "628",
+        "authors_matched": [
+          "Sepulveda, Carolina",
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Atria, Fernando",
+          "Hurtado, Maximiliano",
+          "Carrillo, Alondra",
+          "Flores, Alejandra",
+          "Politzer, Patricia",
+          "Chahin, Fuad",
+          "Namor, Guillermo"
+        ],
+        "target_article": 58,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Las Ministras y Ministros de Estado son responsables directamente de la conducción de sus carteras respectivas.",
+        "content_to_remove": "",
+        "placement_instructions": "añade al inicio del artículo"
+      }
     ]
+  },
+  {
+    "article_uid": "C1-IND03-17-CH02-ART59B",
+    "article": "Artículo 59.B",
+    "text": "Artículo 59.B. Asistencia de los Ministros. Los Ministros podrán, cuando lo estimen conveniente, asistir a las sesiones del Congreso Plurinacional y Consejo Territorial y tomar parte en sus debates, con preferencia para hacer uso de la palabra. Sin perjuicio de lo anterior, las Ministras y Ministros deberán concurrir personalmente a las sesiones especiales que convoque el Congreso para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.",
+    "number": "633",
+    "authors_matched": [
+      "Sepulveda, Carolina",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 0,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 59.B. Asistencia de los Ministros. Los Ministros podrán, cuando lo estimen conveniente, asistir a las sesiones del Congreso Plurinacional y Consejo Territorial y tomar parte en sus debates, con preferencia para hacer uso de la palabra. Sin perjuicio de lo anterior, las Ministras y Ministros deberán concurrir personalmente a las sesiones especiales que convoque el Congreso para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.",
+    "content_to_remove": "",
+    "placement_instructions": "añade un nuevo artículo"
   },
   {
     "article_uid": "C1-GEN-CH02-ART59",
