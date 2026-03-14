@@ -1,8 +1,25 @@
 [
   {
+    "article_uid": "C1-IND04-01-2-CH01-ART01",
+    "article": "Artículo 1",
+    "text": "El poder soberano radica en el pueblo y su ejercicio se organiza y ejerce a través de la democracia representativa, participativa y comunitaria.",
+    "number": "6",
+    "authors_matched": [
+      "Arellano, Marco",
+      "Madriaga, Tania",
+      "Perez, Alejandra"
+    ],
+    "target_article": 1,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Artículo x1. - El poder soberano radica en el pueblo y su ejercicio se organiza y ejerce a través de la democracia representativa, participativa y comunitaria.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo previo al artículo 1°"
+  },
+  {
     "article_uid": "C1-GEN-CH01-ART01",
     "article": "Artículo 1",
-    "text": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, incluyendo las organizaciones sociales, profesionales, económicas y políticas, tanto en la esfera pública como privada.",
+    "text": "Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, incluyendo las organizaciones sociales, profesionales, económicas y políticas, tanto en la esfera pública como privada.",
     "sources": [
       "116-1"
     ],
@@ -29,7 +46,7 @@
         "timestamp": "03-17",
         "step": "Indicacion",
         "number": "16",
-        "content_snapshot": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, incluyendo las organizaciones sociales, profesionales, económicas y políticas, tanto en la esfera pública como privada.",
+        "content_snapshot": "Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, incluyendo las organizaciones sociales, profesionales, económicas y políticas, tanto en la esfera pública como privada.",
         "authors_matched": [
           "Sepúlveda, Barbara",
           "Schonhaut, Constanza",
@@ -53,7 +70,7 @@
         "timestamp": "03-17",
         "step": "Indicacion",
         "number": "17",
-        "content_snapshot": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, incluyendo las organizaciones sociales, profesionales, económicas y políticas, tanto en la esfera pública como privada.",
+        "content_snapshot": "Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, incluyendo las organizaciones sociales, profesionales, económicas y políticas, tanto en la esfera pública como privada.",
         "authors_matched": [
           "Sepúlveda, Barbara",
           "Munoz, Pedro",
@@ -78,7 +95,7 @@
       {
         "timestamp": "03-17",
         "step": "Indicacion",
-        "content_snapshot": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, tanto en la esfera pública como privada.",
+        "content_snapshot": "Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, tanto en la esfera pública como privada.",
         "number": "18",
         "authors_matched": [
           "Sepúlveda, Barbara",
@@ -102,7 +119,7 @@
       {
         "timestamp": "03-17",
         "step": "Indicacion",
-        "content_snapshot": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, tanto en la esfera pública como privada.",
+        "content_snapshot": "Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexogénericas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todas las instituciones y órganos del Estado deberán tener una integración paritaria, asegurando que al menos un cincuenta por ciento de su composición sean mujeres, y garantizarán la representación efectiva de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todo ámbito de la sociedad civil, tanto en la esfera pública como privada.",
         "number": "19",
         "authors_matched": [
           "Sepúlveda, Barbara",
@@ -121,6 +138,37 @@
         "action": "DELETE",
         "content": "",
         "content_to_remove": "incluyendo las organizaciones sociales, profesionales, económicas y políticas,",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-01-2",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexuales y de género participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todos los órganos del Estado deberán tener una composición paritaria, asegurando que al menos el cincuenta por ciento de sus integrantes sean mujeres, y garantizarán la representación de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todos los espacios, tanto en la esfera pública como privada.",
+        "number": "7",
+        "authors_matched": [
+          "Sepúlveda, Barbara",
+          "Schonhaut, Constanza",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Miranda, Valentina",
+          "Villena, Ingrid",
+          "Serey, Mariela",
+          "Sepúlveda, Carolina",
+          "Delgado, Aurora",
+          "Hoppe, Vanessa",
+          "Flores, Alejandra",
+          "Abarca, Damaris",
+          "Reyes, Maria Ramona",
+          "Videla, Carolina",
+          "Pustilnick, Tammy",
+          "Politzer, Patricia"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexuales y de género participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todos los órganos del Estado deberán tener una composición paritaria, asegurando que al menos el cincuenta por ciento de sus integrantes sean mujeres, y garantizarán la representación de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todos los espacios, tanto en la esfera pública como privada.",
+        "content_to_remove": "",
         "placement_instructions": ""
       }
     ]
@@ -149,6 +197,38 @@
       "Politzer, Patricia",
       "Villena, Ingrid",
       "Catrileo, Rosa"
+    ],
+    "history": [
+      {
+        "timestamp": "04-01-2",
+        "step": "Indicacion",
+        "content_snapshot": "Artículo 2°.- Los poderes públicos adoptarán las medidas necesarias para adecuar e impulsar la legislación, instituciones, marcos normativos y prestación de servicios al logro de la igualdad sustantiva y la paridad. Con ese objetivo, el poder ejecutivo, legislativo y judicial, así como los órganos de la administración del Estado y los órganos autónomos, deberán incorporar el enfoque de género en su diseño institucional y en el ejercicio de sus funciones. La política fiscal y el diseño de los presupuestos públicos se adecuarán al cumplimiento de un enfoque transversal de igualdad sustantiva de género en las políticas públicas.",
+        "number": "10",
+        "authors_matched": [
+          "Sepúlveda, Barbara",
+          "Schonhaut, Constanza",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Miranda, Valentina",
+          "Villena, Ingrid",
+          "Serey, Mariela",
+          "Sepúlveda, Carolina",
+          "Delgado, Aurora",
+          "Hoppe, Vanessa",
+          "Flores, Alejandra",
+          "Abarca, Damaris",
+          "Reyes, Maria Ramona",
+          "Videla, Carolina",
+          "Pustilnick, Tammy",
+          "Politzer, Patricia"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2 °.- Los poderes públicos adoptarán las medidas necesarias para adecuar e impulsar la legislación, instituciones, marcos normativos y prestación de servicios al logro de la igualdad sustantiva y la paridad. Para asegurar ese objetivo, el poder ejecutivo, legislativo y los sistemas de justicia, así como los órganos de la administración del Estado y los órganos autónomos, deberán incorporar el enfoque de género en su diseño institucional y en el ejercicio de sus funciones. La política fiscal y el diseño de los presupuestos públicos se adecuarán al cumplimiento de un enfoque transversal de igualdad sustantiva de género en las políticas públicas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -6474,6 +6554,37 @@
       "Namor, Guillermo"
     ],
     "target_article": 73,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "De la presentación de candidaturas. Las organizaciones políticas o las coaliciones que entre ellas formen, podrán presentar a militantes, adherentes o personas no afiliadas como candidatos o candidatas de elección popular. Los movimientos político-sociales sólo podrán presentar candidaturas en aquellos niveles territoriales en que se encuentren legalmente constituidos. Al solicitar la inscripción de candidaturas, las organizaciones políticas o las coaliciones que ellas formen, deberán presentar el programa político que orientará su actividad política.",
+    "content_to_remove": "",
+    "placement_instructions": "añade un nuevo artículo del siguiente tenor"
+  },
+  {
+    "titleuid": "C1-IND04-01-2-CHX-TITX",
+    "article": "Del Poder Legislativo",
+    "timestamp": "04-01-2",
+    "number": "4",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Namor, Guillermo",
+      "Bassa, Jaime",
+      "Madriaga, Tania",
+      "Arellano, Marco",
+      "Perez, Alejandra",
+      "Barraza, Marcos",
+      "Catrileo, Rosa"
+    ],
+    "target_article": 0,
     "target_scope": "TOTAL",
     "action": "ADD",
     "content": "De la presentación de candidaturas. Las organizaciones políticas o las coaliciones que entre ellas formen, podrán presentar a militantes, adherentes o personas no afiliadas como candidatos o candidatas de elección popular. Los movimientos político-sociales sólo podrán presentar candidaturas en aquellos niveles territoriales en que se encuentren legalmente constituidos. Al solicitar la inscripción de candidaturas, las organizaciones políticas o las coaliciones que ellas formen, deberán presentar el programa político que orientará su actividad política.",
