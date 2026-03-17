@@ -180,6 +180,27 @@
         "content": "Artículo 1°.- Democracia paritaria. El Estado de Chile se funda en una democracia paritaria, reconociendo y promoviendo una sociedad en la cual mujeres, hombres, y diversidades y disidencias sexuales y de género participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todos los órganos del Estado deberán tener una composición paritaria, asegurando que al menos el cincuenta por ciento de sus integrantes sean mujeres, y garantizarán la representación de identidades trans y no binarias. Asimismo, el Estado promoverá e implementará medidas necesarias para la participación paritaria en todos los espacios, tanto en la esfera pública como privada.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-30-2",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "Democracia paritaria. El Estado reconoce y promueve una sociedad en la que mujeres, hombres, diversidades y disidencias sexogenéricas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todos los órganos colegiados del Estado, los órganos autónomos constitucionales y los órganos superiores y directivos de la Administración, así como los directorios de las empresas públicas y semipúblicas, deberán tener una composición paritaria que asegure que, al menos, el cincuenta por ciento de sus integrantes sean mujeres. Asimismo, el Estado adoptará medidas para la representación de diversidades y disidencias de género a través del mecanismo que establezca la ley. El Estado promoverá la integración paritaria en sus instituciones y en todos los espacios públicos y privados.",
+        "number": 1,
+        "authors_matched": [
+          "Carrillo, Alondra",
+          "Sepulveda, Barbara",
+          "Arauna, Francisca",
+          "Schonhaut, Constanza",
+          "Politzer, Patricia",
+          "Pustilnick, Tammy"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2°.- Democracia paritaria. El Estado reconoce y promueve una sociedad en la que mujeres, hombres, diversidades y disidencias sexogenéricas participen en condiciones de igualdad sustantiva, reconociendo que su representación efectiva en el conjunto del proceso democrático es un principio y condición mínima para el ejercicio pleno y sustantivo de la democracia y la ciudadanía. Todos los órganos colegiados del Estado, los órganos autónomos constitucionales y los órganos superiores y directivos de la Administración, así como los directorios de las empresas públicas y semipúblicas, deberán tener una composición paritaria que asegure que, al menos, el cincuenta por ciento de sus integrantes sean mujeres. Asimismo, el Estado adoptará medidas para la representación de diversidades y disidencias de género a través del mecanismo que establezca la ley. El Estado promoverá la integración paritaria en sus instituciones y en todos los espacios públicos y privados.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ],
     "final_status": "similar a 1.- Artículo 2°.-"
@@ -1067,6 +1088,64 @@
     "final_status": "similar a 6.- Artículo 5°.-"
   },
   {
+    "titleuid": "C1-GEN-CH03-TIT1",
+    "title": "Del Congreso Plurinacional",
+    "timestamp": "03-17",
+    "history": [
+      {
+        "timestamp": "04-30-2",
+        "title": "Del Poder Legislativo",
+        "number": 3,
+        "authors_matched": [
+          "Schonhaut, Constanza",
+          "Bassa, Jaime",
+          "Atria, Fernando"
+        ],
+        "target_article": null,
+        "target_scope": "TOTAL",
+        "action": "ADD",
+        "content": "Del poder legislativo",
+        "content_to_remove": "",
+        "placement_instructions": "repone el título del capítulo"
+      }
+    ]
+  },
+  {
+    "article_uid": "C1-IND04-30-CH03-ART5bis",
+    "article": "Artículo 5bis",
+    "timestamp": "04-30-2",
+    "text": "Del Poder Legislativo. El poder legislativo se compone del Congreso de Diputadas y Diputados y la Cámara de las Regiones.",
+    "number": 5,
+    "authors_matched": [
+      "Chahin, Fuad",
+      "Garin, Renato",
+      "Harboe, Felipe"
+    ],
+    "target_article": null,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo X.- Del Poder Legislativo. El poder legislativo se compone del Congreso de Diputadas y Diputados y la Cámara de las Regiones.",
+    "content_to_remove": "",
+    "placement_instructions": "agrega el siguiente artículo"
+  },
+  {
+    "titleuid": "C1-IND04-30-2-CH03-TIT2",
+    "title": "Del Congreso de Diputadas y Diputados",
+    "timestamp": "04-30-2",
+    "number": 4,
+    "authors_matched": [
+      "Schonhaut, Constanza",
+      "Bassa, Jaime",
+      "Atria, Fernando"
+    ],
+    "target_article": null,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Del Congreso de Diputadas y Diputados",
+    "content_to_remove": "",
+    "placement_instructions": "repone el epígrafe"
+  },
+  {
     "article_uid": "C1-GEN-CH02-ART08",
     "article": "Artículo 8",
     "text": "El ejercicio del derecho a la libre determinación de los pueblos y naciones indígenas, como titulares de derechos colectivos diferenciados que forman parte del Estado Plurinacional, incluye el reconocimiento constitucional, ratificación e implementación de los tratados, acuerdos y otros arreglos constructivos, que hayan sido acordados por los pueblos indígenas con el Estado o sus antecesores jurídicos y el derecho de proponer y negociar otros nuevos.",
@@ -1418,6 +1497,23 @@
       }
     ],
     "final_status": "No hay similitud con algún artículo final"
+  },
+  {
+    "titleuid": "C1-IND04-30-2-CH03-TIT3",
+    "timestamp": "04-30-2",
+    "title": "De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones",
+    "number": 28,
+    "authors_matched": [
+      "Schonhaut, Constanza",
+      "Bassa, Jaime",
+      "Atria, Fernando"
+    ],
+    "target_article": null,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones",
+    "content_to_remove": "",
+    "placement_instructions": "repone el epígrafe"
   },
   {
     "article_uid": "C1-GEN-CH03-ART12",
@@ -8910,7 +9006,96 @@
     "action": "ADD",
     "content": "Corresponde al Presidente o Presidenta de la República la atribución de negociar, concluir, firmar y ratificar los tratados internacionales. En aquellos casos en que los tratados internacionales se refieran a materias de ley, ellos deberán ser aprobados por el Poder Legislativo. No requerirán esta aprobación los celebrados en cumplimiento de una ley. Se informará al Poder Legislativo de la celebración de los tratados internacionales que no requieran de su aprobación. El proceso de aprobación de un tratado internacional se someterá, en lo pertinente, a los trámites de una ley de acuerdo regional. La Presidenta o Presidente de la República enviará el proyecto al Congreso de las Diputadas y Diputados e informará sobre el proceso de negociación, el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formular. Una vez recibido, el Congreso de Diputadas y Diputados podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional. Aprobado el tratado por el Congreso de las Diputadas y Diputados, éste será remitido a la Cámara de las Regiones para su tramitación como ley de acuerdo regional. Las medidas que el Ejecutivo adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor, no requerirán de nueva aprobación del Poder Legislativo, a menos que se trate de materias de ley. El acuerdo aprobatorio de un tratado podrá autorizar a la Presidenta o Presidente de la República a fin de que, durante la vigencia del tratado, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, sujeto a las limitaciones previstas en el inciso segundo del artículo 25. Será necesario el acuerdo del Poder Legislativo para el retiro o denuncia de un tratado que haya aprobado, y para el retiro de una reserva que haya considerado al aprobarlo. La ley fijará el plazo para su pronunciamiento. Serán públicos, conforme a las reglas generales, los hechos que digan relación con el tratado internacional, incluidas las negociaciones del mismo, su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia o retiro del tratado, la suspensión, la terminación y la nulidad del mismo.",
     "content_to_remove": "",
-    "placement_instructions": "incorpora un artículo nuevo"
+    "placement_instructions": "incorpora un artículo nuevo",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 21",
+        "content_snapshot": "Corresponde a la Presidenta o Presidente de la República la atribución de negociar, concluir, firmar y ratificar los tratados internacionales. En aquellos casos en que los tratados internacionales se refieran a materias de ley, ellos deberán ser aprobados por el Poder Legislativo. No requerirán esta aprobación los celebrados en cumplimiento de una ley. Se informará al Poder Legislativo de la celebración de los tratados internacionales que no requieran de su aprobación. El proceso de aprobación de un tratado internacional se someterá, en lo pertinente, a los trámites de una ley de acuerdo regional. La Presidenta o Presidente de la República enviará el proyecto al Congreso de Diputadas y Diputados e informará sobre el proceso de negociación, el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formular. Una vez recibido, el Congreso de Diputadas y Diputados podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional. Aprobado el tratado por el Congreso de Diputadas y Diputados, éste será remitido a la Cámara de las Regiones para su tramitación como ley de acuerdo regional. Las medidas que el Ejecutivo adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor, no requerirán de nueva aprobación del Poder Legislativo, a menos que se trate de materias de ley. El acuerdo aprobatorio de un tratado podrá autorizar a la Presidenta o Presidente de la República a fin de que, durante la vigencia del tratado, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, sujeto a las limitaciones previstas en el inciso segundo del artículo 25. Será necesario el acuerdo del Poder Legislativo para el retiro o denuncia de un tratado que haya aprobado y para el retiro de una reserva que haya considerado al aprobarlo. La ley fijará el plazo para su pronunciamiento. Serán públicos, conforme a las reglas generales, los hechos que digan relación con el tratado internacional, incluidas las negociaciones del mismo, su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia o retiro del tratado, la suspensión, la terminación y la nulidad del mismo.",
+        "number": "63",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Corresponde a la Presidenta o Presidente de la República la atribución de negociar, concluir, firmar y ratificar los tratados internacionales. En aquellos casos en que los tratados internacionales se refieran a materias de ley, ellos deberán ser aprobados por el Poder Legislativo. No requerirán esta aprobación los celebrados en cumplimiento de una ley. Se informará al Poder Legislativo de la celebración de los tratados internacionales que no requieran de su aprobación. El proceso de aprobación de un tratado internacional se someterá, en lo pertinente, a los trámites de una ley de acuerdo regional. La Presidenta o Presidente de la República enviará el proyecto al Congreso de Diputadas y Diputados e informará sobre el proceso de negociación, el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formular. Una vez recibido, el Congreso de Diputadas y Diputados podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional. Aprobado el tratado por el Congreso de Diputadas y Diputados, éste será remitido a la Cámara de las Regiones para su tramitación como ley de acuerdo regional. Las medidas que el Ejecutivo adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor, no requerirán de nueva aprobación del Poder Legislativo, a menos que se trate de materias de ley. El acuerdo aprobatorio de un tratado podrá autorizar a la Presidenta o Presidente de la República a fin de que, durante la vigencia del tratado, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, sujeto a las limitaciones previstas en el inciso segundo del artículo 25. Será necesario el acuerdo del Poder Legislativo para el retiro o denuncia de un tratado que haya aprobado y para el retiro de una reserva que haya considerado al aprobarlo. La ley fijará el plazo para su pronunciamiento. Serán públicos, conforme a las reglas generales, los hechos que digan relación con el tratado internacional, incluidas las negociaciones del mismo, su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia o retiro del tratado, la suspensión, la terminación y la nulidad del mismo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 21",
+        "content_snapshot": "Corresponde a la Presidenta o Presidente de la República la atribución de negociar, concluir, firmar y ratificar los tratados internacionales. En aquellos casos en que los tratados internacionales se refieran a materias de ley, ellos deberán ser aprobados por el Poder Legislativo. No requerirán esta aprobación los celebrados en cumplimiento de una ley. Se informará al Poder Legislativo de la celebración de los tratados internacionales que no requieran de su aprobación. El proceso de aprobación de un tratado internacional se someterá, en lo pertinente, a los trámites de una ley de acuerdo regional. La Presidenta o Presidente de la República enviará el proyecto al Congreso de Diputadas y Diputados e informará sobre el proceso de negociación, el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formular. Una vez recibido, el Congreso de Diputadas y Diputados podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional. Aprobado el tratado por el Congreso de Diputadas y Diputados, éste será remitido a la Cámara de las Regiones para su tramitación como ley de acuerdo regional. Las medidas que el Ejecutivo adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor, no requerirán de nueva aprobación del Poder Legislativo, a menos que se trate de materias de ley. El acuerdo aprobatorio de un tratado podrá autorizar a la Presidenta o Presidente de la República a fin de que, durante la vigencia del tratado, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, sujeto a las limitaciones previstas en el inciso segundo del artículo 25. Será necesario el acuerdo del Poder Legislativo para el retiro o denuncia de un tratado que haya aprobado y para el retiro de una reserva que haya considerado al aprobarlo. La ley fijará el plazo para su pronunciamiento. Serán públicos, conforme a las reglas generales, los hechos que digan relación con el tratado internacional, incluidas las negociaciones del mismo, su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia o retiro del tratado, la suspensión, la terminación y la nulidad del mismo. Los y las habitantes del territorio que hayan cumplido los dieciséis años de edad, en el porcentaje, y de acuerdo a los demás requisitos que defina la ley, tendrán iniciativa para solicitar al Presidente o Presidenta de la República la suscripción de tratados internacionales de derechos humanos. Asimismo, la ley definirá el plazo dentro del cual el o la Presidenta deberá dar respuesta a la referida solicitud.",
+        "number": "65",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 21,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Los y las habitantes del territorio que hayan cumplido los dieciséis años de edad, en el porcentaje, y de acuerdo a los demás requisitos que defina la ley, tendrán iniciativa para solicitar al Presidente o Presidenta de la República la suscripción de tratados internacionales de derechos humanos. Asimismo, la ley definirá el plazo dentro del cual el o la Presidenta deberá dar respuesta a la referida solicitud.",
+        "content_to_remove": "",
+        "placement_instructions": "agrega un nuevo inciso"
+      },
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 21",
+        "content_snapshot": "Corresponde a la Presidenta o Presidente de la República la atribución de negociar, concluir, firmar y ratificar los tratados internacionales. En aquellos casos en que los tratados internacionales se refieran a materias de ley, ellos deberán ser aprobados por el Poder Legislativo. No requerirán esta aprobación los celebrados en cumplimiento de una ley. Se informará al Poder Legislativo de la celebración de los tratados internacionales que no requieran de su aprobación. El proceso de aprobación de un tratado internacional se someterá, en lo pertinente, a los trámites de una ley de acuerdo regional. La Presidenta o Presidente de la República enviará el proyecto al Congreso de Diputadas y Diputados e informará sobre el proceso de negociación, el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formular. Una vez recibido, el Congreso de Diputadas y Diputados podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional. Aprobado el tratado por el Congreso de Diputadas y Diputados, éste será remitido a la Cámara de las Regiones para su tramitación como ley de acuerdo regional. Las medidas que el Ejecutivo adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor, no requerirán de nueva aprobación del Poder Legislativo, a menos que se trate de materias de ley. El acuerdo aprobatorio de un tratado podrá autorizar a la Presidenta o Presidente de la República a fin de que, durante la vigencia del tratado, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, sujeto a las limitaciones previstas en el inciso segundo del artículo 25. Será necesario el acuerdo del Poder Legislativo para el retiro o denuncia de un tratado que haya aprobado y para el retiro de una reserva que haya considerado al aprobarlo. La ley fijará el plazo para su pronunciamiento. Serán públicos, conforme a las reglas generales, los hechos que digan relación con el tratado internacional, incluidas las negociaciones del mismo, su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia o retiro del tratado, la suspensión, la terminación y la nulidad del mismo. Los y las habitantes del territorio que hayan cumplido los dieciséis años de edad, en el porcentaje, y de acuerdo a los demás requisitos que defina la ley, tendrán iniciativa para solicitar al Presidente o Presidenta de la República la suscripción de tratados internacionales de derechos humanos. Asimismo, la ley definirá el plazo dentro del cual el o la Presidenta deberá dar respuesta a la referida solicitud. Al negociar los tratados o instrumentos internacionales de inversión o similares, la o el Presidente de la República procurará que las instancias de resolución de controversias sean, preferentemente, permanentes, imparciales e independientes.",
+        "number": "66",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 21,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Al negociar los tratados o instrumentos internacionales de inversión o similares, la o el Presidente de la República procurará que las instancias de resolución de controversias sean, preferentemente, permanentes, imparciales e independientes",
+        "content_to_remove": "",
+        "placement_instructions": "agrega un nuevo inciso"
+      }
+    ]
   },
   {
     "article_uid": "C1-GEN-CH*-ART18",
@@ -8947,6 +9132,64 @@
         "content": "Estados de excepción constitucional. Sólo se podrá suspender o limitar el ejercicio de los derechos y garantías que la Constitución asegura a todas las personas bajo las siguientes situaciones de excepción: conflicto armado internacional, conflicto armado interno en los términos de los Convenios de Ginebra de 1949, o calamidad pública. No podrán restringirse o suspenderse sino los derechos y garantías expresamente señalados en esta Constitución. La declaración y renovación de los estados de excepción constitucional respetará los principios de proporcionalidad y necesidad, y se limitarán, tanto respecto de su duración, extensión, y medios empleados, a lo que sea estrictamente necesario para la más pronta restauración de la normalidad constitucional.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 22",
+        "timestamp": "04-30-1",
+        "content_snapshot": "Estados de excepción constitucional. Sólo se podrá suspender o limitar el ejercicio de los derechos y garantías que la Constitución asegura a todas las personas bajo las siguientes situaciones de excepción: conflicto armado internacional, conflicto armado interno según establece el derecho internacional o calamidad pública. No podrán restringirse o suspenderse sino los derechos y garantías expresamente señalados en esta Constitución. La declaración y renovación de los estados de excepción constitucional respetará los principios de proporcionalidad y necesidad, y se limitarán, tanto respecto de su duración, extensión, y medios empleados, a lo que sea estrictamente necesario para la más pronta restauración de la normalidad constitucional.",
+        "number": "87",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 22,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Estados de excepción constitucional. Sólo se podrá suspender o limitar el ejercicio de los derechos y garantías que la Constitución asegura a todas las personas bajo las siguientes situaciones de excepción: conflicto armado internacional, conflicto armado interno según establece el derecho internacional o calamidad pública. No podrán restringirse o suspenderse sino los derechos y garantías expresamente señalados en esta Constitución.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 22",
+        "timestamp": "04-30-1",
+        "content_snapshot": "Estados de excepción constitucional. Sólo se podrá suspender o limitar el ejercicio de los derechos y garantías que la Constitución asegura a todas las personas bajo las siguientes situaciones de excepción: conflicto armado internacional, conflicto armado interno según establece el derecho internacional o calamidad pública. No podrán restringirse o suspenderse sino los derechos y garantías expresamente señalados en esta Constitución. La declaración y renovación de los estados de excepción constitucional respetará los principios de proporcionalidad y necesidad, y se limitarán, tanto respecto de su duración, extensión y medios empleados, a lo que sea estrictamente necesario para la más pronta restauración de la normalidad constitucional.",
+        "number": "88",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 22,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "La declaración y renovación de los estados de excepción constitucional respetará los principios de proporcionalidad y necesidad, y se limitarán, tanto respecto de su duración, extensión y medios empleados, a lo que sea estrictamente necesario para la más pronta restauración de la normalidad constitucional",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -8976,7 +9219,13 @@
     "action": "ADD",
     "content": "Estado de asamblea y estado de sitio. El estado de asamblea, en caso de conflicto armado internacional, y el estado de sitio, en caso de conflicto armado interno, serán declarados por la Presidenta o Presidente de la República con la autorización del Congreso de Diputadas y Diputados. La declaración deberá determinar las zonas afectadas por el estado de excepción correspondiente. El Congreso de Diputadas y Diputados, dentro del plazo de 24 horas contadas desde el momento en que la Presidenta o Presidente de la República someta la declaración de estado de asamblea o de sitio a su consideración, deberá pronunciarse por la mayoría de sus miembros aceptando o rechazando la proposición. En su solicitud y posterior declaración, se deberán especificar los fundamentos que justifiquen la extrema necesidad de la declaración, pudiendo el Congreso solamente introducir modificaciones respecto de su extensión territorial. Si el Congreso no se pronunciara dentro de dicho plazo, será citado por el solo ministerio de la Constitución a sesiones especiales diarias, hasta que se pronuncie sobre la declaración. Sin embargo, la Presidenta o Presidente de la República, en circunstancias de necesidad impostergable, y sólo con la firma de todos sus Ministros y Ministras, podrá aplicar de inmediato el estado de asamblea o de sitio, mientras el Congreso de Diputadas y Diputados se pronuncie sobre la declaración. En este caso, sólo podrá restringir el ejercicio del derecho de reunión. La declaración de estado de sitio sólo podrá extenderse por un plazo de quince días, sin perjuicio de que la Presidenta o Presidente de la República solicite su prórroga, para lo cual requerirá el pronunciamiento conforme de cuatro séptimos de las y los diputados en ejercicio para la primera prórroga, de tres quintos para la segunda y de dos tercios para la tercera y siguientes. El estado de asamblea mantendrá su vigencia por el tiempo que se extienda la situación de conflicto armado internacional, salvo que la Presidenta o Presidente de la República disponga su término con anterioridad, o el Congreso de Diputadas y Diputados retire su autorización.",
     "content_to_remove": "",
-    "placement_instructions": "nuevo artículo 18 bis"
+    "placement_instructions": "nuevo artículo 18 bis",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 23"
+      }
+    ]
   },
   {
     "article_uid": "C1-IND04-18-CH*-ART18ter",
@@ -9004,7 +9253,42 @@
     "action": "ADD",
     "content": "Estado de catástrofe. El estado de catástrofe, en caso de calamidad pública, lo declarará la Presidenta o Presidente de la República. La declaración deberá establecer el ámbito de aplicación y el plazo de duración, el que no podrá ser mayor a 30 días. La Presidenta o Presidente de la República estará obligado a informar al Congreso de Diputadas y Diputados de las medidas adoptadas en virtud del estado de catástrofe. La Presidenta o Presidente de la República sólo podrá declarar el estado de catástrofe por un período superior a 30 días con acuerdo del Congreso de Diputadas y Diputados. El referido acuerdo se tramitará en la forma establecida en el inciso segundo del artículo 18 bis. Declarado el estado de catástrofe, las zonas respectivas quedarán bajo la dependencia inmediata del Jefe o Jefa de Estado de Excepción, quien deberá ser una autoridad civil designada por la Presidenta o Presidente de la República. Ésta asumirá la dirección y supervigilancia de su jurisdicción con las atribuciones y deberes que la ley señale.",
     "content_to_remove": "",
-    "placement_instructions": "nuevo artículo 18 ter"
+    "placement_instructions": "nuevo artículo 18 ter",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 24"
+      }
+    ]
+  },
+  {
+    "article_uid": "C1-IND04-30-CH*-ART24bis",
+    "article": "Artículo 24 bis",
+    "text": "La Presidenta o Presidente de la República podrá solicitar la prórroga del estado de catástrofe, para lo cual requerirá la aprobación de la mayoría de los integrantes del Congreso de Diputadas y Diputados y la Cámara de las Regiones, quienes resolverán en sesión conjunta",
+    "number": "94",
+    "authors_matched": [
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Hurtado, Maximiliano",
+      "Politzer, Patricia",
+      "Namor, Guillermo",
+      "Bassa, Jaime",
+      "Arellano, Marco",
+      "Madriaga, Tania",
+      "Perez, Alejandra",
+      "Catrileo, Rosa",
+      "Carrillo, Alondra",
+      "Arauna, Francisca",
+      "Sepulveda, Barbara",
+      "Barraza, Marcos",
+      "Schonhaut, Constanza"
+    ],
+    "target_article": 24,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "La Presidenta o Presidente de la República podrá solicitar la prórroga del estado de catástrofe, para lo cual requerirá la aprobación de la mayoría de los integrantes del Congreso de Diputadas y Diputados y la Cámara de las Regiones, quienes resolverán en sesión conjunta",
+    "content_to_remove": "",
+    "placement_instructions": "agrega un nuevo artículo 24 bis"
   },
   {
     "article_uid": "C1-IND04-18-CH*-ART18quater",
@@ -9032,7 +9316,67 @@
     "action": "ADD",
     "content": "Limitación y suspensión de derechos y garantías. Por la declaración del estado de asamblea, la Presidenta o el Presidente de la República estará facultado para suspender o restringir la libertad personal, el derecho de reunión y la libertad de trabajo. Podrá, también, restringir el ejercicio del derecho de asociación, interceptar, abrir o registrar documentos y toda clase de comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad. Por la declaración del estado de sitio, la Presidenta o Presidente de la República podrá restringir la libertad de movimiento y la libertad de asociación. Podrá, además, suspender o restringir el ejercicio del derecho de reunión. Por la declaración del estado de catástrofe, la Presidenta o Presidente de la República podrá restringir las libertades de locomoción y de reunión. Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter legal y administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada.",
     "content_to_remove": "",
-    "placement_instructions": "nuevo artículo 18 quater"
+    "placement_instructions": "nuevo artículo 18 quater",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 25",
+        "content_snapshot": "Limitación y suspensión de derechos y garantías. Por la declaración del estado de asamblea, la Presidenta o el Presidente de la República estará facultado para restringir la libertad personal, el derecho de reunión, la libertad de trabajo, el ejercicio del derecho de asociación y para interceptar, abrir o registrar documentos y toda clase de comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad. La declaratoria tendrá una vigencia máxima de sesenta días corridos, la que podrá prorrogarse por treinta días más, con la aprobación de la mayoría absoluta de ambas cámaras. Futuras prórrogas de los estados de excepción deberán contar con el voto favorable de cuatro séptimos de ambas cámaras. Si el Presidente no solicitara la renovación de la declaratoria, esta se entenderá caducada. Cuando las causas que hubieren motivado la declaratoria de estado de excepción no subsistieran, el Presidente de la Republica decretará su término y notificará al Congreso de la República de esta circunstancia. La Cámara de las Diputadas y Diputados podrá en cualquier momento revocar la declaratoria por un quórum de cuatro séptimos, si las circunstancias así lo justificaren. En el caso del estado de catástrofe, el Presidente de la República podrá decretarlo sin aprobación de la Cámara de las Diputadas y Diputados, determinando las zonas afectadas por la misma, debiendo informarle las medidas adoptadas. La Cámara, por la mayoría absoluta de sus miembros, podrá dejar sin efecto la declaración transcurridos ciento ochenta días desde su entrada en vigencia, si las razones que la motivaron hubieran cesado totalmente. Con todo, el Presidente de la República sólo podrá declarar el estado de catástrofe, por un periodo superior a un año, con acuerdo de ambas cámaras del Congreso de la República. Una ley que deberá ser aprobada por cuatro séptimos de las diputadas y los diputados en ejercicio regulará los estados de excepción en todo aquello que no estuviere regulado expresamente en esta Constitución.",
+        "number": "96",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 25,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Limitación y suspensión de derechos y garantías. Por la declaración del estado de asamblea, la Presidenta o el Presidente de la República estará facultado para restringir la libertad personal, el derecho de reunión, la libertad de trabajo, el ejercicio del derecho de asociación y para interceptar, abrir o registrar documentos y toda clase de comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 25",
+        "content_snapshot": "Limitación y suspensión de derechos y garantías. Por la declaración del estado de asamblea, la Presidenta o el Presidente de la República estará facultado para restringir la libertad personal, el derecho de reunión, la libertad de trabajo, el ejercicio del derecho de asociación y para interceptar, abrir o registrar documentos y toda clase de comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad. Por la declaración del estado de sitio, la Presidenta o Presidente de la República podrá restringir la libertad de movimiento y la libertad de asociación. Podrá, además, suspender o restringir el ejercicio del derecho de reunión. Por la declaración del estado de catástrofe, la Presidenta o Presidente de la República podrá restringir las libertades de locomoción y de reunión. Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter legal y administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada. En el caso del estado de catástrofe, el Presidente de la República podrá decretarlo sin aprobación de la Cámara de las Diputadas y Diputados, determinando las zonas afectadas por la misma, debiendo informarle las medidas adoptadas. La Cámara, por la mayoría absoluta de sus miembros, podrá dejar sin efecto la declaración transcurridos ciento ochenta días desde su entrada en vigencia, si las razones que la motivaron hubieran cesado totalmente. Con todo, el Presidente de la República sólo podrá declarar el estado de catástrofe, por un periodo superior a un año, con acuerdo de ambas cámaras del Congreso de la República. Una ley que deberá ser aprobada por cuatro séptimos de las diputadas y los diputados en ejercicio regulará los estados de excepción en todo aquello que no estuviere regulado expresamente en esta Constitución.",
+        "number": "97",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 25,
+        "target_scope": "INCISO 2 y 3",
+        "action": "SUBSTITUTE",
+        "content": "Por la declaración del estado de sitio, la Presidenta o Presidente de la República podrá restringir la libertad de movimiento y la libertad de asociación. Podrá, además, suspender o restringir el ejercicio del derecho de reunión. Por la declaración del estado de catástrofe, la Presidenta o Presidente de la República podrá restringir las libertades de locomoción y de reunión. Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter legal y administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada",
+        "content_to_remove": "",
+        "placement_instructions": "repone incisos segundo y tercero"
+      }
+    ]
   },
   {
     "article_uid": "C1-IND04-18-CH*-ART18quinquier",
@@ -9060,7 +9404,56 @@
     "action": "ADD",
     "content": "Ejecución de las medidas de excepción. Los actos de la Presidenta o Presidente de la República, o el Jefe o Jefa de Estado de Excepción, que tengan por fundamento la declaración del estado de excepción constitucional, deberán señalar expresamente los derechos constitucionales que suspendan o restrinjan. El decreto de declaración deberá indicar específicamente las medidas a adoptarse en razón de la excepción, las que deberán ser proporcionales a los fines establecidos en la declaración de excepción, y no limitar excesivamente o impedir de manera total el legítimo ejercicio de cualquier derecho establecido en esta Constitución. Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de la vigencia de los mismos. Los estados de excepción constitucional permitirán al Congreso de Diputadas y Diputados y a la Presidenta o Presidente de la República el ejercicio de potestades y competencias que ordinariamente estarían reservadas a niveles territoriales inferiores, cuando el restablecimiento de la normalidad así lo requiera. Las Fuerzas Armadas y policías deberán cumplir estrictamente las órdenes de la autoridad civil a cargo del estado de excepción.",
     "content_to_remove": "",
-    "placement_instructions": "nuevo artículo 18 quinquier"
+    "placement_instructions": "nuevo artículo 18 quinquier",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 26",
+        "content_snapshot": "Ejecución de las medidas de excepción. Los actos de la Presidenta o Presidente de la República, o el Jefe o Jefa de Estado de Excepción, que tengan por fundamento la declaración del estado de excepción constitucional, deberán señalar expresamente los derechos constitucionales que suspendan o restrinjan. El decreto de declaración deberá indicar específicamente las medidas a adoptarse en razón de la excepción, las que deberán ser proporcionales a los fines establecidos en la declaración de excepción, y no limitar excesivamente o impedir de manera total el legítimo ejercicio de cualquier derecho establecido en esta Constitución. Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de la vigencia de los mismos. Los estados de excepción constitucional permitirán a la Presidenta o Presidente de la República el ejercicio de potestades y competencias que ordinariamente estarían reservadas al nivel regional o comunal cuando el restablecimiento de la normalidad así lo requiera. Las Fuerzas Armadas y policías deberán cumplir estrictamente las órdenes de la autoridad civil a cargo del estado de excepción.",
+        "number": "98",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Los estados de excepción constitucional permitirán a la Presidenta o Presidente de la República el ejercicio de potestades y competencias que ordinariamente estarían reservadas al nivel regional o comunal cuando el restablecimiento de la normalidad así lo requiera.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 26",
+        "content_snapshot": "Ejecución de las medidas de excepción. Los actos de la Presidenta o Presidente de la República, o el Jefe o Jefa de Estado de Excepción, que tengan por fundamento la declaración del estado de excepción constitucional, deberán señalar expresamente los derechos constitucionales que suspendan o restrinjan. El decreto de declaración deberá indicar específicamente las medidas a adoptarse en razón de la excepción, las que deberán ser proporcionales a los fines establecidos en la declaración de excepción, y no limitar excesivamente o impedir de manera total el legítimo ejercicio de cualquier derecho establecido en esta Constitución. Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de la vigencia de los mismos. Los estados de excepción constitucional permitirán a la Presidenta o Presidente de la República el ejercicio de potestades y competencias que ordinariamente estarían reservadas al nivel regional o comunal cuando el restablecimiento de la normalidad así lo requiera. Todas las declaratorias de estado de excepción constitucional serán motivadas y especificarán los derechos, libertades y garantías que van a ser suspendidos, así como su extensión territorial y temporal. Las Fuerzas Armadas y policías deberán cumplir estrictamente las órdenes de la autoridad civil a cargo del estado de excepción.",
+        "number": "99",
+        "authors_matched": [
+          "Celis, Raul",
+          "Monckeberg, Cristian",
+          "Larrain, Hernan"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Todas las declaratorias de estado de excepción constitucional serán motivadas y especificarán los derechos, libertades y garantías que van a ser suspendidos, así como su extensión territorial y temporal.",
+        "content_to_remove": "",
+        "placement_instructions": "como aditiva al texto ya sancionado"
+      }
+    ],
+    "final_status": "idéntico a 97.- Artículo 26"
   },
   {
     "article_uid": "C1-IND04-18-CH*-ART18sexies",
@@ -9088,7 +9481,13 @@
     "action": "ADD",
     "content": "Competencia legal. Una ley regulará los estados de excepción, así como su declaración y la aplicación de las medidas legales y administrativas que procediera adoptar bajo aquéllos, en todo lo no regulado por esta Constitución. Dicha ley no podrá afectar las competencias y el funcionamiento de los órganos constitucionales, ni los derechos e inmunidades de sus respectivos titulares. Asimismo, esta ley regulará el modo en el que la Presidenta o Presidente de la República y las autoridades que este encomendare rendirán cuenta detallada, veraz y oportuna al Congreso de Diputadas y Diputados de las medidas extraordinarias adoptadas y de los planes para la superación de la situación de excepción, así como de los hechos de gravedad que hubieran surgido con ocasión del estado de excepción constitucional. La omisión de este deber de rendición de cuentas se considerará una infracción a la Constitución.",
     "content_to_remove": "",
-    "placement_instructions": "nuevo artículo 18 sexies"
+    "placement_instructions": "nuevo artículo 18 sexies",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 27"
+      }
+    ]
   },
   {
     "article_uid": "C1-IND04-18-CH*-ART18septies",
@@ -9116,7 +9515,38 @@
     "action": "ADD",
     "content": "Comisión de Control. Una vez declarado el estado de excepción, se constituirá una Comisión de Control dependiente del Congreso de Diputados y Diputados, de composición paritaria y plurinacional, integrada por diputadas y diputados, por representantes regionales y por representantes de la Defensoría de los Pueblos, en la forma que establezca la ley. Dicho órgano deberá fiscalizar las medidas adoptadas bajo el estado de excepción, para lo cual emitirá informes periódicos que contengan un análisis de ellas, su proporcionalidad y la observancia de los derechos humanos y tendrá las demás atribuciones que le encomiende la ley. Los órganos del Estado deberán colaborar y aportar todos los antecedentes requeridos por la comisión para el desempeño de sus funciones. En caso de que tome conocimiento de vulneraciones a lo dispuesto en esta Constitución o la ley, la Comisión de Control deberá efectuar las denuncias pertinentes, las cuales serán remitidas y conocidas por los órganos competentes. La ley regulará la integración y funcionamiento de la Comisión de Control.",
     "content_to_remove": "",
-    "placement_instructions": "nuevo artículo 18 septies"
+    "placement_instructions": "nuevo artículo 18 septies",
+    "history": [
+      {
+        "timestamp": "04-30-1",
+        "article": "Artículo 28",
+        "content_snapshot": "Comisión de Fiscalización. Una vez declarado el estado de excepción, se constituirá una Comisión de Fiscalización dependiente del Congreso de Diputadas y Diputados, de composición paritaria y plurinacional, integrada por diputadas y diputados, por representantes regionales y por representantes de la Defensoría de los Pueblos, en la forma que establezca la ley. Dicho órgano deberá fiscalizar las medidas adoptadas bajo el estado de excepción, para lo cual emitirá informes periódicos que contengan un análisis de ellas, su proporcionalidad y la observancia de los derechos humanos y tendrá las demás atribuciones que le encomiende la ley. Los órganos del Estado deberán colaborar y aportar todos los antecedentes requeridos por la comisión para el desempeño de sus funciones. En caso de que tome conocimiento de vulneraciones a lo dispuesto en esta Constitución o la ley, la Comisión de Fiscalización deberá efectuar las denuncias pertinentes, las cuales serán remitidas y conocidas por los órganos competentes. La ley regulará la integración y funcionamiento de la Comisión de Fiscalización.",
+        "number": "101",
+        "authors_matched": [
+          "Munoz, Pedro",
+          "Montero, Ricardo",
+          "Hurtado, Maximiliano",
+          "Politzer, Patricia",
+          "Namor, Guillermo",
+          "Bassa, Jaime",
+          "Arellano, Marco",
+          "Madriaga, Tania",
+          "Perez, Alejandra",
+          "Catrileo, Rosa",
+          "Carrillo, Alondra",
+          "Arauna, Francisca",
+          "Sepulveda, Barbara",
+          "Barraza, Marcos",
+          "Schonhaut, Constanza"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Comisión de Fiscalización. Una vez declarado el estado de excepción, se constituirá una Comisión de Fiscalización dependiente del Congreso de Diputadas y Diputados, de composición paritaria y plurinacional, integrada por diputadas y diputados, por representantes regionales y por representantes de la Defensoría de los Pueblos, en la forma que establezca la ley. Dicho órgano deberá fiscalizar las medidas adoptadas bajo el estado de excepción, para lo cual emitirá informes periódicos que contengan un análisis de ellas, su proporcionalidad y la observancia de los derechos humanos y tendrá las demás atribuciones que le encomiende la ley. Los órganos del Estado deberán colaborar y aportar todos los antecedentes requeridos por la comisión para el desempeño de sus funciones. En caso de que tome conocimiento de vulneraciones a lo dispuesto en esta Constitución o la ley, la Comisión de Fiscalización deberá efectuar las denuncias pertinentes, las cuales serán remitidas y conocidas por los órganos competentes. La ley regulará la integración y funcionamiento de la Comisión de Fiscalización.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article_uid": "C1-IND04-18-CH*-ART18octies",
