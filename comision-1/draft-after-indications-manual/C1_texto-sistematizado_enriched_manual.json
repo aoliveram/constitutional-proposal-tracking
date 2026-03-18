@@ -1090,7 +1090,8 @@
         "action": "ADD",
         "content": "Artículo X.- Del Poder Legislativo. El poder legislativo se compone del Congreso de Diputadas y Diputados y la Cámara de las Regiones.",
         "content_to_remove": "",
-        "placement_instructions": "agrega el siguiente artículo"
+        "placement_instructions": "agrega el siguiente artículo",
+        "final_status": "Idéntico a 7.- Artículo 5 bis"
     },
     {
         "titleuid": "C1-IND04-30-2-CH03-TIT2",
@@ -7232,7 +7233,8 @@
         "text": "Principio de rendición de cuentas. Los órganos del Estado y los servidores públicos deberán garantizar la rendición de cuentas, en la forma y condiciones que establezca la ley. Para los servidores públicos, el principio de rendición de cuentas implica el deber de asumir la responsabilidad política y administrativa en el ejercicio de su cargo. El Estado promoverá la participación activa de las personas y la sociedad civil en la fiscalización del cumplimiento de este principio.\n\nRespecto de las altas autoridades del Estado, la ley podrá establecer mayores exigencias y sanciones para el cumplimiento de los principios establecidos en el presente capítulo.",
         "sources": [
             "193-1"
-        ]
+        ],
+        "final_status": "similar a 74.- Artículo 4"
     },
     {
         "article_uid": "C1-GEN-CH*-ART05",
