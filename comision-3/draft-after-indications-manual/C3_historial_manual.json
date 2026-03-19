@@ -22,6 +22,101 @@
       "Pustilnick, Tammy",
       "Reyes, Maria Ramona",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, desarrollo armónico, adecuado y justo entre las diversas entidades territoriales, atendiendo especialmente a aquellas ubicadas en territorios insulares y zonas extremas.",
+        "number": "4",
+        "authors": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 1,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": ", plurinacional e intercultural",
+        "content_to_remove": null,
+        "placement_instructions": "entre los vocablos \"Regional\" y \"conformado\""
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el, adecuado y justo entre las diversas entidades territoriales, atendiendo especialmente a aquellas ubicadas en territorios insulares y zonas extremas.",
+        "number": "8",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 1,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "la integración armónica y el",
+        "content_to_remove": "desarrollo armónico",
+        "placement_instructions": "luego de la expresión “cooperación,”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el, adecuado y justo entre las diversas entidades territoriales.",
+        "number": "9",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 1,
+        "action": "DELETE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "atendiendo especialmente a aquellas ubicadas en territorios insulares y zonas extremas",
+        "placement_instructions": "luego de la coma “,” que pasa a ser un punto final"
+      }
     ]
   },
   {
@@ -47,7 +142,44 @@
       "Royo, Manuela",
       "Bacian, Wilfredo",
       "Catrileo, Rosa"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Eliminado",
+        "step": "Indicación",
+        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el, adecuado y justo entre las diversas entidades territoriales.",
+        "number": "10 y 11",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 1,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART02",
@@ -72,6 +204,195 @@
       "Pustilnick, Tammy",
       "Reyes, Maria Ramona",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "De las Entidades Territoriales. El Estado se organiza territorialmente en regiones autónomas, comunas autónomas, territorios insulares, autonomías territoriales indígenas y territorios especiales. Las regiones autónomas y las comunas cuentan con personalidad jurídica, estatuto y patrimonio propio, con las potestades y competencias necesarias para autogobernarse, teniendo como límite sólo el interés general y la delimitación de competencias establecidas de acuerdo con la Constitución y la ley. La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes. Corresponderá a la Constitución y a la ley establecer las entidades territoriales del Estado, así como la definición de sus respectivos límites.",
+        "number": "30",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 2,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "autónomas",
+        "content_to_remove": null,
+        "placement_instructions": "luego del vocablo “comunas”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "De las Entidades Territoriales. El Estado se organiza territorialmente en regiones autónomas, comunas autónomas, autonomías territoriales indígenas y territorios especiales. Las regiones autónomas y las comunas cuentan con personalidad jurídica, estatuto y patrimonio propio, con las potestades y competencias necesarias para autogobernarse, teniendo como límite sólo el interés general y la delimitación de competencias establecidas de acuerdo con la Constitución y la ley. La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes. Corresponderá a la Constitución y a la ley establecer las entidades territoriales del Estado, así como la definición de sus respectivos límites.",
+        "number": "31",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 2,
+        "action": "DELETE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "y territoriales insulares",
+        "placement_instructions": "luego de la coma “,”",
+        "comments": "en el informe se presenta de igual manera como 'y territoriales insulares', pero no se encuentra esto en ninguna parte. Asumo que se trata de 'territorios insulares' pues es lo único que se asemeja en este inciso"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "De las Entidades Territoriales. El Estado se organiza territorialmente en regiones autónomas, comunas autónomas, autonomías territoriales indígenas y territorios especiales. Las regiones autónomas y las comunas cuentan con personalidad jurídica, estatuto y patrimonio propio, con las potestades y competencias necesarias para autogobernarse, teniendo como límite el interés general y la delimitación de competencias establecidas de acuerdo con la Constitución y la ley. La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes. Corresponderá a la Constitución y a la ley establecer las entidades territoriales del Estado, así como la definición de sus respectivos límites.",
+        "number": "37",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 2,
+        "action": "DELETE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "sólo",
+        "placement_instructions": "luego de la palabra “límite”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "De las Entidades Territoriales. El Estado se organiza territorialmente en regiones autónomas, comunas autónomas, autonomías territoriales indígenas y territorios especiales. Las regiones autónomas, autonomías territoriales indígenas y las comunas cuentan con personalidad jurídica, estatuto y patrimonio propio, con las potestades y competencias necesarias para autogobernarse, teniendo como límite el interés general y la delimitación de competencias establecidas de acuerdo con la Constitución y la ley. La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes. Corresponderá a la Constitución y a la ley establecer las entidades territoriales del Estado, así como la definición de sus respectivos límites.",
+        "number": "38",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 2,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "autonomías territoriales indígenas y",
+        "content_to_remove": null,
+        "placement_instructions": "luego de la expresión “regiones autónomas”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "De las Entidades Territoriales. El Estado se organiza territorialmente en regiones autónomas, comunas autónomas, autonomías territoriales indígenas y territorios especiales. Las regiones autónomas, autonomías territoriales indígenas y las comunas cuentan con personalidad jurídica, estatuto y patrimonio propio, con las potestades y competencias necesarias para autogobernarse, teniendo como límite el interés general y la delimitación de competencias establecidas de acuerdo con la Constitución y la ley. La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes, de acuerdo con la Constitución y la ley. Corresponderá a la Constitución y a la ley establecer las entidades territoriales del Estado, así como la definición de sus respectivos límites.",
+        "number": "42",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 2,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": ", de acuerdo con la Constitución y la ley",
+        "content_to_remove": ".",
+        "placement_instructions": "luego de la frase “sus habitantes”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "De las Entidades Territoriales. El Estado se organiza territorialmente en regiones autónomas, comunas autónomas, autonomías territoriales indígenas y territorios especiales. Las regiones autónomas, autonomías territoriales indígenas y las comunas cuentan con personalidad jurídica, estatuto y patrimonio propio, con las potestades y competencias necesarias para autogobernarse, teniendo como límite el interés general y la delimitación de competencias establecidas de acuerdo con la Constitución y la ley. La creación, modificación, delimitación y supresión de las entidades territoriales deberá considerar criterios históricos, geográficos, sociales, culturales, ecosistémicos y económicos, garantizando la participación popular, democrática y vinculante de sus habitantes, de acuerdo con la Constitución y la ley.",
+        "number": "47",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 2,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": "inciso 4",
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -99,6 +420,39 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 3",
+        "step": "Indicación",
+        "content_snapshot": "Del Territorio. Chile, en su diversidad geográfica, natural, histórica y cultural, forma un territorio único e indivisible. Los límites del territorio son los que establecen las leyes y los tratados internacionales. La soberanía y jurisdicción sobre el territorio se ejerce de acuerdo a la Constitución, las leyes y los tratados internacionales ratificados y vigentes en Chile.",
+        "number": "49",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 3,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Artículo 3.- Del Territorio. Chile, en su diversidad geográfica, natural, histórica y cultural, forma un territorio único e indivisible.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -126,6 +480,39 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 4",
+        "step": "Indicación",
+        "content_snapshot": "Del Maritorio. Chile es un país oceánico conformado por los ecosistemas marinos y marino-costeros continentales, insulares y antárticos, así como por las aguas, el lecho y el subsuelo existentes en el maritorio, la zona contigua, la zona económica exclusiva, la plataforma continental y su extensión. El maritorio chileno, como parte del territorio, está integrado por el mar territorial, las aguas interiores y la zona costera. El Estado reconoce las diferentes formas de relación entre los pueblos originarios y comunidades costeras con el maritorio, respetando y promoviendo sus usos consuetudinarios y locales, considerándolo un espacio integral de convivencia entre lo tangible y lo intangible. Es deber del Estado proteger los espacios y ecosistemas marinos y marino-costeros, propiciando las diversas vocaciones y usos asociados a ellos, y asegurando, en todo caso, su preservación, conservación y restauración ecológica. La ley establecerá su ordenación espacial y gestión integrada, mediante un trato diferenciado, autónomo y descentralizado, según corresponda, en base a la equidad y justicia territorial.",
+        "number": "53",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 4,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 4°. Del Maritorio. Chile es un país oceánico conformado por los ecosistemas marinos y marino-costeros continentales, insulares y antárticos, así como por las aguas, el lecho y el subsuelo existentes en el maritorio, la zona contigua, la zona económica exclusiva, la plataforma continental y su extensión. El maritorio chileno, como parte del territorio, está integrado por el mar territorial, las aguas interiores y la zona costera. El Estado reconoce las diferentes formas de relación entre los pueblos originarios y comunidades costeras con el maritorio, respetando y promoviendo sus usos consuetudinarios y locales, considerándolo un espacio integral de convivencia entre lo tangible y lo intangible. Es deber del Estado proteger los espacios y ecosistemas marinos y marino-costeros, propiciando las diversas vocaciones y usos asociados a ellos, y asegurando, en todo caso, su preservación, conservación y restauración ecológica. La ley establecerá su ordenación espacial y gestión integrada, mediante un trato diferenciado, autónomo y descentralizado, según corresponda, en base a la equidad y justicia territorial",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -153,13 +540,64 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "De la Autonomía de las entidades territoriales. Las regiones autónomas, comunas autónomas y autonomías territoriales indígenas, están dotadas de autonomía política, administrativa y financiera para la realización de sus fines e intereses en los términos establecidos por la presente Constitución y la ley. En ningún caso el ejercicio de la autonomía permitirá la secesión territorial.",
+        "number": "63",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 5,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "Las regiones autónomas, comunas autónomas y autonomías territoriales indígenas,",
+        "content_to_remove": "Las entidades territoriales",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "De la Autonomía de las entidades territoriales. Las regiones autónomas, comunas autónomas y autonomías territoriales indígenas, están dotadas de autonomía política, administrativa y financiera para la realización de sus fines e intereses en los términos establecidos por la presente Constitución y la ley. En ningún caso el ejercicio de la autonomía podrá atentar en contra del carácter único e indivisible del Estado de Chile, ni permitirá la secesión territorial.",
+        "number": "67",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 5,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "podrá atentar en contra del carácter único e indivisible del Estado de Chile, ni",
+        "content_to_remove": null,
+        "placement_instructions": "después de “autonomía”"
+      }
     ]
   },
   {
     "article_uid": "C3-GEN-CH01-ART06",
     "article": "Artículo 6",
     "timestamp": "01-27",
-    "text": "De la solidaridad, cooperación y asociatividad territorial en el Estado Regional. Las entidades territoriales se coordinan y asocian en relaciones de solidaridad, cooperación, reciprocidad y apoyo mutuo. Dos o más entidades territoriales, con o sin continuidad territorial, podrán pactar convenios y constituir asociaciones territoriales con la finalidad de lograr objetivos comunes, promover la cohesión social, mejorar la prestación de los servicios públicos, incrementar la eficiencia y eficacia en el ejercicio de sus competencias y potenciar el desarrollo social, cultural, económico sostenible y equilibrado. 3 Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado. El Estado promoverá y apoyará la cooperación y asociatividad con las entidades territoriales y entre ellas, garantizando su plena autonomía. La ley establecerá las bases generales para la creación y funcionamiento de estas asociaciones, sin perjuicio de la legislación regional que se dicte al efecto.",
+    "text": "De la solidaridad, cooperación y asociatividad territorial en el Estado Regional. Las entidades territoriales se coordinan y asocian en relaciones de solidaridad, cooperación, reciprocidad y apoyo mutuo. Dos o más entidades territoriales, con o sin continuidad territorial, podrán pactar convenios y constituir asociaciones territoriales con la finalidad de lograr objetivos comunes, promover la cohesión social, mejorar la prestación de los servicios públicos, incrementar la eficiencia y eficacia en el ejercicio de sus competencias y potenciar el desarrollo social, cultural, económico sostenible y equilibrado. Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado. El Estado promoverá y apoyará la cooperación y asociatividad con las entidades territoriales y entre ellas, garantizando su plena autonomía. La ley establecerá las bases generales para la creación y funcionamiento de estas asociaciones, sin perjuicio de la legislación regional que se dicte al efecto.",
     "sources": [
       "99-3"
     ],
@@ -180,6 +618,70 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "De la solidaridad, cooperación y asociatividad territorial en el Estado Regional. Las entidades territoriales se coordinan y asocian en relaciones de solidaridad, cooperación, reciprocidad y apoyo mutuo, evitando la duplicidad de funciones, en conformidad a los mecanismos que establezca la ley. Dos o más entidades territoriales, con o sin continuidad territorial, podrán pactar convenios y constituir asociaciones territoriales con la finalidad de lograr objetivos comunes, promover la cohesión social, mejorar la prestación de los servicios públicos, incrementar la eficiencia y eficacia en el ejercicio de sus competencias y potenciar el desarrollo social, cultural, económico sostenible y equilibrado. Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado. El Estado promoverá y apoyará la cooperación y asociatividad con las entidades territoriales y entre ellas, garantizando su plena autonomía. La ley establecerá las bases generales para la creación y funcionamiento de estas asociaciones, sin perjuicio de la legislación regional que se dicte al efecto.",
+        "number": "68",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 6,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "evitando la duplicidad de funciones, en conformidad a los mecanismos que establezca la ley",
+        "content_to_remove": ".",
+        "placement_instructions": "luego del punto final, que pasa a ser una coma"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "De la solidaridad, cooperación y asociatividad territorial en el Estado Regional. Las entidades territoriales se coordinan y asocian en relaciones de solidaridad, cooperación, reciprocidad y apoyo mutuo, evitando la duplicidad de funciones, en conformidad a los mecanismos que establezca la ley. Dos o más entidades territoriales, con o sin continuidad territorial, podrán pactar convenios y constituir asociaciones territoriales con la finalidad de lograr objetivos comunes, promover la cohesión social, mejorar la prestación de los servicios públicos, incrementar la eficiencia y eficacia en el ejercicio de sus competencias y potenciar el desarrollo social, cultural, económico sostenible y equilibrado. El Estado promoverá y apoyará la cooperación y asociatividad con las entidades territoriales y entre ellas, garantizando su plena autonomía. La ley establecerá las bases generales para la creación y funcionamiento de estas asociaciones, en concordancia de la legislación regional que se dicte al efecto. Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado.",
+        "number": "71",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 6,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "El Estado promoverá y apoyará la cooperación y asociatividad con las entidades territoriales y entre ellas, garantizando su plena autonomía. La ley establecerá las bases generales para la creación y funcionamiento de estas asociaciones, en concordancia de la legislación regional que se dicte al efecto. Las asociaciones de entidades territoriales, en ningún caso, alterarán la organización territorial del Estado.",
+        "content_to_remove": "incisos 3° y 4°",
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -207,6 +709,39 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 7",
+        "step": "Indicación",
+        "content_snapshot": "De la Participación en las entidades territoriales en el Estado Regional. Las entidades territoriales garantizan el derecho de sus habitantes a participar, individual o colectivamente en las decisiones públicas, comprendiendo en ella la formulación, ejecución, evaluación, fiscalización y control democrático de la función pública, con arreglo a la Constitución y las leyes. Los pueblos y naciones preexistentes al Estado deberán ser consultados y otorgar el consentimiento libre, previo e informado en aquellas materias o asuntos que les afecten en sus derechos reconocidos en esta Constitución.",
+        "number": "72 bis",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 7,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "De la Participación en las entidades territoriales en el Estado Regional. Las entidades territoriales garantizan el derecho de sus habitantes a participar, individual o colectivamente en las decisiones públicas, comprendiendo en ella la formulación, ejecución, evaluación, fiscalización y control democrático de la función pública, con arreglo a la Constitución y las leyes. Los pueblos y naciones preexistentes al Estado deberán ser consultados y otorgar el consentimiento libre, previo e informado en aquellas materias o asuntos que les afecten en sus derechos reconocidos en esta Constitución.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -234,6 +769,132 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Del Desarrollo Territorial. Es deber de las entidades territoriales, en el ámbito de sus competencias, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. Las entidades territoriales considerarán para su planificación social, política, administrativa, cultural, territorial y económica los criterios de inclusión e interculturalidad, con perspectiva de género, enfoque ecosistémico y los demás que establezca esta Constitución. El Estado y las regiones autónomas deberán velar por un desarrollo y políticas de fomento equitativas y sostenibles entre las entidades territoriales que componen su territorio, con las debidas destinaciones presupuestarias especiales en caso de ser necesario.",
+        "number": "79",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 8,
+        "action": "DELETE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "y en sus territorios jurisdiccionales",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Del Desarrollo Territorial. Es deber de las entidades territoriales, en el ámbito de sus competencias, establecer una política permanente de equidad territorial de desarrollo sostenible y armónico con la naturaleza. Las entidades territoriales considerarán para su planificación social, política, administrativa, cultural, territorial y económica los criterios de inclusión e interculturalidad, con perspectiva de género, enfoque ecosistémico y los demás que establezca esta Constitución. El Estado y las regiones autónomas deberán velar por un desarrollo y políticas de fomento equitativas y sostenibles entre las entidades territoriales que componen su territorio, con las debidas destinaciones presupuestarias especiales en caso de ser necesario.",
+        "number": "80",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 8,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "permanente de equidad territorial de",
+        "content_to_remove": null,
+        "placement_instructions": "luego de la expresión “establecer una política”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Del Desarrollo Territorial. Es deber de las entidades territoriales, en el ámbito de sus competencias, establecer una política permanente de equidad territorial de desarrollo sostenible y armónico con la naturaleza. Las entidades territoriales considerarán para su planificación social, política, administrativa, cultural, territorial y económica los criterios de suficiencia presupuestaria, inclusión e interculturalidad, integración socioespacial, perspectiva de género, enfoque socio ecosistémico, enfoque en derechos humanos y los demás que establezca esta Constitución. El Estado y las regiones autónomas deberán velar por un desarrollo y políticas de fomento equitativas y sostenibles entre las entidades territoriales que componen su territorio, con las debidas destinaciones presupuestarias especiales en caso de ser necesario.",
+        "number": "84",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 8,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Las entidades territoriales considerarán para su planificación social, política, administrativa, cultural, territorial y económica los criterios de suficiencia presupuestaria, inclusión e interculturalidad, integración socioespacial, perspectiva de género, enfoque socio ecosistémico, enfoque en derechos humanos y los demás que establezca esta Constitución.",
+        "content_to_remove": "inciso 2",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Del Desarrollo Territorial. Es deber de las entidades territoriales, en el ámbito de sus competencias, establecer una política permanente de equidad territorial de desarrollo sostenible y armónico con la naturaleza. Las entidades territoriales considerarán para su planificación social, política, administrativa, cultural, territorial y económica los criterios de suficiencia presupuestaria, inclusión e interculturalidad, integración socioespacial, perspectiva de género, enfoque socio ecosistémico, enfoque en derechos humanos y los demás que establezca esta Constitución.",
+        "number": "85",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 8,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": "inciso final",
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -261,6 +922,44 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "De la Equidad, Solidaridad y justicia territorial. El Estado garantiza un tratamiento equitativo entre las diversas entidades territoriales, propendiendo a la armonización del interés general, no pudiendo establecer diferencias arbitrarias entre ellas, asegurando a su vez las mismas condiciones de acceso a los servicios públicos, al empleo y a todas las prestaciones estatales, estableciendo de ser necesario, acciones afirmativas en favor de los grupos desaventajados. ",
+        "number": "89",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 9,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": ", Solidaridad",
+        "content_to_remove": null,
+        "placement_instructions": "después de “Equidad”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "De la Equidad, Solidaridad y justicia territorial. El Estado garantiza un tratamiento equitativo entre las diversas entidades territoriales, propendiendo a la armonización del interés general, no pudiendo establecer diferencias arbitrarias entre ellas, asegurando a su vez las mismas condiciones de acceso a los servicios públicos, al empleo y a todas las prestaciones estatales, estableciendo de ser necesario, acciones afirmativas en favor de los grupos desaventajados. El Estado de Chile promoverá un desarrollo territorial equitativo, armónico y solidario que permita una integración efectiva de las distintas localidades, tanto urbanas como rurales, promoviendo la equidad horizontal en la provisión de bienes y servicios.",
+        "number": "91",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 9,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": ". El Estado de Chile promoverá un desarrollo territorial equitativo, armónico y solidario que permita una integración efectiva de las distintas localidades, tanto urbanas como rurales, promoviendo la equidad horizontal en la provisión de bienes y servicios",
+        "content_to_remove": null,
+        "placement_instructions": "después de “desaventajados”"
+      }
     ]
   },
   {
@@ -288,6 +987,87 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "De la Plurinacionalidad e interculturalidad en el Estado Regional. Las entidades territoriales y sus órganos deberán asegurar en todo su actuar el reconocimiento político y jurídico de los pueblos y naciones preexistentes al Estado que habitan sus territorios; su supervivencia; la distribución equitativa del poder y de los espacios de participación política; el uso, reconocimiento y promoción de las lenguas indígenas que se hablan en ellas, propiciando el entendimiento intercultural, el respeto de formas diversas de ver, organizar y concebir el mundo y de relacionarse con la naturaleza; la protección y el respeto de los derechos de autodeterminación y de autonomía de los territorios indígenas, en coordinación con el resto de las entidades territoriales.",
+        "number": "95",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 10,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "preexistentes al Estado",
+        "content_to_remove": "indígenas",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "De la Plurinacionalidad e interculturalidad en el Estado Regional. Las entidades territoriales y sus órganos deberán asegurar en todo su actuar el reconocimiento político y jurídico de los pueblos y naciones preexistentes al Estado que habitan sus territorios; su supervivencia y desarrollo armónico e integral; la distribución equitativa del poder y de los espacios de participación política; el uso, reconocimiento y promoción de las lenguas indígenas que se hablan en ellas, propiciando el entendimiento intercultural, el respeto de formas diversas de ver, organizar y concebir el mundo y de relacionarse con la naturaleza; la protección y el respeto de los derechos de autodeterminación y de autonomía de los territorios indígenas, en coordinación con el resto de las entidades territoriales.",
+        "number": "99",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 10,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": " y desarrollo armónico e integral",
+        "content_to_remove": null,
+        "placement_instructions": "luego de la expresión “supervivencia”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "De la Plurinacionalidad e interculturalidad en el Estado Regional. Las entidades territoriales y sus órganos reconocen, garantizan y promueven en todo su actuar el reconocimiento político y jurídico de los pueblos y naciones preexistentes al Estado que habitan sus territorios; su supervivencia y desarrollo armónico e integral; la distribución equitativa del poder y de los espacios de participación política; el uso, reconocimiento y promoción de las lenguas indígenas que se hablan en ellas, propiciando el entendimiento intercultural, el respeto de formas diversas de ver, organizar y concebir el mundo y de relacionarse con la naturaleza; la protección y el respeto de los derechos de autodeterminación y de autonomía de los territorios indígenas, en coordinación con el resto de las entidades territoriales.",
+        "number": "100",
+        "authors_matched": [
+          "Bacian, Wilfredo",
+          "Chinga, Eric"
+        ],
+        "target_article": 10,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "reconocen, garantizan y promueven",
+        "content_to_remove": "asegurar",
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -315,6 +1095,39 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "La elección de las y los representantes por votación popular de las entidades territoriales se efectuará asegurando la paridad de género, la probidad, la representatividad territorial, la pertenencia territorial, avecindamiento y la representación efectiva de los pueblos y naciones pre existentes al Estado. La Constitución y la ley establecerán los requisitos para la postulación y las causales de cesación de dichos cargos. La calificación y procedencia de estas causales de cesación se realizará a través de un procedimiento expedito ante la justicia electoral, en conformidad a la ley.",
+        "number": "105",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 11,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "La elección de las y los representantes por votación popular de las entidades territoriales se efectuará asegurando la paridad de género, la probidad, la representatividad territorial, la pertenencia territorial, avecindamiento y la representación efectiva de los pueblos y naciones pre existentes al Estado. La Constitución y la ley establecerán los requisitos para la postulación y las causales de cesación de dichos cargos. La calificación y procedencia de estas causales de cesación se realizará a través de un procedimiento expedito ante la justicia electoral, en conformidad a la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -342,6 +1155,89 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "Principio de no tutela entre entidades territoriales. Ninguna entidad territorial, en el reparto y ejercicio de sus competencias y atribuciones, podrá ejercer cualquier forma de tutela sobre otra entidad territorial, sin perjuicio de la aplicación de los principios de coordinación, de solidaridad y los conflictos de competencias que puedan ocasionarse.",
+        "number": "113",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 12,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": ",",
+        "content_to_remove": "y",
+        "placement_instructions": "entre las palabras “coordinación” y “de solidaridad”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "Principio de no tutela entre entidades territoriales. Ninguna entidad territorial, en el reparto y ejercicio de sus competencias y atribuciones, podrá ejercer cualquier forma de tutela sobre otra entidad territorial, sin perjuicio de la aplicación de los principios de coordinación, asociatividad, de solidaridad y los conflictos de competencias que puedan ocasionarse.",
+        "number": "115",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 12,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": ", asociatividad",
+        "content_to_remove": null,
+        "placement_instructions": "después de “coordinación”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "Principio de no tutela entre entidades territoriales. Ninguna entidad territorial, en el reparto y ejercicio de sus competencias y atribuciones, podrá ejercer cualquier forma de tutela sobre otra entidad territorial, sin perjuicio de la aplicación de los principios de coordinación, asociatividad, de solidaridad y los conflictos de competencias que puedan ocasionarse.",
+        "number": "116",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 12,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "y los conflictos de competencias que puedan ocasionarse.",
+        "content_to_remove": ".",
+        "placement_instructions": "luego de solidaridad, cambiando el punto aparte “.” por una coma “,”",
+        "comments": "Ese cambio está en la versión original. No modificó el texto de alguna forma"
+      }
     ]
   },
   {
@@ -369,6 +1265,101 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 13",
+        "step": "Indicación",
+        "content_snapshot": "Correspondencia entre competencias y recursos. Sin perjuicio de las competencias que establece esta Constitución y la ley, el Estado podrá transferir a las entidades territoriales aquellas competencias de titularidad estatal que por su propia naturaleza son susceptibles de transferencia. Estas transferencias deberán ir acompañadas siempre por el personal y los recursos financieros suficientes y oportunos para su adecuada ejecución. Las autoridades centrales, regionales y de los gobiernos comunales velarán especialmente por la distribución justa y equitativa de los recursos públicos con el fin de corregir las desigualdades existentes, resguardando su correcta ejecución con estricta sujeción al principio de responsabilidad fiscal.",
+        "number": "120",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 13,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "deberán ir acompañadas siempre por el personal y los recursos financieros suficientes y oportunos para su adecuada ejecución.",
+        "content_to_remove": "de competencias deberán ir acompañadas del financiamiento que permita su adecuada ejecución.",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 13",
+        "step": "Indicación",
+        "content_snapshot": "Correspondencia entre competencias y recursos. Sin perjuicio de las competencias que establece esta Constitución y la ley, el Estado podrá transferir a las entidades territoriales aquellas competencias de titularidad estatal que por su propia naturaleza son susceptibles de transferencia. Estas transferencias deberán ir acompañadas siempre por el personal y los recursos financieros suficientes y oportunos para su adecuada ejecución.",
+        "number": "121",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 13,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": "inciso final",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 13",
+        "step": "Indicación",
+        "content_snapshot": "Correspondencia entre competencias y recursos. Sin perjuicio de las competencias que establece esta Constitución y la ley, el Estado podrá transferir a las entidades territoriales aquellas competencias de titularidad estatal que por su propia naturaleza son susceptibles de transferencia. Estas transferencias deberán ir acompañadas siempre por el personal y los recursos financieros suficientes y oportunos para su adecuada ejecución. Una ley regulará el régimen jurídico del procedimiento de transferencia de competencias y sus sistemas de evaluación y control.",
+        "number": "123",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 13,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "Una ley regulará el régimen jurídico del procedimiento de transferencia de competencias y sus sistemas de evaluación y control.",
+        "content_to_remove": null,
+        "placement_instructions": "nuevo inciso final"
+      }
     ]
   },
   {
@@ -396,6 +1387,39 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Cuestiones de competencia. La ley establecerá el procedimiento para resolución de las distintas contiendas de competencia que se susciten entre el Estado y las entidades territoriales, o entre ellas, las que serán conocidas por el órgano encargado de la justicia constitucional.",
+        "number": "124",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 14,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 14. Cuestiones de competencia. La ley establecerá el procedimiento para resolución de las distintas contiendas de competencia que se susciten entre el Estado y las entidades territoriales, o entre ellas, las que serán conocidas por el órgano encargado de la justicia constitucional.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -423,6 +1447,39 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 15",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de circulación entre entidades territoriales. Ninguna entidad territorial o autoridad podrá adoptar medidas que directa o indirectamente impidan el ejercicio de la libertad de movimiento, la libre circulación de bienes y de residencia de las personas al interior de ellas, así como en todo el territorio del Estado, sin perjuicio de las limitaciones contempladas en esta Constitución y la ley",
+        "number": "126",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 15,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "sin perjuicio de las limitaciones contempladas en esta Constitución y la ley",
+        "content_to_remove": ".",
+        "placement_instructions": "luego del punto final, que pasa a ser coma “,”"
+      }
     ]
   },
   {
@@ -442,7 +1499,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 16",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "127",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 16,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART17",
@@ -461,7 +1552,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 17",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "130",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 17,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART18",
@@ -480,6 +1605,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Radicación preferente de competencias. Las funciones públicas deberán radicarse priorizando la entidad local sobre la regional y ésta última sobre el Estado, sin perjuicio de aquellas competencias que la propia Constitución o las leyes reserven a cada una de estas entidades territoriales. La Región Autónoma o el Estado, cuando así lo exija el interés general, podrán subrogar de manera transitoria y supletoria las competencias que no puedan ser asumidas por la entidad local.",
+        "number": "133",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 18,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 18. Radicación preferente de competencias. Las funciones públicas deberán radicarse priorizando la entidad local sobre la regional y ésta última sobre el Estado, sin perjuicio de aquellas competencias que la propia Constitución o las leyes reserven a cada una de estas entidades territoriales. La Región Autónoma o el Estado, cuando así lo exija el interés general, podrán subrogar de manera transitoria y supletoria las competencias que no puedan ser asumidas por la entidad local.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -499,6 +1657,28 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 19",
+        "step": "Indicación",
+        "content_snapshot": "Diferenciación territorial. El Estado deberá generar políticas públicas diferenciadas y transferir las competencias que mejor se ajusten a las necesidades y particularidades de los entes territoriales, con los respectivos recursos. La ley establecerá los criterios y requisitos para la aplicación de diferencias territoriales, así como los mecanismos de solidaridad y equidad que compensen las desigualdades entre los distintos niveles territoriales.",
+        "number": "139",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 19,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 19. Diferenciación territorial. El Estado deberá generar políticas públicas diferenciadas y transferir las competencias que mejor se ajusten a las necesidades y particularidades de los entes territoriales, con los respectivos recursos. La ley establecerá los criterios y requisitos para la aplicación de diferencias territoriales, así como los mecanismos de solidaridad y equidad que compensen las desigualdades entre los distintos niveles territoriales.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -518,7 +1698,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "141",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 20,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART21",
@@ -537,7 +1751,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 21",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "143",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 21,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART22",
@@ -556,7 +1804,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 22",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "144",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 22,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART23",
@@ -575,7 +1857,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 23",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "148",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 23,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART24",
@@ -594,7 +1910,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "150",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 24,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART25",
