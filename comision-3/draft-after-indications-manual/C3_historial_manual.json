@@ -1963,7 +1963,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 25",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "152",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 25,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART26",
@@ -1982,7 +2014,42 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "153 y 154",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 26,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART27",
@@ -2009,6 +2076,37 @@
       "Reyes, Maria Ramona",
       "Bacian, Wilfredo",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "De las Regiones Autónomas: Las Regiones autónomas son entidades políticas y territoriales dotadas de personalidad jurídica de derecho público y patrimonio propio que gozan de autonomía para el desarrollo de los intereses regionales, la gestión de sus recursos económicos y el ejercicio de las atribuciones legislativa, reglamentaria, ejecutiva y fiscalizadora a través de sus órganos en el ámbito de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.",
+        "number": "160",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 27,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "“De las Regiones Autónomas: Las Regiones autónomas son entidades políticas y territoriales dotadas de personalidad jurídica de derecho público y patrimonio propio que gozan de autonomía para el desarrollo de los intereses regionales, la gestión de sus recursos económicos y el ejercicio de las atribuciones legislativa, reglamentaria, ejecutiva y fiscalizadora a través de sus órganos en el ámbito de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.”"
+      }
     ]
   },
   {
@@ -2036,6 +2134,22 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "Cláusula residual. Las competencias sobre materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las regiones autónomas, de acuerdo a lo dispuesto en los respectivos estatutos. Asimismo, las competencias que no se hayan asumido por las regiones autónomas en sus estatutos corresponderá al Estado.",
+        "number": "167",
+        "authors_matched": [
+          "Uribe, Cesar"
+        ],
+        "target_article": 28,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "“Artículo 28.- Cláusula residual. Las competencias sobre materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las regiones autónomas, de acuerdo a lo dispuesto en los respectivos estatutos. Asimismo, las competencias que no se hayan asumido por las regiones autónomas en sus estatutos corresponderá al Estado”."
+      }
     ]
   },
   {
@@ -2060,6 +2174,37 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 29",
+        "step": "Indicación",
+        "content_snapshot": "Del Estatuto Regional. Cada Región Autónoma establecerá su propio orden político interno regional el que establecerá los principios fundamentales que rigen la organización y funcionamiento de los órganos regionales, además de las normas sobre gobierno, administración y elaboración de la legislación regional.\nEl Estatuto Regional debe responder a los principios del Estado Social de Derechos que la República instituye en esta Constitución y respetar los derechos fundamentales reconocidos en ella, debiendo velar por la democracia regional, cuidando que el pueblo elija sus representantes en elecciones generales, directas, libres, inclusivas, participativas y secretas.",
+        "number": "171",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 29,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "“Del Estatuto Regional. Cada Región Autónoma establecerá su propio orden político interno regional el que establecerá los principios fundamentales que rigen la organización y funcionamiento de los órganos regionales, además de las normas sobre gobierno, administración y elaboración de la legislación regional.\nEl Estatuto Regional debe responder a los principios del Estado Social de Derechos que la República instituye en esta Constitución y respetar los derechos fundamentales reconocidos en ella, debiendo velar por la democracia regional, cuidando que el pueblo elija sus representantes en elecciones generales, directas, libres, inclusivas, participativas y secretas.”"
+      }
     ]
   },
   {
@@ -2087,7 +2232,42 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 30",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "191 y 192",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 30,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART31",
@@ -2114,6 +2294,37 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 31",
+        "step": "Indicación",
+        "content_snapshot": "De la elaboración, aprobación y reforma del Estatuto Regional. El Estatuto Regional será elaborado y propuesto por la Asamblea Legislativa Regional respectiva y aprobado con la mayoría absoluta de sus miembros en ejercicio. La propuesta será sometida a un referéndum regional para ser ratificada por la ciudadanía, sin perjuicio del control de constitucionalidad por el órgano competente.\nEl proceso de elaboración y reforma del Estatuto Regional deberá garantizar la participación popular, democrática y vinculante de sus habitantes.\nDesde su publicación, el Estatuto Regional sólo podrá ser reformado mediante el procedimiento que éste establezca.",
+        "number": "200",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 31,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "“Artículo 31. De la elaboración, aprobación y reforma del Estatuto Regional. El Estatuto Regional será elaborado y propuesto por la Asamblea Legislativa Regional respectiva y aprobado con la mayoría absoluta de sus miembros en ejercicio. La propuesta será sometida a un referéndum regional para ser ratificada por la ciudadanía, sin perjuicio del control de constitucionalidad por el órgano competente.\nEl proceso de elaboración y reforma del Estatuto Regional deberá garantizar la participación popular, democrática y vinculante de sus habitantes.\nDesde su publicación, el Estatuto Regional sólo podrá ser reformado mediante el procedimiento que éste establezca.”"
+      }
     ]
   },
   {
@@ -2139,6 +2350,38 @@
       "Pustilnick, Tammy",
       "Reyes, Maria Ramona",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 32",
+        "step": "Indicación",
+        "content_snapshot": "De las Autoridades Regionales. La organización institucional de las Regiones Autónomas se compone del Gobierno Regional, de la Asamblea Legislativa Regional y del Consejo Social Regional.",
+        "number": "208",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 32,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "“del Consejo Social Regional”",
+        "content_to_remove": "“de la Asamblea Social Regional”"
+      }
     ]
   },
   {
@@ -2164,6 +2407,111 @@
       "Pustilnick, Tammy",
       "Reyes, Maria Ramona",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33",
+        "step": "Indicación",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma. Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región. La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato. La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
+        "number": "217",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 33,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "“Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región”."
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33",
+        "step": "Indicación",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma. Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región. La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato. La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
+        "number": "219",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 33,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "“en el marco de la política nacional de relaciones internacionales”",
+        "placement_instructions": "después de ‘‘e internacionales’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33",
+        "step": "Indicación",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma. Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región. La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato. La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
+        "number": "222",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 33,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "“En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.”",
+        "placement_instructions": "un nuevo inciso 3, pasando a ser el actual inciso 3 a inciso 4"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33",
+        "step": "Indicación",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma. Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región. La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato. La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y la ley.",
+        "number": "225",
+        "authors_matched": [
+          "Rivera, Maria Magdalena",
+          "Arancibia, Jorge",
+          "Jurgensen, Harry"
+        ],
+        "target_article": 33,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "INCISO",
+        "content": "“y la ley”",
+        "content_to_remove": "“el estatuto regional”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33",
+        "step": "Indicación",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma. Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región. La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato. La Gobernadora o Gobernador regional, será elegido por sufragio universal en votación directa, en conformidad con lo dispuesto en la Constitución y la ley.",
+        "number": "226",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 33,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "“en votación directa”",
+        "placement_instructions": "luego de la expresión “sufragio universal”"
+      }
     ]
   },
   {
@@ -2185,7 +2533,43 @@
       "Bravo, Daniel",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33 A",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "230, 231 y 232",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Castillo, Eduardo",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": "33 A",
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART33B",
@@ -2209,7 +2593,40 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33 B",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "245 y 246",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": "33 B",
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART33C",
@@ -2228,7 +2645,40 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33 C",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "254 y 255",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": "33 C",
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART33D",
@@ -2247,7 +2697,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 33 D",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "256",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": "33 D",
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART34",
@@ -2266,7 +2748,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 34",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "260",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 34,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART35",
@@ -2285,7 +2799,39 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 35",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "263",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 35,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART36",
@@ -2304,7 +2850,39 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 37",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "264",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 36,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART37",
@@ -2323,6 +2901,37 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 37",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Alcaldes y Alcaldesas. El Consejo de Alcaldes y Alcaldesas es un órgano de carácter consultivo que estará integrado por los alcaldes y alcaldesas de todas las comunas de la región autónoma y de las ciudades respectivas, el cual será coordinado por quien determinen sus integrantes por mayoría absoluta. El Consejo deberá sesionar y abordar las problemáticas de la región autónoma, promover una coordinación efectiva entre los distintos órganos con presencia regional y fomentar una cooperación eficaz entre los gobiernos locales en la forma que determine la ley.",
+        "number": "265",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 37,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "‘‘Artículo 37. Del Consejo de Alcaldes y Alcaldesas. El Consejo de Alcaldes y Alcaldesas es un órgano de carácter consultivo que estará integrado por los alcaldes y alcaldesas de todas las comunas de la región autónoma y de las ciudades respectivas, el cual será coordinado por quien determinen sus integrantes por mayoría absoluta. El Consejo deberá sesionar y abordar las problemáticas de la región autónoma, promover una coordinación efectiva entre los distintos órganos con presencia regional y fomentar una cooperación eficaz entre los gobiernos locales en la forma que determine la ley’’."
+      }
     ]
   },
   {
@@ -2342,7 +2951,39 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 38",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "266",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 38,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART39",
@@ -2367,6 +3008,158 @@
       "Pustilnick, Tammy",
       "Reyes, Maria Ramona",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "De la Asamblea Legislativa Regional. La Asamblea Legislativa Regional es el órgano de representación popular, colegiado, autónomo y paritario, dotado de potestades legislativas, resolutivas y fiscalizadoras en el ámbito de sus competencias, en conformidad a la Constitución y las leyes. La Asamblea Legislativa Regional estará integrada por el número de Asambleístas Legislativos Regionales que fije la ley nacional en proporción a la población regional, bajo criterios de representatividad territorial, paridad de género y plurinacionalidad. La elección de los Asambleístas Regionales será por sufragio universal, directo y secreto, en conformidad a la ley nacional. Los y las Asambleístas Regionales ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos consecutivamente sólo una vez para el período inmediatamente siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando él o la Asambleísta Regional haya cumplido más de la mitad de su mandato. Corresponderá a las Asambleas Regionales elaborar y aprobar su propio reglamento, en los términos de la Constitución y el Estatuto Regional respectivo.",
+        "number": "274",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 39,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "‘‘resolutivas’’",
+        "content_to_remove": "‘‘deliberativas’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "De la Asamblea Legislativa Regional. La Asamblea Legislativa Regional es el órgano de representación popular, colegiado, autónomo, plurinacional y paritario, dotado de potestades legislativas, resolutivas y fiscalizadoras en el ámbito de sus competencias, en conformidad a la Constitución y las leyes. La Asamblea Legislativa Regional estará integrada por el número de Asambleístas Legislativos Regionales que fije la ley nacional en proporción a la población regional, bajo criterios de representatividad territorial, paridad de género y plurinacionalidad. La elección de los Asambleístas Regionales será por sufragio universal, directo y secreto, en conformidad a la ley nacional. Los y las Asambleístas Regionales ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos consecutivamente sólo una vez para el período inmediatamente siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando él o la Asambleísta Regional haya cumplido más de la mitad de su mandato. Corresponderá a las Asambleas Regionales elaborar y aprobar su propio reglamento, en los términos de la Constitución y el Estatuto Regional respectivo.",
+        "number": "276",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 39,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "‘‘, plurinacional’’",
+        "placement_instructions": "entre el vocablo ‘‘autónomo’’ y la conjunción ‘‘y’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "De la Asamblea Legislativa Regional. La Asamblea Legislativa Regional es el órgano de representación popular, colegiado, autónomo, plurinacional y paritario, dotado de potestades legislativas, resolutivas y fiscalizadoras en el ámbito de sus competencias, en conformidad a la Constitución y las leyes. La Asamblea Legislativa Regional estará integrada por el número de Asambleístas Legislativos Regionales que fije la ley nacional en proporción a la población regional, bajo criterios de representatividad territorial, paridad de género y escaños reservados para los pueblos y naciones preexistentes al Estado. La elección de los Asambleístas Regionales será por sufragio universal, directo y secreto, en conformidad a la ley nacional. Los y las Asambleístas Regionales ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos consecutivamente sólo una vez para el período inmediatamente siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando él o la Asambleísta Regional haya cumplido más de la mitad de su mandato. Corresponderá a las Asambleas Regionales elaborar y aprobar su propio reglamento, en los términos de la Constitución y el Estatuto Regional respectivo.",
+        "number": "284",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 39,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "‘‘escaños reservados para los pueblos y naciones preexistentes al Estado’’",
+        "content_to_remove": "‘‘plurinacionalidad’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "De la Asamblea Legislativa Regional. La Asamblea Legislativa Regional es el órgano de representación popular, colegiado, autónomo, plurinacional y paritario, dotado de potestades legislativas, resolutivas y fiscalizadoras en el ámbito de sus competencias, en conformidad a la Constitución y las leyes. La Asamblea Legislativa Regional estará integrada por el número de Asambleístas Legislativos Regionales que fije la ley nacional en proporción a la población regional, bajo criterios de representatividad territorial, paridad de género y escaños reservados para los pueblos y naciones preexistentes al Estado. La elección de los Asambleístas Regionales será por sufragio universal, directo y secreto, en conformidad a la ley nacional. Los y las Asambleístas Regionales ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos consecutivamente sólo una vez para el período inmediatamente siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando él o la Asambleísta Regional haya cumplido más de la mitad de su mandato. Los requisitos y exigencias para acceder al cargo estarán establecidos por la ley. Corresponderá a las Asambleas Regionales elaborar y aprobar su propio reglamento, en los términos de la Constitución y el Estatuto Regional respectivo.",
+        "number": "293",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 39,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "‘‘Los requisitos y exigencias para acceder al cargo estarán establecidos por la ley’’",
+        "placement_instructions": "luego del punto aparte, que pasa a ser punto seguido"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "De la Asamblea Legislativa Regional. La Asamblea Legislativa Regional es el órgano de representación popular, colegiado, autónomo, plurinacional y paritario, dotado de potestades legislativas, resolutivas y fiscalizadoras en el ámbito de sus competencias, en conformidad a la Constitución y las leyes. La Asamblea Legislativa Regional estará integrada por el número de Asambleístas Legislativos Regionales que fije la ley nacional en proporción a la población regional, bajo criterios de representatividad territorial, paridad de género y escaños reservados para los pueblos y naciones preexistentes al Estado. La elección de los Asambleístas Regionales será por sufragio universal, directo y secreto, en conformidad a la ley nacional. Los y las Asambleístas Regionales ejercerán sus funciones por el término de cuatro años, pudiendo ser reelegidos consecutivamente sólo una vez para el período inmediatamente siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando él o la Asambleísta Regional haya cumplido más de la mitad de su mandato. Los requisitos y exigencias para acceder al cargo estarán establecidos por la ley. Corresponderá a las Asambleas Regionales elaborar y aprobar su propio reglamento, en los términos de la Constitución y el Estatuto Regional respectivo. Las leyes regionales procurarán suprimir los obstáculos que impidan la plena igualdad en el goce de derechos, en la vida social, cultural y económica, tomando en cuenta especialmente la diversidad geográfica y cultural, la igualdad y la lucha contra la violencia de género, la igualdad de las diversidades de género y sexuales, la existencia de Pueblos Originarios y las acciones afirmativas necesarias para el goce de derechos de individuos o grupos históricamente marginados.",
+        "number": "298",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 39,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "“Las leyes regionales procurarán suprimir los obstáculos que impidan la plena igualdad en el goce de derechos, en la vida social, cultural y económica, tomando en cuenta especialmente la diversidad geográfica y cultural, la igualdad y la lucha contra la violencia de género, la igualdad de las diversidades de género y sexuales, la existencia de Pueblos Originarios y las acciones afirmativas necesarias para el goce de derechos de individuos o grupos históricamente marginados.”",
+        "placement_instructions": "como inciso final"
+      }
     ]
   },
   {
@@ -2392,6 +3185,37 @@
       "Pustilnick, Tammy",
       "Reyes, Maria Ramona",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 40",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo Social Regional. El Consejo Social Regional es el órgano encargado de promover la participación popular en los asuntos públicos, del control y de la fiscalización ciudadana de la función pública. Su organización e integración será representativa de las organizaciones de la sociedad civil, considerando paridad de género, plurinacionalidad y la representación de al menos un representante de las asambleas sociales comunales en su configuración. Su duración, composición y los procedimientos de elección serán determinados por los Estatutos Regionales. Sus competencias serán consultivas, participativas e incidentes respecto de las estrategias de desarrollo y financiamiento regional, instrumentos de planificación y ordenamiento territorial, Presupuesto Regional Anual, y otras reguladas por el Estatuto Regional. La Constitución y la ley establecerán las bases de los mecanismos y procedimientos de participación popular, velando por un involucramiento efectivo de las personas y sus organizaciones dentro de la Región Autónoma. El Gobernador o Gobernadora Regional y las jefaturas de los servicios públicos regionales deberán rendir cuenta ante el Consejo Social Regional, a lo menos, una vez al año de la ejecución presupuestaria y el desarrollo de proyectos en los términos prescritos por el Estatuto Regional.",
+        "number": "300",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 40,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "‘‘Artículo 40. Del Consejo Social Regional. El Consejo Social Regional es el órgano encargado de promover la participación popular en los asuntos públicos, del control y de la fiscalización ciudadana de la función pública. Su organización e integración será representativa de las organizaciones de la sociedad civil, considerando paridad de género, plurinacionalidad y la representación de al menos un representante de las asambleas sociales comunales en su configuración. Su duración, composición y los procedimientos de elección serán determinados por los Estatutos Regionales. Sus competencias serán consultivas, participativas e incidentes respecto de las estrategias de desarrollo y financiamiento regional, instrumentos de planificación y ordenamiento territorial, Presupuesto Regional Anual, y otras reguladas por el Estatuto Regional. La Constitución y la ley establecerán las bases de los mecanismos y procedimientos de participación popular, velando por un involucramiento efectivo de las personas y sus organizaciones dentro de la Región Autónoma. El Gobernador o Gobernadora Regional y las jefaturas de los servicios públicos regionales deberán rendir cuenta ante el Consejo Social Regional, a lo menos, una vez al año de la ejecución presupuestaria y el desarrollo de proyectos en los términos prescritos por el Estatuto Regional’’"
+      }
     ]
   },
   {
@@ -2413,7 +3237,40 @@
       "Bravo, Daniel",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 40 A",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "310 y 311",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": "40 A",
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART40B",
@@ -2432,7 +3289,42 @@
       "Meneses, Janis",
       "Alvarado, Gloria",
       "Royo, Manuela"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 40 B",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "324 y 325",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": "40 B",
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART41",
@@ -2451,7 +3343,43 @@
       "Meneses, Janis",
       "Alvarado, Gloria",
       "Royo, Manuela"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 41",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "331, 332 y 333",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 41,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART42",
@@ -2470,7 +3398,40 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "343 y 345",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 42,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART43",
@@ -2489,7 +3450,40 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 43",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "346 y 347",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 43,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART44",
@@ -2508,7 +3502,40 @@
       "Neumann, Ricardo",
       "Rivera, Pollyana",
       "Arancibia, Jorge"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 44",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "348 y 349",
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 44,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART45",
@@ -2541,6 +3568,395 @@
       "Henriquez, Natalia",
       "Mella, Jeniffer",
       "Villena, Ingrid"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos regulados en la legislación respectiva. 5. El desarrollo de la investigación y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación regionales; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques y los parques con protección especial, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "358",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "‘‘4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos regulados en la legislación respectiva”."
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación regionales; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques y los parques con protección especial, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "359",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 45,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "“establecidos en la Constitución y las leyes”",
+        "content_to_remove": "“regulados en la legislación respectiva”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación regionales; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques y los parques con protección especial, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "360",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "‘‘, tecnología’’",
+        "placement_instructions": "luego de la palabra ‘‘investigación’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques y los parques con protección especial, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "362",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "‘‘ambientales de la región autónoma’’",
+        "content_to_remove": "‘‘regionales’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques y los parques con protección especial, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "363",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "‘‘respetando la universalidad de los derechos garantizados por esta Constitución’’",
+        "placement_instructions": "luego del punto aparte, que pasa a ser una coma ‘‘,’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "367",
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 45,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "“, las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades”",
+        "content_to_remove": "“y los parques con protección especial”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "369",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "“en coordinación con la Comuna Autónoma”",
+        "placement_instructions": "luego del punto aparte “.”, que pasa a ser una coma “,”"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "375",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "‘‘Constitución y en la’’",
+        "placement_instructions": "luego de la frase ‘‘regulados en la’’"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Las demás competencias que determine la Constitución y ley nacional. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "376",
+        "authors_matched": [
+          "Velasquez, Hernan"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "WORDING",
+        "content": "“El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género.”",
+        "placement_instructions": "después del punto aparte"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. 21. Es deber de las entidades territoriales, en el ámbito de sus competencias y en sus territorios jurisdiccionales, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "377",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "‘‘20.- Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza’’."
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. 21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "380",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "‘‘21.- Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia’’."
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. 21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia. 22. Promover la participación popular en asuntos de interés regional. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "382",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "‘‘22.- Promover la participación popular en asuntos de interés regional’’.",
+        "placement_instructions": "un nuevo numeral"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. 21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia. 22. Promover la participación popular en asuntos de interés regional. 23. Las demás competencias que determine la Constitución y ley nacional. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "383",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "‘‘Las demás competencias que determine la Constitución y ley nacional’’",
+        "placement_instructions": "un nuevo numeral 23"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. 21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia. 22. Promover la participación popular en asuntos de interés regional. 23. Las demás competencias que determine la Constitución y ley nacional. 24. La administración del dominio público minero y de las aguas existentes en el territorio de la Región Autónoma, en coordinación con los órganos que establezca la Constitución y la ley. De manera excepcional, el ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "384",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 45,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "“X.- La administración del dominio público minero y de las aguas existentes en el territorio de la Región Autónoma, en coordinación con los órganos que establezca la Constitución y la ley”.",
+        "placement_instructions": "un nuevo numeral"
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "De las competencias de la Región autónoma. Son competencias de la Región autónoma: 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto; 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes. 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 4.- Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes. 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional. 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio. 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma; 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 9. La planificación, ordenamiento territorial y manejo integrado de cuencas. 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución. 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma. 12. La planificación e implementación de la conectividad física y digital. 13. La promoción y fomento del deporte, el ocio y la recreación. 14. La regulación y administración del borde costero y maritorio de la Región autónoma, en el ámbito de sus competencias. 15. La regulación y administración de los bosques , las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias. 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma. 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales. 18. Crear, modificar y suprimir contribuciones especiales y tasas, o establecer beneficios tributarios respecto de estas, dentro de su territorio, orientado por el principio de equivalencia y en el marco que determine la ley. 19. Crear empresas públicas regionales en conformidad a los procedimientos regulados en la Constitución y en la legislación respectiva. El Gobierno Regional deberá presentar un informe presupuestario... Esta designación se orientará por criterios de mérito, experiencia y equidad de género. 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza. 21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia. 22. Promover la participación popular en asuntos de interés regional. 23. Las demás competencias que determine la Constitución y ley nacional. 24. La administración del dominio público minero y de las aguas existentes en el territorio de la Región Autónoma, en coordinación con los órganos que establezca la Constitución y la ley. El ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia coordinada con otros órganos del Estado en materias relacionadas con educación, vivienda, urbanismo, culturas, salud, transporte, conectividad y protección de la naturaleza.",
+        "number": "387 y 388",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 45,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "‘‘De manera excepcional’’"
+      }
     ]
   },
   {
@@ -2560,7 +3976,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 46",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "390",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 46,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART47",
@@ -2579,7 +4027,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 47",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "395",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 47,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART48",
@@ -2598,7 +4078,39 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "397",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 48,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART49",
@@ -3107,7 +4619,7 @@
     "article_uid": "C3-GEN-CH01-ART70",
     "article": "Artículo 70",
     "timestamp": "01-27",
-    "text": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Recaudar los tributos establecidos por las leyes regionales, como aquellos cuya recaudación sea delegada por el Gobierno. 10. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 11. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 12. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 13. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 14. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 15. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 16. La administración del borde costero y territorio marítimo de la Región Autónoma. 17. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 18. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
+    "text": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Recaudar los tributos establecidos por las leyes regionales, como aquellos cuya recaudación sea delegada por el Gobierno. 10. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 11. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 12. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 13. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 14. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 15. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 16. La administración del borde costero y territorio marítimo de la Región Autónoma 17. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 18. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
     "sources": [
       "120-3"
     ],
