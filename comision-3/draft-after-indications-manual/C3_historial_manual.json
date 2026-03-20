@@ -4129,7 +4129,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 49",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 401,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 49,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART50",
@@ -4148,7 +4182,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 50",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 412,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 50,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART51",
@@ -4167,7 +4235,47 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 51",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 416,
+        "authors_matched": [
+          "Rivera, Maria Magdalena",
+          "Arancibia, Jorge",
+          "Jurgensen, Harry",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 51,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART52",
@@ -4186,7 +4294,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 52",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 421,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 52,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART53",
@@ -4205,7 +4347,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 53",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 432,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 53,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART54",
@@ -4229,13 +4405,51 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 54",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 437,
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Rivera, Maria Magdalena",
+          "Arancibia, Jorge",
+          "Jurgensen, Harry"
+        ],
+        "target_article": 54,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART55",
     "article": "Artículo 55",
     "timestamp": "01-27",
-    "text": "De las entidades con competencias sobre todo el territorio. La ley determinará cuáles Servicios Públicos, Instituciones Autónomas o Empresas del Estado... mantendrán una organización centralizada y desconcentrada en todo el territorio de la República. No obstante ello, los siguientes órganos constitucionales del Estado mantendrán una organización centralizada: las fuerzas armadas, las policías nacionales y gendarmería, así como la Tesorería General de la República, el Servicio de Impuestos Internos, la CORFO y el Banco Central. La ley y el Estado Central, cuando corresponda, propenderá a la distribución equitativa de las sedes principales de las entidades centralizadas a lo largo del territorio de la República.",
+    "text": "De las entidades con competencias sobre todo el territorio. La ley determinará cuáles Servicios Públicos, Instituciones Autónomas o Empresas del Estado, en virtud de sus fines fiscalizadores, o por razones de eficiencia y de interés general, mantendrán una organización centralizada y desconcentrada en todo el territorio de la República. No obstante ello, los siguientes órganos constitucionales del Estado mantendrán una organización centralizada: las fuerzas armadas, las policías nacionales y gendarmería, así como la Tesorería General de la República, el Servicio de Impuestos Internos, la CORFO y el Banco Central. La ley y el Estado Central, cuando corresponda, propenderá a la distribución equitativa de las sedes principales de las entidades centralizadas a lo largo del territorio de la República.",
     "sources": [
       "122-3"
     ],
@@ -4253,6 +4467,39 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 55",
+        "step": "Indicación",
+        "content_snapshot": "De las entidades con competencias sobre todo el territorio. La ley determinará cuáles Servicios Públicos, Instituciones Autónomas o Empresas del Estado, en virtud de sus fines fiscalizadores, o por razones de eficiencia y de interés general, mantendrán una organización centralizada y desconcentrada en todo el territorio de la República.",
+        "number": 464,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 55,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -4277,13 +4524,175 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Titular del Poder Ejecutivo Central y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto. Son facultades del Consejo de Gobernadores: a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones; b) La coordinación macroeconómica, tributaria, fiscal y presupuestaria entre el Estado Central y las Regiones; c) Velar por el respeto de la autonomía de las entidades territoriales; d) Velar por el correcto funcionamiento del mecanismo de igualación fiscal; e) Resolver en primera instancia cuestiones de competencia entre Regiones Autónomas y entre los órganos regionales y el Estado Central.",
+        "number": 470,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 56,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "Del Consejo de Gobernaciones",
+        "content_to_remove": "Del Consejo de Gobernadores",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto. Son facultades del Consejo de Gobernadores: a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones; b) La coordinación macroeconómica, tributaria, fiscal y presupuestaria entre el Estado Central y las Regiones; c) Velar por el respeto de la autonomía de las entidades territoriales; d) Velar por el correcto funcionamiento del mecanismo de igualación fiscal; e) Resolver en primera instancia cuestiones de competencia entre Regiones Autónomas y entre los órganos regionales y el Estado Central.",
+        "number": 471,
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 56,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "Presidente de la República",
+        "content_to_remove": "Titular del Poder Ejecutivo Central",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto. Son facultades del Consejo de Gobernadores: a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones; b) La coordinación macroeconómica, tributaria, fiscal y presupuestaria entre el Estado Central y las Regiones; c) Velar por el respeto de la autonomía de las entidades territoriales; d) Velar por el correcto funcionamiento del mecanismo de igualación fiscal.",
+        "number": 479,
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 56,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto. Son facultades del Consejo de Gobernadores: a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones; b) La coordinación macroeconómica, tributaria, fiscal y presupuestaria entre el Estado Central y las Regiones; c) Velar por el respeto de la autonomía de las entidades territoriales; d) Velar por el correcto funcionamiento del mecanismo de igualación fiscal; e) Convocar encuentros sectoriales entre entidades territoriales.",
+        "number": 483,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 56,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "x) Convocar encuentros sectoriales entre entidades territoriales.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto. Son facultades del Consejo de Gobernadores: a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones; b) La coordinación macroeconómica, tributaria, fiscal y presupuestaria entre el Estado Central y las Regiones; c) Velar por el respeto de la autonomía de las entidades territoriales; d) Velar por el correcto funcionamiento del mecanismo de igualación fiscal; e) Convocar encuentros sectoriales entre entidades territoriales; f) Participar en la elaboración de la Ley de Presupuestos Nacional.",
+        "number": 484,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 56,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "xx) Participar en la elaboración de la Ley de Presupuestos Nacional.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto. Son facultades del Consejo de Gobernadores: a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones; b) La coordinación macroeconómica, tributaria, fiscal y presupuestaria entre el Estado Central y las Regiones; c) Velar por el respeto de la autonomía de las entidades territoriales; d) Velar por el correcto funcionamiento del mecanismo de igualación fiscal; e) Convocar encuentros sectoriales entre entidades territoriales; f) Participar en la elaboración de la Ley de Presupuestos Nacional; g) Las demás que establezcan la Constitución y la ley.",
+        "number": 485,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 56,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "xxx) Las demás que establezcan la Constitución y la ley.",
+        "content_to_remove": null,
+        "placement_instructions": "al final"
+      }
     ]
   },
   {
     "article_uid": "C3-GEN-CH01-ART57",
     "article": "Artículo 57",
     "timestamp": "01-27",
-    "text": "De los Ministerios y Servicios Públicos. La ley determinará el número y organización de los Ministerios y Servicios Públicos. Las Regiones Autónomas y Municipios... contarán con todas las competencias necesarias para administrar los Ministerios y Servicios Públicos Regionales. El Estado Central tendrá la obligación, mediante la ley, de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones en las distintas entidades territoriales de la República. El Estado Central tendrá facultades supletorias de carácter temporal, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de las facultades supletorias. La Constitución y las leyes determinarán las competencias de cada entidad territorial, de acuerdo al principio según el cual la entidad de nivel regional tendrá competencia preeminente sobre las entidades de nivel central en relación a las funciones de autogobierno que puedan ser cumplidas de modo eficaz. El Estado Central tendrá competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los Servicios Públicos Regionales y Municipales. La ley regulará el ejercicio de las competencias complementarias. La ley establecerá las atribuciones de la Subsecretaría de Desarrollo Regional y Administrativo relativas a las competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los servicios públicos regionales.",
+    "text": "De los Ministerios y Servicios Públicos. La ley determinará el número y organización de los Ministerios y Servicios Públicos. Las Regiones Autónomas y Municipios, en conformidad a la Constitución, contarán con todas las competencias necesarias para administrar los Ministerios y Servicios Públicos Regionales. El Estado Central tendrá la obligación, mediante la ley, de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones en las distintas entidades territoriales de la República. El Estado Central tendrá facultades supletorias de carácter temporal, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de las facultades supletorias. La Constitución y las leyes determinarán las competencias de cada entidad territorial, de acuerdo al principio según el cual la entidad de nivel regional tendrá competencia preeminente sobre las entidades de nivel central en relación a las funciones de autogobierno que puedan ser cumplidas de modo eficaz. El Estado Central tendrá competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los Servicios Públicos Regionales y Municipales. La ley regulará el ejercicio de las competencias complementarias. La ley establecerá las atribuciones de la Subsecretaría de Desarrollo Regional y Administrativo relativas a las competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los servicios públicos regionales.",
     "sources": [
       "122-3"
     ],
@@ -4301,6 +4710,132 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "De los Ministerios y Servicios Públicos. Las Regiones Autónomas y Municipios, en conformidad a la Constitución, contarán con todas las competencias necesarias para administrar los Ministerios y Servicios Públicos Regionales. El Estado Central tendrá la obligación, mediante la ley, de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones en las distintas entidades territoriales de la República. El Estado Central tendrá facultades supletorias de carácter temporal, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de las facultades supletorias. La Constitución y las leyes determinarán las competencias de cada entidad territorial, de acuerdo al principio según el cual la entidad de nivel regional tendrá competencia preeminente sobre las entidades de nivel central en relación a las funciones de autogobierno que puedan ser cumplidas de modo eficaz. El Estado Central tendrá competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los Servicios Públicos Regionales y Municipales. La ley regulará el ejercicio de las competencias complementarias. La ley establecerá las atribuciones de la Subsecretaría de Desarrollo Regional y Administrativo relativas a las competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los servicios públicos regionales.",
+        "number": 487,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 57,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "De los Ministerios y Servicios Públicos. Las Regiones Autónomas y Municipios, en conformidad a la Constitución, contarán con todas las competencias necesarias para administrar los Ministerios y Servicios Públicos Regionales. El Estado Central tendrá la obligación, mediante la ley, de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones en las distintas entidades territoriales de la República. El Estado Central tendrá facultades supletorias de carácter temporal, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de las facultades supletorias. El Estado Central tendrá competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los Servicios Públicos Regionales y Municipales. La ley regulará el ejercicio de las competencias complementarias. La ley establecerá las atribuciones de la Subsecretaría de Desarrollo Regional y Administrativo relativas a las competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los servicios públicos regionales.",
+        "number": 491,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 57,
+        "action": "DELETE",
+        "target_scope": "INCISO 5",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "De los Ministerios y Servicios Públicos. Las Regiones Autónomas y Municipios, en conformidad a la Constitución, contarán con todas las competencias necesarias para administrar los Ministerios y Servicios Públicos Regionales. El Estado Central tendrá la obligación, mediante la ley, de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones en las distintas entidades territoriales de la República. El Estado Central tendrá facultades supletorias de carácter temporal, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de las facultades supletorias. El Estado Central tendrá competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los Servicios Públicos Regionales y Municipales. La ley establecerá las atribuciones de la Subsecretaría de Desarrollo Regional y Administrativo relativas a las competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los servicios públicos regionales.",
+        "number": 494,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 57,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "La ley regulará el ejercicio de las competencias complementarias",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "De los Ministerios y Servicios Públicos. Las Regiones Autónomas y Municipios, en conformidad a la Constitución, contarán con todas las competencias necesarias para administrar los Ministerios y Servicios Públicos Regionales. El Estado Central tendrá la obligación, mediante la ley, de garantizar el respeto, protección y realización progresiva de los derechos económicos y sociales en igualdad de condiciones en las distintas entidades territoriales de la República. El Estado Central tendrá facultades supletorias de carácter temporal, cuando las entidades territoriales no puedan cumplir eficientemente sus mandatos. La ley regulará el ejercicio de las facultades supletorias. El Estado Central tendrá competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los Servicios Públicos Regionales y Municipales. La ley establecerá las atribuciones relativas a las competencias complementarias, de coordinación y cooperación, sobre el funcionamiento de los servicios públicos regionales.",
+        "number": 497,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 57,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "de la Subsecretaría de Desarrollo Regional y Administrativo",
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -4325,7 +4860,33 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 58",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 498,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 58,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART59",
@@ -4354,7 +4915,41 @@
       "Arancibia, Jorge",
       "Vega, Roberto",
       "Toloza, Pablo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 59",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 503,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 59,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART60",
@@ -4383,7 +4978,41 @@
       "Arancibia, Jorge",
       "Vega, Roberto",
       "Toloza, Pablo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 61",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 506,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 60,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART61",
@@ -4412,7 +5041,41 @@
       "Arancibia, Jorge",
       "Vega, Roberto",
       "Toloza, Pablo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 62",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 507,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 61,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART62",
@@ -4441,7 +5104,41 @@
       "Arancibia, Jorge",
       "Vega, Roberto",
       "Toloza, Pablo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 62",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 510,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 62,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART63",
@@ -4460,7 +5157,41 @@
       "Harboe, Felipe",
       "Squella, Agustin",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 63",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 511,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 63,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART64",
@@ -4484,7 +5215,46 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 64",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 524,
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Vergara, Lisette",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 64,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART65",
@@ -4508,7 +5278,48 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 65",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 533,
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Rivera, Maria Magdalena",
+          "Arancibia, Jorge",
+          "Jurgensen, Harry",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 65,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART66",
@@ -4532,7 +5343,33 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 66",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 561,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Martinez, Helmuth",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 66,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART67",
@@ -4559,7 +5396,94 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "article": "Artículo 67",
+        "step": "Indicación",
+        "content_snapshot": "Atribuciones exclusivas de la Asamblea Legislativa Regional. Son atribuciones exclusivas de la Asamblea Legislativa Regional las siguientes: 1. La dictación de leyes regionales sobre materias de competencia de la Región Autónoma, conforme a la Constitución. 2. Dictar su reglamento interno de funcionamiento. 3. Debatir, aprobar, rechazar o modificar el Plan de Desarrollo Regional en conformidad al Estatuto Regional, oyendo previamente al Gobierno Regional. 4. Debatir, aprobar, rechazar o modificar el proyecto de Presupuesto Regional, con arreglo al Plan de Desarrollo Regional, oyendo previamente al Gobierno Regional. La Asamblea Regional deberá pronunciarse sobre la propuesta de Presupuesto Regional dentro de los treinta días siguientes a su presentación. En caso de que la Asamblea Regional no lo despache dentro del término señalado, regirá lo propuesto por el Gobierno Regional. 5. Debatir, aprobar, rechazar o modificar el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad a lo dispuesto en el Estatuto Regional y la ley. 6. Fijar, modificar o suprimir contribuciones y tasas o establecer beneficios tributarios de carácter regional en conformidad a esta Constitución y la ley. 7. Aprobar la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 8. Autorizar la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley, previa solicitud del Gobierno Regional. 9. Fiscalizar los actos del Gobierno Regional de acuerdo con el procedimiento establecido en el Estatuto Regional. 10. Fiscalizar los actos de la administración regional para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la Región autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales, en conformidad a la Constitución, el Estatuto Regional y la ley. 11. Las demás competencias que le atribuyen la Constitución, el Estatuto Regional y la ley.",
+        "number": 568,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 67,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 67.- Atribuciones exclusivas de la Asamblea Legislativa Regional. Son atribuciones exclusivas de la Asamblea Legislativa Regional las siguientes: 1. La dictación de leyes regionales sobre materias de competencia de la Región Autónoma, conforme a la Constitución. 2. Dictar su reglamento interno de funcionamiento. 3. Debatir, aprobar, rechazar o modificar el Plan de Desarrollo Regional en conformidad al Estatuto Regional, oyendo previamente al Gobierno Regional. 4. Debatir, aprobar, rechazar o modificar el proyecto de Presupuesto Regional, con arreglo al Plan de Desarrollo Regional, oyendo previamente al Gobierno Regional. La Asamblea Regional deberá pronunciarse sobre la propuesta de Presupuesto Regional dentro de los treinta días siguientes a su presentación. En caso de que la Asamblea Regional no lo despache dentro del término señalado, regirá lo propuesto por el Gobierno Regional. 5. Debatir, aprobar, rechazar o modificar el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad a lo dispuesto en el Estatuto Regional y la ley. 6. Fijar, modificar o suprimir contribuciones y tasas o establecer beneficios tributarios de carácter regional en conformidad a esta Constitución y la ley. 7. Aprobar la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 8. Autorizar la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley, previa solicitud del Gobierno Regional. 9. Fiscalizar los actos del Gobierno Regional de acuerdo con el procedimiento establecido en el Estatuto Regional. 10. Fiscalizar los actos de la administración regional para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la Región autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales, en conformidad a la Constitución, el Estatuto Regional y la ley. 11. Las demás competencias que le atribuyen la Constitución, el Estatuto Regional y la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
+  },
+  {
+    "article_uid": "C3-IND02-14-CH01-ART67bis",
+    "article": "Artículo 67 bis",
+    "step": "Indicación",
+    "text": "Competencia exclusiva de la legislación regional. Son materias de la ley regional: 1. La organización política, administrativa y financiera del Gobierno Regional. 2. El desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 3. Investigación, tecnología y ciencias en la Región Autónoma. 4. Conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua, bosques y los demás elementos naturales de su territorio y maritorio. 5. Culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 6. Participación popular en la Región Autónoma. 7. Contribuciones, tasas y beneficios tributarios regionales.",
+    "number": 605,
+    "authors_matched": [
+      "Mella, Jeniffer",
+      "Gomez, Yarela",
+      "Ampuero, Adriana",
+      "Giustinianovich, Elisa",
+      "Alvez, Amaya",
+      "Uribe, Cesar",
+      "Aguilera, Tiare",
+      "Millabur, Adolfo",
+      "Pustilnick, Tammy",
+      "Reyes, Maria Ramona",
+      "Gomez, Claudio",
+      "Alvarez, Julio",
+      "Andrade, Cristobal",
+      "Velasquez, Hernan",
+      "Martinez, Helmuth",
+      "Quinteros, Maria Elisa"
+    ],
+    "target_article": 67,
+    "action": "ADD",
+    "target_scope": "TOTAL",
+    "content": "Art 67 bis. Competencia exclusiva de la legislación regional. Son materias de la ley regional: 1. La organización política, administrativa y financiera del Gobierno Regional. 2. El desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 3. Investigación, tecnología y ciencias en la Región Autónoma. 4. Conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua, bosques y los demás elementos naturales de su territorio y maritorio. 5. Culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 6. Participación popular en la Región Autónoma. 7. Contribuciones, tasas y beneficios tributarios regionales.",
+    "content_to_remove": null,
+    "placement_instructions": null
+  },
+  {
+    "article_uid": "C3-IND02-14-CH01-ART67quater",
+    "article": "Artículo 67 ter",
+    "step": "Indicación",
+    "text": "De las competencias legislativas concurrentes. El Congreso Plurinacional y cada Asamblea Legislativa Regional tendrán potestades legislativas concurrentes. Se entenderán potestades legislativas concurrentes aquellas en que las Regiones Autónomas le corresponde la potestad legislativa específica, con la excepción de la determinación de los principios o reglas generales en una ley marco que le corresponde al Congreso Plurinacional. Son materias de legislación concurrente: 1) La coordinación tributaria; 2) La coordinación presupuestaria; 3) La creación de instituciones financieras y crediticias regionales, tales como bancos locales y rurales; 4) La creación de entidades de crédito inmobiliario y agrario regionales; 5) La política de desarrollo cultural y de educación regional, y la creación de instituciones de educación superior y técnica; 6) La protección de la soberanía alimentaria; 7) La investigación científica y tecnológica regional; 8) La suscripción de deuda pública regional y municipal; 9) El diseño y ejecución de proyectos de infraestructura interregional; 10) La regulación de los bienes fiscales y de los bienes nacionales de uso público, incluyendo las minas y los demás bienes comunes naturales. 11) La regulación de la organización sindical, la negociación o conflicto colectivo y la huelga; 12) El diseño y ejecución de proyectos de Infraestructura energética interregional; 13) La política de realización progresiva de los derechos económicos, sociales y culturales; 14) Creación de entidades de coordinación relativas a la provisión de servicios públicos esenciales; 15) La regulación de la responsabilidad por daño ambiental; 16) La política de protección de los derechos e inclusión social de personas con discapacidades; 17. Planificación, obras públicas, ordenamiento territorial y manejo integrado de cuencas en la Región Autónoma. 18. Vivienda, urbanismo, salud, educación, transporte, conectividad digital, turismo, deporte, ocio y recreación en la Región Autónoma.",
+    "number": 607,
+    "authors_matched": [
+      "Millabur, Adolfo",
+      "Aguilera, Tiare",
+      "Alvez, Amaya",
+      "Mella, Jeniffer",
+      "Gomez, Yarela",
+      "Giustinianovich, Elisa",
+      "Quinteros, Maria Elisa",
+      "Uribe, Cesar"
+    ],
+    "target_article": 67,
+    "action": "ADD",
+    "target_scope": "TOTAL",
+    "content": "De las competencias legislativas concurrentes. El Congreso Plurinacional y cada Asamblea Legislativa Regional tendrán potestades legislativas concurrentes. Se entenderán potestades legislativas concurrentes aquellas en que las Regiones Autónomas le corresponde la potestad legislativa específica, con la excepción de la determinación de los principios o reglas generales en una ley marco que le corresponde al Congreso Plurinacional. Son materias de legislación concurrente: 1) La coordinación tributaria; 2) La coordinación presupuestaria; 3) La creación de instituciones financieras y crediticias regionales, tales como bancos locales y rurales; 4) La creación de entidades de crédito inmobiliario y agrario regionales; 5) La política de desarrollo cultural y de educación regional, y la creación de instituciones de educación superior y técnica; 6) La protección de la soberanía alimentaria; 7) La investigación científica y tecnológica regional; 8) La suscripción de deuda pública regional y municipal; 9) El diseño y ejecución de proyectos de infraestructura interregional; 10) La regulación de los bienes fiscales y de los bienes nacionales de uso público, incluyendo las minas y los demás bienes comunes naturales. 11) La regulación de la organización sindical, la negociación o conflicto colectivo y la huelga; 12) El diseño y ejecución de proyectos de Infraestructura energética interregional; 13) La política de realización progresiva de los derechos económicos, sociales y culturales; 14) Creación de entidades de coordinación relativas a la provisión de servicios públicos esenciales; 15) La regulación de la responsabilidad por daño ambiental; 16) La política de protección de los derechos e inclusión social de personas con discapacidades; 17. Planificación, obras públicas, ordenamiento territorial y manejo integrado de cuencas en la Región Autónoma. 18. Vivienda, urbanismo, salud, educación, transporte, conectividad digital, turismo, deporte, ocio y recreación en la Región Autónoma.",
+    "content_to_remove": null,
+    "placement_instructions": null
   },
   {
     "article_uid": "C3-GEN-CH01-ART68",
@@ -4586,6 +5510,70 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 68",
+        "content_snapshot": "De la legislación regional. Las Asambleas Legislativas Regionales ejercerán la potestad legislativa dentro de la región autónoma correspondiente en conformidad con la Constitución, la ley y el Estatuto Regional. Las leyes regionales sólo podrán regir dentro de los límites territoriales de la región autónoma respectiva. En ausencia de legislación regional sobre las materias de competencia exclusiva de la Región Autónoma, regirá la legislación nacional de forma supletoria. En el caso de conflictos de competencias entre la normativa regional con el derecho nacional, prevalecerá esta última. El Congreso podrá establecer las disposiciones y principios para la orientación de la normativa regional. La legislación regional podrá fijar impuestos, cargas y tributos regionales en conformidad a los principios que determine esta Constitución y la ley. Sin embargo, no podrá establecer aranceles especiales a la importación, exportación o al libre tránsito de bienes entre regiones, ni limitar o reducir los derechos y garantías contemplados por esta Constitución y las leyes nacionales.",
+        "number": 628,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 68,
+        "action": "MODIFY_PHRASE",
+        "target_scope": "WORDING",
+        "content": "",
+        "content_to_remove": "Nacional",
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 68",
+        "content_snapshot": "De la legislación regional. Las Asambleas Legislativas Regionales ejercerán la potestad legislativa dentro de la región autónoma correspondiente en conformidad con la Constitución, la ley y el Estatuto Regional. Las leyes regionales sólo podrán regir dentro de los límites territoriales de la región autónoma respectiva. En ausencia de legislación regional sobre las materias de competencia exclusiva de la Región Autónoma, regirá la legislación nacional de forma supletoria. En el caso de conflictos de competencias entre la normativa regional con el derecho nacional, prevalecerá esta última. El Congreso podrá establecer las disposiciones y principios para la orientación de la normativa regional.",
+        "number": 632,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 68,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -4613,13 +5601,35 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 69",
+        "content_snapshot": "",
+        "number": 635,
+        "authors_matched": [
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 69,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART70",
     "article": "Artículo 70",
     "timestamp": "01-27",
-    "text": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Recaudar los tributos establecidos por las leyes regionales, como aquellos cuya recaudación sea delegada por el Gobierno. 10. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 11. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 12. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 13. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 14. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 15. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 16. La administración del borde costero y territorio marítimo de la Región Autónoma 17. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 18. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
+    "text": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Recaudar los tributos establecidos por las leyes regionales, como aquellos cuya recaudación sea delegada por el Gobierno. 10. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 11. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 12. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 13. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 14. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 15. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 16. La administración del borde costero y territorio marítimo de la Región Autónoma. 17. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 18. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
     "sources": [
       "120-3"
     ],
@@ -4640,6 +5650,135 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 70",
+        "content_snapshot": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 10. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 11. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 14. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 15. La administración del borde costero y territorio marítimo de la Región Autónoma. 16. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 17. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
+        "number": "679 y 680",
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa",
+          "Mena, Felipe",
+          "Navarrete, Geoconda",
+          "Jofre, Alvaro"
+        ],
+        "target_article": 70,
+        "action": "DELETE",
+        "target_scope": "INCISO",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 70",
+        "content_snapshot": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 10. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 11. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 14. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 15. La administración del borde costero y territorio marítimo de la Región Autónoma. 16. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 17. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma. 18. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
+        "number": 698,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 70,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "X. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma",
+        "content_to_remove": null,
+        "placement_instructions": "luego del n° 16"
+      },
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 70",
+        "content_snapshot": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 10. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 11. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 14. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 15. La administración del borde costero y territorio marítimo de la Región Autónoma. 16. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 17. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma. 18. Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la Región Autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo. 19. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.",
+        "number": 702,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 70,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "X. Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la Región Autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo",
+        "content_to_remove": null,
+        "placement_instructions": "luego del n°17"
+      },
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 70",
+        "content_snapshot": "De las atribuciones exclusivas del Gobierno Regional. Son atribuciones exclusivas de los Gobiernos Regionales las siguientes: 1. Preparar y presentar ante la Asamblea Legislativa Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional. 2. Preparar y presentar ante la Asamblea Legislativa Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional. 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional. 4. Preparar y presentar ante la Asamblea Legislativa Regional el plan regional de ordenamiento territorial y manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley. 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región. 6. Ejercer la potestad reglamentaria a través de decretos regionales en conformidad a la Constitución y el Estatuto Regional, para la ejecución de la legislación regional. 7. Concurrir a la formación de las leyes regionales en conformidad al procedimiento que establece el Estatuto Regional. 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma. 9. Proponer la creación de empresas públicas regionales o la participación en empresas para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, el Estatuto Regional y la ley. 10. Proponer la creación de provincias, las cuales deberán establecerse en el Estatuto Regional respectivo. Esta propuesta debe considerar la creación de la orgánica correspondiente, a la que el Gobierno Regional podrá delegar competencias. 11. Celebrar y suscribir, previa autorización de la Asamblea Legislativa Regional, la contratación de préstamos o empréstitos, en virtud de lo dispuesto por la Constitución, el Estatuto Regional y la ley. 12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial. 13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley. 14. Crear, suprimir o fusionar empleos públicos de su dependencia, fijar o modificar las plantas del personal del Gobierno Regional, estableciendo el número de cargos para cada planta y fijar sus grados, según lo previsto en la ley. 15. La administración del borde costero y territorio marítimo de la Región Autónoma. 16. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley. 17. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma. 18. Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la Región Autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo. 19. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes. Las normas dictadas en virtud de la potestad reglamentaria de la Presidencia de la República no podrán modificar ni derogar las establecidas por la potestad reglamentaria regional o local en el ámbito propio de las competencias de estas últimas.",
+        "number": 705,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 70,
+        "action": "ADD",
+        "target_scope": "INCISO",
+        "content": "Las normas dictadas en virtud de la potestad reglamentaria de la Presidencia de la República no podrán modificar ni derogar las establecidas por la potestad reglamentaria regional o local en el ámbito propio de las competencias de estas últimas",
+        "content_to_remove": null,
+        "placement_instructions": "un nuevo inciso final"
+      }
     ]
   },
   {
@@ -4667,7 +5806,41 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 71",
+        "content_snapshot": "",
+        "number": 706,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Ampuero, Adriana",
+          "Giustinianovich, Elisa",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Quinteros, Maria Elisa"
+        ],
+        "target_article": 71,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN-CH01-ART72",
@@ -4691,6 +5864,39 @@
       "Oyarzun, Maria Jose",
       "Abarca, Damaris",
       "Gutierrez, Hugo"
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 72",
+        "content_snapshot": "Del control y la fiscalización. La Contraloría General de la República, las Contralorías Regionales y la Dirección de Control Municipal, son órganos que ejercerán autonomía con el control y fiscalización del Poder Ejecutivo Central, de los Gobiernos Regionales y de los Municipios, respectivamente.",
+        "number": 712,
+        "authors_matched": [
+          "Millabur, Adolfo",
+          "Aguilera, Tiare",
+          "Alvez, Amaya",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Giustinianovich, Elisa",
+          "Quinteros, Maria Elisa",
+          "Uribe, Cesar",
+          "Ampuero, Adriana",
+          "Pustilnick, Tammy",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 72,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Artículo 72.- Del control y la fiscalización. La Contraloría General de la República, las Contralorías Regionales y la Dirección de Control Municipal, son órganos que ejercerán autonomía con el control y fiscalización del Poder Ejecutivo Central, de los Gobiernos Regionales y de los Municipios, respectivamente",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -4718,6 +5924,32 @@
       "Reyes, Maria Ramona",
       "Gomez, Claudio",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "02-14",
+        "step": "Indicación",
+        "article": "Artículo 73",
+        "content_snapshot": "",
+        "number": 724,
+        "authors_matched": [
+          "Millabur, Adolfo",
+          "Aguilera, Tiare",
+          "Alvez, Amaya",
+          "Mella, Jeniffer",
+          "Gomez, Yarela",
+          "Giustinianovich, Elisa",
+          "Quinteros, Maria Elisa",
+          "Uribe, Cesar"
+        ],
+        "target_article": 73,
+        "action": "DELETE",
+        "target_scope": "TOTAL",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   }
 ]
