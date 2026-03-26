@@ -24,6 +24,38 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 1",
+        "content_snapshot": "Crisis climática y ecológica. El Estado reconoce la existencia de la crisis climática y ecológica como consecuencia de la actividad humana. Es deber del Estado desarrollar acciones y adoptar medidas en todos los niveles para la gestión de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica, en función de los principios de acción climática justa, progresividad y no regresión, justicia intergeneracional, los derechos de los pueblos indígenas y la Naturaleza, y los principios establecidos por la Constitución y las Leyes. La ley establecerá los deberes del Estado y de las personas para enfrentar la crisis climática y ecológica.\n El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.",
+        "number": "2",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1. Crisis climática y ecológica. El Estado reconoce la existencia de la crisis climática y ecológica como consecuencia de la actividad humana. Es deber del Estado desarrollar acciones y adoptar medidas en todos los niveles para la gestión de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica, en función de los principios de acción climática justa, progresividad y no regresión, justicia intergeneracional, los derechos de los pueblos indígenas y la Naturaleza, y los principios establecidos por la Constitución y las Leyes. La ley establecerá los deberes del Estado y de las personas para enfrentar la crisis climática y ecológica. El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 1",
+        "content_snapshot": "Crisis climática y ecológica. Es deber del Estado adoptar acciones de prevención, adaptación, y mitigación de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica.\n El Estado promoverá el diálogo, cooperación y solidaridad internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica y proteger la Naturaleza.",
+        "number": 6,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1. Crisis climática y ecológica. Es deber del Estado adoptar acciones de prevención, adaptación, y mitigación de los riesgos, vulnerabilidades y efectos provocados por la crisis climática y ecológica.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -51,7 +83,70 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 2",
+        "content_snapshot": "Mejor evidencia científica y participación ciudadana. El Estado deberá destinar los recursos necesarios y crear un sistema que estudie y monitoree en forma permanente los efectos e impactos de la Crisis Climática y Ecológica en nuestro país, generando información basada en la mejor evidencia científica disponible y en las particularidades de los ecosistemas y comunidades afectadas, que oriente las decisiones de política pública y articule las actuaciones de los órganos competentes. El Estado organizará su acción ante la crisis climática y ecológica a través de planes e instrumentos que serán elaborados con la participación de la ciudadanía, previo proceso de consulta indígena en los términos establecidos por esta Constitución y las leyes.",
+        "number": "7",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2. Mejor evidencia científica y participación ciudadana. El Estado deberá destinar los recursos necesarios y crear un sistema que estudie y monitoree en forma permanente los efectos e impactos de la Crisis Climática y Ecológica en nuestro país, generando información basada en la mejor evidencia científica disponible y en las particularidades de los ecosistemas y comunidades afectadas, que oriente las decisiones de política pública y articule las actuaciones de los órganos competentes. El Estado organizará su acción ante la crisis climática y ecológica a través de planes e instrumentos que serán elaborados con la participación de la ciudadanía, previo proceso de consulta indígena en los términos establecidos por esta Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 2",
+        "content_snapshot": "",
+        "number": 1,
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 2",
+        "content_snapshot": "",
+        "number": 3,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 2",
+        "content_snapshot": "",
+        "number": 4,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART03",
@@ -78,7 +173,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 3",
+        "content_snapshot": "",
+        "number": "14",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART04",
@@ -105,7 +218,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 4",
+        "content_snapshot": "",
+        "number": "18",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART05",
@@ -132,7 +263,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 5",
+        "content_snapshot": "",
+        "number": "25",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART06",
@@ -159,7 +308,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 6",
+        "content_snapshot": "",
+        "number": "28",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART07",
@@ -186,7 +353,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 7",
+        "content_snapshot": "",
+        "number": "35",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART08",
@@ -213,7 +398,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 8",
+        "content_snapshot": "",
+        "number": "39",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART09",
@@ -240,7 +443,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 9",
+        "content_snapshot": "",
+        "number": "43",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH01-ART10",
@@ -267,7 +488,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 10",
+        "content_snapshot": "",
+        "number": "46",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH02-ART11",
@@ -292,7 +531,25 @@
       "Caamano, Francisco",
       "Gomez, Claudio",
       "Gallardo, Bessy"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 11",
+        "content_snapshot": "",
+        "number": "50",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH02-ART12",
@@ -317,7 +574,25 @@
       "Caamano, Francisco",
       "Gomez, Claudio",
       "Gallardo, Bessy"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 12",
+        "content_snapshot": "",
+        "number": "54",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 12,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH02-ART13",
@@ -342,7 +617,86 @@
       "Caamano, Francisco",
       "Gomez, Claudio",
       "Gallardo, Bessy"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 13",
+        "content_snapshot": "",
+        "number": "63",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo Nuevo",
+        "content_snapshot": "Para afrontar la crisis climática el Estado deberá fomentar las ciudades sostenibles a través de políticas, planes, programas u otros, que incorporen técnicas de construcción de bajo impacto ambiental, que implementen la eficiencia energética, la economía circular, los principios ambientales y otros que establecen esta constitución y las leyes que incentiven a la innovación y el rescate del patrimonio local, como las técnicas de Bioconstrucción.",
+        "number": "69",
+        "authors_matched": [
+          "San Juan, Constanza"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "ADD",
+        "content": "Artículo Nuevo. Para afrontar la crisis climática el Estado deberá fomentar las ciudades sostenibles a través de políticas, planes, programas u otros, que incorporen técnicas de construcción de bajo impacto ambiental, que implementen la eficiencia energética, la economía circular, los principios ambientales y otros que establecen esta constitución y las leyes que incentiven a la innovación y el rescate del patrimonio local, como las técnicas de Bioconstrucción.",
+        "content_to_remove": "",
+        "placement_instructions": "nuevo artículo final del apartado de Crisis Climática"
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 3",
+        "content_snapshot": "",
+        "number": 11,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 3",
+        "content_snapshot": "",
+        "number": 12,
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH04-ARTTN",
+    "timestamp": "03-01-2",
+    "article": "Artículo transitorio nuevo",
+    "text": "Servicio para la Crisis Climática y Ecológica. Un servicio para enfrentar la crisis climática y ecológica, dependiente del Ministerio del Medio Ambiente, será el órgano, de carácter técnico, encargado de abordar de manera transdisciplinaria e integral la Crisis Climática y Ecológica. Su conformación será establecida por ley, considerando una integración plurinacional, debiendo incluir participación vinculante de la sociedad civil. Dicho servicio se implementará en el plazo de 2 años.",
+    "number": "70",
+    "authors_matched": [
+      "Nunez, Nicolas"
+    ],
+    "target_article": 13,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo transitorio nuevo. Servicio para la Crisis Climática y Ecológica. Un servicio para enfrentar la crisis climática y ecológica, dependiente del Ministerio del Medio Ambiente, será el órgano, de carácter técnico, encargado de abordar de manera transdisciplinaria e integral la Crisis Climática y Ecológica. Su conformación será establecida por ley, considerando una integración plurinacional, debiendo incluir participación vinculante de la sociedad civil. Dicho servicio se implementará en el plazo de 2 años.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo transitorio en la temática 1 de Crisis Climática"
   },
   {
     "article_uid": "C5-GEN-CH04-ART14",
@@ -367,7 +721,137 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Gomez, Claudio"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 14",
+        "content_snapshot": "De los bienes comunes naturales. Los bienes comunes naturales son aquellos elementos o componentes de la Naturaleza que son comunes a todos los seres vivos y pueblos y naciones de Chile. Estos bienes no son susceptibles de apropiación y existe un interés general prioritario en su preservación para la existencia de las generaciones presentes y futuras. Para los pueblos y naciones preexistentes estos bienes tienen una dimensión espiritual que trasciende lo visible, donde cohabitan fuerzas protectoras de los componentes de la Naturaleza, quienes contribuyen y velan por la armonía y equilibrio de los espacios. El Estado es el custodio de los bienes comunes naturales y deberá preservarlos, asegurar su gestión participativa, gobernanza democrática y acceso responsable.",
+        "number": "74",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 14. De los bienes comunes naturales. Los bienes comunes naturales son aquellos elementos o componentes de la Naturaleza que son comunes a todos los seres vivos y pueblos y naciones de Chile. Estos bienes no son susceptibles de apropiación y existe un interés general prioritario en su preservación para la existencia de las generaciones presentes y futuras. Para los pueblos y naciones preexistentes estos bienes tienen una dimensión espiritual que trasciende lo visible, donde cohabitan fuerzas protectoras de los componentes de la Naturaleza, quienes contribuyen y velan por la armonía y equilibrio de los espacios. El Estado es el custodio de los bienes comunes naturales y deberá preservarlos, asegurar su gestión participativa, gobernanza democrática y acceso responsable.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 12",
+        "content_snapshot": "De los bienes comunes naturales. Los bienes comunes naturales son elementos o componentes de la Naturaleza no susceptibles de apropiación.\n El Estado es custodio de estos bienes, debiendo conservarlos, resguardarlos y administrarlos, asegurando una gestión participativa y democrática.\n El Estado podrá otorgar autorizaciones administrativas respecto de los bienes comunes naturales que la Constitución determine. Estas autorizaciones estarán sujetas a causales de caducidad, revocación y a obligaciones específicas de conservación. No habrá derechos de propiedad sobre dichas autorizaciones.\n Los pueblos indígenas tienen derechos colectivos a los bienes naturales situados en sus territorios, en conformidad con los tratados e instrumentos internacionales de derechos humanos de los que Chile es parte.",
+        "number": 53,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 12,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 12. De los bienes comunes naturales. Los bienes comunes naturales son elementos o componentes de la Naturaleza no susceptibles de apropiación. El Estado es custodio de estos bienes, debiendo conservarlos, resguardarlos y administrarlos, asegurando una gestión participativa y democrática. El Estado podrá otorgar autorizaciones administrativas respecto de los bienes comunes naturales que la Constitución determine. Estas autorizaciones estarán sujetas a causales de caducidad, revocación y a obligaciones específicas de conservación. No habrá derechos de propiedad sobre dichas autorizaciones. Los pueblos indígenas tienen derechos colectivos a los bienes naturales situados en sus territorios, en conformidad con los tratados e instrumentos internacionales de derechos humanos de los que Chile es parte.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH04-ARTAN15",
+    "timestamp": "03-01-2",
+    "article": "Artículo nuevo",
+    "text": "Son bienes comunes naturales a lo menos: las aguas en todas sus formas e interfaces, incluyendo glaciares y criósfera; el mar territorial, la altamar y el fondo marino; las playas, dunas y el borde costero; el subsuelo; los humedales; el aire, viento y atmósfera; la radiación solar; los campos geotérmicos; la alta montaña; el cielo y el espacio; y aquellos que declare la constitución y las leyes.",
+    "number": "104",
+    "authors_matched": [
+      "Olivares, Ivanna"
+    ],
+    "target_article": 14,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo. Son bienes comunes naturales a lo menos: las aguas en todas sus formas e interfaces, incluyendo glaciares y criósfera; el mar territorial, la altamar y el fondo marino; las playas, dunas y el borde costero; el subsuelo; los humedales; el aire, viento y atmósfera; la radiación solar; los campos geotérmicos; la alta montaña; el cielo y el espacio; y aquellos que declare la constitución y las leyes.",
+    "content_to_remove": "",
+    "placement_instructions": "inmediatamente después del artículo 14",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 13",
+        "content_snapshot": "",
+        "number": 54,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 13",
+        "content_snapshot": "",
+        "number": 55,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH04-ARTAN16",
+    "timestamp": "03-01-2",
+    "article": "Artículo nuevo",
+    "text": "Son bienes comunes naturales, a lo menos, aquellos que declara la Constitución y las Leyes.",
+    "number": "105",
+    "authors_matched": [
+      "Olivares, Ivanna"
+    ],
+    "target_article": 14,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo. Son bienes comunes naturales, a lo menos, aquellos que declara la Constitución y las Leyes.",
+    "content_to_remove": "",
+    "placement_instructions": "inmediatamente después del artículo 14",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 14",
+        "content_snapshot": "",
+        "number": 58,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 14",
+        "content_snapshot": "",
+        "number": 59,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH04-ART15",
@@ -392,7 +876,168 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Gomez, Claudio"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 15",
+        "content_snapshot": "Autorizaciones de uso. El Estado podrá autorizar el uso por parte de particulares de esta clase de bienes. Esta autorización será inapropiable, incomerciable, intransferible e intransmisible.\n La ley establecerá las condiciones de otorgamiento, uso, obligaciones, restricciones, tarifas, temporalidad, renovación, extinción, y demás que sean pertinentes de dichas autorizaciones de uso. Establecerá además los procesos de participación de las comunidades en la toma de decisiones, los que deberán ser públicos y transparentes.\n El uso y la autorización de los bienes comunes naturales deberá estar orientado al buen vivir y respetar los derechos de la naturaleza y la posibilidad de su uso y acceso por las futuras generaciones.",
+        "number": "107",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 15. Autorizaciones de uso. El Estado podrá autorizar el uso por parte de particulares de esta clase de bienes. Esta autorización será inapropiable, incomerciable, intransferible e intransmisible. La ley establecerá las condiciones de otorgamiento, uso, obligaciones, restricciones, tarifas, temporalidad, renovación, extinción, y demás que sean pertinentes de dichas autorizaciones de uso. Establecerá además los procesos de participación de las comunidades en la toma de decisiones, los que deberán ser públicos y transparentes. El uso y la autorización de los bienes comunes naturales deberá estar orientado al buen vivir y respetar los derechos de la naturaleza y la posibilidad de su uso y acceso por las futuras generaciones",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 15",
+        "content_snapshot": "",
+        "number": 61,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 15",
+        "content_snapshot": "",
+        "number": 62,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH04-ARTAN18",
+    "timestamp": "03-01-2",
+    "article": "Artículo nuevo",
+    "text": "Regímenes especiales. Existirán regímenes especiales para ciertos bienes comunes naturales. En el caso del aire, los glaciares y la criósfera, el fondo marino, la alta montaña, no podrá otorgarse autorizaciones de uso.\n Respecto de bienes comunes naturales especialmente sensibles se podrán dictar normas especiales de preservación y restauración.",
+    "number": "109",
+    "authors_matched": [
+      "Olivares, Ivanna"
+    ],
+    "target_article": 15,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo. Regímenes especiales. Existirán regímenes especiales para ciertos bienes comunes naturales. En el caso del aire, los glaciares y la criósfera, el fondo marino, la alta montaña, no podrá otorgarse autorizaciones de uso. Respecto de bienes comunes naturales especialmente sensibles se podrán dictar normas especiales de preservación y restauración.",
+    "content_to_remove": "",
+    "placement_instructions": "inmediatamente después del artículo 15",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 16",
+        "content_snapshot": "",
+        "number": 64,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 16",
+        "content_snapshot": "",
+        "number": 65,
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH04-ARTAN19",
+    "timestamp": "03-01-2",
+    "article": "Artículo nuevo",
+    "text": "Derechos de los pueblos indígenas. Los pueblos y naciones preexistentes tienen un régimen especial de titularidad colectiva de los bienes comunes naturales que se encuentran en sus tierras y territorios. En virtud de este régimen especial, tienen derecho a acceder, utilizar y controlar dichos bienes, los cuales forman parte de su identidad y permiten su pervivencia cultural, social y económica.\n El Estado reconocerá los usos ancestrales de bienes comunes naturales de los pueblos y naciones preexistentes, de acuerdo a los derechos de los pueblos indígenas reconocidos internacionalmente, reconociendo como límite el sistema jurídico de cada pueblo y los derechos de la naturaleza.\n El Estado no podrá constituir o asignar autorizaciones de uso sobre bienes comunes naturales existentes en tierras y territorios indígenas, en favor de personas naturales o jurídicas no indígenas o indígenas pertenecientes a otro pueblo, sin el consentimiento previo libre e informado de cada pueblo y nación respectivo.",
+    "number": "111",
+    "authors_matched": [
+      "Olivares, Ivanna"
+    ],
+    "target_article": 15,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo. Derechos de los pueblos indígenas. Los pueblos y naciones preexistentes tienen un régimen especial de titularidad colectiva de los bienes comunes naturales que se encuentran en sus tierras y territorios. En virtud de este régimen especial, tienen derecho a acceder, utilizar y controlar dichos bienes, los cuales forman parte de su identidad y permiten su pervivencia cultural, social y económica. El Estado reconocerá los usos ancestrales de bienes comunes naturales de los pueblos y naciones preexistentes, de acuerdo a los derechos de los pueblos indígenas reconocidos internacionalmente, reconociendo como límite el sistema jurídico de cada pueblo y los derechos de la naturaleza. El Estado no podrá constituir o asignar autorizaciones de uso sobre bienes comunes naturales existentes en tierras y territorios indígenas, en favor de personas naturales o jurídicas no indígenas o indígenas pertenecientes a otro pueblo, sin el consentimiento previo libre e informado de cada pueblo y nación respectivo.",
+    "content_to_remove": "",
+    "placement_instructions": "como artículo final del apartado de bienes naturales comunes",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 17",
+        "content_snapshot": "",
+        "number": 66,
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 17",
+        "content_snapshot": "",
+        "number": 67,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 17",
+        "content_snapshot": "",
+        "number": 68,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH05-ART16",
@@ -427,7 +1072,25 @@
       "Caiguan, Alexis",
       "Antilef, Victorino",
       "Vergara, Lisette"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 16",
+        "content_snapshot": "",
+        "number": "113",
+        "authors_matched": [
+          "Alvez, Amaya"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH05-ART17",
@@ -462,6 +1125,23 @@
       "Caiguan, Alexis",
       "Antilef, Victorino",
       "Vergara, Lisette"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 17",
+        "content_snapshot": "",
+        "number": "126",
+        "authors_matched": [
+          "Vergara, Lisette"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -497,7 +1177,25 @@
       "Caiguan, Alexis",
       "Antilef, Victorino",
       "Vergara, Lisette"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 18",
+        "content_snapshot": "",
+        "number": "130",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH05-ART19",
@@ -526,13 +1224,31 @@
       "Sepulveda, Barbara",
       "Bacian, Wilfredo",
       "Llanquileo, Natividad",
-      "Vargas, Margarita",
+      "Vargas, Margaritfa",
       "Galleguillos, Felix",
       "Gutierrez, Hugo",
       "Caiguan, Alexis",
       "Antilef, Victorino",
       "Vergara, Lisette"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 19",
+        "content_snapshot": "",
+        "number": "140",
+        "authors_matched": [
+          "Sepulveda, Barbara"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH06-ART20",
@@ -556,7 +1272,70 @@
       "Castillo, Maria Trinidad",
       "Fernandez, Patricio",
       "Cruz, Andres"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 20",
+        "content_snapshot": "",
+        "number": "145",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 20,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 20",
+        "content_snapshot": "Es deber del Estado asegurar que las frecuencias electromagnéticas que somete a la Naturaleza no provocan alteraciones graves a la salud de las personas, animales y ecosistemas, para ello se basará en la evidencia científica pertinente.",
+        "number": "164",
+        "authors_matched": [
+          "Sepulveda, Barbara"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Es deber del Estado asegurar que las frecuencias electromagnéticas que somete a la Naturaleza no provocan alteraciones graves a la salud de las personas, animales y ecosistemas, para ello se basará en la evidencia científica pertinente",
+        "content_to_remove": "",
+        "placement_instructions": "inciso nuevo al artículo"
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 18",
+        "content_snapshot": "",
+        "number": 70,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 18",
+        "content_snapshot": "",
+        "number": 71,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH07-ART21",
@@ -580,13 +1359,45 @@
       "Sepulveda, Barbara",
       "Caamano, Francisco",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 21",
+        "content_snapshot": "Acceso a la Naturaleza. Se reconoce a todas las personas el derecho de acceso peatonal, gratuito, eficaz, universal y temporal para recorrer los bienes naturales comunes, a través de bienes públicos o privados, extendiéndose esta facultad a montañas, bosques nativos, salares, ríos y riberas, mar y playas, humedales, lagos, lagunas, y caminos ancestrales, sin perjuicio de los límites que establezca la ley y el derecho de los pueblos indígenas y de la Naturaleza establecidos en esta Constitución. Este derecho se ejercerá bajo la responsabilidad de evitar producir daño e impacto al momento del acceso y permanencia. La ley regulará el ejercicio de este derecho, las obligaciones de los propietarios aledaños y una acción de tutela del mismo.\n ceremoniales o de relevancia cultural existentes en territorios indígenas, salvo autorización previa del respectivo pueblo.",
+        "number": "193",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 21. De la gestión de residuos: El Estado promoverá sistemas productivos y de consumo que minimicen la generación de residuos. Es deber del Estado garantizar e incentivar el reciclaje, recuperación, reducción u otro tipo de valorización de residuos, además de la reutilización, reparación y extensión de la vida útil de los productos, así como, el acceso a servicios de recolección, reciclaje y otros que determine la ley. El Estado regulará y fiscalizará la gestión de residuos de manera desconcentrada y descentralizada. Fomentará la coordinación y participación de recicladores de base, comunidades, municipalidades y las demás que establezca la ley, en los procesos de manejo y gestión de residuos, garantizando el mínimo impacto ecológico, el equilibrio de la Naturaleza y la Justicia Ambiental. La ley establecerá las responsabilidades y obligaciones individuales y colectivas de productores, gestores, distribuidores y consumidores en la generación y gestión de residuos. Asimismo, determinará las acciones, medidas y objetivos para reducir la generación de residuos y la circulación de productos de un solo uso y los que la ley señale.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 19",
+        "content_snapshot": "Acceso responsable a la Naturaleza. Se reconoce a todas las personas el derecho de acceso responsable, universal y temporal a las montañas, riberas de ríos, mar, playas y lagos. Este derecho se ejercerá respetando los derechos de la Naturaleza y de los pueblos indígenas. La ley regulará el ejercicio de este derecho, las obligaciones de los propietarios aledaños y el régimen de responsabilidad aplicable, entre otros.",
+        "number": 75,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 19. Acceso responsable a la Naturaleza. Se reconoce a todas las personas el derecho de acceso responsable, universal y temporal a las montañas, riberas de ríos, mar, playas y lagos. Este derecho se ejercerá respetando los derechos de la Naturaleza y de los pueblos indígenas. La ley regulará el ejercicio de este derecho, las obligaciones de los propietarios aledaños y el régimen de responsabilidad aplicable, entre otros",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
     "article_uid": "C5-GEN-CH07-ART22",
     "timestamp": "03-01",
     "article": "Artículo 22",
-    "text": "LLa persona que sea limitada o impedida para acceder a la montaña, playas de mar, ríos, lagos y rutas ancestrales costeras, no existiendo otra vía eficaz y segura, ni obras realizadas por el Estado para esos fines, podrá recurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el derecho de acceso bajo los estándares ya normados, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad. Para la resolución de este asunto, la Corte podrá, a la mayor brevedad, designar un perito nombrado por él mismo y con notificación de las partes, para una inspección personal o la emisión de informe sobre la situación denunciada. Podrá también oficiar a la autoridad correspondiente para efectos de que se informen sobre las vías de acceso u obras a desarrollar en caso de ser necesarias. En cualquier caso, la decisión definitiva o provisional sobre el asunto deberá ser fundamentada.",
+    "text": "La persona que sea limitada o impedida para acceder a la montaña, playas de mar, ríos, lagos y rutas ancestrales costeras, no existiendo otra vía eficaz y segura, ni obras realizadas por el Estado para esos fines, podrá recurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el derecho de acceso bajo los estándares ya normados, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad. Para la resolución de este asunto, la Corte podrá, a la mayor brevedad, designar un perito nombrado por él mismo y con notificación de las partes, para una inspección personal o la emisión de informe sobre la situación denunciada. Podrá también oficiar a la autoridad correspondiente para efectos de que se informen sobre las vías de acceso u obras a desarrollar en caso de ser necesarias. En cualquier caso, la decisión definitiva o provisional sobre el asunto deberá ser fundamentada.",
     "sources": [
       "1009-5"
     ],
@@ -604,7 +1415,25 @@
       "Sepulveda, Barbara",
       "Caamano, Francisco",
       "Gallardo, Bessy"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 22",
+        "content_snapshot": "",
+        "number": "173",
+        "authors_matched": [
+          "Vergara, Lisette"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH08-ART23",
@@ -630,7 +1459,25 @@
       "Castillo, Maria Trinidad",
       "Caamano, Francisco",
       "Gomez, Claudio"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 23",
+        "content_snapshot": "",
+        "number": "177",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 23,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH09-ART24",
@@ -654,7 +1501,25 @@
       "Antilef, Victorino",
       "Alvarado, Gloria",
       "Caamano, Francisco"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 24",
+        "content_snapshot": "",
+        "number": "186",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH10-ART25",
@@ -680,6 +1545,38 @@
       "Royo, Manuela",
       "Caamano, Francisco",
       "Olivares, Ivanna"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 25",
+        "content_snapshot": "De la gestión de residuos. El Estado promoverá sistemas productivos y de consumo que minimicen la generación de residuos. Es deber del Estado garantizar e incentivar el reciclaje, recuperación, reducción u otro tipo de valorización de residuos, además de la reutilización, reparación y extensión de la vida útil de los productos, así como, el acceso a servicios de recolección, reciclaje y otros que determine la ley. El Estado regulará y fiscalizará la gestión de residuos de manera desconcentrada y descentralizada. Fomentará la coordinación y participación de recicladores de base, comunidades, municipalidades y las demás que establezca la ley, en los procesos de manejo y gestión de residuos, garantizando el mínimo impacto ecológico, el equilibrio de la Naturaleza y la Justicia Ambiental. La ley establecerá las responsabilidades y obligaciones individuales y colectivas de productores, gestores, distribuidores y consumidores en la generación y gestión de residuos. Asimismo, determinará las acciones, medidas y objetivos para reducir la generación de residuos y la circulación de productos de un solo uso y los que la ley señale.",
+        "number": "193",
+        "authors_matched": [
+          "Alvarado, Gloria"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 25. De la gestión de residuos. El Estado promoverá sistemas productivos y de consumo que minimicen la generación de residuos. Es deber del Estado garantizar e incentivar el reciclaje, recuperación, reducción u otro tipo de valorización de residuos, además de la reutilización, reparación y extensión de la vida útil de los productos, así como, el acceso a servicios de recolección, reciclaje y otros que determine la ley. El Estado regulará y fiscalizará la gestión de residuos de manera desconcentrada y descentralizada. Fomentará la coordinación y participación de recicladores de base, comunidades, municipalidades y las demás que establezca la ley, en los procesos de manejo y gestión de residuos, garantizando el mínimo impacto ecológico, el equilibrio de la Naturaleza y la Justicia Ambiental. La ley establecerá las responsabilidades y obligaciones individuales y colectivas de productores, gestores, distribuidores y consumidores en la generación y gestión de residuos. Asimismo, determinará las acciones, medidas y objetivos para reducir la generación de residuos y la circulación de productos de un solo uso y los que la ley señale.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 20",
+        "content_snapshot": "De la gestión de residuos. Es deber del Estado normar y fomentar la gestión, reducción y valorización de residuos, en la forma que determine la Ley.",
+        "number": 81,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 20,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 20. De la gestión de residuos. Es deber del Estado normar y fomentar la gestión, reducción y valorización de residuos, en la forma que determine la Ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -706,7 +1603,25 @@
       "Royo, Manuela",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 26",
+        "content_snapshot": "",
+        "number": "191",
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH10-ART27",
@@ -837,7 +1752,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 31",
+        "content_snapshot": "",
+        "number": "204",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 31,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH11-ART32",
@@ -864,7 +1797,25 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 32",
+        "content_snapshot": "",
+        "number": "214",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 32,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH12-ART33",
@@ -891,7 +1842,25 @@
       "Bravo, Daniel",
       "Bacian, Wilfredo",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 33",
+        "content_snapshot": "",
+        "number": "217",
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 33,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH12-ART34",
@@ -999,6 +1968,53 @@
       "Alvarado, Gloria",
       "Celedon, Roberto",
       "Olivares, Ivanna"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 37",
+        "content_snapshot": "Vivienda digna y ecológica. El Estado reconoce y promueve el derecho a una vivienda digna y ecológica, con pertinencia territorial, indígena y cultural, que permita el buen vivir de sus habitantes en armonía con los ecosistemas. Será deber del Estado fomentar por medio de políticas, planes, programas u otros, la incorporación de técnicas de construcción de bajo impacto ambiental, que implementen la eficiencia energética, la economía circular, los principios ambientales y otros que establecen esta constitución y las leyes que incentiven a la innovación y el rescate del patrimonio local, como las técnicas de Bioconstrucción.",
+        "number": "241",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 37,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 37. Vivienda digna y ecológica. El Estado reconoce y promueve el derecho a una vivienda digna y ecológica, con pertinencia territorial, indígena y cultural, que permita el buen vivir de sus habitantes en armonía con los ecosistemas. Será deber del Estado fomentar por medio de políticas, planes, programas u otros, la incorporación de técnicas de construcción de bajo impacto ambiental, que implementen la eficiencia energética, la economía circular, los principios ambientales y otros que establecen esta constitución y las leyes que incentiven a la innovación y el rescate del patrimonio local, como las técnicas de Bioconstrucción.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 21",
+        "content_snapshot": "",
+        "number": 85,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 21",
+        "content_snapshot": "",
+        "number": 86,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -1018,7 +2034,55 @@
       "Zarate, Camila",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 38",
+        "content_snapshot": "De la biodiversidad. El Estado debe velar y garantizar la protección, restauración y conservación de los vínculos ecosistémicos que sostienen la biodiversidad con especial esfuerzo en los reinos Animalia, Plantae y Fungi y especies endémicas, polinizadores nativos y otros que determina la Ley.",
+        "number": "251",
+        "authors_matched": [
+          "Olivares, Ivanna"
+        ],
+        "target_article": 38,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 38. De la biodiversidad. El Estado debe velar y garantizar la protección, restauración y conservación de los vínculos ecosistémicos que sostienen la biodiversidad con especial esfuerzo en los reinos Animalia, Plantae y Fungi y especies endémicas, polinizadores nativos y otros que determina la Ley",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 22",
+        "content_snapshot": "",
+        "number": 89,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 22",
+        "content_snapshot": "",
+        "number": 90,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH14-ART39",
@@ -1037,7 +2101,25 @@
       "Zarate, Camila",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 39",
+        "content_snapshot": "",
+        "number": "253",
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 39,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH14-ART40",
@@ -1084,7 +2166,39 @@
     "sources": [
       "ICI 82-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 42",
+        "content_snapshot": "De los derechos de la Naturaleza. La Naturaleza, Mapu, Pacha Mama, Pat'ta Hoiri, Jáu, Merremén, o sus equivalentes en las cosmovisiones de cada pueblo donde se genera y realiza la vida y el buen vivir, tiene derecho a que se respete y proteja integralmente su existencia, restauración, mantenimiento y regeneración de sus ciclos naturales, estructura, funciones, equilibrio ecosistémico y diversidad biológica.\nSe reconoce la especial relación que tienen los pueblos y naciones preexistentes al Estado con la Naturaleza, en cuanto permite su subsistencia, desarrollo propio, espiritualidad y bienestar colectivo.",
+        "number": "273",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 42,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 42. De los derechos de la Naturaleza. La Naturaleza, Mapu, Pacha Mama, Pat'ta Hoiri, Jáu, Merremén, o sus equivalentes en las cosmovisiones de cada pueblo donde se genera y realiza la vida y el buen vivir, tiene derecho a que se respete y proteja integralmente su existencia, restauración, mantenimiento y regeneración de sus ciclos naturales, estructura, funciones, equilibrio ecosistémico y diversidad biológica.\nSe reconoce la especial relación que tienen los pueblos y naciones preexistentes al Estado con la Naturaleza, en cuanto permite su subsistencia, desarrollo propio, espiritualidad y bienestar colectivo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 4",
+        "content_snapshot": "De los derechos de la Naturaleza. La Naturaleza tiene derecho a que se respete y proteja su existencia, a la regeneración, a la mantención y a la restauración de sus funciones y equilibrios dinámicos, que comprenden los ciclos naturales, los ecosistemas y la biodiversidad.\n El Estado a través de sus instituciones debe garantizar y promover los derechos de la Naturaleza según lo determine la Constitución y las Leyes.",
+        "number": 17,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 4. De los derechos de la Naturaleza. La Naturaleza tiene derecho a que se respete y proteja su existencia, a la regeneración, a la mantención y a la restauración de sus funciones y equilibrios dinámicos, que comprenden los ciclos naturales, los ecosistemas y la biodiversidad. El Estado a través de sus instituciones debe garantizar y promover los derechos de la Naturaleza según lo determine la Constitución y las Leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article_uid": "C5-GEN-CH15-ART43",
@@ -1093,7 +2207,55 @@
     "sources": [
       "ICI 82-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 43",
+        "content_snapshot": "Deberes del Estado con la Naturaleza. Es deber del Estado garantizar y promover los derechos de la Naturaleza, debiendo realizar todas las medidas necesarias de precaución, reparación, restauración y regeneración cuando exista o haya riesgo de degradación o daño ambiental. La restauración de la naturaleza comprende adoptar las medidas adecuadas para eliminar o mitigar las consecuencias ambientales nocivas de la actividad humana. La ley establecerá las instituciones y normativas necesarias para resguardar estos derechos, asegurar la participación ciudadana y la consulta indígena.",
+        "number": "277",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 43,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 43. Deberes del Estado con la Naturaleza. Es deber del Estado garantizar y promover los derechos de la Naturaleza, debiendo realizar todas las medidas necesarias de precaución, reparación, restauración y regeneración cuando exista o haya riesgo de degradación o daño ambiental. La restauración de la naturaleza comprende adoptar las medidas adecuadas para eliminar o mitigar las consecuencias ambientales nocivas de la actividad humana. La ley establecerá las instituciones y normativas necesarias para resguardar estos derechos, asegurar la participación ciudadana y la consulta indígena.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 5",
+        "content_snapshot": "",
+        "number": 9,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 5",
+        "content_snapshot": "",
+        "number": 10,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH15-ART44",
@@ -1102,7 +2264,55 @@
     "sources": [
       "ICI 82-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 44",
+        "content_snapshot": "Representación de la Naturaleza. Toda persona, comunidad, pueblo o nación preexistente podrá actuar en representación de la Naturaleza para el resguardo de sus derechos. También su representación podrá ser ejercida por la Defensoría de la Naturaleza por sí o a petición de la parte. Las acciones judiciales o administrativas en su defensa podrán tener carácter individual o colectivo.",
+        "number": "282",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 44,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 44. Representación de la Naturaleza. Toda persona, comunidad, pueblo o nación preexistente podrá actuar en representación de la Naturaleza para el resguardo de sus derechos. También su representación podrá ser ejercida por la Defensoría de la Naturaleza por sí o a petición de la parte. Las acciones judiciales o administrativas en su defensa podrán tener carácter individual o colectivo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 6",
+        "content_snapshot": "",
+        "number": 26,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 6",
+        "content_snapshot": "",
+        "number": 27,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH16-ART45",
@@ -1112,7 +2322,55 @@
     "sources": [
       "ICI 12-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 45",
+        "content_snapshot": "Los pueblos y naciones preexistentes al Estado podrán hacer uso de su territorio conforme a su derecho propio teniendo como límite el respeto de los derechos de la Naturaleza que esta misma constitución establece.",
+        "number": "285",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 45,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 45. Los pueblos y naciones preexistentes al Estado podrán hacer uso de su territorio conforme a su derecho propio teniendo como límite el respeto de los derechos de la Naturaleza que esta misma constitución establece.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 7",
+        "content_snapshot": "",
+        "number": 30,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 7",
+        "content_snapshot": "",
+        "number": 31,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH17-ART46",
@@ -1121,7 +2379,55 @@
     "sources": [
       "ICI 143-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 46",
+        "content_snapshot": "Responsabilidad ante el daño a la Naturaleza. El daño a la Naturaleza será sancionado conforme a un régimen de responsabilidad estricta.",
+        "number": "290",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 46,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 46. Responsabilidad ante el daño a la Naturaleza. El daño a la Naturaleza será sancionado conforme a un régimen de responsabilidad estricta.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 8",
+        "content_snapshot": "",
+        "number": 33,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 8",
+        "content_snapshot": "",
+        "number": 34,
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH18-ART47",
@@ -1130,7 +2436,88 @@
     "sources": [
       "IPC 73-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 47",
+        "content_snapshot": "La Ley podrá establecer restricciones específicas al ejercicio de determinados derechos o libertades para proteger el medio ambiente y los Derechos de la Naturaleza.",
+        "number": "293",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 47,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 47. La Ley podrá establecer restricciones específicas al ejercicio de determinados derechos o libertades para proteger el medio ambiente y los Derechos de la Naturaleza.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 9",
+        "content_snapshot": "La Ley podrá establecer restricciones al ejercicio de determinados derechos o libertades para proteger el medio ambiente y la Naturaleza.",
+        "number": 39,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9.- La Ley podrá establecer restricciones al ejercicio de determinados derechos o libertades para proteger el medio ambiente y la Naturaleza.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH04-ARTAN48",
+    "timestamp": "03-01-2",
+    "article": "Artículo 47-48",
+    "text": "Revisión Histórica. El Estado promoverá una revisión histórica que busque identificar los procesos evolutivos de la Naturaleza y reconocer las intervenciones humanas sobre ella, y establecer la verdad histórica en la vulneración de sus derechos, a fin de lograr procesos de justicia y reparación integral de la Naturaleza.",
+    "number": "295",
+    "authors_matched": [
+      "Martin, Juan Jose"
+    ],
+    "target_article": 47,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo. Revisión Histórica. El Estado promoverá una revisión histórica que busque identificar los procesos evolutivos de la Naturaleza y reconocer las intervenciones humanas sobre ella, y establecer la verdad histórica en la vulneración de sus derechos, a fin de lograr procesos de justicia y reparación integral de la Naturaleza.",
+    "content_to_remove": "",
+    "placement_instructions": "Agrega inmediatamente después del artículo 47, el siguiente artículo",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 10",
+        "content_snapshot": "",
+        "number": 42,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 10",
+        "content_snapshot": "",
+        "number": 43,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH17-ART48",
@@ -1140,7 +2527,24 @@
     "sources": [
       "IPC 73-5"
     ],
-    "authors": []
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 48",
+        "content_snapshot": "",
+        "number": "296",
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH19-ART49",
@@ -1150,7 +2554,25 @@
     "sources": [
       "ICI 118-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 49",
+        "content_snapshot": "",
+        "number": "297",
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 49,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH20-ART50",
@@ -1404,6 +2826,53 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 59",
+        "content_snapshot": "Acción de Tutela Ambiental. En el caso de que por una acción u omisión se amenacen, perturben o vulneren los derechos de la Naturaleza, de los animales o los derechos humanos ambientales establecidos en los artículos x, xw y xz, por actos arbitrarios o ilegales, causado por cualquier persona, organización o institución, procederá un recurso especial de tutela ambiental, el cual podrá ser ejercido por una persona natural o jurídica, de manera individual o colectiva ante la Corte de Apelaciones respectiva, la que deberá adoptar las medidas necesarias para restablecer los derechos y proteger su eventual afectación. El Estado proveerá asesoría jurídica especializada y gratuita, cuando sea solicitada, para la presentación y tramitación del recurso del recurso mediante la Defensoría de la Naturaleza.\nEsta acción deberá ser resuelta respetando los principios establecidos en la constitución y los principios ambientales regulados en las leyes y tratados internacionales debidamente ratificados.",
+        "number": "336",
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 59,
+        "target_scope": "TOTAL",
+        "action": "ADD",
+        "content": "Artículo. Acción de Tutela Ambiental. En el caso de que por una acción u omisión se amenacen, perturben o vulneren los derechos de la Naturaleza, de los animales o los derechos humanos ambientales establecidos en los artículos x, xw y xz, por actos arbitrarios o ilegales, causado por cualquier persona, organización o institución, procederá un recurso especial de tutela ambiental, el cual podrá ser ejercido por una persona natural o jurídica, de manera individual o colectiva ante la Corte de Apelaciones respectiva, la que deberá adoptar las medidas necesarias para restablecer los derechos y proteger su eventual afectación. El Estado proveerá asesoría jurídica especializada y gratuita, cuando sea solicitada, para la presentación y tramitación del recurso del recurso mediante la Defensoría de la Naturaleza.\nEsta acción deberá ser resuelta respetando los principios establecidos en la constitución y los principios ambientales regulados en las leyes y tratados internacionales debidamente ratificados.",
+        "content_to_remove": "",
+        "placement_instructions": "agregar inmediatamente después del artículo 59, el siguiente artículo nuevo"
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 11",
+        "content_snapshot": "Acción de Tutela Ambiental. En el caso de que por una acción u omisión se amenacen, perturben o vulneren los derechos de la Naturaleza, de los animales o los derechos humanos ambientales establecidos en los artículos x, xw y xz, por actos arbitrarios o ilegales, causado por cualquier persona, organización o institución, procederá un recurso especial de tutela ambiental, el cual podrá ser ejercido por una persona natural o jurídica, de manera individual o colectiva ante la Corte de Apelaciones respectiva, la que deberá adoptar las medidas necesarias para restablecer los derechos y proteger su eventual afectación. El Estado proveerá asesoría jurídica especializada y gratuita, cuando sea solicitada, para la presentación y tramitación del recurso del recurso mediante la Defensoría de la Naturaleza.\nEsta acción deberá ser resuelta respetando los principios establecidos en la constitución y los principios ambientales regulados en las leyes y tratados internacionales debidamente ratificados.",
+        "number": 45,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 11",
+        "content_snapshot": "Acción de Tutela Ambiental. En el caso de que por una acción u omisión se amenacen, perturben o vulneren los derechos de la Naturaleza, de los animales o los derechos humanos ambientales establecidos en los artículos x, xw y xz, por actos arbitrarios o ilegales, causado por cualquier persona, organización o institución, procederá un recurso especial de tutela ambiental, el cual podrá ser ejercido por una persona natural o jurídica, de manera individual o colectiva ante la Corte de Apelaciones respectiva, la que deberá adoptar las medidas necesarias para restablecer los derechos y proteger su eventual afectación. El Estado proveerá asesoría jurídica especializada y gratuita, cuando sea solicitada, para la presentación y tramitación del recurso del recurso mediante la Defensoría de la Naturaleza.\nEsta acción deberá ser resuelta respetando los principios establecidos en la constitución y los principios ambientales regulados en las leyes y tratados internacionales debidamente ratificados.",
+        "number": 46,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -1431,6 +2900,38 @@
       "Caamano, Francisco",
       "Villena, Ingrid",
       "Gallardo, Bessy"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 60",
+        "content_snapshot": "Derechos de los animales. El Estado protegerá a los animales, reconociendo su sintiencia, individualidad y derecho a vivir una vida libre de maltrato.\nLa ley establecerá los demás derechos de los animales, un servicio público para su protección y no extinción, una acción para su tutela, el resguardo de su hábitat y la prohibición de prácticas que los sujeten a tratos crueles.",
+        "number": "340",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 60,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 60. Derechos de los animales. El Estado protegerá a los animales, reconociendo su sintiencia, individualidad y derecho a vivir una vida libre de maltrato.\nLa ley establecerá los demás derechos de los animales, un servicio público para su protección y no extinción, una acción para su tutela, el resguardo de su hábitat y la prohibición de prácticas que los sujeten a tratos crueles.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 23",
+        "content_snapshot": "De los animales. Los animales son sujetos de especial protección. El Estado los protegerá, reconociendo su sintiencia.",
+        "number": 20,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 23,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 23. De los animales. Los animales son sujetos de especial protección. El Estado los protegerá, reconociendo su sintiencia.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -1441,7 +2942,40 @@
     "sources": [
       "IPN 19-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 61",
+        "content_snapshot": "Las personas y el Estado deberán asumir la tutela de los derechos de los animales.",
+        "number": "346",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 61. Las personas y el Estado deberán asumir la tutela de los derechos de los animales.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 24",
+        "content_snapshot": "",
+        "number": 94,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH24-ART62",
@@ -1461,7 +2995,25 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 62",
+        "content_snapshot": "",
+        "number": "349",
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 62,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH24-ART63",
@@ -1488,7 +3040,25 @@
       "Caamano, Francisco",
       "Villena, Ingrid",
       "Gallardo, Bessy"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 63",
+        "content_snapshot": "",
+        "number": "356",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 63,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH25-ART64",
@@ -1668,7 +3238,89 @@
     "sources": [
       "IPN 19-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 72",
+        "content_snapshot": "",
+        "number": "392",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 72,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH34-ART72-73",
+    "article": "Artículo 72-73",
+    "timestamp": "03-01-2",
+    "text": "El Estado fomentará una educación basada en la empatía hacia los animales y propenderá, a través de la ley, sus órganos y políticas públicas, al bienestar animal",
+    "number": "396",
+    "authors_matched": [
+      "Sepulveda, Barbara"
+    ],
+    "target_article": 72,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo. El Estado fomentará una educación basada en la empatía hacia los animales y propenderá, a través de la ley, sus órganos y políticas públicas, al bienestar animal",
+    "content_to_remove": "",
+    "placement_instructions": "agregar inmediatamente después del artículo 72 el siguiente artículo nuevo",
+    "history": [
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 25",
+        "content_snapshot": "",
+        "number": 31,
+        "authors_matched": [
+          "Saldana, Alvin"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 25",
+        "content_snapshot": "",
+        "number": 32,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 25",
+        "content_snapshot": "",
+        "number": 33,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH34-ART73",
@@ -1695,6 +3347,38 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Olivares, Ivanna"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 73",
+        "content_snapshot": "Principios ambientales. El Estado reconoce la existencia de una relación sistémica e interdependiente entre todos los componentes y elementos de la Naturaleza, incluido el ser humano. Dicha relación constituye la base y sustento de la vida y la sociedad.\nSon principios esenciales para la protección de la Naturaleza los principios de no regresión; progresividad; precautorio; preventivo; justicia ambiental y ecológica; solidaridad intra e intergeneracional; in dubio pro natura; ecocéntrico; biocéntrico; perspectiva socio ecológica; responsabilidad; transparencia; rendición de cuentas; máxima publicidad; buen vivir y las cosmovisiones propias de cada pueblo y nación preexistente al Estado.",
+        "number": "398",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 73,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 73. Principios ambientales. El Estado reconoce la existencia de una relación sistémica e interdependiente entre todos los componentes y elementos de la Naturaleza, incluido el ser humano. Dicha relación constituye la base y sustento de la vida y la sociedad.\nSon principios esenciales para la protección de la Naturaleza los principios de no regresión; progresividad; precautorio; preventivo; justicia ambiental y ecológica; solidaridad intra e intergeneracional; in dubio pro natura; ecocéntrico; biocéntrico; perspectiva socio ecológica; responsabilidad; transparencia; rendición de cuentas; máxima publicidad; buen vivir y las cosmovisiones propias de cada pueblo y nación preexistente al Estado.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 26",
+        "content_snapshot": "Principios ambientales. Son principios para la protección de la Naturaleza y el medio ambiente, a lo menos, los principios de progresividad, precautorio, preventivo, justicia ambiental, solidaridad intergeneracional, responsabilidad y acción climática justa.",
+        "number": 99,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 26. Principios ambientales. Son principios para la protección de la Naturaleza y el medio ambiente, a lo menos, los principios de progresividad, precautorio, preventivo, justicia ambiental, solidaridad intergeneracional, responsabilidad y acción climática justa.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -1720,7 +3404,70 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 74",
+        "content_snapshot": "El Estado tiene el deber primordial de proteger, conservar y garantizar los derechos de la Naturaleza, el derecho a vivir en un medio ambiente sano y ecológicamente equilibrado y la democracia ecológica.\nEs deber del Estado promover y garantizar la educación ambiental en los diferentes niveles y dimensiones, considerando las diferencias y diversidades ambientales y territoriales de cada región.",
+        "number": "402",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 74,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "El Estado tiene el deber primordial de proteger, conservar y garantizar los derechos de la Naturaleza, el derecho a vivir en un medio ambiente sano y ecológicamente equilibrado y la democracia ecológica.\nEs deber del Estado promover y garantizar la educación ambiental en los diferentes niveles y dimensiones, considerando las diferencias y diversidades ambientales y territoriales de cada región.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 27",
+        "content_snapshot": "",
+        "number": 104,
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 27",
+        "content_snapshot": "",
+        "number": 105,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 27",
+        "content_snapshot": "",
+        "number": 106,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH36-ART75",
@@ -1744,7 +3491,55 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Villena, Ingrid"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 75",
+        "content_snapshot": "Comunidades resilientes. El Estado deberá generar políticas enfocadas en fomentar comunidades resilientes que permitan hacer frente a los desastres naturales y a los generados por la actividad humana, coordinando diversas iniciativas con participación multisectorial, enfocados en la prevención, adaptación y gestión integral del riesgo.",
+        "number": "404",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 75,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Comunidades resilientes. El Estado deberá generar políticas enfocadas en fomentar comunidades resilientes que permitan hacer frente a los desastres naturales y a los generados por la actividad humana, coordinando diversas iniciativas con participación multisectorial, enfocados en la prevención, adaptación y gestión integral del riesgo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 28",
+        "content_snapshot": "",
+        "number": 113,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 28",
+        "content_snapshot": "",
+        "number": 114,
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH37-ART76",
@@ -1770,7 +3565,55 @@
       "Cespedes, Lorena",
       "Portilla, Ericka",
       "Gallardo, Bessy"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 76",
+        "content_snapshot": "Delitos ambientales. El Estado reconoce como vulneración gravísima de los derechos de la Naturaleza, la extinción de una especie o población de esta, la destrucción total o parcial de un ecosistema nativo, o la eliminación de una condición específica para el equilibrio de la Naturaleza.\nLos delitos que atenten contra los derechos de la Naturaleza, serán imprescriptibles y sancionados en conformidad de su gravedad según las acciones civiles, administrativas o penales que disponga la Ley.",
+        "number": "409",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 76,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 76. Delitos ambientales. El Estado reconoce como vulneración gravísima de los derechos de la Naturaleza, la extinción de una especie o población de esta, la destrucción total o parcial de un ecosistema nativo, o la eliminación de una condición específica para el equilibrio de la Naturaleza.\nLos delitos que atenten contra los derechos de la Naturaleza, serán imprescriptibles y sancionados en conformidad de su gravedad según las acciones civiles, administrativas o penales que disponga la Ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 29",
+        "content_snapshot": "",
+        "number": 118,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 29,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 29",
+        "content_snapshot": "",
+        "number": 119,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 29,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH38-ART77",
@@ -1797,7 +3640,55 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 77",
+        "content_snapshot": "Deberes de las personas. Es deber de las personas respetar estos derechos y los mecanismos institucionales de su gestión. El daño y deterioro ambiental generará responsabilidad para quien lo provoque.",
+        "number": "410",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 77,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 77. Deberes de las personas. Es deber de las personas respetar estos derechos y los mecanismos institucionales de su gestión. El daño y deterioro ambiental generará responsabilidad para quien lo provoque.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 30",
+        "content_snapshot": "",
+        "number": 124,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 30",
+        "content_snapshot": "",
+        "number": 125,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH39-ART78",
@@ -1807,7 +3698,55 @@
     "sources": [
       "IPC 73-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 78",
+        "content_snapshot": "Responsabilidad en materia ambiental. El Estado, por medio de sus órganos competentes, perseguirá la responsabilidad administrativa, civil y penal por los hechos u omisiones que vulneren los derechos de la Naturaleza.\nLa responsabilidad será estricta, incluyendo casos de daños provocados de manera difusa entre varios agentes. La autoridad podrá de oficio o a petición de parte implementar mecanismos de ejecución y de cumplimiento oportuno y efectivo de sus resoluciones.",
+        "number": "418",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 78,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 78. Responsabilidad en materia ambiental. El Estado, por medio de sus órganos competentes, perseguirá la responsabilidad administrativa, civil y penal por los hechos u omisiones que vulneren los derechos de la Naturaleza.\nLa responsabilidad será estricta, incluyendo casos de daños provocados de manera difusa entre varios agentes. La autoridad podrá de oficio o a petición de parte implementar mecanismos de ejecución y de cumplimiento oportuno y efectivo de sus resoluciones.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 31",
+        "content_snapshot": "",
+        "number": 128,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 31,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 31",
+        "content_snapshot": "",
+        "number": 129,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 31,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH40-ART79",
@@ -1817,7 +3756,89 @@
     "sources": [
       "IPC 73-5"
     ],
-    "authors": []
+    "authors": [],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 79",
+        "content_snapshot": "",
+        "number": "423",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 79,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH34-ART79-80",
+    "article": "Artículo nuevo",
+    "timestamp": "03-01-2",
+    "text": "El Estado deberá diseñar e implementar planes y medidas correctivas de los pasivos ambientales y/o de restauración de zonas históricamente afectadas por contaminación, destrucción o agotamiento de los bienes comunes naturales. El cumplimiento de este deber en ningún caso excluye la obligación de perseguir la responsabilidad que corresponda a las personas naturales o jurídicas que contribuyeron a ellas. Estos planes y medidas deberán considerar la participación de la sociedad civil y las comunidades locales de dichas zonas.",
+    "number": "427",
+    "authors_matched": [
+      "San Juan, Constanza"
+    ],
+    "target_article": 79,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo. El Estado deberá diseñar e implementar planes y medidas correctivas de los pasivos ambientales y/o de restauración de zonas históricamente afectadas por contaminación, destrucción o agotamiento de los bienes comunes naturales. El cumplimiento de este deber en ningún caso excluye la obligación de perseguir la responsabilidad que corresponda a las personas naturales o jurídicas que contribuyeron a ellas. Estos planes y medidas deberán considerar la participación de la sociedad civil y las comunidades locales de dichas zonas",
+    "content_to_remove": "",
+    "placement_instructions": "agregar, inmediatamente después del artículo 79, un artículo",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 32",
+        "content_snapshot": "",
+        "number": 133,
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 32,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 32",
+        "content_snapshot": "",
+        "number": 134,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 32,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 32",
+        "content_snapshot": "",
+        "number": 135,
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 32,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH41-ART80",
@@ -2108,6 +4129,38 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Olivares, Ivanna"
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 93",
+        "content_snapshot": "Derecho de participación ambiental. Se reconoce el derecho de participación vinculante e incidente en la toma de decisiones ambientales. Los mecanismos de participación serán determinados por ley.",
+        "number": "465",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 93,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 93. Derecho de participación ambiental. Se reconoce el derecho de participación vinculante e incidente en la toma de decisiones ambientales. Los mecanismos de participación serán determinados por ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 33",
+        "content_snapshot": "Democracia ambiental. Se reconoce el derecho de participación informada en materias ambientales. Los mecanismos de participación serán determinados por ley. Todas las personas tienen derecho a acceder a la información ambiental que conste en poder o custodia del Estado. Los particulares deberán entregar la información ambiental relacionada con su actividad, en los términos que establezca la ley.",
+        "number": 38,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 33,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 33. Democracia ambiental. Se reconoce el derecho de participación informada en materias ambientales. Los mecanismos de participación serán determinados por ley. Todas las personas tienen derecho a acceder a la información ambiental que conste en poder o custodia del Estado. Los particulares deberán entregar la información ambiental relacionada con su actividad, en los términos que establezca la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
     ]
   },
   {
@@ -2135,7 +4188,104 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 94",
+        "content_snapshot": "Derecho de consulta y consentimiento de los pueblos indígenas. Los pueblos y naciones preexistentes, en ejercicio de los derechos de consulta y consentimiento libre, previo e informado, tienen la facultad de aceptar o rechazar los proyectos públicos o privados que tengan un impacto en sus territorios y en los bienes comunes naturales, según lo determine la legislación. En caso de proyectos fraccionados, estos deberán ser evaluados conjuntamente.",
+        "number": "472",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 94,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 94. Derecho de consulta y consentimiento de los pueblos indígenas. Los pueblos y naciones preexistentes, en ejercicio de los derechos de consulta y consentimiento libre, previo e informado, tienen la facultad de aceptar o rechazar los proyectos públicos o privados que tengan un impacto en sus territorios y en los bienes comunes naturales, según lo determine la legislación. En caso de proyectos fraccionados, estos deberán ser evaluados conjuntamente.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 34",
+        "content_snapshot": "",
+        "number": 138,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 34,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 34",
+        "content_snapshot": "",
+        "number": 139,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 34,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C5-IND03-01-2-CH34-ART94-95",
+    "article": "Artículo 94-95",
+    "timestamp": "03-01-2",
+    "text": "Derecho al consentimiento previo, libre e informado. La obtención del consentimiento previo, libre e informado será al menos obligatoria en los siguientes casos:\na. Toda obra o actividad, pública o privada, que vulnere la supervivencia cultural, económica, social o física de los pueblos indígenas o tribales, o que les impiden vivir de manera tradicional.\nb. Todo proyecto de desarrollo o inversión en el territorio indígena que requiera evaluación de impacto ambiental.\nc. Proyectos que representen riesgos ambientales, sociales, de salubridad u otros; o que interfieran con actividades económicas con significado cultural; o que afecten el uso, goce, existencia o valor de territorios indígenas no demarcados o titulados.\nd. La disposición o almacenamiento de materias tóxicas o peligrosas en territorios indígenas.\ne. La explotación de bienes naturales que prive a los pueblos de la capacidad de usar y gozar de sus tierras o sean necesarios para su subsistencia.\nf. El traslado, desplazamiento o reubicación de pueblos.",
+    "number": "476",
+    "authors_matched": [
+      "Olivares, Ivanna"
+    ],
+    "target_article": 94,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Artículo. Derecho al consentimiento previo, libre e informado. La obtención del consentimiento previo, libre e informado será al menos obligatoria en los siguientes casos:\na. Toda obra o actividad, pública o privada, que vulnere la supervivencia cultural, económica, social o física de los pueblos indígenas o tribales, o que les impiden vivir de manera tradicional.\nb. Todo proyecto de desarrollo o inversión en el territorio indígena que requiera evaluación de impacto ambiental.\nc. Proyectos que representen riesgos ambientales, sociales, de salubridad u otros; o que interfieran con actividades económicas con significado cultural; o que afecten el uso, goce, existencia o valor de territorios indígenas no demarcados o titulados.\nd. La disposición o almacenamiento de materias tóxicas o peligrosas en territorios indígenas.\ne. La explotación de bienes naturales que prive a los pueblos de la capacidad de usar y gozar de sus tierras o sean necesarios para su subsistencia.\nf. El traslado, desplazamiento o reubicación de pueblos",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo inciso",
+    "history": [
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 35",
+        "content_snapshot": "",
+        "number": 141,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 35,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 35",
+        "content_snapshot": "",
+        "number": 142,
+        "authors_matched": [
+          "Toloza, Pablo"
+        ],
+        "target_article": 35,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH56-ART95",
@@ -2162,7 +4312,55 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 95",
+        "content_snapshot": "Ratificación de autorización a actividades que requieran de evaluación ambiental. Toda autorización de actividades económicas o productivas que impliquen riesgo para la salud de la población; efectos adversos sobre la Naturaleza; reasentamiento de comunidades humanas, o alteración significativa de los sistemas de vida y costumbres de los grupos humanos; localización en o próxima a asentamientos humanos y áreas que ostenten cualquier tipo de interés o figura de protección; alteración significativa, en términos de magnitud o duración, del valor paisajístico o turístico de una zona y otros que determine la Ley; y sea así calificado por las autoridades competentes, deberá ser ratificado por un consulta comunal vinculante, universal, libre, secreta e informada. La ley determinará la forma en que debe realizarse dicha consulta, ya sea que este afecte a una o más comunas.",
+        "number": "478",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 95,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 95. Ratificación de autorización a actividades que requieran de evaluación ambiental. Toda autorización de actividades económicas o productivas que impliquen riesgo para la salud de la población; efectos adversos sobre la Naturaleza; reasentamiento de comunidades humanas, o alteración significativa de los sistemas de vida y costumbres de los grupos humanos; localización en o próxima a asentamientos humanos y áreas que ostenten cualquier tipo de interés o figura de protección; alteración significativa, en términos de magnitud o duración, del valor paisajístico o turístico de una zona y otros que determine la Ley; y sea así calificado por las autoridades competentes, deberá ser ratificado por un consulta comunal vinculante, universal, libre, secreta e informada. La ley determinará la forma en que debe realizarse dicha consulta, ya sea que este afecte a una o más comunas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 36",
+        "content_snapshot": "",
+        "number": 144,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 36,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 36",
+        "content_snapshot": "",
+        "number": 145,
+        "authors_matched": [
+          "Vega, Roberto"
+        ],
+        "target_article": 36,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH57-ART96",
@@ -2189,7 +4387,55 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 96",
+        "content_snapshot": "Derecho de acceso a la información ambiental. Todas las personas tienen derecho a acceder a la información ambiental pública, que conste en poder o custodia del Estado, y de las empresas, instituciones y organismos que presten servicio al Estado. La ley promoverá la generación, recopilación, preservación y difusión de la información ambiental para cumplir con los derechos establecidos en este párrafo.",
+        "number": "481",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 96,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 96. Derecho de acceso a la información ambiental. Todas las personas tienen derecho a acceder a la información ambiental pública, que conste en poder o custodia del Estado, y de las empresas, instituciones y organismos que presten servicio al Estado. La ley promoverá la generación, recopilación, preservación y difusión de la información ambiental para cumplir con los derechos establecidos en este párrafo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 37",
+        "content_snapshot": "",
+        "number": 45,
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 37,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "03-17",
+        "article": "Artículo 37",
+        "content_snapshot": "",
+        "number": 46,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 37,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH58-ART97",
@@ -2216,7 +4462,55 @@
       "Alvarado, Gloria",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 97",
+        "content_snapshot": "Derecho de acceso a la justicia en materia ambiental. Se reconoce el derecho de acceso a la justicia en temas ambientales. El Estado está obligado a reducir o eliminar las barreras para el conocimiento pleno de la judicatura, adoptando medidas cautelares, los mecanismos de seguimiento, ejecución y cumplimiento efectivo de las decisiones y asegurando la efectividad de estos derechos.",
+        "number": "485",
+        "authors_matched": [
+          "Nunez, Nicolas"
+        ],
+        "target_article": 97,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 97. Derecho de acceso a la justicia en materia ambiental. Se reconoce el derecho de acceso a la justicia en temas ambientales. El Estado está obligado a reducir o eliminar las barreras para el conocimiento pleno de la judicatura, adoptando medidas cautelares, los mecanismos de seguimiento, ejecución y cumplimiento efectivo de las decisiones y asegurando la efectividad de estos derechos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 38",
+        "content_snapshot": "",
+        "number": 148,
+        "authors_matched": [
+          "Martin, Juan Jose"
+        ],
+        "target_article": 38,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-16",
+        "article": "Artículo 38",
+        "content_snapshot": "",
+        "number": 149,
+        "authors_matched": [
+          "Alvarez, Rodrigo"
+        ],
+        "target_article": 38,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C5-GEN-CH59-ART98",
@@ -2404,6 +4698,24 @@
       "Hoppe, Vanessa",
       "Caamano, Francisco",
       "Olivares, Ivanna"
-    ]
+    ],
+    "history": [
+      {
+        "timestamp": "03-01-2",
+        "article": "Artículo 105",
+        "content_snapshot": "",
+        "number": "515",
+        "authors_matched": [
+          "Fontaine, Bernardo"
+        ],
+        "target_article": 105,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   }
 ]
