@@ -1,0 +1,65 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{hyperref}
+
+\title{\textbf{Networked Influence in a Tabula Rasa Legislature: Tracing Co-authorship and Ideological Dynamics in the Chilean Constitutional Convention (2021-2022)}}
+\author{}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introducción}
+
+La Convención Constitucional Chilena de 2021-2022 proporciona un experimento natural casi perfecto para el estudio del comportamiento legislativo, la formación de alianzas y la influencia política. Tras un plebiscito histórico, 155 representantes fueron elegidos para redactar una nueva constitución desde cero en un plazo estricto de un año. De manera crucial, las reglas electorales permitieron la entrada masiva de actores ajenos a la política tradicional (outsiders), activistas independientes y ciudadanos sin experiencia institucional previa, operando junto a políticos establecidos en un entorno institucional de ``tabula rasa'' y de alto riesgo.
+
+En este contexto, los convencionales, muchos de los cuales no se conocían antes de la convención, se vieron obligados a identificar rápidamente aliados, negociar textos y formar bloques de votación. El enigma central de esta investigación es comprender las dinámicas de esta influencia en red: ¿Cómo adaptan sus posiciones ideológicas los \textit{outsiders} políticos al interactuar con políticos experimentados? Y, en última instancia, ¿qué atributos topológicos e individuales explican la capacidad de un convencional para imprimir con éxito sus preferencias en el texto constitucional final?
+
+\section{Estado de Avance}
+
+Actualmente, el proyecto se encuentra en una fase avanzada de extracción y estructuración de datos. Por un lado, la dinámica del ordenamiento político ---calculada a partir de los datos de votaciones en el pleno (roll-call voting) para inferir la ideología de los convencionales a lo largo del tiempo ---\textbf{ya se encuentra lista y procesada}. Una exploración visual interactiva de la dinámica de estas posiciones políticas está disponible en línea en: \url{https://aoliveram-conv-const-dynamics.hf.space}.
+
+Por otro lado, nos encontramos mapeando la totalidad de la red de exposición cruzada y co-autoría. Para ello, hemos extraído la ``historia parlamentaria'' del borrador mediante ``human in the loop'', procesando cientos de informes en PDF para estructurar archivos JSON que enlazan las propuestas iniciales (Génesis), las enmiendas (Indicaciones) y el texto final sistematizado, identificando a los autores específicos de cada bloque de texto.
+
+\section{Preguntas y Modelado}
+
+El diseño de investigación se formaliza en tres dimensiones secuenciales:
+
+\subsection{Modelo 1: Formación de la Red (TERGM)}
+\textit{¿Por qué cooperamos? ¿Qué factores impulsaron a dos convencionales a unirse para coescribir una propuesta inicial?}
+
+Para comprender las restricciones y preferencias iniciales que guiaron la formación de alianzas, modelaremos la probabilidad de creación de lazos en la red de co-autoría a lo largo del tiempo usando un Modelo de Grafo Aleatorio Exponencial Temporal (TERGM). Esto estimará si se aliaron por homofilia (ej. ser abogados), experiencia previa o cierre triádico, independientemente de sus cambios ideológicos posteriores.
+
+$$ P(Y^{(t)} = y | Y^{(t-1)}, X) = \frac{\exp\left( \sum_k \theta_k g_k(y, Y^{(t-1)}, X) \right)}{c(\theta, Y^{(t-1)}, X)} $$
+
+Donde $Y^{(t)}$ representa el estado de la red en el tiempo $t$, $X$ representa covariables individuales y $g_k$ estadísticas de la red.
+
+\subsection{Modelo 2: Dinámicas Ideológicas (SAOM)}
+\textit{¿Por qué hay dinámica ideológica? ¿Los convencionales cambiaron su posición ideológica por influencia de sus aliados, o simplemente eligieron aliados que ya pensaban como ellos?}
+
+Para desenredar la influencia social de la selección homofílica, utilizaremos un Modelo Estocástico Orientado al Actor (SAOM, vía RSiena). Este modela la co-evolución conjunta de la red de co-autoría y el punto ideal político continuo del convencional ($Z$). 
+
+$$ f^Z_i(x, z) = \beta_1 z_i + \beta_2 z_i^2 + \beta_3 \left( \frac{\sum_j x_{ij} (z_i - z_j)^2}{\sum_j x_{ij}} \right) + \sum \gamma_k V_{ik} $$
+
+Aquí, $\beta_3$ captura el vital efecto de ``exposición en la red'': la medida en que un delegado ajusta su ideología para coincidir con sus aliados, controlando por atributos como la experiencia previa ($V_{ik}$).
+
+\subsection{Modelo 3: Éxito Legislativo (SDM)}
+\textit{¿Qué explica el éxito legislativo? ¿Qué factores individuales (bagaje) y estructurales (exposición a redes específicas) explican la mayor retención de un texto en el borrador final?}
+
+Se modelará el éxito transversalmente ($y_i$), operacionalizado como la ``tasa de retención léxica'' (porcentaje del texto propuesto por el delegado que sobrevivió en el borrador maestro final). Emplearemos modelos de autorregresión espacial (SAR), específicamente un Modelo Espacial Durbin (SDM) usando la matriz acumulativa ponderada de co-autoría ($W$).
+
+$$ y = \rho W y + X \beta + W X \theta + \epsilon $$
+
+Esto pondrá a prueba tres vías hacia el éxito:
+1. Atributos Individuales ($X \beta$): El efecto de la centralidad propia, la heterofilia de la sub-red (ego), ser abogado y experiencia previa.
+2. Efecto Contagio ($\rho W y$): Si cooperar con delegados altamente exitosos incrementa el éxito propio.
+3. Capital en Red ($W X \theta$): Lag espacial exógeno para probar si la experiencia política o capacidad técnica (abogado) de los \textit{aliados} de un legislador actúa como proxy de transferencia de ``bagaje'', explicando su éxito.
+
+\end{document}

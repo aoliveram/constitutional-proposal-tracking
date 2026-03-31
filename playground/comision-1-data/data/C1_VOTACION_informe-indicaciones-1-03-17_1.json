@@ -1,0 +1,588 @@
+[
+  {
+    "number": "16",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Schonhaut, Constanza",
+      "Arauna, Francisca",
+      "Reyes, Maria Ramona",
+      "Delgado, Aurora",
+      "Carrillo, Alondra",
+      "Abarca, Damaris",
+      "Videla, Carolina",
+      "Hoppe, Vanessa",
+      "Villena, Ingrid"
+    ],
+    "target_article": 1,
+    "target_scope": "WORDING",
+    "action": "ADD",
+    "content": " y órganos",
+    "content_to_remove": "",
+    "placement_instructions": "entre las palabras “instituciones” y “del”"
+  },
+  {
+    "number": "17",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 1,
+    "target_scope": "WORDING",
+    "action": "ADD",
+    "content": " y órganos",
+    "content_to_remove": "",
+    "placement_instructions": "entre las palabras “instituciones” y “del”"
+  },
+  {
+    "number": "18",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Schonhaut, Constanza",
+      "Arauna, Francisca",
+      "Reyes, Maria Ramona",
+      "Delgado, Aurora",
+      "Carrillo, Alondra",
+      "Abarca, Damaris",
+      "Videla, Carolina",
+      "Hoppe, Vanessa",
+      "Villena, Ingrid"
+    ],
+    "target_article": 1,
+    "target_scope": "WORDING",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "incluyendo las organizaciones sociales, profesionales, económicas y políticas,",
+    "placement_instructions": ""
+  },
+  {
+    "number": "19",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 1,
+    "target_scope": "WORDING",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "incluyendo las organizaciones sociales, profesionales, económicas y políticas,",
+    "placement_instructions": ""
+  },
+  {
+    "number": "31",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Schonhaut, Constanza",
+      "Arauna, Francisca",
+      "Reyes, Maria Ramona",
+      "Delgado, Aurora",
+      "Carrillo, Alondra",
+      "Abarca, Damaris",
+      "Videla, Carolina",
+      "Hoppe, Vanessa",
+      "Villena, Ingrid"
+    ],
+    "target_article": 3,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "oprimidos e históricamente excluidos",
+    "content_to_remove": "históricamente desaventajados y excluidos",
+    "placement_instructions": ""
+  },
+  {
+    "number": "32",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 3,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "oprimidos e históricamente excluidos",
+    "content_to_remove": "históricamente desaventajados y excluidos",
+    "placement_instructions": ""
+  },
+  {
+    "number": "37",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 3,
+    "target_scope": "INCISO 2",
+    "action": "SUBSTITUTE",
+    "content": "El Estado deberá garantizar la inclusión de estos grupos en las políticas públicas y en el proceso de formación de las leyes, mediante mecanismos de participación popular y deliberación política, asegurando medidas afirmativas que posibiliten su integración efectiva.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "41",
+    "authors_matched": [
+      "Cubillos, Marcela",
+      "Hube, Constanza",
+      "Zuniga, Luis Arturo"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "42",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "48",
+    "authors_matched": [
+      "Cubillos, Marcela",
+      "Hube, Constanza",
+      "Zuniga, Luis Arturo"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "49",
+    "authors_matched": [
+      "Atria, Fernando",
+      "Schonhaut, Constanza",
+      "Bassa, Jaime"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "50",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "68",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Barraza, Marcos"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 1",
+    "action": "ADD",
+    "content": "Chile es un Estado Plurinacional e Intercultural que reconoce la coexistencia de diversas naciones y pueblos en el marco de la unidad del Estado.",
+    "content_to_remove": "",
+    "placement_instructions": "como un reemplazo del inciso primero"
+  },
+  {
+    "number": "74",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 6,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "conforme a esta Constitución, los tratados internacionales de derechos humanos ratificados y vigentes en Chile y la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas",
+    "content_to_remove": "en el marco de esta Constitución y en el Sistema Internacional de los Derechos Humanos y de los Pueblos Indígenas",
+    "placement_instructions": ""
+  },
+  {
+    "number": "79",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 6,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "en la forma que establezca la ley",
+    "content_to_remove": "por la ley",
+    "placement_instructions": ""
+  },
+  {
+    "number": "86",
+    "authors_matched": [
+      "Arauna, Francisca",
+      "Sepúlveda, Barbara",
+      "Barraza, Marcos"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Del pueblo tribal afrodescendiente",
+    "content_to_remove": "De la Plurinacionalidad. Chile es un Estado Plurinacional y pluricultural",
+    "placement_instructions": ""
+  },
+  {
+    "number": "88",
+    "authors_matched": [
+      "Arauna, Francisca",
+      "Sepúlveda, Barbara",
+      "Barraza, Marcos"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 2",
+    "action": "SUBSTITUTE",
+    "content": "El Estado reconoce al pueblo tribal afrodescendiente y su titularidad de derechos colectivos reconocidos y garantizados por la Constitución, las leyes y los instrumentos internacionales reconocidos y ratificados por Chile",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "93",
+    "authors_matched": [
+      "Arauna, Francisca",
+      "Sepúlveda, Barbara",
+      "Barraza, Marcos"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 3",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "96",
+    "authors_matched": [
+      "Larrain, Hernan"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO 4",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": " incorporando su representación en la estructura del Estado, sus órganos e instituciones ejecutivas, legislativas y judiciales, así como su representación política en órganos de elección popular",
+    "placement_instructions": ""
+  },
+  {
+    "number": "98",
+    "authors_matched": [
+      "Arauna, Francisca",
+      "Sepúlveda, Barbara",
+      "Barraza, Marcos"
+    ],
+    "target_article": 6,
+    "target_scope": "INCISO FINAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "creando institucionalidad y promoviendo políticas públicas que favorezcan el reconocimiento y comprensión de la diversidad étnica y cultural, en la forma determinada por esta constitución, las leyes y Sistema Internacional de los Derechos Humanos y de los pueblos indígenas y tribales",
+    "placement_instructions": ""
+  },
+  {
+    "number": "104",
+    "authors_matched": [
+      "Cubillos, Marcela",
+      "Hube, Constanza",
+      "Zuniga, Luis Arturo"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "105",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "109",
+    "authors_matched": [
+      "Cubillos, Marcela",
+      "Hube, Constanza",
+      "Zuniga, Luis Arturo"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "110",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "number": "118",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Barraza, Marcos"
+    ],
+    "target_article": 7,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "la protección del territorio marítimo",
+    "content_to_remove": "maritorios",
+    "placement_instructions": ""
+  },
+  {
+    "number": "122",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 7,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": ", a la cooperación e integración, al reconocimiento de sus instituciones, jurisdicciones y autoridades propias o tradicionales",
+    "content_to_remove": "al reconocimiento de sus instituciones y jurisdicciones propias",
+    "placement_instructions": ""
+  },
+  {
+    "number": "127",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 7,
+    "target_scope": "WORDING",
+    "action": "MODIFY_PHRASE",
+    "content": "debe",
+    "content_to_remove": "deberá",
+    "placement_instructions": ""
+  },
+  {
+    "number": "130",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 7,
+    "target_scope": "WORDING",
+    "action": "ADD",
+    "content": " a nivel local, regional y nacional",
+    "content_to_remove": "",
+    "placement_instructions": "luego de la frase 'incorporando su representación en la estructura del Estado, sus órganos e instituciones, así como su representación política en los órganos de elección popular'"
+  },
+  {
+    "number": "139",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 8,
+    "target_scope": "WORDING",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "o sus antecesores jurídicos",
+    "placement_instructions": ""
+  },
+  {
+    "number": "140",
+    "authors_matched": [
+      "Cubillos, Marcela",
+      "Hube, Constanza",
+      "Zuniga, Luis Arturo"
+    ],
+    "target_article": 8,
+    "target_scope": "WORDING",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": "o sus antecesores jurídicos",
+    "placement_instructions": ""
+  },
+  {
+    "number": "145",
+    "authors_matched": [
+      "Sepúlveda, Barbara",
+      "Munoz, Pedro",
+      "Montero, Ricardo",
+      "Arauna, Francisca",
+      "Schonhaut, Constanza",
+      "Atria, Fernando",
+      "Hurtado, Maximiliano",
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Politzer, Patricia",
+      "Chahin, Fuad",
+      "Namor, Guillermo"
+    ],
+    "target_article": 9,
+    "target_scope": "WORDING",
+    "action": "DELETE",
+    "content": "",
+    "content_to_remove": ", compensación",
+    "placement_instructions": ""
+  }
+]
