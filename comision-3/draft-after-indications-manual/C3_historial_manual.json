@@ -59,7 +59,7 @@
         "timestamp": "02-14",
         "article": "Artículo 1",
         "step": "Indicación",
-        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el, adecuado y justo entre las diversas entidades territoriales, atendiendo especialmente a aquellas ubicadas en territorios insulares y zonas extremas.",
+        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el adecuado y justo entre las diversas entidades territoriales, atendiendo especialmente a aquellas ubicadas en territorios insulares y zonas extremas.",
         "number": "8",
         "authors_matched": [
           "Mella, Jeniffer",
@@ -90,7 +90,7 @@
         "timestamp": "02-14",
         "article": "Artículo 1",
         "step": "Indicación",
-        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el, adecuado y justo entre las diversas entidades territoriales.",
+        "content_snapshot": "Del Estado Regional. Chile es un Estado Regional, plurinacional e intercultural conformado por entidades territoriales autónomas, en un marco de equidad y solidaridad entre todas ellas, preservando la unidad e integridad del Estado. El Estado promoverá la cooperación, la integración armónica y el adecuado y justo entre las diversas entidades territoriales.",
         "number": "9",
         "authors_matched": [
           "Mella, Jeniffer",
@@ -117,7 +117,8 @@
         "content_to_remove": "atendiendo especialmente a aquellas ubicadas en territorios insulares y zonas extremas",
         "placement_instructions": "luego de la coma “,” que pasa a ser un punto final"
       }
-    ]
+    ],
+    "final_status": "idéntico a 142.- Artículo 1"
   },
   {
     "article_uid": "C3-GEN-CH01-ART01A",
@@ -409,7 +410,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 143.- Artículo 2"
   },
   {
     "article_uid": "C3-GEN-CH01-ART03",
@@ -504,7 +506,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 144.- Artículo 3"
   },
   {
     "article_uid": "C3-GEN-CH01-ART04",
@@ -580,7 +583,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Similar a 145.- Artículo 4"
   },
   {
     "article_uid": "C3-GEN-CH01-ART05",
@@ -658,7 +662,8 @@
         "content_to_remove": null,
         "placement_instructions": "después de “autonomía”"
       }
-    ]
+    ],
+    "final_status": "idéntico a 146.- Artículo 5"
   },
   {
     "article_uid": "C3-GEN-CH01-ART06",
@@ -765,7 +770,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 147.- Artículo 6"
   },
   {
     "article_uid": "C3-GEN-CH01-ART07",
@@ -825,7 +831,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 148.- Artículo 7"
   },
   {
     "article_uid": "C3-GEN-CH01-ART08",
@@ -978,7 +985,8 @@
         "content_to_remove": "inciso final",
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 149.- Artículo 8"
   },
   {
     "article_uid": "C3-GEN-CH01-ART09",
@@ -1043,7 +1051,8 @@
         "content_to_remove": null,
         "placement_instructions": "después de “desaventajados”"
       }
-    ]
+    ],
+    "final_status": "similar a 150.- Artículo 9"
   },
   {
     "article_uid": "C3-GEN-CH01-ART10",
@@ -1151,7 +1160,8 @@
         "content_to_remove": "asegurar",
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 151.- Artículo 10"
   },
   {
     "article_uid": "C3-GEN-CH01-ART11",
@@ -1184,7 +1194,7 @@
         "timestamp": "02-14",
         "article": "Artículo 11",
         "step": "Indicación",
-        "content_snapshot": "La elección de las y los representantes por votación popular de las entidades territoriales se efectuará asegurando la paridad de género, la probidad, la representatividad territorial, la pertenencia territorial, avecindamiento y la representación efectiva de los pueblos y naciones pre existentes al Estado.\n La Constitución y la ley establecerán los requisitos para la postulación y las causales de cesación de dichos cargos. La calificación y procedencia de estas causales de cesación se realizará a través de un procedimiento expedito ante la justicia electoral, en conformidad a la ley.",
+        "content_snapshot": "De la postulación y cesación a los cargos de las entidades territoriales. La elección de las y los representantes por votación popular de las entidades territoriales se efectuará asegurando la paridad de género, la probidad, la representatividad territorial, la pertenencia territorial, avecindamiento y la representación efectiva de los pueblos y naciones pre existentes al Estado.\n La Constitución y la ley establecerán los requisitos para la postulación y las causales de cesación de dichos cargos. La calificación y procedencia de estas causales de cesación se realizará a través de un procedimiento expedito ante la justicia electoral, en conformidad a la ley.",
         "number": "105",
         "authors_matched": [
           "Mella, Jeniffer",
@@ -1211,7 +1221,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 152.- Artículo 11"
   },
   {
     "article_uid": "C3-GEN-CH01-ART12",
@@ -1321,7 +1332,8 @@
         "placement_instructions": "luego de solidaridad, cambiando el punto aparte “.” por una coma “,”",
         "comments": "Ese cambio está en la versión original. No modificó el texto de alguna forma"
       }
-    ]
+    ],
+    "final_status": "similar a 153.- Artículo 12"
   },
   {
     "article_uid": "C3-GEN-CH01-ART13",
@@ -1443,7 +1455,8 @@
         "content_to_remove": null,
         "placement_instructions": "nuevo inciso final"
       }
-    ]
+    ],
+    "final_status": "idéntico a 154.- Artículo 13"
   },
   {
     "article_uid": "C3-GEN-CH01-ART14",
@@ -1503,7 +1516,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 155.- Artículo 14"
   },
   {
     "article_uid": "C3-GEN-CH01-ART15",
@@ -1579,7 +1593,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN-CH01-ART16",
@@ -1737,7 +1752,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico  a 156.- Artículo 16"
   },
   {
     "article_uid": "C3-GEN-CH01-ART19",
@@ -1778,7 +1794,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 157.- Artículo 17"
   },
   {
     "article_uid": "C3-GEN-CH01-ART20",
@@ -2206,7 +2223,8 @@
         "target_scope": "TOTAL",
         "content": "“De las Regiones Autónomas: Las Regiones autónomas son entidades políticas y territoriales dotadas de personalidad jurídica de derecho público y patrimonio propio que gozan de autonomía para el desarrollo de los intereses regionales, la gestión de sus recursos económicos y el ejercicio de las atribuciones legislativa, reglamentaria, ejecutiva y fiscalizadora a través de sus órganos en el ámbito de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.”"
       }
-    ]
+    ],
+    "final_status": "idéntico a 158.- Artículo 18"
   },
   {
     "article_uid": "C3-GEN-CH01-ART28",
@@ -2282,7 +2300,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 159.- Artículo 19"
   },
   {
     "article_uid": "C3-GEN-CH01-ART29",
@@ -2369,7 +2388,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 160.- Artículo 20"
   },
   {
     "article_uid": "C3-GEN-CH01-ART30",
@@ -2505,7 +2525,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 161.- Artículo 21"
   },
   {
     "article_uid": "C3-GEN-CH01-ART32",
@@ -2578,7 +2599,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 162.- Artículo 22"
   },
   {
     "article_uid": "C3-GEN-CH01-ART33",
@@ -2638,7 +2660,7 @@
         "timestamp": "02-14",
         "article": "Artículo 33",
         "step": "Indicación",
-        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
         "number": "219",
         "authors_matched": [
           "Pustilnick, Tammy",
@@ -2657,7 +2679,7 @@
         "timestamp": "02-14",
         "article": "Artículo 33",
         "step": "Indicación",
-        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y el Estatuto Regional.",
         "number": "222",
         "authors_matched": [
           "Pustilnick, Tammy",
@@ -2676,7 +2698,7 @@
         "timestamp": "02-14",
         "article": "Artículo 33",
         "step": "Indicación",
-        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y la ley.",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal, en conformidad con lo dispuesto en la Constitución y la ley.",
         "number": "225",
         "authors_matched": [
           "Rivera, Maria Magdalena",
@@ -2693,7 +2715,7 @@
         "timestamp": "02-14",
         "article": "Artículo 33",
         "step": "Indicación",
-        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal en votación directa, en conformidad con lo dispuesto en la Constitución y la ley.",
+        "content_snapshot": "Del Gobierno Regional. El Gobierno Regional es el órgano ejecutivo de la Región Autónoma.\n Una Gobernadora o Gobernador Regional dirigirá el Gobierno Regional, ejerciendo la función administrativa y reglamentaria y representará a la Región autónoma ante las demás autoridades nacionales e internacionales, en el marco de la política nacional de relaciones internacionales, con funciones de coordinación e intermediación entre el gobierno central y la región. La Gobernadora o Gobernador regional tendrá la representación judicial y extrajudicial de la región.\n En la elección de Gobernadora o Gobernador Regional, resultará electo quien obtenga la mayoría de los votos válidamente emitidos, pero si ningún candidato logra al menos el cuarenta por ciento de los votos se producirá una segunda votación entre los candidatos o candidatas que hayan obtenido las dos más altas mayorías, resultando elegido el que obtuviere la mayoría de los votos válidamente emitidos.\n La Gobernadora o Gobernador Regional ejercerá sus funciones por el término de cuatro años, pudiendo ser reelegido o reelegida consecutivamente sólo una vez para el período siguiente. En este caso, se considerará que se ha ejercido el cargo durante un período cuando el Gobernador o Gobernadora Regional haya cumplido más de la mitad del mandato.\n La Gobernadora o Gobernador regional, será elegido por sufragio universal en votación directa, en conformidad con lo dispuesto en la Constitución y la ley.",
         "number": "226",
         "authors_matched": [
           "Pustilnick, Tammy",
@@ -2708,7 +2730,8 @@
         "content": "“en votación directa”",
         "placement_instructions": "luego de la expresión “sufragio universal”"
       }
-    ]
+    ],
+    "final_status": "similar a 163.- Artículo 23"
   },
   {
     "article_uid": "C3-GEN-CH01-ART33A",
@@ -3128,7 +3151,8 @@
         "target_scope": "TOTAL",
         "content": "‘‘Artículo 37. Del Consejo de Alcaldes y Alcaldesas. El Consejo de Alcaldes y Alcaldesas es un órgano de carácter consultivo que estará integrado por los alcaldes y alcaldesas de todas las comunas de la región autónoma y de las ciudades respectivas, el cual será coordinado por quien determinen sus integrantes por mayoría absoluta.\n El Consejo deberá sesionar y abordar las problemáticas de la región autónoma, promover una coordinación efectiva entre los distintos órganos con presencia regional y fomentar una cooperación eficaz entre los gobiernos locales en la forma que determine la ley’’."
       }
-    ]
+    ],
+    "final_status": "idéntico a 164.- Artículo 24"
   },
   {
     "article_uid": "C3-GEN-CH01-ART38",
@@ -3406,7 +3430,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 165.- Artículo 25"
   },
   {
     "article_uid": "C3-GEN-CH01-ART40",
@@ -3495,7 +3520,8 @@
         "placement_instructions": null,
         "comments": "Ese cambio está en la versión original. No modificó el texto de alguna forma"
       }
-    ]
+    ],
+    "final_status": "similar a 166.- Artículo 26"
   },
   {
     "article_uid": "C3-GEN-CH01-ART40A",
@@ -4323,7 +4349,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 167.- Artículo 27"
   },
   {
     "article_uid": "C3-GEN-CH01-ART46",
@@ -4866,7 +4893,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 169"
   },
   {
     "article_uid": "C3-GEN-CH01-ART56",
@@ -5131,7 +5159,7 @@
         "timestamp": "03-01-1",
         "article": "Artículo 29",
         "step": "Indicación",
-        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto.\n Son facultades del Consejo de Gobernadores:\n a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones;\n b) La coordinación económica y presupuestaria entre el Estado y las Regiones Autónomas;\n c) Debatir sobre las actuaciones conjuntas de carácter estratégico, que afecten a los ámbitos competenciales estatal y regional;\n d) Velar por la correcta aplicación de los principios de equidad, solidaridad y justicia territorial, y de los mecanismos de compensación económica interterritorial, en conformidad con la Constitución y la ley;\n e) Convocar encuentros sectoriales entre entidades territoriales; f) Participar en la elaboración de la Ley de Presupuestos Nacional; g) Acordar la creación de comisiones o grupos de trabajo para el estudio de asuntos de interés común;\n h) g) Las demás que establezcan la Constitución y la ley.",
+        "content_snapshot": "Del Consejo de Gobernaciones. El Consejo de Gobernadores, presidido por el Presidente de la República y conformado por las y los Gobernadores de cada Región, coordinará las relaciones entre el Estado Central y las entidades territoriales, velando por el bienestar social y económico equilibrado de la República en su conjunto.\n Son facultades del Consejo de Gobernadores:\n a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones;\n b) La coordinación económica y presupuestaria entre el Estado y las Regiones Autónomas;\n c) Debatir sobre las actuaciones conjuntas de carácter estratégico, que afecten a los ámbitos competenciales estatal y regional;\n d) Velar por la correcta aplicación de los principios de equidad, solidaridad y justicia territorial, y de los mecanismos de compensación económica interterritorial, en conformidad con la Constitución y la ley;\n e) Convocar encuentros sectoriales entre entidades territoriales; f) Participar en la elaboración de la Ley de Presupuestos Nacional; g) Acordar la creación de comisiones o grupos de trabajo para el estudio de asuntos de interés común;\n h) Las demás que establezcan la Constitución y la ley.",
         "number": 97,
         "authors_matched": [
           "Jofre, Alvaro",
@@ -5148,7 +5176,8 @@
         "content_to_remove": null,
         "placement_instructions": "precedente al literal G) actual"
       }
-    ]
+    ],
+    "final_status": "similar a 169.- Artículo 29"
   },
   {
     "article_uid": "C3-GEN-CH01-ART57",
@@ -5331,7 +5360,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 170.- Artículo 30"
   },
   {
     "article_uid": "C3-GEN-CH01-ART58",
@@ -6041,7 +6071,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 171.- Artículo 31"
   },
   {
     "article_uid": "C3-IND02-14-CH01-ART67bis",
@@ -6072,7 +6103,8 @@
     "target_scope": "TOTAL",
     "content": "Art 67 bis. Competencia exclusiva de la legislación regional. Son materias de la ley regional:\n 1. La organización política, administrativa y financiera del Gobierno Regional. 2. El desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 3. Investigación, tecnología y ciencias en la Región Autónoma. 4. Conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua, bosques y los demás elementos naturales de su territorio y maritorio. 5. Culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 6. Participación popular en la Región Autónoma. 7. Contribuciones, tasas y beneficios tributarios regionales.",
     "content_to_remove": null,
-    "placement_instructions": null
+    "placement_instructions": null,
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-IND02-14-CH01-ART67quater",
@@ -6095,7 +6127,8 @@
     "target_scope": "TOTAL",
     "content": "De las competencias legislativas concurrentes. El Congreso Plurinacional y cada Asamblea Legislativa Regional tendrán potestades legislativas concurrentes. Se entenderán potestades legislativas concurrentes aquellas en que las Regiones Autónomas le corresponde la potestad legislativa específica, con la excepción de la determinación de los principios o reglas generales en una ley marco que le corresponde al Congreso Plurinacional. Son materias de legislación concurrente: 1) La coordinación tributaria; 2) La coordinación presupuestaria; 3) La creación de instituciones financieras y crediticias regionales, tales como bancos locales y rurales; 4) La creación de entidades de crédito inmobiliario y agrario regionales; 5) La política de desarrollo cultural y de educación regional, y la creación de instituciones de educación superior y técnica; 6) La protección de la soberanía alimentaria; 7) La investigación científica y tecnológica regional; 8) La suscripción de deuda pública regional y municipal; 9) El diseño y ejecución de proyectos de infraestructura interregional; 10) La regulación de los bienes fiscales y de los bienes nacionales de uso público, incluyendo las minas y los demás bienes comunes naturales. 11) La regulación de la organización sindical, la negociación o conflicto colectivo y la huelga; 12) El diseño y ejecución de proyectos de Infraestructura energética interregional; 13) La política de realización progresiva de los derechos económicos, sociales y culturales; 14) Creación de entidades de coordinación relativas a la provisión de servicios públicos esenciales; 15) La regulación de la responsabilidad por daño ambiental; 16) La política de protección de los derechos e inclusión social de personas con discapacidades; 17. Planificación, obras públicas, ordenamiento territorial y manejo integrado de cuencas en la Región Autónoma. 18. Vivienda, urbanismo, salud, educación, transporte, conectividad digital, turismo, deporte, ocio y recreación en la Región Autónoma.",
     "content_to_remove": null,
-    "placement_instructions": null
+    "placement_instructions": null,
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN-CH01-ART68",
@@ -6186,7 +6219,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN-CH01-ART69",
@@ -6548,7 +6582,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 172.- Artículo 35"
   },
   {
     "article_uid": "C3-GEN-CH01-ART71",
@@ -6699,7 +6734,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN-CH01-ART73",
@@ -6967,8 +7003,44 @@
         "content": "El ejercicio de la potestad tributaria admite la imposición de tributos que respondan a criterios extrafiscales debiendo tener en consideración límites tales como la necesidad, razonabilidad y transparencia",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 1",
+        "content_snapshot": "De los tributos. Todas las personas y entidades deberán contribuir al sostenimiento de los gastos públicos mediante el pago de los impuestos, las tasas y las contribuciones que autorice la ley.\n El sistema tributario se funda en los principios de igualdad, progresividad, solidaridad y justicia material el cual, en ningún caso, tendrá alcance confiscatorio.\n El sistema tributario tendrá dentro de sus objetivos la reducción de las desigualdades y la pobreza.\n Los tributos y los beneficios tributarios se crean, modifican o suprimen por ley, salvo las excepciones que establezca esta Constitución.\n El ejercicio de la potestad tributaria admite la creación de tributos que respondan principalmente a fines distintos de la recaudación, debiendo tener en consideración límites tales como la necesidad, la razonabilidad y la transparencia.",
+        "number": 2,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 1,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO 2, 3 y 4",
+        "content": "El sistema tributario se funda en los principios de igualdad, progresividad, solidaridad y justicia material el cual, en ningún caso, tendrá alcance confiscatorio. El sistema tributario tendrá dentro de sus objetivos la reducción de las desigualdades y la pobreza. Los tributos y los beneficios tributarios se crean, modifican o suprimen por ley, salvo las excepciones que establezca esta Constitución. El ejercicio de la potestad tributaria admite la creación de tributos que respondan principalmente a fines distintos de la recaudación, debiendo tener en consideración límites tales como la necesidad, la razonabilidad y la transparencia.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 198.- Artículo 1"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART03",
@@ -7088,7 +7160,8 @@
     "text": "Descentralización fiscal. Los Gobiernos Regionales y las Municipalidades gozan de autonomía financiera para el cumplimiento de sus funciones, dentro del marco establecido por esta Constitución y las leyes.\n La Ley de Presupuestos de la Nación deberá propender a que, progresivamente, una parte significativa del gasto público sea ejecutado a través de los gobiernos subnacionales, en función de las responsabilidades propias que debe asumir cada nivel de gobierno.\n El deber y la facultad de velar por la estabilidad macroeconómica y fiscal será centralizada, conforme a lo dispuesto en esta Constitución.",
     "sources": [
       "931-3"
-    ]
+    ],
+    "final_status": "idéntico a 199.- Artículo 2"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART06",
@@ -7591,8 +7664,44 @@
         "content": "Excepcionalmente, la ley podrá crear tributos de afectación en favor de las entidades territoriales referidos a actividades o bienes con una clara identificación con los territorios, la prevención de contaminación medioambiental, la conservación y reparación de los ecosistemas, salud o educación. Una ley marco fijará los criterios para la creación de estos tributos.",
         "content_to_remove": null,
         "placement_instructions": "añadir un nuevo inciso del artículo 15"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 3",
+        "content_snapshot": "De la no afectación. Los tributos que se recauden, cualquiera sea su naturaleza, ingresarán al erario público del Estado o a las entidades territoriales según corresponda conforme a la Constitución. Excepcionalmente, la ley podrá crear tributos en favor de las entidades territoriales que graven las actividades o bienes con una clara identificación con los territorios.",
+        "number": 7,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 3,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 3 (15_TS).- De la no afectación. Los tributos que se recauden, cualquiera sea su naturaleza, ingresarán al erario público del Estado o a las entidades territoriales según corresponda conforme a la Constitución. Excepcionalmente, la ley podrá crear tributos en favor de las entidades territoriales que graven las actividades o bienes con una clara identificación con los territorios.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 200.- Artículo 3"
   },
   {
     "article_uid": "C3-IND04-06-CH01-ART15bis",
@@ -7627,7 +7736,8 @@
     "target_scope": "TOTAL",
     "content": "Artículo 15 bis. Prohibiciones en materia tributaria. La ley de Presupuestos no puede crear tributos ni beneficios tributarios. No procederá iniciativas populares ni plebiscito y referéndum en materia tributaria.",
     "content_to_remove": null,
-    "placement_instructions": "Para incorporar un nuevo artículo 15 bis"
+    "placement_instructions": "Para incorporar un nuevo artículo 15 bis",
+    "final_status": "similar a 201.- Artículo 4"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART16",
@@ -8072,8 +8182,44 @@
         "content": "Para trasladar el artículo 23 inmediatamente después del nuevo artículo 39 bis.",
         "content_to_remove": null,
         "placement_instructions": "inmediatamente después del nuevo artículo 39 bis"
+      },
+      {
+        "timestamp": "04-06",
+        "step": "Indicación",
+        "article": "Artículo 40",
+        "content_snapshot": "Distribución de los impuestos. Los ingresos fiscales generados por impuestos serán distribuidos entre el Estado y las entidades territoriales en la forma establecida en la Ley de Presupuestos.\n Durante el trámite legislativo presupuestario, el organismo competente sugerirá una fórmula de distribución de ingresos fiscales, la cual considerará los criterios de distribución establecidos por la ley.",
+        "number": 17,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 12,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 12 Distribución de los impuestos. Los ingresos fiscales generados por impuestos serán distribuidos entre el Estado y las entidades territoriales en la forma establecida en la Ley de Presupuestos.\n Durante el trámite legislativo presupuestario, el organismo competente sugerirá una fórmula de distribución de ingresos fiscales, la cual considerará los criterios de distribución establecidos por la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 206.- Artículo 12"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART24",
@@ -8082,7 +8228,8 @@
     "text": "Multas y sobreprecios sobre externalidades negativas ambientales o de actividades económicas. La ley dictada por el Congreso Plurinacional puede establecer multas y sobreprecios sobre las externalidades negativas ambientales o de actividades económicas, tales como cargas sobre la emisión de carbono, residuos tóxicos u otras substancias semejantes.\n Esta ley debe definir criterios de compensación para las Comunas Autónomas afectadas por las externalidades o actividades sujetas a este impuesto.",
     "sources": [
       "633-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART25",
@@ -8227,8 +8374,25 @@
         "content": "Para trasladar el artículo 26 inmediatamente después del artículo 48.",
         "content_to_remove": null,
         "placement_instructions": "inmediatamente después del artículo 48"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 25",
+        "content_snapshot": "Transparencia tributaria. Anualmente la autoridad competente publicará los ingresos afectos a impuestos y las cargas tributarias estatales, regionales y comunales, así como los beneficios tributarios, subsidios, subvenciones o bonificaciones de fomento a la actividad empresarial, incluyendo personas naturales y jurídicas. También deberá estimarse anualmente en la Ley de Presupuestos y publicarse el costo de estos beneficios fiscales.\n La ley determinará la información que deberá ser publicada y la forma de llevarla a cabo.",
+        "number": 30,
+        "authors_matched": [
+          "Ampuero, Adriana"
+        ],
+        "target_article": 25,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 25.- Transparencia tributaria. Anualmente la autoridad competente publicará los ingresos afectos a impuestos y las cargas tributarias estatales, regionales y comunales, así como los beneficios tributarios, subsidios, subvenciones o bonificaciones de fomento a la actividad empresarial, incluyendo personas naturales y jurídicas. También deberá estimarse anualmente en la Ley de Presupuestos y publicarse el costo de estos beneficios fiscales. La ley determinará la información que deberá ser publicada y la forma de llevarla a cabo.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 216.- Artículo 25"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART27",
@@ -8612,7 +8776,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART33",
@@ -8654,8 +8819,79 @@
         "action": "SUBSTITUTE",
         "target_scope": "TOTAL",
         "content": "Artículo 33. Comisión de Equidad Territorial y Transferencias Fiscales. La Comisión de Equidad Territorial y Transferencias Fiscales es el órgano de carácter técnico cuya misión es proponer las fórmulas de redistribución de los ingresos fiscales al Poder Legislativo u otras instituciones de acuerdo a la Constitución y la ley. La ley determinará la composición y elección de sus miembros, para lo cual deberá considerar criterios equitativos de participación y representación de las entidades territoriales. Sin perjuicio de las atribuciones consagradas al Consejo de Gobernaciones, dicha ley determinará la organización y competencias de la Comisión, la que deberá considerar, al menos, las siguientes: 1. Recopilar y sistematizar la información necesaria para definir la redistribución de los ingresos fiscales. 2. Proponer una fórmula para la redistribución de los ingresos fiscales de los impuestos del artículo 2 y de las regalías. 3. Proponer una fórmula para la redistribución interregional e intercomunal establecidas en el artículo 43 ter y en el artículo 43 quater habiendo considerado las transferencias verticales. 4. La cuantificación de los costos fijos y variables que conlleve la transferencia de competencias desde el Estado a las entidades territoriales. 5. Proponer los montos para contribuir periódicamente al Fondo Fiduciario de Territorios Especiales. 6. Colaborar en la preparación de informes financieros de los proyectos de ley presentados por el poder legislativo que impliquen gastos con destinación regional o comunal, según lo establecido en la Constitución, así como informes y estudios económicos."
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 6",
+        "content_snapshot": "No discrecionalidad en la distribución de ingresos fiscales. La ley definirá el organismo encargado de recopilar y sistematizar la información necesaria para proponer al Poder Legislativo las fórmulas de distribución de los ingresos fiscales, de compensación fiscal entre entidades territoriales y de los recursos a integrar en los diversos fondos.\n Para estos efectos se deberá considerar la participación y representación de las entidades territoriales.",
+        "number": 10,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 6,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 6.- No discrecionalidad en la distribución de ingresos fiscales. La ley definirá el organismo encargado de recopilar y sistematizar la información necesaria para proponer al Poder Legislativo las fórmulas de distribución de los ingresos fiscales, de compensación fiscal entre entidades territoriales y de los recursos a integrar en los diversos fondos. Para estos efectos se deberá considerar la participación y representación de las entidades territoriales.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 16",
+        "content_snapshot": "No discrecionalidad en la distribución de ingresos fiscales. La ley definirá el organismo encargado de recopilar y sistematizar la información necesaria para proponer al Poder Legislativo las fórmulas de distribución de los ingresos fiscales, de compensación fiscal entre entidades territoriales y de los recursos a integrar en los diversos fondos.\n Para estos efectos se deberá considerar la participación y representación de las entidades territoriales.",
+        "number": 11,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 6,
+        "action": "MOVE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 6.- No discrecionalidad en la distribución de ingresos fiscales.",
+        "content_to_remove": null,
+        "placement_instructions": "inmediatamente después del artículo 15"
       }
-    ]
+    ],
+    "final_status": "idéntico a 210.- Artículo 6"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART34",
@@ -8801,8 +9037,44 @@
         "action": "SUBSTITUTE",
         "target_scope": "TOTAL",
         "content": "Artículo 36 Fondo fiduciario para Territorios Especiales. La ley creará un Fondo Fiduciario para Territorios Especiales. La ley regulará la administración del Fondo Fiduciario para Territorios Especiales, cuyos recursos serán destinados exclusivamente a los fines para los cuales fueron creados. El Fondo Fiduciario obtendrá recursos de acuerdo a lo señalado en el artículo 33 N°5."
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 7",
+        "content_snapshot": "Fondo para Territorios Especiales. La ley creará y regulará la administración de un Fondo para Territorios Especiales, cuyos recursos serán destinados exclusivamente a los fines para los cuales fueron creados.",
+        "number": 12,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 7,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 7 (36_TS).- Fondo para Territorios Especiales. La ley creará y regulará la administración de un Fondo para Territorios Especiales, cuyos recursos serán destinados exclusivamente a los fines para los cuales fueron creados.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 202.- Artículo 7"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART37",
@@ -8848,7 +9120,8 @@
         "target_scope": "TOTAL",
         "content": "Artículo 37. De la autonomía financiera de las entidades territoriales. Las entidades territoriales mencionadas en el artículo 5° de esta Constitución, gozarán de autonomía financiera en sus ingresos y gastos para el cumplimiento de sus competencias, la cual deberá ajustarse a los principios de suficiencia, coordinación, equilibrio presupuestario, solidaridad y compensación interterritorial, sostenibilidad, responsabilidad y eficiencia económica"
       }
-    ]
+    ],
+    "final_status": "idéntico a 203.- Artículo 8"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART38",
@@ -8997,8 +9270,44 @@
         "target_scope": "INCISO",
         "content": "9. Otros que determine la Constitución y la ley.",
         "placement_instructions": "inciso 1° un nuevo numeral 9"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 9",
+        "content_snapshot": "De los ingresos de las entidades territoriales. Las entidades territoriales, de conformidad a la Constitución y las leyes, tendrán las siguientes fuentes de ingresos:\n 1. Los recursos asignados por la Ley de Presupuestos del Estado.\n 2. Los impuestos en favor de la entidad territorial\n 3. La distribución de los impuestos establecida en la Ley de Presupuestos.\n 4. Las tasas y contribuciones.\n 5. La distribución de los fondos solidarios.\n 6. La transferencia fiscal interterritorial.\n 7. El endeudamiento, dentro de los límites constitucionales y legales.\n 8. La administración y aprovechamiento de su patrimonio.\n 9. Las donaciones, herencias y legados que reciban conforme a la ley.\n 10. Otras que determine la Constitución y la ley.",
+        "number": 14,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 9,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 9 (38_TS).- De los ingresos de las entidades territoriales. Las entidades territoriales, de conformidad a la Constitución y las leyes, tendrán las siguientes fuentes de ingresos: 1. Los recursos asignados por la Ley de Presupuestos del Estado. 2. Los impuestos en favor de la entidad territorial 3. La distribución de los impuestos establecida en la Ley de Presupuestos. 4. Las tasas y contribuciones. 5. La distribución de los fondos solidarios. 6. La transferencia fiscal interterritorial. 7. El endeudamiento, dentro de los límites constitucionales y legales. 8. La administración y aprovechamiento de su patrimonio. 9. Las donaciones, herencias y legados que reciban conforme a la ley. 10. Otras que determine la Constitución y la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 204.- Artículo 9"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART39",
@@ -9013,7 +9322,7 @@
         "timestamp": "04-06",
         "step": "Indicación",
         "article": "Artículo 39",
-        "content_snapshot": "Distribución de las potestades tributarias. Sólo la ley podrá crear, modificar y suprimir impuestos y beneficios tributarios aplicables a estos. Las entidades territoriales, dentro de su territorio y en conformidad a la Constitución, podrán crear, modificar y derogar tasas y contribuciones y beneficios aplicables a ellas. La ley podrá crear tributos de afectación a favor de las entidades territoriales, como asimismo establecer impuestos regionales, comunales, insulares o especiales, sobre actividades o bienes de clara identificación regional o local. La ley determinará el marco general para la creación de impuestos de clara identificación regional o local, dejando a cada Asamblea Regional la regulación específica de estos, incluyendo la determinación de la base imponible, así como los rangos dentro de los cuales cada Asamblea podrá establecer la alícuota aplicable, su progresión o fórmula. Las potestades tributarias se ejercerán coordinadamente, conforme a los principios constitucionales tributarios y los derechos fundamentales.",
+        "content_snapshot": "Distribución de las potestades tributarias. Sólo la ley podrá crear, modificar y suprimir impuestos y beneficios tributarios aplicables a estos. Las entidades territoriales, dentro de su territorio y en conformidad a la Constitución, podrán crear, modificar y derogar tasas y contribuciones y beneficios aplicables a ellas.\n La ley podrá crear tributos de afectación a favor de las entidades territoriales, como asimismo establecer impuestos regionales, comunales, insulares o especiales, sobre actividades o bienes de clara identificación regional o local.\n La ley determinará el marco general para la creación de impuestos de clara identificación regional o local, dejando a cada Asamblea Regional la regulación específica de estos, incluyendo la determinación de la base imponible, así como los rangos dentro de los cuales cada Asamblea podrá establecer la alícuota aplicable, su progresión o fórmula.\n Las potestades tributarias se ejercerán coordinadamente, conforme a los principios constitucionales tributarios y los derechos fundamentales.",
         "number": 100,
         "authors_matched": [
           "Pustilnick, Tammy",
@@ -9039,9 +9348,81 @@
         "target_article": 39,
         "action": "SUBSTITUTE",
         "target_scope": "TOTAL",
-        "content": "Artículo 39. Distribución de las potestades tributarias. Sólo la ley podrá crear, modificar y suprimir impuestos y beneficios tributarios aplicables a estos. Las entidades territoriales, dentro de su territorio y en conformidad a la Constitución, podrán crear, modificar y derogar tasas y contribuciones y beneficios aplicables a ellas. La ley podrá crear tributos de afectación a favor de las entidades territoriales, como asimismo establecer impuestos regionales, comunales, insulares o especiales, sobre actividades o bienes de clara identificación regional o local. La ley determinará el marco general para la creación de impuestos de clara identificación regional o local, dejando a cada Asamblea Regional la regulación específica de estos, incluyendo la determinación de la base imponible, así como los rangos dentro de los cuales cada Asamblea podrá establecer la alícuota aplicable, su progresión o fórmula. Las potestades tributarias se ejercerán coordinadamente, conforme a los principios constitucionales tributarios y los derechos fundamentales"
+        "content": "Artículo 39. Distribución de las potestades tributarias. Sólo la ley podrá crear, modificar y suprimir impuestos y beneficios tributarios aplicables a estos. Las entidades territoriales, dentro de su territorio y en conformidad a la Constitución, podrán crear, modificar y derogar tasas y contribuciones y beneficios aplicables a ellas.\n La ley podrá crear tributos de afectación a favor de las entidades territoriales, como asimismo establecer impuestos regionales, comunales, insulares o especiales, sobre actividades o bienes de clara identificación regional o local.\n La ley determinará el marco general para la creación de impuestos de clara identificación regional o local, dejando a cada Asamblea Regional la regulación específica de estos, incluyendo la determinación de la base imponible, así como los rangos dentro de los cuales cada Asamblea podrá establecer la alícuota aplicable, su progresión o fórmula.\n Las potestades tributarias se ejercerán coordinadamente, conforme a los principios constitucionales tributarios y los derechos fundamentales"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 10",
+        "content_snapshot": "Distribución de las potestades tributarias. Sólo la ley podrá crear, modificar y suprimir impuestos y beneficios tributarios aplicables a estos.\n Las entidades territoriales solo podrán establecer tasas y contribuciones dentro de su territorio conforme a una ley marco que establecerá el hecho gravado.\n La ley podrá crear tributos de afectación a favor de las entidades territoriales, como asimismo establecer impuestos regionales, comunales, insulares o especiales, sobre actividades o bienes de clara identificación regional o local.\n La ley determinará el marco general para la creación de impuestos de clara identificación regional o local, dejando a cada Asamblea Regional la regulación específica de estos, incluyendo la determinación de la base imponible, así como los rangos dentro de los cuales cada Asamblea podrá establecer la alícuota aplicable, su progresión o fórmula.\n Las potestades tributarias se ejercerán coordinadamente, conforme a los principios constitucionales tributarios y los derechos fundamentales.",
+        "number": 15,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 10,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Las entidades territoriales solo podrán establecer tasas y contribuciones dentro de su territorio conforme a una ley marco que establecerá el hecho gravado.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 205.- Artículo 10"
+  },
+  {
+    "article_uid": "C3-IND04-26-CH01-ART10bis",
+    "timestamp": "04-26",
+    "article": "Artículo 10 bis",
+    "text": "La ley podrá establecer impuestos sobre actividades o bienes de clara identificación territorial.",
+    "number": 16,
+    "authors_matched": [
+      "Pustilnick, Tammy",
+      "Giustinianovich, Elisa",
+      "Ampuero, Adriana",
+      "Mella, Jeniffer",
+      "Alvez, Amaya",
+      "Uribe, Cesar",
+      "Aguilera, Tiare",
+      "Millabur, Adolfo",
+      "Gomez, Yarela",
+      "Reyes, Maria Ramona",
+      "Gomez, Claudio",
+      "Alvarez, Julio",
+      "Andrade, Cristobal",
+      "Velasquez, Hernan",
+      "Martinez, Helmuth",
+      "Bacian, Wilfredo",
+      "Quinteros, Maria Elisa",
+      "Chinga, Eric",
+      "Castillo, Eduardo",
+      "Castillo, Maria Trinidad"
+    ],
+    "target_article": 10,
+    "action": "ADD",
+    "target_scope": "TOTAL",
+    "content": "Artículo 10 bis.- La ley podrá establecer impuestos sobre actividades o bienes de clara identificación territorial.",
+    "content_to_remove": null,
+    "placement_instructions": null,
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-IND04-06-CH01-ART39bis",
@@ -9074,7 +9455,8 @@
     "action": "ADD",
     "target_scope": "TOTAL",
     "content": "Artículo 39 bis. Destino de los recursos tributarios. Una vez recaudados, los recursos obtenidos por tributos ingresarán al patrimonio de la entidad territorial respectiva, sin perjuicio de la compensación fiscal establecida en virtud del mecanismo de redistribución interregional e intercomunal establecido en la Constitución.",
-    "placement_instructions": "luego del artículo 39"
+    "placement_instructions": "luego del artículo 39",
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART40",
@@ -9200,7 +9582,8 @@
         "target_scope": "INCISO",
         "content": ""
       }
-    ]
+    ],
+    "final_status": "similar a 207.- Artículo 13"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART41",
@@ -9278,7 +9661,8 @@
         "target_scope": "INCISO",
         "content": "Las inversiones estatales en los territorios de las entidades territoriales requerirán la aprobación de sus autoridades respectivas, la que se otorgará en la forma que determine la ley, sin perjuicio de las excepciones que la Constitución y las leyes establecen"
       }
-    ]
+    ],
+    "final_status": "similar a 208.- Artículo 14"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART42",
@@ -9320,8 +9704,26 @@
         "action": "SUBSTITUTE",
         "target_scope": "TOTAL",
         "content": "Artículo 42. Equilibrio presupuestario y endeudamiento. Las entidades territoriales en la elaboración, aprobación y ejecución de sus presupuestos no podrán provisionar gastos superiores a los ingresos ordinarios, ni sus gastos ordinarios financiarse con ingresos extraordinarios. Las entidades territoriales excepcionalmente podrán recurrir al endeudamiento en la forma establecida por la ley marco correspondiente. En este caso, el endeudamiento acumulado no podrá superar el 2% de los ingresos ordinarios de la entidad territorial aprobados en su presupuesto anual del año anterior. Extraordinariamente, autorizadas por una ley, las entidades territoriales podrán endeudarse por sobre el valor antes señalado, pero en ningún caso el endeudamiento acumulado podrá superar el 5% de los ingresos ordinarios contenidos en su presupuesto anual del año anterior. En ninguno de estos casos, el endeudamiento contará con la garantía del Estado. Las entidades territoriales deberán definir el correspondiente plan de amortización, el que deberá ser informado a los órganos de control correspondientes. Los recursos obtenidos por la vía del endeudamiento obligatoriamente deberán destinarse a activos no financieros tales como inversiones en infraestructura o inmuebles y gastos de emergencia por causa de una calamidad o catástrofe dentro de sus respectivos territorios"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 15",
+        "content_snapshot": "Empréstito. Los gobiernos regionales y locales podrán emitir deuda en conformidad a lo que disponga la ley, general o especial, la que establecerá al menos las siguientes regulaciones: a) la prohibición de destinar los fondos recaudados mediante emisión de deuda o empréstitos al financiamiento de gasto corriente. b) Los mecanismos que garanticen que la deuda sea íntegra y debidamente servida por el deudor. c) La prohibición del establecimiento de garantías o cauciones del fisco. d) El establecimiento de límites máximos de endeudamiento como porcentaje del presupuesto anual del gobierno regional y municipal respectivo y la obligación de mantener una clasificación de riesgo actualizada. e) Restricciones en períodos electorales. f) Estos recursos no podrán ser destinados a remuneraciones ni a gasto corriente.",
+        "number": 21,
+        "authors_matched": [
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 15,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 15 (42_TS).- Empréstito. Los gobiernos regionales y locales podrán emitir deuda en conformidad a lo que disponga la ley, general o especial, la que establecerá al menos las siguientes regulaciones: a) la prohibición de destinar los fondos recaudados mediante emisión de deuda o empréstitos al financiamiento de gasto corriente. b) Los mecanismos que garanticen que la deuda sea íntegra y debidamente servida por el deudor. c) La prohibición del establecimiento de garantías o cauciones del fisco. d) El establecimiento de límites máximos de endeudamiento como porcentaje del presupuesto anual del gobierno regional y municipal respectivo y la obligación de mantener una clasificación de riesgo actualizada. e) Restricciones en períodos electorales. f) Estos recursos no podrán ser destinados a remuneraciones ni a gasto corriente.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 209.- Artículo 15"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART43",
@@ -9363,8 +9765,81 @@
         "action": "SUBSTITUTE",
         "target_scope": "TOTAL",
         "content": "Artículo 43. Solidaridad interterritorial y fondos de compensación. El principio de solidaridad interterritorial tiene por fin corregir los desequilibrios en la dotación de recursos económicos y naturales entre las entidades territoriales. Para tales efectos, se establecerán mecanismos razonables y justos tales como transferencias directas, subvenciones, beneficios fiscales, fondos de compensación territorial y mecanismos de redistribución fiscal interregional e intercomunal. Asimismo, la ley deberá establecer fondos solidarios de compensación para las entidades territoriales con una menor capacidad fiscal, que se conformarán anualmente mediante aportes mixtos, provenientes de las entidades territoriales y del Estado Central. Los criterios para determinar qué se entiende por menor capacidad fiscal serán determinados por ley. Sin perjuicio de los demás fondos de compensación existentes, y de los fondos señalados en la Constitución, la ley establecerá al menos un fondo de desarrollo comunal y otro de desarrollo regional. La Comisión de Equidad Territorial y Transferencias Fiscales sugerirá los montos anuales de transferencias a dichos fondos, los que serán determinados por ley. La ley determinará, previa propuesta de la Comisión de Equidad Territorial y Transferencias Fiscales, los aportes a los fondos que provendrán del Estado y de las entidades territoriales. La ley asignará anualmente a cada uno de estos dos fondos, a lo menos un 5% de recaudación tributaria del país, exceptuando los ingresos tributarios propios de las entidades territoriales."
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 16",
+        "content_snapshot": "Solidaridad interterritorial. El Estado y las entidades territoriales deben contribuir a la corrección de las desigualdades que existan entre ellas.\n La ley establecerá fondos de compensación para las entidades territoriales con una menor capacidad fiscal. El organismo competente, sobre la base de criterios objetivos, sugerirá al legislador los recursos que deberán ser integrados a estos fondos.\n El Estado deberá realizar transferencias directas incondicionales a las entidades territoriales que cuenten con ingresos fiscales inferiores a la mitad del promedio ponderado de estas.\n La ley establecerá un fondo de contingencia y estabilización macroeconómica para garantizar los recursos de las entidades territoriales ante fluctuaciones de ingresos ordinarios.",
+        "number": 24,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 16,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 16 (43_TS).- Solidaridad interterritorial. El Estado y las entidades territoriales deben contribuir a la corrección de las desigualdades que existan entre ellas. La ley establecerá fondos de compensación para las entidades territoriales con una menor capacidad fiscal. El organismo competente, sobre la base de criterios objetivos, sugerirá al legislador los recursos que deberán ser integrados a estos fondos. El Estado deberá realizar transferencias directas incondicionales a las entidades territoriales que cuenten con ingresos fiscales inferiores a la mitad del promedio ponderado de estas. La ley establecerá un fondo de contingencia y estabilización macroeconómica para garantizar los recursos de las entidades territoriales ante fluctuaciones de ingresos ordinarios.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 211.- Artículo 16"
+  },
+  {
+    "article_uid": "C3-IND04-26-CH01-ART16bis",
+    "timestamp": "04-26",
+    "step": "Indicación",
+    "article": "Artículo 16 bis",
+    "text": "Las regiones y comunas que cuenten con ingresos por sobre el promedio ponderado de ingresos fiscales, transferirán recursos a aquellas equivalentes con ingresos bajo el promedio. El organismo competente sugerirá una fórmula al legislador para realizar tales transferencias.",
+    "number": 25,
+    "authors_matched": [
+      "Pustilnick, Tammy",
+      "Giustinianovich, Elisa",
+      "Ampuero, Adriana",
+      "Mella, Jeniffer",
+      "Alvez, Amaya",
+      "Uribe, Cesar",
+      "Aguilera, Tiare",
+      "Millabur, Adolfo",
+      "Gomez, Yarela",
+      "Reyes, Maria Ramona",
+      "Gomez, Claudio",
+      "Alvarez, Julio",
+      "Andrade, Cristobal",
+      "Velasquez, Hernan",
+      "Martinez, Helmuth",
+      "Bacian, Wilfredo",
+      "Quinteros, Maria Elisa",
+      "Chinga, Eric",
+      "Castillo, Eduardo",
+      "Castillo, Maria Trinidad"
+    ],
+    "target_article": 16,
+    "action": "ADD",
+    "target_scope": "TOTAL",
+    "content": "Artículo 16 bis.- Las regiones y comunas que cuenten con ingresos por sobre el promedio ponderado de ingresos fiscales, transferirán recursos a aquellas equivalentes con ingresos bajo el promedio. El organismo competente sugerirá una fórmula al legislador para realizar tales transferencias.",
+    "content_to_remove": null,
+    "placement_instructions": null,
+    "final_status": "idéntico a 212.- Artículo 16 bis"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART43bis",
@@ -9398,7 +9873,8 @@
     "action": "ADD",
     "target_scope": "TOTAL",
     "content": "Artículo 43 bis. Participación en el ingreso por el uso y explotación de recursos naturales. Las entidades territoriales en cuyo territorio se desarrollen actividades ligadas a sus características y condiciones naturales o geográficas, tendrán derecho a participar, en conformidad al artículo 23 de los ingresos que el Estado perciba en relación con dichas actividades, en conformidad al principio de solidaridad interterritorial y en la forma que determine la ley. Sin perjuicio del derecho de las entidades territoriales a participar de los ingresos que el Estado percibe de acuerdo al inciso anterior, la ley determinará los mecanismos necesarios para que dichos ingresos sean destinados a inversión pública. Los ingresos a que se refiere este artículo, podrán provenir, entre otros, del uso y explotación de bienes nacionales de uso público y bienes fiscales, tales como recursos minerales, pesqueros y forestales, la observación astronómica, el uso de la energía solar, eólica, oceánica o geotermal, del espectro radioeléctrico, o de las concesiones sobre el uso de estos bienes, tales como el agua, carreteras o inmuebles fiscales",
-    "placement_instructions": "incorporar un nuevo artículo 43 bis"
+    "placement_instructions": "incorporar un nuevo artículo 43 bis",
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART43ter",
@@ -9432,7 +9908,8 @@
     "action": "ADD",
     "target_scope": "TOTAL",
     "content": "Artículo 43 ter. Transferencias solidarias y compensación interterritorial. Con el fin de reducir las diferencias en la capacidad fiscal de las Regiones y Comunas, la ley establecerá mecanismos de redistribución interregional e intercomunal, respectivamente, que operarán a partir de sus correspondientes fórmulas de redistribución y de rangos de contribución definidos por la Constitución y la ley. Las Regiones y Comunas que obtengan ingresos que superen el promedio ponderado de ingresos fiscales por habitante de las respectivas Entidades Territoriales, transferirán a las Regiones o Comunas que obtengan recursos bajo el promedio ponderado. Ninguna Entidad Territorial contribuirá más de la mitad de sus ingresos fiscales por habitantes superiores al promedio ponderado de ingresos fiscales por habitante de todas las Regiones Autónomas o Comunas Autónomas de la República. Los recursos destinados a Regiones o Comunas por transferencias verticales directas del Estado, supletorias o solidarias, así como por tributos serán contabilizados como ingresos en el cálculo de la redistribución interregional e intercomunal, correspondiente. En el cálculo del promedio ponderado de ingresos por habitante y en la determinación de la fórmula de redistribución, la Comisión de Equidad Territorial y Transferencias Fiscales deberá contemplar criterios de capacidad fiscal, indicadores de pobreza, densidad demográfica, brechas de inversión pública y tamaño del territorio, u otros criterios otros semejantes.",
-    "placement_instructions": "incorporar un nuevo artículo 43 ter"
+    "placement_instructions": "incorporar un nuevo artículo 43 ter",
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART43quater",
@@ -9466,7 +9943,8 @@
     "action": "ADD",
     "target_scope": "TOTAL",
     "content": "Artículo 43 quater. Transferencia directa supletoria. El Estado podrá efectuar transferencias directas a las entidades territoriales, para financiar proyectos específicos destinados al bienestar regional, comunal y autonómico indígena. El Estado deberá fundar sus transferencias directas en planes de Inversión en infraestructura pública, los que estarán basados en criterios tales como brechas de inversión pública, indicadores de pobreza y desarrollo territorial, o bien, en consideraciones que respondan al trato preferente a territorios especiales o poblaciones empobrecidas. El Estado, en ejercicio de las facultades supletorias a que se refiere el artículo 30 inciso final de la Constitución, podrá efectuar transferencias directas a las entidades territoriales que corresponda.",
-    "placement_instructions": "incorporar un nuevo artículo 43 quater"
+    "placement_instructions": "incorporar un nuevo artículo 43 quater",
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART44",
@@ -9561,8 +10039,44 @@
         "target_scope": "INCISO",
         "content": "Cuando la ley, en cumplimiento del deber de sostenibilidad, establezca tributos, la ley deberá definir los criterios de compensación para las Comunas Autónomas afectadas por las actividades o externalidades sujetas a dichos tributos.",
         "placement_instructions": "agregar un nuevo inciso al artículo 44"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 20",
+        "content_snapshot": "Sostenibilidad Ambiental. Es deber del Estado y de las entidades territoriales, en el ámbito de sus competencias financieras, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.\n Con el objeto de contar con recursos para el cuidado y la reparación de los ecosistemas, la ley podrá establecer tributos sobre actividades que afecten al medio ambiente. Asimismo, la ley podrá establecer tributos sobre el uso de bienes comunes naturales, bienes nacionales de uso público o bienes fiscales. Cuando dichas actividades estén territorialmente circunscritas, la ley debe distribuir recursos a la entidad territorial que corresponda.",
+        "number": 26,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 20,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Con el objeto de contar con recursos para el cuidado y la reparación de los ecosistemas, la ley podrá establecer tributos sobre actividades que afecten al medio ambiente. Asimismo, la ley podrá establecer tributos sobre el uso de bienes comunes naturales, bienes nacionales de uso público o bienes fiscales. Cuando dichas actividades estén territorialmente circunscritas, la ley debe distribuir recursos a la entidad territorial que corresponda.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 213.- Artículo 20"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART45",
@@ -9608,7 +10122,8 @@
         "target_scope": "TOTAL",
         "content": "Artículo 45. Responsabilidad fiscal. Las entidades territoriales, sus representantes y sus autoridades que incumplan con sus obligaciones en materia financiera, deberán asumir, en la parte que les sea imputable, las responsabilidades que de tal incumplimiento se deriven con arreglo a la Constitución y las leyes. Sin perjuicio de los distintos tipos de responsabilidad a que pueda dar lugar el incumplimiento de las obligaciones en materia financiera, la ley deberá establecer mecanismos para un resarcimiento efectivo del patrimonio fiscal o de la entidad territorial respectiva"
       }
-    ]
+    ],
+    "final_status": "idéntico a 214.- Artículo 21"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART46",
@@ -9654,7 +10169,8 @@
         "target_scope": "TOTAL",
         "content": "Artículo 46. Eficiencia económica. El principio de eficiencia económica implica que las entidades territoriales deberán usar sus recursos de forma económicamente razonable, óptima y eficaz, en beneficio de sus habitantes y en función de los objetivos que la Constitución y las leyes les impongan."
       }
-    ]
+    ],
+    "final_status": "idéntico a 215.- Artículo 22"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART47",
@@ -9697,7 +10213,8 @@
         "target_scope": "TOTAL",
         "content": "Artículo 47. Garantías jurisdiccionales de la autonomía financiera. Para hacer efectiva la autonomía financiera, incluidas las compensaciones territoriales en los términos consagrados en la Constitución, las entidades territoriales autónomas podrán recurrir a la jurisdicción constitucional, contenciosa administrativa u ordinaria competente, según corresponda."
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART48",
@@ -9740,7 +10257,8 @@
         "target_scope": "TOTAL",
         "content": "Artículo 48. Controles financieros. Un órgano de carácter técnico, desconcentrado territorialmente, con autonomía administrativa y presupuestaria, controlará la legalidad de la actividad financiera, la gestión y los resultados de la administración de los recursos públicos. Su actuar deberá fundarse en la eficiencia, la economía, la equidad y la valoración de los costos ambientales y sociales. Este órgano técnico, especialmente fiscalizará la elaboración y ejecución de los presupuestos de las entidades territoriales, las que deberán efectuarse bajo las normas contables aplicables al sector público determinadas por ley. Asimismo, la ley establecerá los mecanismos adecuados para incorporar un control ciudadano, democrático y participativo desde los territorios. El Estado promoverá la educación cívica de la ciudadanía en el control y la gestión de recursos públicos. Sin perjuicio de lo señalado en los incisos anteriores, la ley regulará otros controles internos y auditorías periódicas independientes. Con todo, serán públicos los informes de auditorías y los estados financieros de las entidades territoriales fiscalizadas"
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART49",
@@ -9874,7 +10392,8 @@
         "target_scope": "TOTAL",
         "content": "Artículo 51.- Mecanismos de participación en las entidades territoriales. Las entidades territoriales deberán promover, fomentar y garantizar los mecanismos de participación en las políticas públicas, planes y programas que se implementen en cada nivel territorial, en los casos que esta Constitución, la ley y los estatutos regionales señalen."
       }
-    ]
+    ],
+    "final_status": "idéntico a 217.- Artículo 26"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART52",
@@ -10250,8 +10769,44 @@
         "content": "La función pública se deberá brindar con pertinencia cultural y lingüística, atendiendo la existencia de los diferentes pueblos y naciones que habitan el territorio, adecuando las prestaciones que se entreguen, de acuerdo con las características y particularidades que presenten las personas beneficiarias de los servicios públicos.",
         "content_to_remove": null,
         "placement_instructions": "Para añadir un nuevo inciso al artículo 58"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 27",
+        "content_snapshot": "Del ejercicio de la función pública. En el ejercicio de la función pública se deberá observar una conducta funcionaria intachable y responsable, desempeñando la función o el cargo correspondiente en forma leal, honesta, objetiva e imparcial, sin incurrir en discriminaciones de ningún tipo, con preeminencia del interés general por sobre el particular.\n La función pública se deberá brindar con pertinencia territorial, cultural y lingüística.",
+        "number": 31,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo",
+          "Castillo, Maria Trinidad"
+        ],
+        "target_article": 27,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "La función pública se deberá brindar con pertinencia territorial, cultural y lingüística.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 218.- Artículo 27"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART59",
@@ -10299,7 +10854,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 220.- Artículo 29"
   },
   {
     "article_uid": "C3-IND04-06-CH01-ART59BIS",
@@ -10332,7 +10888,44 @@
     "target_scope": "TOTAL",
     "content": "Organización Administrativa. La Ley establecerá la organización básica de la Administración Pública en el nivel central y en las entidades territoriales, que será desarrollada por la potestad reglamentaria buscando el mejor y más eficiente desarrollo de sus funciones. La ley podrá conferir potestades fiscalizadoras, instructoras, normativas y sancionatorias a los órganos de la Administración Pública. En ningún caso estas potestades implicarán ejercicio de jurisdicción.",
     "content_to_remove": null,
-    "placement_instructions": "Para añadir un nuevo artículo 59 bis"
+    "placement_instructions": "Para añadir un nuevo artículo 59 bis",
+    "history": [
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 31",
+        "content_snapshot": "Organización Administrativa. La ley establecerá la organización básica de la Administración Pública en el Estado y en las entidades territoriales. Cada autoridad y jefatura, dentro del ámbito de su competencia, podrá dictar normas, resoluciones e instrucciones para el mejor y más eficaz desarrollo de sus funciones. La ley podrá conferir, a lo menos, potestades fiscalizadoras, instructoras, normativas, interpretativas y sancionatorias a los órganos de la Administración Pública. En ningún caso estas potestades implicarán ejercicio de jurisdicción.",
+        "number": 35,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 31,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 31 (59 bis_TS).- Organización Administrativa. La ley establecerá la organización básica de la Administración Pública en el Estado y en las entidades territoriales. Cada autoridad y jefatura, dentro del ámbito de su competencia, podrá dictar normas, resoluciones e instrucciones para el mejor y más eficaz desarrollo de sus funciones. La ley podrá conferir, a lo menos, potestades fiscalizadoras, instructoras, normativas, interpretativas y sancionatorias a los órganos de la Administración Pública. En ningún caso estas potestades implicarán ejercicio de jurisdicción.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "idéntico a 221.- Artículo 31"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART60",
@@ -10454,7 +11047,7 @@
         "timestamp": "04-06",
         "step": "Indicación",
         "article": "Artículo 60",
-        "content_snapshot": "Empleo público. La Administración Pública desarrolla sus funciones propias y habituales a través de funcionarias y funcionarios públicos.\n El ingreso a estas funciones se realizará mediante un sistema abierto, transparente, imparcial, ágil y que privilegie el mérito, la especialidad e idoneidad para el cargo, observando en todo momento criterios objetivos y predeterminados.\n El desarrollo, evaluación de desempeño y cese en estas funciones deberá respetar su carácter técnico y profesional. La ley regulará las bases de la carrera funcionaria, permitiendo la movilidad de los funcionarios dentro de toda la Administración Pública y la capacitación funcionaria, teniendo en cuenta la pertinencia territorial y cultural del lugar en el que se presta el servicio.\n La ley establecerá un sistema de formación, capacitación y perfeccionamiento de las funcionarias y funcionarios públicos.\n Los cargos que esta Constitución o la ley califiquen como de exclusiva confianza, atendiendo a la naturaleza de sus funciones, son parte del gobierno y tendrán el régimen de ingreso, desempeño y cesación que establezca la ley.\n Se reconoce el derecho a la sindicalización, la negociación colectiva y la huelga de quienes se desempeñen en la Administración Pública, salvo que en este último caso se paralicen servicios esenciales o se impida la continuidad del servicio público. La ley que regulará el ejercicio y límites de los derechos que indica este inciso.\n Se reconoce el derecho a la sindicalización, la negociación colectiva y la huelga de quienes se desempeñen en la Administración Pública, salvo que en este último caso se paralicen servicios esenciales o se impida la continuidad del servicio público. La ley que regulará el ejercicio y límites de los derechos que indica este inciso.",
+        "content_snapshot": "Empleo público. La Administración Pública desarrolla sus funciones propias y habituales a través de funcionarias y funcionarios públicos.\n El ingreso a estas funciones se realizará mediante un sistema abierto, transparente, imparcial, ágil y que privilegie el mérito, la especialidad e idoneidad para el cargo, observando en todo momento criterios objetivos y predeterminados.\n El desarrollo, evaluación de desempeño y cese en estas funciones deberá respetar su carácter técnico y profesional. La ley regulará las bases de la carrera funcionaria, permitiendo la movilidad de los funcionarios dentro de toda la Administración Pública y la capacitación funcionaria, teniendo en cuenta la pertinencia territorial y cultural del lugar en el que se presta el servicio.\n La ley establecerá un sistema de formación, capacitación y perfeccionamiento de las funcionarias y funcionarios públicos.\n Los cargos que esta Constitución o la ley califiquen como de exclusiva confianza, atendiendo a la naturaleza de sus funciones, son parte del gobierno y tendrán el régimen de ingreso, desempeño y cesación que establezca la ley.\n Se reconoce el derecho a la sindicalización, la negociación colectiva y la huelga de quienes se desempeñen en la Administración Pública, salvo que en este último caso se paralicen servicios esenciales o se impida la continuidad del servicio público. La ley que regulará el ejercicio y límites de los derechos que indica este inciso.\n Se reconoce el derecho a la sindicalización, la negociación colectiva y la huelga de quienes se desempeñen en la Administración Pública, salvo que en este último caso se paralicen servicios esenciales o se impida la continuidad del servicio público. La ley que regulará el ejercicio y límites de los derechos que indica este inciso.\n Las personas que tengan la calidad de cónyuge, conviviente civil o parientes hasta el cuarto grado de consanguinidad y segundo de afinidad inclusive, no podrán ser nombrados en cargos de la administración pública respecto de las autoridades y de los funcionarios directivos del organismo del Estado al que postulan. Se exceptúan los nombramientos que se hagan en aplicación de las normas vigentes sobre ingreso o ascenso por méritos en cargos de carrera.",
         "number": 165,
         "authors_matched": [
           "Uribe, Cesar",
@@ -10475,7 +11068,8 @@
         "content_to_remove": null,
         "placement_instructions": "Para agregar un inciso nuevo al artículo 60"
       }
-    ]
+    ],
+    "final_status": "similar a 222.- Artículo 32"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART61",
@@ -10571,8 +11165,43 @@
         "content": "Responsabilidad patrimonial del Estado. El Estado será responsable por los daños que sus órganos causen a particulares por falta de servicio u otro título de imputación determinado en la Constitución o en la ley. El Estado podrá siempre repetir en contra del funcionario que hubiere incurrido en dolo o imprudencia temeraria. La ley regulará, en lo demás, el régimen jurídico de esta responsabilidad.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 30",
+        "content_snapshot": "Responsabilidad patrimonial del Estado. El Estado será responsable por los daños que sus órganos causen por falta de servicio. El Estado podrá repetir en contra del funcionario que hubiere incurrido en falta personal. La ley regulará, en lo demás, el régimen jurídico de esta responsabilidad.",
+        "number": 34,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 30,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 30.- (62_TS).- Responsabilidad patrimonial del Estado. El Estado será responsable por los daños que sus órganos causen por falta de servicio. El Estado podrá repetir en contra del funcionario que hubiere incurrido en falta personal. La ley regulará, en lo demás, el régimen jurídico de esta responsabilidad.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART63",
@@ -10620,7 +11249,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 223.- Artículo 33"
   },
   {
     "article_uid": "C3-IND04-06-CH01-ART63B",
@@ -10658,7 +11288,44 @@
     "target_scope": "TOTAL",
     "content": "Órgano especializado para la modernización de la Administración Pública. Existirá un órgano especializado encargado de la elaboración de planes para promover la modernización de la Administración del Estado, monitorear la implementación de los mismos en las distintas instituciones públicas, elaborar diagnósticos periódicos sobre el funcionamiento de los servicios públicos y las demás atribuciones que establezca la ley. El legislador se encargará de determinar la denominación de este órgano, además de su integración y procedimientos internos, estableciendo directrices y lineamientos que permitan una constante modernización de las instituciones públicas nacionales, regionales y locales, contando con unidades especializadas en cada gobierno regional y comunal.",
     "content_to_remove": null,
-    "placement_instructions": "Para incorporar un nuevo artículo 63b"
+    "placement_instructions": "Para incorporar un nuevo artículo 63b",
+    "history": [
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 34",
+        "content_snapshot": "La Ley encomendará a un organismo la elaboración de planes para promover la modernización de la Administración del Estado, monitorear su implementación, elaborar diagnósticos periódicos sobre el funcionamiento de los servicios públicos y las demás funciones que establezca la ley. Este organismo contará con un consejo consultivo cuya integración considerará, entre otros, a las y los usuarios y funcionarios de los servicios públicos y las entidades territoriales.",
+        "number": 37,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 34,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 34 (63 b_TS).- La Ley encomendará a un organismo la elaboración de planes para promover la modernización de la Administración del Estado, monitorear su implementación, elaborar diagnósticos periódicos sobre el funcionamiento de los servicios públicos y las demás funciones que establezca la ley. Este organismo contará con un consejo consultivo cuya integración considerará, entre otros, a las y los usuarios y funcionarios de los servicios públicos y las entidades territoriales.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "idéntico a 224.- Artículo 34"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART64",
@@ -10747,8 +11414,43 @@
         "content": "El Estado deberá incentivar y apoyar a aquellas comunidades urbanas o rurales que opten por sistemas autónomos, cooperativos, integrados y/o colectivos de estos servicios. Las entidades territoriales participarán en la plusvalía que genere su acción urbanística, en la forma prescrita por la ley.",
         "content_to_remove": null,
         "placement_instructions": "Para agregar dos incisos nuevos al artículo 64"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 28",
+        "content_snapshot": "De los servicios públicos. Es deber del Estado proveer de servicios públicos universales y de calidad a todas las personas que habiten en su territorio, los cuales contarán con un financiamiento suficiente.\n El Estado planificará y coordinará de manera intersectorial la provisión, prestación y cobertura de estos servicios, bajo los principios de generalidad, uniformidad, regularidad y pertinencia territorial.\n El Estado definirá, monitoreará e implementará las políticas públicas, procurando que el ámbito geográfico supere el nivel regional y que sean necesarias para resguardar el carácter único e indivisible del Estado de Chile.\n El Estado, en razón de dificultades para proveer servicios básicos en zonas rurales o rezagadas, deberá incentivar y apoyar sistemas cooperativos sin fines de lucro para la provisión de dichos servicios.\n Las entidades territoriales participarán en la plusvalía que genere su acción urbanística, en la forma prescrita por la ley.",
+        "number": 32,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 28,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "El Estado, en razón de dificultades para proveer servicios básicos en zonas rurales o rezagadas, deberá incentivar y apoyar sistemas cooperativos sin fines de lucro para la provisión de dichos servicios.",
+        "content_to_remove": null,
+        "placement_instructions": "inciso 4"
       }
-    ]
+    ],
+    "final_status": "similar a 219.- Artículo 28"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART65",
@@ -10845,7 +11547,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART67",
@@ -10903,7 +11606,8 @@
     "text": "El legislador determinará la organización básica de la Administración del Estado y establecerá las bases de la carrera funcionaria, asegurando tanto la igualdad en el acceso a ella como la capacitación y el perfeccionamiento de sus integrantes.\n Este cuerpo normativo deberá contemplar, a lo menos, las obligaciones y los derechos de los funcionarios de la Administración del Estado, sus causales de cesación en el cargo, así como también el nacimiento y la extinción de la responsabilidad administrativa.",
     "sources": [
       "469-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART69",
@@ -10912,7 +11616,8 @@
     "text": "El ingreso a cualquier función o cargo dentro de la Administración del Estado se realizará mediante procesos de selección públicos y transparentes, observando en todo momento criterios objetivos y predeterminados, tales como la formación académica del postulante o la idoneidad técnica del mismo.\n Asimismo, todas las personas tienen derecho a ser admitidas en las distintas funciones y empleos públicos de la Administración del Estado, sin otros requisitos o limitaciones que aquellos que impongan la Constitución y las leyes.",
     "sources": [
       "469-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART70",
@@ -10921,7 +11626,8 @@
     "text": "Existirá un órgano especializado encargado de gestionar el sistema de oferta, selección y contratación para los empleos y cargos públicos, así como de verificar que los postulantes cumplan con los criterios de idoneidad técnica y profesional pertinentes y de la evaluación regular del rendimiento de los mismos.\n El legislador se encargará de determinar la denominación de este órgano, además de su integración y procedimientos internos, estableciendo diferentes directrices y lineamientos que permitan contar con funcionarios públicos de excelencia.",
     "sources": [
       "469-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART71",
@@ -10930,7 +11636,8 @@
     "text": "Los órganos de la Administración del Estado adoptarán todas aquellas medidas que resulten necesarias para la incorporación de tecnologías que permitan optimizar la provisión de bienes y servicios públicos.\n Las políticas de modernización y digitalización del Estado se implementarán tomando en cuenta los recursos económicos y humanos disponibles para ello, sin perjuicio de que los órganos estatales deberán promover una gestión eficiente y moderna.",
     "sources": [
       "469-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART72",
@@ -10939,7 +11646,8 @@
     "text": "El principio de transparencia en la función pública consiste en respetar y cautelar la publicidad de los actos y las resoluciones de los órganos del Estado, así como de sus fundamentos y los procedimientos que utilicen.\n El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento al principio de transparencia en todas sus actuaciones, con independencia de la calidad jurídica en que se encuentren desempeñando las mismas.\n El legislador determinará los alcances e implicancias del principio de transparencia, así como también las responsabilidades y sanciones que acarreará su incumplimiento.\n El legislador podrá establecer la reserva o secreto de ciertas informaciones cuando la publicidad de las mismas afectare el debido cumplimiento de las funciones de los órganos del Estado, los derechos de las personas o el interés nacional.",
     "sources": [
       "469-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART73",
@@ -10948,7 +11656,8 @@
     "text": "El principio de probidad en la función pública consiste en observar una conducta funcionaria intachable, desempeñando la función o el cargo correspondiente en forma leal y honesta, con preeminencia del interés general por sobre el particular.\n El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento al principio de probidad en todas sus actuaciones, con independencia de la calidad jurídica en que se encuentren desempeñando las mismas.\n El legislador determinará los alcances e implicancias del principio de probidad, así como también las responsabilidades y sanciones que acarreará su incumplimiento.",
     "sources": [
       "469-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART74",
@@ -10957,7 +11666,8 @@
     "text": "Corresponde exclusivamente al Estado a través de sus órganos, el ejercicio de la función pública, entendida ésta, como toda actividad que tiene como principal objetivo el bien común, la satisfacción de necesidades de utilidad pública y el desarrollo de los pueblos, las comunidades y las personas en pro del interés general.\n Los principios de la Función Pública son la probidad, la transparencia, la idoneidad y dignidad funcionaria, la eficiencia, la eficacia, la efectividad y el trabajo decente.\n El Estado podrá crear o constituir entidades o empresas, con o sin fines de lucro, para el cumplimiento de las garantías fundamentales consagradas en esta Constitución, sus ingresos y utilidades ingresarán al Tesoro Público y en los casos y forma que determine la ley, al erario municipal respectivo.\n Sólo en virtud de ley de quórum calificado se podrá concesionar o externalizar la función pública y sólo de aquellas actividades o servicios de menor impacto social cuya calificación corresponderá a un Consejo de la Función Pública de elección popular y dependiente de las Gobernaciones Regionales. La ley establecerá su conformación y funcionamiento.\n La Función Pública será ejercida por funcionarios/as públicos regidos por un Estatuto Especial, integral, coordinado y universal, fundado en los principios del Trabajo Decente y de la Carrera Funcionaria.",
     "sources": [
       "648-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART75",
@@ -11004,7 +11714,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 225.- Artículo 35"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART76",
@@ -11061,7 +11772,8 @@
     "text": "El Estado debe fomentar la equidad entre los territorios rurales y urbanos, reconociendo que cada uno tiene particularidades respecto a los bienes naturales comunes y sus necesidades de desarrollo.",
     "sources": [
       "1018-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART78",
@@ -11070,7 +11782,8 @@
     "text": "Los territorios rurales serán gobernados y administrados por las entidades territoriales mandatadas por esta Constitución, con especial atención a sus modos de vida, sistemas de conocimiento, necesidades ecológicas, sociales, económicas, culturales y de conectividad de cada territorio y sus habitantes.",
     "sources": [
       "1018-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART79",
@@ -11079,7 +11792,8 @@
     "text": "El Estado y las entidades territoriales deben establecer un trato equitativo en cada territorio, en la toma de decisiones, el presupuesto y la ejecución de este. Equiparando el flujo de recursos financieros para educación, cultura, organización, salud, economía e infraestructura básica de caminos, puentes, viviendas, conectividad y vialidad de alta calidad con el medio rural.",
     "sources": [
       "1018-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART80",
@@ -11088,7 +11802,8 @@
     "text": "El campesinado, los pueblos originarios, pescadoras y pescadores, recolectoras y recolectores, otras personas que trabajan en zonas rurales y sus organizaciones tienen derecho a participar en todas las instituciones creadas para ejercer el poder popular, en la definición de políticas agrícolas y alimentarias, recogiendo las especificidades de los territorios y el bienestar de la población rural, su desarrollo económico, productivo y la preservación de la naturaleza.",
     "sources": [
       "1018-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART81",
@@ -11129,7 +11844,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 226.- Artículo 36"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART82",
@@ -11155,6 +11871,23 @@
         "content": "El Estado fomentará los mercados locales, ferias libres y circuitos cortos de comercialización e intercambio de bienes, artesanías, alimentos u otros relacionados con la ruralidad.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 37",
+        "content_snapshot": "El Estado fomentará los mercados locales, ferias libres y circuitos cortos de comercialización e intercambio de bienes y productos relacionados a la ruralidad.",
+        "number": 39,
+        "authors_matched": [
+          "Uribe, Cesar"
+        ],
+        "target_article": 37,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "El Estado fomentará los mercados locales, ferias libres y circuitos cortos de comercialización e intercambio de bienes y productos relacionados a la ruralidad.",
+        "content_to_remove": null,
+        "placement_instructions": null,
+        "comments": "hay cierta diferencia con la versión anterior. En el informe 04-26 se contempla el artículo previo a la modificación como 'El Estado fomentará los mercados libres, circuitos cortos de comercialización e intercambio de productos relacionados a la ruralidad'"
       }
     ]
   },
@@ -11196,8 +11929,27 @@
         "content": "El Estado reconoce las prácticas e innovaciones materiales e inmateriales de las comunidades rurales como patrimonio común. Se deberá fomentar procesos educativos, formales e informales, con temáticas locales, tanto históricas, fundacionales, étnicas, ecológicas, geológicas y económicas. Se fomentará el desarrollo, financiamiento y acceso a tecnologías y conocimientos para la agricultura campesina e indígena, tanto de base científica, como de los saberes tradicionales.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 38",
+        "content_snapshot": "El Estado fomentará el acceso a las nuevas tecnologías, los conocimientos científicos y saberes ancestrales para promover la agricultura campesina e indígena.",
+        "number": 40,
+        "authors_matched": [
+          "Velasquez, Hernan",
+          "Millabur, Adolfo",
+          "Martinez, Helmuth"
+        ],
+        "target_article": 38,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 38.- \"El Estado fomentará el acceso a las nuevas tecnologías, los conocimientos científicos y saberes ancestrales para promover la agricultura campesina e indígena.\"",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 227.- Artículo 37"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART84",
@@ -11253,8 +12005,43 @@
         "content": "Esta protección estatal, el manejo ecológicamente responsable, la prevención y restauración ante la degradación ambiental, estarán determinados por la ley y los estatutos regionales",
         "content_to_remove": null,
         "placement_instructions": "Para agregar un nuevo inciso final en el artículo 84"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 39",
+        "content_snapshot": "El Estado protegerá la función ecológica y social de la tierra. Para ello, se deberá regular su uso y prevenir la concentración de su propiedad, conforme a lo que establezca la ley.",
+        "number": 41,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 39,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 39.- El Estado protegerá la función ecológica y social de la tierra. Para ello, se deberá regular su uso y prevenir la concentración de su propiedad, conforme a lo que establezca la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 228.- Artículo 39"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART85",
@@ -11294,8 +12081,61 @@
         "content": "Es deber del Estado garantizar el uso, manejo y libre intercambio de semillas y material vegetal de propagación. No se permitirá la privatización de la capacidad reproductiva de plantas y animales.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 40",
+        "content_snapshot": "El Estado reconoce el derecho al libre uso, manejo e intercambio de semillas campesinas y material vegetal de propagación, conforme a lo que establezca la ley.",
+        "number": 43,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 40,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 40.- El Estado reconoce el derecho al libre uso, manejo e intercambio de semillas campesinas y material vegetal de propagación, conforme a lo que establezca la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 40",
+        "content_snapshot": "El Estado reconoce el derecho al libre uso, manejo e intercambio de semillas campesinas y material vegetal de propagación, conforme a lo que establezca la ley.",
+        "number": 44,
+        "authors_matched": [
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Gomez, Yarela"
+        ],
+        "target_article": 40,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 40: El Estado reconoce el derecho al libre uso, manejo e intercambio de semillas campesinas y material vegetal de propagación, conforme a lo que establezca la ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART86",
@@ -11352,7 +12192,8 @@
     "text": "El Estado debe reconocer y mitigar al máximo los daños ambientales provocados por la inacción de este, referidos a la desertificación y desertización; la falta de agua para consumo humano; la homogeneización del paisaje rural; la merma de tipos forestales que han sucumbido al avance de la fruticultura, la viticultura, la ganadería y otras explotaciones compuestas de especies forestales y animales que no tengan reguladores naturales. Asimismo, el Estado se debe comprometer a contrarrestar el cambio climático, sus causas, consecuencias y modelos de desarrollo que pongan en peligro la naturaleza y los seres humanos.",
     "sources": [
       "1018-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART88",
@@ -11392,8 +12233,43 @@
         "content": "Las personas y los pueblos tienen el derecho fundamental a la alimentación. Las políticas agropecuarias, pesqueras y alimentarias del país deben ordenar su acción en pleno respeto de este derecho. El Estado garantizará los mecanismos para que los habitantes del país tengan acceso económico, físico y oportuno a una alimentación sana, saludable, diversa, nutricionalmente completa, sin contaminantes, suficiente y culturalmente adecuada. Será deber del Estado apoyar la agricultura campesina e indígena, la recolección artesanal, la pesca artesanal, las ferias libres, los mercados locales y el canal alimentario agropesquero tradicional como pilares fundamentales de la producción y abastecimiento de alimentos.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 41",
+        "content_snapshot": "El Estado reconoce y apoya la agricultura campesina e indígena, la recolección y la pesca artesanal, entre otros, como actividades fundamentales de la producción de alimentos.",
+        "number": 45,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 41,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 41.- El Estado reconoce y apoya la agricultura campesina e indígena, la recolección y la pesca artesanal, entre otros, como actividades fundamentales de la producción de alimentos.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 229.- Artículo 41"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART89",
@@ -11449,8 +12325,43 @@
         "content": "La ley deberá regular los plaguicidas, agroquímicos, aditivos y transgénicos sobre la base del principio precautorio. No se permitirá el uso de plaguicidas ni agroquímicos altamente peligrosos que pongan en riesgo la salud humana y los ecosistemas.",
         "content_to_remove": null,
         "placement_instructions": "Para agregar los siguientes incisos al artículo 89"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 42",
+        "content_snapshot": "El Estado reconoce la soberanía alimentaria como el derecho a determinar y poner en práctica sistemas propios de producción, procesamiento y distribución de alimentos.\n La ley, orientada por el principio precautorio y preventivo, deberá regular la soberanía alimentaria protegiendo la salud humana, los ecosistemas y especies nativas.",
+        "number": 46,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 42,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 42.- El Estado reconoce la soberanía alimentaria como el derecho a determinar y poner en práctica sistemas propios de producción, procesamiento y distribución de alimentos. La ley, orientada por el principio precautorio y preventivo, deberá regular la soberanía alimentaria protegiendo la salud humana, los ecosistemas y especies nativas.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART90",
@@ -11920,7 +12831,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART98",
@@ -12027,7 +12939,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART100",
@@ -12330,7 +13243,8 @@
     "text": "El Estado debe velar y generar políticas públicas que protejan a las mujeres y niñas rurales de la sequía y escasez hídrica, el riesgo de incendios producidos por la industria forestal, la explotación sexual y prostitución forzada, la desigualdad educacional, la falta de acceso y propiedad sobre la tierra, la violencia patriarcal y patronal rural, la invisibilización de sus derechos políticos y el trabajo no remunerado.",
     "sources": [
       "482-3"
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART106",
@@ -12781,8 +13695,43 @@
         "content": "Artículo 113.- El Estado tomará las medidas necesarias para superar las desigualdades entre los territorios rurales y urbanos, promoviendo la equidad territorial. Asimismo, implementará políticas públicas para promover, respetar y garantizar los derechos de los habitantes presentes en los territorios rurales, con especial consideración a los derechos de las mujeres, niños, niñas, adolescentes, jóvenes y adultos mayores.\n El Estado promoverá y asegurará el acceso prioritario de la mujer a la tierra y el agua.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 45",
+        "content_snapshot": "El Estado tomará las medidas necesarias para prevenir la violencia y superar las desigualdades que afrontan mujeres y niñas rurales, promoviendo la implementación de políticas públicas para garantizar su acceso igualitario a los derechos que esta Constitución consagra.\n Garantizando que mujeres y niñas rurales cuenten con recursos necesarios para el desarrollo de la vida en el campo y su derecho a permanecer en él.",
+        "number": 47,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 45,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 45.- El Estado tomará las medidas necesarias para prevenir la violencia y superar las desigualdades que afrontan mujeres y niñas rurales, promoviendo la implementación de políticas públicas para garantizar su acceso igualitario a los derechos que esta Constitución consagra. Garantizando que mujeres y niñas rurales cuenten con recursos necesarios para el desarrollo de la vida en el campo y su derecho a permanecer en él.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 230.- Artículo 45"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART114",
@@ -12977,7 +13926,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART116",
@@ -13020,15 +13970,34 @@
         "content": "“El Estado es garante de la conectividad del país en coordinación con los gobiernos regionales. El Gobernador o Gobernadora y la Asamblea Regional deberán establecer los mecanismos, normas y políticas necesarias para asegurar y fomentar la conectividad de toda la región, con especial cuidado de los sectores rurales, aislados y de difícil acceso. Esto se realizará en consulta con el Consejo de Alcaldes y Alcaldesas y las políticas que se establezcan a nivel nacional. El Gobernador o Gobernadora deberá establecer mecanismos de evaluación para las empresas relacionadas a conectividad que incorpore la participación ciudadana en la forma establecida en esta Constitución y las leyes.”.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-06",
+        "step": "Indicación",
+        "article": "Artículo 116",
+        "content_snapshot": "El Estado es garante de la conectividad del país en coordinación con los gobiernos regionales.\n Se fomentará la conectividad regional con especial atención a territorios aislados, rurales y de difícil acceso.\n El Gobernador o Gobernadora deberá establecer mecanismos de evaluación para las empresas relacionadas a conectividad que incorpore la participación ciudadana en la forma establecida en esta Constitución y las leyes.",
+        "number": 48,
+        "authors_matched": [
+          "Ampuero, Adriana",
+          "Uribe, Cesar"
+        ],
+        "target_article": 46,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Se fomentará la conectividad regional con especial atención a territorios aislados, rurales y de difícil acceso.",
+        "content_to_remove": null,
+        "placement_instructions": "inciso 2do"
       }
-    ]
+    ],
+    "final_status": "similar a 231.- Artículo 46"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART117",
     "timestamp": "04-04",
     "article": "Artículo 117",
     "text": "El Gobernador Regional implementará oficinas territoriales debidamente descentralizadas, las cuales controlarán y fiscalizarán la prestación y calidad del servicio. En virtud de ello, podrá, mediante resolución fundada, sancionar directamente al prestador o empresa respectiva.\n Los municipios tendrán la facultad de apoyar directamente a las oficinas territoriales regionales, con el fin de fiscalizar el cumplimiento de la normativa de planificación vial y del tránsito, así como denunciar al correspondiente juzgado de policía local las faltas que observare.",
-    "sources": []
+    "sources": [],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART118",
@@ -13505,7 +14474,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART126",
@@ -13534,7 +14504,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 232.- Artículo 47"
   },
   {
     "article_uid": "C3-IND04-06-CH01-ART126BIS",
@@ -13551,7 +14522,29 @@
     "target_scope": "TOTAL",
     "content": "“Las regiones autónomas, para el cumplimiento de sus funciones, podrán establecer sus plantas de personal y los órganos o unidades de su estructura interna, en conformidad a la Constitución y la ley. Estas facultades serán ejercidas por el Gobernador o Gobernadora Regional, previo acuerdo de la Asamblea Regional, cautelando la carrera funcionaria, su debido financiamiento y el carácter técnico y profesional de dichos empleos.\".",
     "content_to_remove": null,
-    "placement_instructions": "Para incorporar un nuevo artículo 126 bis"
+    "placement_instructions": "Para incorporar un nuevo artículo 126 bis",
+    "history": [
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 48",
+        "content_snapshot": "Las regiones autónomas, para el cumplimiento de sus funciones, podrán establecer sus plantas de personal y las unidades de su estructura interna, en conformidad a la Constitución y la ley.\n Estas facultades serán ejercidas por el Gobernador o Gobernadora Regional, previo acuerdo de la Asamblea Regional, cautelando la carrera funcionaria, su debido financiamiento y el carácter técnico y profesional de dichos empleos.",
+        "number": 52,
+        "authors_matched": [
+          "Jofre, Alvaro",
+          "Mena, Felipe",
+          "Jurgensen, Harry",
+          "Navarrete, Geoconda"
+        ],
+        "target_article": 48,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Las regiones autónomas, para el cumplimiento de sus funciones, podrán establecer sus plantas de personal y las unidades de su estructura interna, en conformidad a la Constitución y la ley. Estas facultades serán ejercidas por el Gobernador o Gobernadora Regional, previo acuerdo de la Asamblea Regional, cautelando la carrera funcionaria, su debido financiamiento y el carácter técnico y profesional de dichos empleos.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "idéntico a 233.- Artículo 48"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART127",
@@ -13742,7 +14735,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART131",
@@ -13804,8 +14798,111 @@
         "content": "x) Pronunciarse en conjunto con los órganos competentes respecto de los procesos de evaluación ambiental.",
         "content_to_remove": null,
         "placement_instructions": "al artículo 131, complementando el artículo 31 de Atribuciones de la Asamblea Regional"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 50",
+        "content_snapshot": "Atribuciones de la Asamblea Regional. Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional:\n 1) Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.\n 2) Administrar sus bienes y patrimonio propio.\n 3) Aprobar, rechazar o modificar la inversión de los recursos de los fondos de compensación interterritorial que se creen y otros recursos públicos que disponga la ley.\n 4) Pronunciarse en conjunto con los órganos competentes respecto de los procesos de evaluación ambiental.",
+        "number": 55,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 50,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "2. Administrar sus bienes y patrimonio propio.",
+        "content_to_remove": null,
+        "placement_instructions": "numeral 2"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 50",
+        "content_snapshot": "Atribuciones de la Asamblea Regional. Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional:\n 1) Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.\n 2) Administrar sus bienes y patrimonio propio.\n 3) Aprobar, rechazar o modificar la inversión de los recursos de los fondos solidarios que se creen y otros recursos públicos que disponga la ley.\n 4) Pronunciarse en conjunto con los órganos competentes respecto de los procesos de evaluación ambiental.",
+        "number": 56,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 50,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "3. Aprobar, rechazar o modificar la inversión de los recursos de los fondos solidarios que se creen y otros recursos públicos que disponga la ley.",
+        "content_to_remove": null,
+        "placement_instructions": "numeral 3"
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 50",
+        "content_snapshot": "Atribuciones de la Asamblea Regional. Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional:\n 1) Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.\n 2) Administrar sus bienes y patrimonio propio.\n 3) Aprobar, rechazar o modificar la inversión de los recursos de los fondos solidarios que se creen y otros recursos públicos que disponga la ley.\n 4) Pronunciarse en conjunto con los órganos competentes respecto de los procedimientos de evaluación ambiental.",
+        "number": 57,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 50,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "4. Pronunciarse en conjunto con los órganos competentes respecto de los procedimientos de evaluación ambiental.",
+        "content_to_remove": null,
+        "placement_instructions": "numeral 4"
       }
-    ]
+    ],
+    "final_status": "idéntico a 234.- Artículo 50"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART132",
@@ -14040,8 +15137,43 @@
         "content": "“Art. 135.- El Estado y sus entidades territoriales tienen el deber de ordenar y planificar la totalidad del suelo del territorio nacional. Para esto utilizará unidades de ordenación que consideren las cuencas hidrográficas y los usos de suelos. Este deber tendrá como fin asegurar una adecuada localización de los asentamientos, actividades productivas y un desarrollo socioeconómico ambientalmente equilibrado, que permita tanto un manejo responsable e integrado de los ecosistemas como de las actividades humanas, con criterios de justicia territorial que permitan promover el bienestar de las presentes y futuras generaciones.”",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "step": "Indicación",
+        "article": "Artículo 51",
+        "content_snapshot": "Ordenamiento Territorial. El Estado y las entidades territoriales tienen el deber de ordenar y planificar el territorio nacional. Para esto utilizarán unidades de ordenación que consideren las cuencas hidrográficas.\n Este deber tendrá como fin asegurar una adecuada localización de los asentamientos y las actividades productivas, que permitan tanto un manejo responsable de los ecosistemas como de las actividades humanas, con criterios de equidad y justicia territorial para el bienestar intergeneracional.\n La ordenación y planificación de los territorios será vinculante en las materias que la ley determine y realizada de manera coordinada, integrada y enfocada en el interés público, considerando procesos participativos en sus diferentes etapas.\n Los planes de ordenamiento y planificación contemplarán los impactos que los usos de suelos causen en la disponibilidad y calidad de las aguas. Estos podrán definir áreas de protección ambiental o cultural.",
+        "number": 59,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 51,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 51.- Ordenamiento Territorial. El Estado y las entidades territoriales tienen el deber de ordenar y planificar el territorio nacional. Para esto utilizarán unidades de ordenación que consideren las cuencas hidrográficas. Este deber tendrá como fin asegurar una adecuada localización de los asentamientos y las actividades productivas, que permitan tanto un manejo responsable de los ecosistemas como de las actividades humanas, con criterios de equidad y justicia territorial para el bienestar intergeneracional. La ordenación y planificación de los territorios será vinculante en las materias que la ley determine y realizada de manera coordinada, integrada y enfocada en el interés público, considerando procesos participativos en sus diferentes etapas. Los planes de ordenamiento y planificación contemplarán los impactos que los usos de suelos causen en la disponibilidad y calidad de las aguas. Estos podrán definir áreas de protección ambiental o cultural.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 235.- Artículo 51"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART136",
@@ -14085,7 +15217,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "similar a 235.- Artículo 51"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART137",
@@ -14127,7 +15260,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART138",
@@ -14169,7 +15303,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "no se encuentra en el borrador final"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART139",
@@ -14214,7 +15349,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART140",
@@ -14304,8 +15440,43 @@
         "content": "Artículo 141. De las instituciones estatales de educación superior. En cada región autónoma existirá, al menos, una universidad estatal, funcionalmente descentralizada, que actuará con plena autonomía académica, económica y administrativa y formarán parte de la Administración del Estado. Se relacionarán de manera preferente y coordinada con las instituciones estatales, autoridades regionales, autoridades comunales y con otros servicios públicos con presencia regional, para contribuir al desarrollo de sus funciones propias y en la elaboración, ejecución y evaluación de políticas y programas de desarrollo local, regional o nacional . La ley fijará un estatuto especial para el cumplimiento de las tareas universitarias. Del mismo modo, en cada región existirá, al menos, una institución de formación técnico profesional de nivel superior, de acuerdo a sus necesidades y requerimientos.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "04-26",
+        "article": "Artículo 55",
+        "step": "Indicación",
+        "content_snapshot": "De las instituciones estatales de educación superior. En cada región existirá, al menos, una universidad estatal y una institución de formación técnico profesional de nivel superior estatal. Estas se relacionarán de manera coordinada y preferente con las entidades territoriales y servicios públicos con presencia regional, de acuerdo a las necesidades locales.",
+        "number": 61,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 55,
+        "action": "SUBSTITUTE",
+        "target_scope": "TOTAL",
+        "content": "Artículo 55.- De las instituciones estatales de educación superior. En cada región existirá, al menos, una universidad estatal y una institución de formación técnico profesional de nivel superior estatal. Estas se relacionarán de manera coordinada y preferente con las entidades territoriales y servicios públicos con presencia regional, de acuerdo a las necesidades locales.",
+        "content_to_remove": null,
+        "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 236.- Artículo 55"
   },
   {
     "article_uid": "C3-GEN2-CH01-ART142",
@@ -14354,7 +15525,7 @@
         "timestamp": "04-06",
         "article": "Artículo 142",
         "step": "Indicación",
-        "content_snapshot": "Los Cuerpos de Bomberos de Chile son una institución perteneciente al sistema de protección civil, cuyo objeto es atender las emergencias causadas por la naturaleza o el ser humano, sin perjuicio de la competencia específica que tengan otros organismos públicos y/o privados.\n Será deber del Estado dar cobertura financiera para cubrir la totalidad de sus gastos operacionales, capacitación y equipos, como también otorgar cobertura médica a su personal por accidentes o enfermedades contraídas por actos de servicio.\n La ley regulará el régimen de financiamiento y prestaciones sociales en época de vejez e invalidez.\n El Estado reconoce y ampara los Cuerpos de Bomberos de Chile en su función esencial de servicio a la comunidad, garantizando la voluntariedad de afiliación de sus miembros y la debida autonomía institucional para el cumplimiento de sus fines específicos",
+        "content_snapshot": "Los Cuerpos de Bomberos de Chile son una institución perteneciente al sistema de protección civil, cuyo objeto es atender las emergencias causadas por la naturaleza o el ser humano, sin perjuicio de la competencia específica que tengan otros organismos públicos y/o privados.\n Será deber del Estado dar cobertura financiera para cubrir la totalidad de sus gastos operacionales, capacitación y equipos, como también otorgar cobertura médica a su personal por accidentes o enfermedades contraídas por actos de servicio.\n La ley regulará el régimen de financiamiento y prestaciones sociales en época de vejez e invalidez.\n El Estado reconoce y ampara los Cuerpos de Bomberos de Chile en su función esencial de servicio a la comunidad, garantizando la voluntariedad de afiliación de sus miembros y la debida autonomía institucional para el cumplimiento de sus fines específicos.",
         "number": 364,
         "authors_matched": [
           "Navarrete, Geoconda",
@@ -14367,7 +15538,42 @@
         "content": "El Estado reconoce y ampara los Cuerpos de Bomberos de Chile en su función esencial de servicio a la comunidad, garantizando la voluntariedad de afiliación de sus miembros y la debida autonomía institucional para el cumplimiento de sus fines específicos",
         "content_to_remove": null,
         "placement_instructions": "que incorpora un nuevo inciso"
+      },
+      {
+        "timestamp": "04-26",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "Los Cuerpos de Bomberos de Chile son una institución perteneciente al sistema de protección civil, cuyo objeto es atender las emergencias causadas por la naturaleza o el ser humano, sin perjuicio de la competencia específica que tengan otros organismos públicos y/o privados.\n Será deber del Estado dar cobertura financiera para cubrir la totalidad de sus gastos operacionales, capacitación y equipos, como también otorgar cobertura médica a su personal por accidentes o enfermedades contraídas por actos de servicio.\n La ley regulará el régimen de financiamiento y prestaciones sociales en época de vejez e invalidez.\n Los Cuerpos de Bomberos de Chile se sujetarán en todas sus actuaciones a los principios de probidad, transparencia y rendición de cuentas.",
+        "number": 65,
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Giustinianovich, Elisa",
+          "Ampuero, Adriana",
+          "Mella, Jeniffer",
+          "Alvez, Amaya",
+          "Uribe, Cesar",
+          "Aguilera, Tiare",
+          "Millabur, Adolfo",
+          "Gomez, Yarela",
+          "Reyes, Maria Ramona",
+          "Gomez, Claudio",
+          "Alvarez, Julio",
+          "Andrade, Cristobal",
+          "Velasquez, Hernan",
+          "Martinez, Helmuth",
+          "Bacian, Wilfredo",
+          "Quinteros, Maria Elisa",
+          "Chinga, Eric",
+          "Castillo, Eduardo"
+        ],
+        "target_article": 56,
+        "action": "SUBSTITUTE",
+        "target_scope": "INCISO",
+        "content": "Los Cuerpos de Bomberos de Chile se sujetarán en todas sus actuaciones a los principios de probidad, transparencia y rendición de cuentas.",
+        "content_to_remove": null,
+        "placement_instructions": "inciso 4°"
       }
-    ]
+    ],
+    "final_status": "idéntico a 237.- Artículo 56"
   }
 ]
