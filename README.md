@@ -1,7 +1,46 @@
 # Constitutional Proposal Tracking
 
 ## Descripción
-Conjunto de scripts (varios de ellos usando API Gemini) para rastrear la genealogía del de iniciativas e indicaciones de votación de la Convención Constitucional Chile 2021-2022, desde su iniciativa original hasta el borrador final.
+Conjunto de scripts (varios de ellos usando IA) para rastrear la genealogía de iniciativas e indicaciones de votación de la Convención Constitucional de Chile 2021-2022, desde su propuesta original hasta el borrador final. El objetivo de esta extracción es estructurar la historia legislativa para aplicar técnicas avanzadas de **Análisis de Redes Sociales (SNA)** y evaluar procesos de influencia política y estructural.
+
+## Proyecto de investigación
+
+Esta base de datos alimenta un estudio empírico destinado a evaluar el éxito legislativo y las dinámicas ideológicas en un entorno de "tabula rasa".
+
+Formalmente, examinamos la exposición en red y la probabilidad de un convencional para imprimir con éxito sus atributos en la Constitución final. Evaluamos el éxito transversalmente ($y_i$), operacionalizado como "tasa de retención léxica", modelando el impacto espacial de la red acumulativa de co-autoría ($W$) y los atributos individuales o "bagaje" técnico ($X$):
+
+$$ y = \rho W y + X \beta + W X \theta + \epsilon $$
+
+De esta forma, probamos efectos endógenos de contagio y dependencia espacial (si cooperar con pares exitosos aumenta el éxito propio de adopción).
+
+**[Read the Research Proposal (PDF)](./playground/research-proposal/proposal.pdf)**
+
+## Estado de avance
+
+El proyecto se encuentra actualmente en fase de Reconocimiento y Reconstrucción de Dinámicas de Red. A continuación, se presenta el estado de avance global (reflejando el progreso de la rama `feature/reconstruct-drafts-manual`):
+
+### Tareas Completadas
+- [x] Cálculo interactivo de la dinámica ideológica (posiciones políticas continuas) durante la Convención. Disponible en: [https://aoliveram-conv-const-dynamics.hf.space](https://aoliveram-conv-const-dynamics.hf.space)
+- [x] Web scraping de documentos oficiales y sistematización inicial
+- [x] Organizar y clasificar documentos por cada una de las 7 comisiones
+- [x] Auditoría de insumos: Identificar documentos recibidos vs. extraviados o faltantes
+- [x] Filtrar PDFs y extraer únicamente las páginas relevantes
+- [x] Armonizar nomenclatura y nombres de archivos de informes (Génesis e Indicaciones)
+- [x] Analizar y diseñar perfilamiento de estrategias de extracción mediante IA (NARRATIVE, TABULAR, CUSTOM)
+- [x] Ejecutar la extracción de propuestas iniciales (Textos Sistematizados/Génesis) para todas las comisiones
+- [x] Diseñar e implementar scripts para extraer quiénes son los coautores de las iniciativas e indicaciones
+- [x] Identificar qué indicaciones fueron aprobadas y extraer el texto exacto de su modificación
+- [x] Realizar la fusión maestra de textos "Génesis" para todas las comisiones (`master_merged.json`)
+- [x] Comisión 1 (Sistema Político): Reconstrucción manual completada, estructurada y validada
+- [x] Comisión 2 (Principios Constitucionales): Trazabilidad "Génesis-Final" validada con éxito
+- [x] Comisión 3 (Forma de Estado): Texto Génesis 100% limpio y estructurado / Indicaciones procesadas (50% avance manual - 4/8 informes)
+- [x] Comisión 5 (Medio Ambiente): Texto Génesis estructurado / Indicaciones procesadas (50% avance manual - 3/6 informes)
+
+### Tareas Pendientes o en Curso
+- [ ] Terminar la reconstrucción manual ("Human in the Loop") de indicaciones y autores para las comisiones 3 y 5
+- [ ] Iniciar el mapeo e integración cruzada de autores para los textos base de las Comisiones 6 y 7
+- [ ] Desarrollar un script de extracción ad-hoc (CUSTOM_COMPLEX) para procesar las tablas de indicaciones de la Comisión 4
+- [ ] Proceder con el empalme final de la red global de co-autoría de la Convención para su paso a R/Python.
 
 ## Estructura del Proyecto
 
@@ -55,31 +94,3 @@ El script principal procesa las indicaciones y genera el borrador evolutivo:
 ```bash
 python scripts/06_apply_indications_ai_v3.py
 ```
-
-## Estado y Documentación de Investigación
-
-📄 **[Read the Research Proposal (PDF)](./playground/research-proposal/proposal.pdf)**
-
-El proyecto se encuentra actualmente en fase de **Reconocimiento y Reconstrucción de Dinámicas de Red**. A continuación, se presenta el estado de avance global (reflejando el progreso de la rama `feature/reconstruct-drafts-manual`):
-
-### ✅ Tareas Completadas
-- [x] Web scraping de documentos oficiales y sistematización inicial
-- [x] Organizar y clasificar documentos por cada una de las 7 comisiones
-- [x] Auditoría de insumos: Identificar documentos recibidos vs. extraviados o faltantes
-- [x] Filtrar PDFs y extraer únicamente las páginas relevantes
-- [x] Armonizar nomenclatura y nombres de archivos de informes (Génesis e Indicaciones)
-- [x] Analizar y diseñar perfilamiento de estrategias de extracción mediante IA (NARRATIVE, TABULAR, CUSTOM)
-- [x] Ejecutar la extracción de propuestas iniciales (Textos Sistematizados/Génesis) para todas las comisiones
-- [x] Diseñar e implementar scripts para extraer quiénes son los coautores de las iniciativas e indicaciones
-- [x] Identificar qué indicaciones fueron aprobadas y extraer el texto exacto de su modificación
-- [x] Realizar la fusión maestra de textos "Génesis" para todas las comisiones (`master_merged.json`)
-- [x] **Comisión 1 (Sistema Político):** Reconstrucción manual completada, estructurada y validada
-- [x] **Comisión 2 (Principios Constitucionales):** Trazabilidad "Génesis-Final" validada con éxito
-- [x] **Comisión 3 (Forma de Estado):** Texto Génesis 100% limpio y estructurado / Indicaciones procesadas (50% avance manual - 4/8 informes)
-- [x] **Comisión 5 (Medio Ambiente):** Texto Génesis estructurado / Indicaciones procesadas (50% avance manual - 3/6 informes)
-
-### ⏳ Tareas Pendientes o en Curso
-- [ ] Terminar la reconstrucción manual ("Human in the Loop") de indicaciones y autores para las comisiones 3 y 5
-- [ ] Iniciar el mapeo e integración cruzada de autores para los textos base de las Comisiones 6 y 7
-- [ ] Desarrollar un script de extracción ad-hoc (CUSTOM_COMPLEX) para procesar las tablas de indicaciones de la Comisión 4
-- [ ] Proceder con el empalme final de la red global de co-autoría de la Convención para su paso a R/Python.
