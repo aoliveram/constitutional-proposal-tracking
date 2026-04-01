@@ -5,13 +5,17 @@ Conjunto de scripts (varios de ellos usando IA) para rastrear la genealogía de 
 
 ## Proyecto de investigación
 
-Esta base de datos alimenta un estudio empírico destinado a evaluar el éxito legislativo y las dinámicas ideológicas en un entorno de "tabula rasa".
+Esta base de datos alimenta un diseño de investigación formal en tres dimensiones secuenciales, analizando el comportamiento de delegados ("convencionales") dentro de un entorno "tabula rasa":
 
-Formalmente, examinamos la exposición en red y la probabilidad de un convencional para imprimir con éxito sus atributos en la Constitución final. Evaluamos el éxito transversalmente ($y_i$), operacionalizado como "tasa de retención léxica", modelando el impacto espacial de la red acumulativa de co-autoría ($W$) y los atributos individuales o "bagaje" técnico ($X$):
+1. **Modelo de Formación de la Red (TERGM)**: ¿Por qué cooperamos? Estimamos los factores que impulsan la creación de vínculos iniciales independientemente de sus cambios ideológicos posteriores:
+   $$ P(Y^{(t)} = y | Y^{(t-1)}, X) = \frac{\exp\left( \sum_k \theta_k g_k(y, Y^{(t-1)}, X) \right)}{c(\theta, Y^{(t-1)}, X)} $$
 
-$$ y = \rho W y + X \beta + W X \theta + \epsilon $$
+2. **Modelo de Dinámicas Ideológicas (SAOM)**: ¿Cómo nos transformamos? Evaluamos la coevolución conjunta de la red y el punto ideal continuo ($Z$) del individuo para aislar la auténtica influencia social ("exposición en la red", parámetro $\beta_3$) de la pura selección homofílica:
+   $$ f^Z_i(x, z) = \beta_1 z_i + \beta_2 z_i^2 + \beta_3 \left( \frac{\sum_j x_{ij} (z_i - z_j)^2}{\sum_j x_{ij}} \right) + \sum \gamma_k V_{ik} $$
 
-De esta forma, probamos efectos endógenos de contagio y dependencia espacial (si cooperar con pares exitosos aumenta el éxito propio de adopción).
+3. **Modelo de Éxito Legislativo (SDM)**: ¿Qué explica el éxito legislativo transversal ($y_i$)? Se operacionaliza la capacidad de un constituyente de "imprimir" sus atributos en la Constitución modelando el impacto espacial condicionado por la red acumulativa de coautoría ($W$) y variables clave individuales ($X$):
+   $$ y = \rho W y + X \beta + W X \theta + \epsilon $$
+   De esta forma, probamos cuantitativamente si el acoplarse con pares exitosos aumenta la probabilidad de supervivencia léxica de un texto.
 
 **[Read the Research Proposal (PDF)](./playground/research-proposal/proposal.pdf)**
 
@@ -41,6 +45,9 @@ El proyecto se encuentra actualmente en fase de Reconocimiento y Reconstrucción
 - [ ] Iniciar el mapeo e integración cruzada de autores para los textos base de las Comisiones 6 y 7
 - [ ] Desarrollar un script de extracción ad-hoc (CUSTOM_COMPLEX) para procesar las tablas de indicaciones de la Comisión 4
 - [ ] Proceder con el empalme final de la red global de co-autoría de la Convención para su paso a R/Python.
+- [ ] **Ejecución Modelo 1:** Ajustar el TERGM a la red temporal de coautoría de iniciativas originales.
+- [ ] **Ejecución Modelo 2:** Ejecutar simulación SAOM (vía RSiena) sobre la dinámica ideológica y de lazos interactuantes.
+- [ ] **Ejecución Modelo 3:** Ajustar la estimación autorregresiva espacial (SDM) midiendo el coeficiente de retención final (Éxito legislativo).
 
 ## Estructura del Proyecto
 
