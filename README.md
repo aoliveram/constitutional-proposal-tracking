@@ -56,5 +56,30 @@ El script principal procesa las indicaciones y genera el borrador evolutivo:
 python scripts/06_apply_indications_ai_v3.py
 ```
 
-## Estado
-El proyecto se encuentra actualmente en fase de **Revisión de Calidad de Datos**. Consulta la carpeta `reports/` para más detalles sobre el progreso de extracción por comisión.
+## Estado y Documentación de Investigación
+
+📄 **[Read the Research Proposal (PDF)](./playground/research-proposal/proposal.pdf)**
+
+El proyecto se encuentra actualmente en fase de **Reconocimiento y Reconstrucción de Dinámicas de Red**. A continuación, se presenta el estado de avance global (reflejando el progreso de la rama `feature/reconstruct-drafts-manual`):
+
+### ✅ Tareas Completadas
+- [x] Web scraping de documentos oficiales y sistematización inicial
+- [x] Organizar y clasificar documentos por cada una de las 7 comisiones
+- [x] Auditoría de insumos: Identificar documentos recibidos vs. extraviados o faltantes
+- [x] Filtrar PDFs y extraer únicamente las páginas relevantes
+- [x] Armonizar nomenclatura y nombres de archivos de informes (Génesis e Indicaciones)
+- [x] Analizar y diseñar perfilamiento de estrategias de extracción mediante IA (NARRATIVE, TABULAR, CUSTOM)
+- [x] Ejecutar la extracción de propuestas iniciales (Textos Sistematizados/Génesis) para todas las comisiones
+- [x] Diseñar e implementar scripts para extraer quiénes son los coautores de las iniciativas e indicaciones
+- [x] Identificar qué indicaciones fueron aprobadas y extraer el texto exacto de su modificación
+- [x] Realizar la fusión maestra de textos "Génesis" para todas las comisiones (`master_merged.json`)
+- [x] **Comisión 1 (Sistema Político):** Reconstrucción manual completada, estructurada y validada
+- [x] **Comisión 2 (Principios Constitucionales):** Trazabilidad "Génesis-Final" validada con éxito
+- [x] **Comisión 3 (Forma de Estado):** Texto Génesis 100% limpio y estructurado / Indicaciones procesadas (50% avance manual - 4/8 informes)
+- [x] **Comisión 5 (Medio Ambiente):** Texto Génesis estructurado / Indicaciones procesadas (50% avance manual - 3/6 informes)
+
+### ⏳ Tareas Pendientes o en Curso
+- [ ] Terminar la reconstrucción manual ("Human in the Loop") de indicaciones y autores para las comisiones 3 y 5
+- [ ] Iniciar el mapeo e integración cruzada de autores para los textos base de las Comisiones 6 y 7
+- [ ] Desarrollar un script de extracción ad-hoc (CUSTOM_COMPLEX) para procesar las tablas de indicaciones de la Comisión 4
+- [ ] Proceder con el empalme final de la red global de co-autoría de la Convención para su paso a R/Python.
