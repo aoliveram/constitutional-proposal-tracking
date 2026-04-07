@@ -56,7 +56,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 296.- Artículo 1"
   },
   {
     "article_uid": "C5-GEN-CH01-ART02",
@@ -757,7 +758,7 @@
         "timestamp": "04-09-2",
         "step": "Indicación",
         "article": "Artículo 12",
-        "content_snapshot": "Los bienes comunes naturales son elementos o componentes de la naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras. Este deber existe respecto de todos los bienes comunes naturales, sean apropiables o inapropiables. Artículo.\n 12 A. Son bienes comunes naturales el mar territorial y su fondo marino; las playas; las aguas, glaciares y humedales; los campos geotérmicos; el aire y la atmósfera; la alta montaña, las áreas protegidas y los bosques nativos; el subsuelo, y los demás que declaren la Constitución y la ley. Entre estos bienes son inapropiables el agua en todos sus estados y el aire; los reconocidos por el derecho internacional; y los que la Constitución o las leyes declaren como tales. Artículo.\n 12 B. Tratándose de los bienes comunes naturales que sean inapropiables, el Estado deberá preservarlos, conservarlos y, en su caso, restaurarlos. Deberá, asimismo, administrarlos de forma democrática, solidaria, participativa y equitativa. Respecto de aquellos bienes comunes naturales que se encuentren en el dominio privado, el deber de custodia del Estado implica la facultad de regular su uso y goce, con las finalidades establecidas en el artículo primero. Artículo.\n 12 C. Cualquier persona podrá exigir el cumplimiento de los deberes constitucionales de custodia de los bienes comunes naturales. La ley determinará el procedimiento y los requisitos de esta acción. Artículo.\n 12 D. El Estado podrá otorgar autorizaciones administrativas para el uso de los bienes comunes naturales inapropiables, conforme a la ley, de manera temporal, sujeto a causales de caducidad, extinción y revocación, con obligaciones específicas de conservación, justificadas en el interés público, la protección de la naturaleza y el beneficio colectivo. Estas autorizaciones, ya sean individuales o colectivos, no generan derechos de propiedad. Artículo.\n 12 E. Los derechos de los pueblos indígenas sobre bienes comunes naturales que se encuentran en sus tierras y territorios, reconocidos en el derecho internacional de los derechos humanos, ratificado y vigente en Chile, serán reconocidos por la ley. Esos derechos en todo caso implicarán los deberes establecidos en el artículo tercero.",
+        "content_snapshot": "Los bienes comunes naturales son elementos o componentes de la naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras. Este deber existe respecto de todos los bienes comunes naturales, sean apropiables o inapropiables.",
         "number": 13,
         "authors_matched": [
           "Vilches, Carolina"
@@ -765,11 +766,101 @@
         "target_article": 12,
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
-        "content": "Artículo 12. Los bienes comunes naturales son elementos o componentes de la naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras. Este deber existe respecto de todos los bienes comunes naturales, sean apropiables o inapropiables. Artículo 12 A. Son bienes comunes naturales el mar territorial y su fondo marino; las playas; las aguas, glaciares y humedales; los campos geotérmicos; el aire y la atmósfera; la alta montaña, las áreas protegidas y los bosques nativos; el subsuelo, y los demás que declaren la Constitución y la ley. Entre estos bienes son inapropiables el agua en todos sus estados y el aire; los reconocidos por el derecho internacional; y los que la Constitución o las leyes declaren como tales. Artículo 12 B. Tratándose de los bienes comunes naturales que sean inapropiables, el Estado deberá preservarlos, conservarlos y, en su caso, restaurarlos. Deberá, asimismo, administrarlos de forma democrática, solidaria, participativa y equitativa. Respecto de aquellos bienes comunes naturales que se encuentren en el dominio privado, el deber de custodia del Estado implica la facultad de regular su uso y goce, con las finalidades establecidas en el artículo primero. Artículo 12 C. Cualquier persona podrá exigir el cumplimiento de los deberes constitucionales de custodia de los bienes comunes naturales. La ley determinará el procedimiento y los requisitos de esta acción. Artículo 12 D. El Estado podrá otorgar autorizaciones administrativas para el uso de los bienes comunes naturales inapropiables, conforme a la ley, de manera temporal, sujeto a causales de caducidad, extinción y revocación, con obligaciones específicas de conservación, justificadas en el interés público, la protección de la naturaleza y el beneficio colectivo. Estas autorizaciones, ya sean individuales o colectivos, no generan derechos de propiedad. Artículo 12 E. Los derechos de los pueblos indígenas sobre bienes comunes naturales que se encuentran en sus tierras y territorios, reconocidos en el derecho internacional de los derechos humanos, ratificado y vigente en Chile, serán reconocidos por la ley. Esos derechos en todo caso implicarán los deberes establecidos en el artículo tercero.",
+        "content": "Artículo 12. Los bienes comunes naturales son elementos o componentes de la naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras. Este deber existe respecto de todos los bienes comunes naturales, sean apropiables o inapropiables.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
     ]
+  },
+  {
+    "article_uid": "C5-IND04-09-2-CH01-ART12A",
+    "timestamp": "04-09-2",
+    "step": "Indicación",
+    "article": "Artículo 12 A",
+    "content_snapshot": "Son bienes comunes naturales el mar territorial y su fondo marino; las playas; las aguas, glaciares y humedales; los campos geotérmicos; el aire y la atmósfera; la alta montaña, las áreas protegidas y los bosques nativos; el subsuelo, y los demás que declaren la Constitución y la ley.\n Entre estos bienes son inapropiables el agua en todos sus estados y el aire, los reconocidos por el derecho internacional; y los que la Constitución o las leyes declaren como tales.",
+    "number": 13,
+    "authors_matched": [
+      "Vilches, Carolina"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 12 A. Son bienes comunes naturales el mar territorial y su fondo marino; las playas; las aguas, glaciares y humedales; los campos geotérmicos; el aire y la atmósfera; la alta montaña, las áreas protegidas y los bosques nativos; el subsuelo, y los demás que declaren la Constitución y la ley. Entre estos bienes son inapropiables el agua en todos sus estados y el aire; los reconocidos por el derecho internacional; y los que la Constitución o las leyes declaren como tales. ",
+    "content_to_remove": "",
+    "placement_instructions": "después del artículo 12",
+    "final_status": "idéntico a 299.- Artículo 12 A"
+  },
+  {
+    "article_uid": "C5-IND04-09-2-CH01-ART12B",
+    "timestamp": "04-09-2",
+    "step": "Indicación",
+    "article": "Artículo 12 B",
+    "content_snapshot": "Tratándose de los bienes comunes naturales que sean inapropiables, el Estado deberá preservarlos, conservarlos y, en su caso, restaurarlos. Deberá, asimismo, administrarlos de forma democrática, solidaria, participativa y equitativa.\n Respecto de aquellos bienes comunes naturales que se encuentren en el dominio privado, el deber de custodia del Estado implica la facultad de regular su uso y goce, con las finalidades establecidas en el artículo primero.",
+    "number": 13,
+    "authors_matched": [
+      "Vilches, Carolina"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 12 B. Tratándose de los bienes comunes naturales que sean inapropiables, el Estado deberá preservarlos, conservarlos y, en su caso, restaurarlos. Deberá, asimismo, administrarlos de forma democrática, solidaria, participativa y equitativa. Respecto de aquellos bienes comunes naturales que se encuentren en el dominio privado, el deber de custodia del Estado implica la facultad de regular su uso y goce, con las finalidades establecidas en el artículo primero.",
+    "content_to_remove": "",
+    "placement_instructions": "después del artículo 12",
+    "final_status": "idéntico a 300.- Artículo 12 B"
+  },
+  {
+    "article_uid": "C5-IND04-09-2-CH01-ART12C",
+    "timestamp": "04-09-2",
+    "step": "Indicación",
+    "article": "Artículo 12 C",
+    "content_snapshot": "Cualquier persona podrá exigir el cumplimiento de los deberes constitucionales de custodia de los bienes comunes naturales. La ley determinará el procedimiento y los requisitos de esta acción.",
+    "number": 13,
+    "authors_matched": [
+      "Vilches, Carolina"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 12 C. Cualquier persona podrá exigir el cumplimiento de los deberes constitucionales de custodia de los bienes comunes naturales. La ley determinará el procedimiento y los requisitos de esta acción.",
+    "content_to_remove": "",
+    "placement_instructions": "después del artículo 12",
+    "final_status": "idéntico a 301.- Artículo 12 C"
+  },
+  {
+    "article_uid": "C5-IND04-09-2-CH01-ART12D",
+    "timestamp": "04-09-2",
+    "step": "Indicación",
+    "article": "Artículo 12 D",
+    "content_snapshot": "El Estado podrá otorgar autorizaciones administrativas para el uso de los bienes comunes naturales inapropiables, conforme a la ley, de manera temporal, sujeto a causales de caducidad, extinción y revocación, con obligaciones específicas de conservación, justificadas en el interés público, la protección de la naturaleza y el beneficio colectivo. Estas autorizaciones, ya sean individuales o colectivas, no generan derechos de propiedad.",
+    "number": 13,
+    "authors_matched": [
+      "Vilches, Carolina"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 12 D. El Estado podrá otorgar autorizaciones administrativas para el uso de los bienes comunes naturales inapropiables, conforme a la ley, de manera temporal, sujeto a causales de caducidad, extinción y revocación, con obligaciones específicas de conservación, justificadas en el interés público, la protección de la naturaleza y el beneficio colectivo. Estas autorizaciones, ya sean individuales o colectivos, no generan derechos de propiedad. ",
+    "content_to_remove": "",
+    "placement_instructions": "después del artículo 12",
+    "comment": "se hizo ajuste gramatical manualmente, debido a que es la única diferencia con el borrador final (colectivos a colectivas).",
+    "final_status": "idéntico a 302.- Artículo 12 D"
+  },
+  {
+    "article_uid": "C5-IND04-09-2-CH01-ART12E",
+    "timestamp": "04-09-2",
+    "step": "Indicación",
+    "article": "Artículo 12 E",
+    "content_snapshot": "Los derechos de los pueblos indígenas sobre bienes comunes naturales que se encuentran en sus tierras y territorios, reconocidos en el derecho internacional de los derechos humanos, ratificado y vigente en Chile, serán reconocidos por la ley. Esos derechos en todo caso implicarán los deberes establecidos en el artículo tercero.",
+    "number": 13,
+    "authors_matched": [
+      "Vilches, Carolina"
+    ],
+    "target_article": 12,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 12 E. Los derechos de los pueblos indígenas sobre bienes comunes naturales que se encuentran en sus tierras y territorios, reconocidos en el derecho internacional de los derechos humanos, ratificado y vigente en Chile, serán reconocidos por la ley. Esos derechos en todo caso implicarán los deberes establecidos en el artículo tercero.",
+    "content_to_remove": "",
+    "placement_instructions": "después del artículo 12"
   },
   {
     "article_uid": "C5-IND03-01-2-CH04-ARTAN15",
@@ -1427,7 +1518,9 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "comment": "El borrador menciona explícitamente que el inciso segundo se reemplaza por el tercero, si se elimina el inciso 2 original el texto es idéntico",
+    "final_status": "Idéntico* a 303.- Artículo 19"
   },
   {
     "article_uid": "C5-GEN-CH07-ART22",
@@ -1613,7 +1706,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntio a 304.- Artículo 20"
   },
   {
     "article_uid": "C5-GEN-CH10-ART26",
@@ -2234,7 +2328,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 297.- Artículo 4"
   },
   {
     "article_uid": "C5-GEN-CH15-ART43",
@@ -2504,7 +2599,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 298.- Artículo 9"
   },
   {
     "article_uid": "C5-IND03-01-2-CH04-ARTAN48",
@@ -2968,7 +3064,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Similar a 305.- Artículo 23"
   },
   {
     "article_uid": "C5-GEN-CH23-ART61",
@@ -3415,7 +3512,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 307.- Artículo 26"
   },
   {
     "article_uid": "C5-GEN-CH35-ART74",
@@ -4197,7 +4295,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "idéntico a 308.- Artículo 33"
   },
   {
     "article_uid": "C5-GEN-CH55-ART94",
@@ -4838,7 +4937,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 310.- Artículo 2"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART3",
@@ -4881,7 +4981,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 311.- Artículo 3"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART4",
@@ -4924,7 +5025,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 312.- Artículo 4"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART5",
@@ -4995,7 +5097,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 313.- Artículo 5"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART7",
@@ -6172,7 +6275,8 @@
     "action": "ADD",
     "content": "Artículo Nuevo. Los bienes comunes naturales son elementos o componentes de la Naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras.",
     "content_to_remove": "",
-    "placement_instructions": "inmediatamente antes del artículo 13°"
+    "placement_instructions": "inmediatamente antes del artículo 13°",
+    "final_status": "Similar a 317.- Artículo Nuevo"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART49",
@@ -6215,7 +6319,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 318.- Artículo 13"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART50",
@@ -6258,7 +6363,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 319.- Artículo 14"
   },
   {
     "article_uid": "C5-IND04-09-CH1-ARTN1",
@@ -6293,7 +6399,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 319.- Artículo 14"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART51",
@@ -7550,7 +7657,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 321.- Artículo 17"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART98",
@@ -9043,7 +9151,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 316.- Artículo 12"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART153",
@@ -9948,7 +10057,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 323.- Artículo 21"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART187",
@@ -10266,7 +10376,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 324.- Artículo 22"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART199",
@@ -10309,7 +10420,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 325.- Artículo 23"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART200",
@@ -10368,7 +10480,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 326.- Artículo 24"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART201",
@@ -10411,7 +10524,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 328.- Artículo 25"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART202",
@@ -11373,7 +11487,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 330.- Artículo 30"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART234",
@@ -11487,7 +11602,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 331.- Artículo 32"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART237",
@@ -11589,7 +11705,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 332.- Artículo 34"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART239",
@@ -12078,7 +12195,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 334.- Artículo 43"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART248",
@@ -14589,7 +14707,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 335.- Artículo 47"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART344",
@@ -14632,7 +14751,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 336.- Artículo 48"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART345",
@@ -14675,7 +14795,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "idéntico a 337.- Artículo 49"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART346",
@@ -14778,7 +14899,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "similar a 338.- Artículo 51"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART348",
