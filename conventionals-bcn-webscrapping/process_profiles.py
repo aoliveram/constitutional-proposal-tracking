@@ -67,8 +67,16 @@ for c in raw_data:
     if any(k in tray_lower for k in keywords):
         exp = 1
         
+    # 8. Es_mujer
+    es_mujer = 0
+    bio_text = str(c.get("familia_y_juventud", "")).lower() + " " + str(c.get("intro_wiki", "")).lower()
+    first_name = nombre.split(", ")[1].split(" ")[0].lower() if ", " in nombre else nombre.split(" ")[0].lower()
+    if " hija " in bio_text or "nacida" in bio_text or "casada" in bio_text or first_name.endswith("a"):
+        es_mujer = 1
+
     processed_data.append({
         "nombre_armonizado": nombre,
+        "es_mujer": es_mujer,
         "afiliacion_agrupada": afiliacion,
         "distrito": distrito,
         "es_abogado": es_abogado,

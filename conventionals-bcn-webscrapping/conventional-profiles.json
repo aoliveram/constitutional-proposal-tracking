@@ -1,6 +1,7 @@
 [
     {
         "nombre_armonizado": "Abarca, Damaris",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "15° distrito",
         "es_abogado": 0,
@@ -10,6 +11,7 @@
     },
     {
         "nombre_armonizado": "Abarca, Jorge",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "1er distrito",
         "es_abogado": 0,
@@ -19,6 +21,7 @@
     },
     {
         "nombre_armonizado": "Achurra, Ignacio",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "14° distrito",
         "es_abogado": 0,
@@ -28,6 +31,7 @@
     },
     {
         "nombre_armonizado": "Aguilera, Tiare",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Rapa Nui",
         "distrito": "Desconocido",
         "es_abogado": 1,
@@ -37,6 +41,7 @@
     },
     {
         "nombre_armonizado": "Alvarado, Gloria",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "16° distrito",
         "es_abogado": 0,
@@ -46,6 +51,7 @@
     },
     {
         "nombre_armonizado": "Alvarez, Julio",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "26° distrito",
         "es_abogado": 1,
@@ -55,6 +61,7 @@
     },
     {
         "nombre_armonizado": "Alvarez, Rodrigo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "28° distrito",
         "es_abogado": 1,
@@ -64,6 +71,7 @@
     },
     {
         "nombre_armonizado": "Alvez, Amaya",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "20° distrito",
         "es_abogado": 1,
@@ -73,6 +81,7 @@
     },
     {
         "nombre_armonizado": "Ampuero, Adriana",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "26° distrito",
         "es_abogado": 0,
@@ -82,6 +91,7 @@
     },
     {
         "nombre_armonizado": "Andrade, Cristobal",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 0,
@@ -91,6 +101,7 @@
     },
     {
         "nombre_armonizado": "Antilef, Victorino",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones  X - XI - XIV",
         "es_abogado": 0,
@@ -100,6 +111,7 @@
     },
     {
         "nombre_armonizado": "Arancibia, Jorge",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "7° distrito",
         "es_abogado": 0,
@@ -109,6 +121,7 @@
     },
     {
         "nombre_armonizado": "Arauna, Francisca",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "18° distrito",
         "es_abogado": 1,
@@ -118,6 +131,7 @@
     },
     {
         "nombre_armonizado": "Arellano, Marco",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "8° distrito",
         "es_abogado": 0,
@@ -127,6 +141,7 @@
     },
     {
         "nombre_armonizado": "Arrau, Martin",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "19° distrito",
         "es_abogado": 0,
@@ -136,6 +151,7 @@
     },
     {
         "nombre_armonizado": "Atria, Fernando",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "10° distrito",
         "es_abogado": 1,
@@ -145,6 +161,7 @@
     },
     {
         "nombre_armonizado": "Bacian, Wilfredo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Quechua",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -154,6 +171,7 @@
     },
     {
         "nombre_armonizado": "Baradit, Jorge",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "10° distrito",
         "es_abogado": 0,
@@ -163,6 +181,7 @@
     },
     {
         "nombre_armonizado": "Baranda, Benito",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "12° distrito",
         "es_abogado": 0,
@@ -172,6 +191,7 @@
     },
     {
         "nombre_armonizado": "Barcelo, Luis",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "21er distrito",
         "es_abogado": 1,
@@ -181,6 +201,7 @@
     },
     {
         "nombre_armonizado": "Barraza, Marcos",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Partido Comunista de Chile",
         "distrito": "13° distrito",
         "es_abogado": 0,
@@ -190,6 +211,7 @@
     },
     {
         "nombre_armonizado": "Bassa, Jaime",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "7° distrito",
         "es_abogado": 1,
@@ -199,6 +221,7 @@
     },
     {
         "nombre_armonizado": "Bown, Carol",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "15° distrito",
         "es_abogado": 1,
@@ -208,6 +231,7 @@
     },
     {
         "nombre_armonizado": "Bravo, Daniel",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "5° distrito",
         "es_abogado": 1,
@@ -217,6 +241,7 @@
     },
     {
         "nombre_armonizado": "Caamano, Francisco",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "14° distrito",
         "es_abogado": 0,
@@ -226,6 +251,7 @@
     },
     {
         "nombre_armonizado": "Caiguan, Alexis",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones   X - XI - XIV",
         "es_abogado": 0,
@@ -235,6 +261,7 @@
     },
     {
         "nombre_armonizado": "Calvo, Carlos",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "5° distrito",
         "es_abogado": 0,
@@ -244,6 +271,7 @@
     },
     {
         "nombre_armonizado": "Cancino, Adriana",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "16° distrito",
         "es_abogado": 0,
@@ -253,6 +281,7 @@
     },
     {
         "nombre_armonizado": "Cantuarias, Rocio",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "20° distrito",
         "es_abogado": 1,
@@ -262,6 +291,7 @@
     },
     {
         "nombre_armonizado": "Carrillo, Alondra",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "12° distrito",
         "es_abogado": 0,
@@ -271,6 +301,7 @@
     },
     {
         "nombre_armonizado": "Castillo, Eduardo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "23er distrito",
         "es_abogado": 1,
@@ -280,6 +311,7 @@
     },
     {
         "nombre_armonizado": "Castro, Claudia",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "14° distrito",
         "es_abogado": 0,
@@ -289,6 +321,7 @@
     },
     {
         "nombre_armonizado": "Catrileo, Rosa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones VIII - IX - XVI",
         "es_abogado": 1,
@@ -298,6 +331,7 @@
     },
     {
         "nombre_armonizado": "Celedon, Roberto",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "17° distrito",
         "es_abogado": 1,
@@ -307,6 +341,7 @@
     },
     {
         "nombre_armonizado": "Celis, Raul",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "7° distrito",
         "es_abogado": 1,
@@ -316,6 +351,7 @@
     },
     {
         "nombre_armonizado": "Chahin, Fuad",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "22° distrito",
         "es_abogado": 1,
@@ -325,6 +361,7 @@
     },
     {
         "nombre_armonizado": "Chinga, Eric",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Diaguita",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -334,6 +371,7 @@
     },
     {
         "nombre_armonizado": "Cozzi, Ruggero",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 1,
@@ -343,6 +381,7 @@
     },
     {
         "nombre_armonizado": "Cretton, Eduardo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "22° distrito",
         "es_abogado": 0,
@@ -352,6 +391,7 @@
     },
     {
         "nombre_armonizado": "Cruz, Andres",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "20° distrito",
         "es_abogado": 1,
@@ -361,6 +401,7 @@
     },
     {
         "nombre_armonizado": "Cubillos, Marcela",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "11° distrito",
         "es_abogado": 1,
@@ -370,6 +411,7 @@
     },
     {
         "nombre_armonizado": "Cespedes, Lorena",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "23er distrito",
         "es_abogado": 0,
@@ -379,6 +421,7 @@
     },
     {
         "nombre_armonizado": "Daza, Mauricio",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "28° distrito",
         "es_abogado": 1,
@@ -388,6 +431,7 @@
     },
     {
         "nombre_armonizado": "De la Maza, Bernardo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "8° distrito",
         "es_abogado": 0,
@@ -397,6 +441,7 @@
     },
     {
         "nombre_armonizado": "Delgado, Aurora",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "24° distrito",
         "es_abogado": 0,
@@ -406,6 +451,7 @@
     },
     {
         "nombre_armonizado": "Dominguez, Gaspar",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "26° distrito",
         "es_abogado": 0,
@@ -415,6 +461,7 @@
     },
     {
         "nombre_armonizado": "Dorador, Cristina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "3erdistrito",
         "es_abogado": 0,
@@ -424,6 +471,7 @@
     },
     {
         "nombre_armonizado": "Fernandez, Patricio",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "11° distrito",
         "es_abogado": 0,
@@ -433,6 +481,7 @@
     },
     {
         "nombre_armonizado": "Flores, Alejandra",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "2° distrito",
         "es_abogado": 0,
@@ -442,6 +491,7 @@
     },
     {
         "nombre_armonizado": "Fontaine, Bernardo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "11° distrito",
         "es_abogado": 0,
@@ -451,6 +501,7 @@
     },
     {
         "nombre_armonizado": "Fuchslocher, Javier",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "21er distrito",
         "es_abogado": 0,
@@ -460,6 +511,7 @@
     },
     {
         "nombre_armonizado": "Gallardo, Bessy",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "8° distrito",
         "es_abogado": 0,
@@ -469,6 +521,7 @@
     },
     {
         "nombre_armonizado": "Galleguillos, Felix",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Atacameño",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -478,6 +531,7 @@
     },
     {
         "nombre_armonizado": "Garin, Renato",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "14° distrito",
         "es_abogado": 1,
@@ -487,6 +541,7 @@
     },
     {
         "nombre_armonizado": "Giustinianovich, Elisa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "28° distrito",
         "es_abogado": 0,
@@ -496,6 +551,7 @@
     },
     {
         "nombre_armonizado": "Godoy, Isabel",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Colla",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -505,6 +561,7 @@
     },
     {
         "nombre_armonizado": "Gonzalez, Lidia",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Yagán",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -514,6 +571,7 @@
     },
     {
         "nombre_armonizado": "Grandon, Giovanna",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "12° distrito",
         "es_abogado": 0,
@@ -523,6 +581,7 @@
     },
     {
         "nombre_armonizado": "Grandon, Paola",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "17° distrito",
         "es_abogado": 0,
@@ -532,6 +591,7 @@
     },
     {
         "nombre_armonizado": "Gutierrez, Hugo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Partido Comunista de Chile",
         "distrito": "2° distrito",
         "es_abogado": 1,
@@ -541,6 +601,7 @@
     },
     {
         "nombre_armonizado": "Gomez, Claudio",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 1,
@@ -550,6 +611,7 @@
     },
     {
         "nombre_armonizado": "Gomez, Yarela",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "27° distrito",
         "es_abogado": 0,
@@ -559,6 +621,7 @@
     },
     {
         "nombre_armonizado": "Harboe, Felipe",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "19° distrito",
         "es_abogado": 1,
@@ -568,6 +631,7 @@
     },
     {
         "nombre_armonizado": "Henriquez, Natalia",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "9° distrito",
         "es_abogado": 0,
@@ -577,6 +641,7 @@
     },
     {
         "nombre_armonizado": "Hoppe, Vanessa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "21er distrito",
         "es_abogado": 1,
@@ -586,6 +651,7 @@
     },
     {
         "nombre_armonizado": "Hube, Constanza",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "11° distrito",
         "es_abogado": 1,
@@ -595,6 +661,7 @@
     },
     {
         "nombre_armonizado": "Hurtado, Maximiliano",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "4° distrito",
         "es_abogado": 0,
@@ -604,6 +671,7 @@
     },
     {
         "nombre_armonizado": "Hurtado, Ruth",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Republicano de Chile",
         "distrito": "22° distrito",
         "es_abogado": 0,
@@ -613,6 +681,7 @@
     },
     {
         "nombre_armonizado": "Jimenez, Luis",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Aymara",
         "distrito": "Desconocido",
         "es_abogado": 1,
@@ -622,6 +691,7 @@
     },
     {
         "nombre_armonizado": "Jofre, Alvaro",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "2° distrito",
         "es_abogado": 0,
@@ -631,6 +701,7 @@
     },
     {
         "nombre_armonizado": "Jurgensen, Harry",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "25° distrito",
         "es_abogado": 0,
@@ -640,6 +711,7 @@
     },
     {
         "nombre_armonizado": "Labbe, Bastian",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "20° distrito",
         "es_abogado": 0,
@@ -649,6 +721,7 @@
     },
     {
         "nombre_armonizado": "Labra, Patricia",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "18° distrito",
         "es_abogado": 1,
@@ -658,6 +731,7 @@
     },
     {
         "nombre_armonizado": "Labrana, Elsa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "17° distrito",
         "es_abogado": 0,
@@ -667,6 +741,7 @@
     },
     {
         "nombre_armonizado": "Laibe, Tomas",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "27° distrito",
         "es_abogado": 0,
@@ -676,6 +751,7 @@
     },
     {
         "nombre_armonizado": "Larrain, Hernan",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "11° distrito",
         "es_abogado": 1,
@@ -685,6 +761,7 @@
     },
     {
         "nombre_armonizado": "Letelier, Margarita",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "19° distrito",
         "es_abogado": 0,
@@ -694,6 +771,7 @@
     },
     {
         "nombre_armonizado": "Linconao, Francisca",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones VIII - IX - XVI",
         "es_abogado": 0,
@@ -703,6 +781,7 @@
     },
     {
         "nombre_armonizado": "Llanquileo, Natividad",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones VIII - IX - XVI",
         "es_abogado": 1,
@@ -712,6 +791,7 @@
     },
     {
         "nombre_armonizado": "Logan, Rodrigo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "9° distrito",
         "es_abogado": 1,
@@ -721,6 +801,7 @@
     },
     {
         "nombre_armonizado": "Loncon, Elisa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones IV - V - RM - VI - VII",
         "es_abogado": 0,
@@ -730,6 +811,7 @@
     },
     {
         "nombre_armonizado": "Madriaga, Tania",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "7° distrito",
         "es_abogado": 0,
@@ -739,6 +821,7 @@
     },
     {
         "nombre_armonizado": "Mamani, Isabella",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Aymara",
         "distrito": "Regiones IV - V - RM - VI - VII",
         "es_abogado": 1,
@@ -748,6 +831,7 @@
     },
     {
         "nombre_armonizado": "Marinovic, Teresa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "10° distrito",
         "es_abogado": 0,
@@ -757,6 +841,7 @@
     },
     {
         "nombre_armonizado": "Martin, Juan Jose",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "12° distrito",
         "es_abogado": 0,
@@ -766,6 +851,7 @@
     },
     {
         "nombre_armonizado": "Martinez, Helmuth",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "23er distrito",
         "es_abogado": 1,
@@ -775,6 +861,7 @@
     },
     {
         "nombre_armonizado": "Mayol, Luis",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "23er distrito",
         "es_abogado": 1,
@@ -784,6 +871,7 @@
     },
     {
         "nombre_armonizado": "Mella, Jeniffer",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "5° distrito",
         "es_abogado": 1,
@@ -793,6 +881,7 @@
     },
     {
         "nombre_armonizado": "Mena, Felipe",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "24° distrito",
         "es_abogado": 0,
@@ -802,6 +891,7 @@
     },
     {
         "nombre_armonizado": "Meneses, Janis",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 0,
@@ -811,6 +901,7 @@
     },
     {
         "nombre_armonizado": "Millabur, Adolfo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Mapuche",
         "distrito": "Regiones VIII - IX - XVI",
         "es_abogado": 0,
@@ -820,6 +911,7 @@
     },
     {
         "nombre_armonizado": "Miranda, Valentina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Partido Comunista de Chile",
         "distrito": "8° distrito",
         "es_abogado": 0,
@@ -829,6 +921,7 @@
     },
     {
         "nombre_armonizado": "Monckeberg, Cristian",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "10° distrito",
         "es_abogado": 1,
@@ -838,6 +931,7 @@
     },
     {
         "nombre_armonizado": "Montealegre, Katerine",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "26° distrito",
         "es_abogado": 1,
@@ -847,6 +941,7 @@
     },
     {
         "nombre_armonizado": "Montero, Ricardo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "18° distrito",
         "es_abogado": 1,
@@ -856,6 +951,7 @@
     },
     {
         "nombre_armonizado": "Moreno, Alfredo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "17° distrito",
         "es_abogado": 0,
@@ -865,6 +961,7 @@
     },
     {
         "nombre_armonizado": "Munoz, Pedro",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "24° distrito",
         "es_abogado": 1,
@@ -874,6 +971,7 @@
     },
     {
         "nombre_armonizado": "Namor, Guillermo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "4° distrito",
         "es_abogado": 0,
@@ -883,6 +981,7 @@
     },
     {
         "nombre_armonizado": "Navarrete, Geoconda",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "27° distrito",
         "es_abogado": 0,
@@ -892,6 +991,7 @@
     },
     {
         "nombre_armonizado": "Neumann, Ricardo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "16° distrito",
         "es_abogado": 1,
@@ -901,6 +1001,7 @@
     },
     {
         "nombre_armonizado": "Nunez, Nicolas",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "16° distrito",
         "es_abogado": 1,
@@ -910,6 +1011,7 @@
     },
     {
         "nombre_armonizado": "Olivares, Ivanna",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "5° distrito",
         "es_abogado": 0,
@@ -919,6 +1021,7 @@
     },
     {
         "nombre_armonizado": "Orellana, Matias",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "15° distrito",
         "es_abogado": 1,
@@ -928,6 +1031,7 @@
     },
     {
         "nombre_armonizado": "Ossandon, Manuel",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "12° distrito",
         "es_abogado": 1,
@@ -937,6 +1041,7 @@
     },
     {
         "nombre_armonizado": "Oyarzun, Maria Jose",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "7° distrito",
         "es_abogado": 0,
@@ -946,6 +1051,7 @@
     },
     {
         "nombre_armonizado": "Pinto, Malucha",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "13° distrito",
         "es_abogado": 0,
@@ -955,6 +1061,7 @@
     },
     {
         "nombre_armonizado": "Politzer, Patricia",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "10° distrito",
         "es_abogado": 0,
@@ -964,6 +1071,7 @@
     },
     {
         "nombre_armonizado": "Portilla, Ericka",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Partido Comunista de Chile",
         "distrito": "4° distrito",
         "es_abogado": 1,
@@ -973,6 +1081,7 @@
     },
     {
         "nombre_armonizado": "Pustilnick, Tammy",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "20° distrito",
         "es_abogado": 1,
@@ -982,6 +1091,7 @@
     },
     {
         "nombre_armonizado": "Perez, Alejandra",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "9° distrito",
         "es_abogado": 0,
@@ -991,6 +1101,7 @@
     },
     {
         "nombre_armonizado": "Quinteros, Maria Elisa",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "17° distrito",
         "es_abogado": 0,
@@ -1000,6 +1111,7 @@
     },
     {
         "nombre_armonizado": "Rebolledo, Barbara",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "17° distrito",
         "es_abogado": 0,
@@ -1009,6 +1121,7 @@
     },
     {
         "nombre_armonizado": "Rivera, Pollyana",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "1er distrito",
         "es_abogado": 0,
@@ -1018,6 +1131,7 @@
     },
     {
         "nombre_armonizado": "Roa, Giovanna",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "10° distrito",
         "es_abogado": 0,
@@ -1027,6 +1141,7 @@
     },
     {
         "nombre_armonizado": "Royo, Manuela",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "23er distrito",
         "es_abogado": 1,
@@ -1036,6 +1151,7 @@
     },
     {
         "nombre_armonizado": "Saldana, Alvin",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "15° distrito",
         "es_abogado": 1,
@@ -1045,6 +1161,7 @@
     },
     {
         "nombre_armonizado": "Salinas, Fernando",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "18° distrito",
         "es_abogado": 0,
@@ -1054,6 +1171,7 @@
     },
     {
         "nombre_armonizado": "San Juan, Constanza",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "4° distrito",
         "es_abogado": 0,
@@ -1063,6 +1181,7 @@
     },
     {
         "nombre_armonizado": "Schonhaut, Constanza",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "11° distrito",
         "es_abogado": 1,
@@ -1072,6 +1191,7 @@
     },
     {
         "nombre_armonizado": "Sepulveda, Barbara",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Partido Comunista de Chile",
         "distrito": "9° distrito",
         "es_abogado": 1,
@@ -1081,6 +1201,7 @@
     },
     {
         "nombre_armonizado": "Sepulveda, Carolina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "19° distrito",
         "es_abogado": 0,
@@ -1090,6 +1211,7 @@
     },
     {
         "nombre_armonizado": "Serey, Mariela",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 0,
@@ -1099,6 +1221,7 @@
     },
     {
         "nombre_armonizado": "Silva, Luciano",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "20° distrito",
         "es_abogado": 0,
@@ -1108,6 +1231,7 @@
     },
     {
         "nombre_armonizado": "Squella, Agustin",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "7° distrito",
         "es_abogado": 1,
@@ -1117,6 +1241,7 @@
     },
     {
         "nombre_armonizado": "Stingo, Daniel",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "8° distrito",
         "es_abogado": 1,
@@ -1126,6 +1251,7 @@
     },
     {
         "nombre_armonizado": "Sanchez, Beatriz",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "12° distrito",
         "es_abogado": 0,
@@ -1135,6 +1261,7 @@
     },
     {
         "nombre_armonizado": "Tirado, Fernando",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Pueblo Chango",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -1144,6 +1271,7 @@
     },
     {
         "nombre_armonizado": "Toloza, Pablo",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "3er distrito",
         "es_abogado": 0,
@@ -1153,6 +1281,7 @@
     },
     {
         "nombre_armonizado": "Ubilla, Maria Cecilia",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "25° distrito",
         "es_abogado": 1,
@@ -1162,6 +1291,7 @@
     },
     {
         "nombre_armonizado": "Uribe, Cesar",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "19° distrito",
         "es_abogado": 0,
@@ -1171,6 +1301,7 @@
     },
     {
         "nombre_armonizado": "Urrutia, Tatiana",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "8° distrito",
         "es_abogado": 0,
@@ -1180,6 +1311,7 @@
     },
     {
         "nombre_armonizado": "Valenzuela, Cesar",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "9° distrito",
         "es_abogado": 1,
@@ -1189,6 +1321,7 @@
     },
     {
         "nombre_armonizado": "Valenzuela, Paulina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "14° distrito",
         "es_abogado": 0,
@@ -1198,6 +1331,7 @@
     },
     {
         "nombre_armonizado": "Vallejos, Loreto",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "15° distrito",
         "es_abogado": 0,
@@ -1207,6 +1341,7 @@
     },
     {
         "nombre_armonizado": "Vargas, Margarita",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Pueblo Kawashkar",
         "distrito": "Desconocido",
         "es_abogado": 0,
@@ -1216,6 +1351,7 @@
     },
     {
         "nombre_armonizado": "Vargas, Mario",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "25° distrito",
         "es_abogado": 0,
@@ -1225,6 +1361,7 @@
     },
     {
         "nombre_armonizado": "Vega, Roberto",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "5° distrito",
         "es_abogado": 1,
@@ -1234,6 +1371,7 @@
     },
     {
         "nombre_armonizado": "Veloso, Paulina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "21er distrito",
         "es_abogado": 0,
@@ -1243,6 +1381,7 @@
     },
     {
         "nombre_armonizado": "Velasquez, Hernan",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Desconocida",
         "distrito": "3er distrito",
         "es_abogado": 0,
@@ -1252,6 +1391,7 @@
     },
     {
         "nombre_armonizado": "Vergara, Lisette",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 0,
@@ -1261,6 +1401,7 @@
     },
     {
         "nombre_armonizado": "Vidal, Rossana",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "20° distrito",
         "es_abogado": 1,
@@ -1270,6 +1411,7 @@
     },
     {
         "nombre_armonizado": "Videla, Carolina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Partido Comunista de Chile",
         "distrito": "1er distrito",
         "es_abogado": 0,
@@ -1279,6 +1421,7 @@
     },
     {
         "nombre_armonizado": "Viera, Christian",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "17° distrito",
         "es_abogado": 1,
@@ -1288,6 +1431,7 @@
     },
     {
         "nombre_armonizado": "Vilches, Carolina",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "6° distrito",
         "es_abogado": 0,
@@ -1297,6 +1441,7 @@
     },
     {
         "nombre_armonizado": "Villena, Ingrid",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "13° distrito",
         "es_abogado": 1,
@@ -1306,6 +1451,7 @@
     },
     {
         "nombre_armonizado": "Woldarsky, Manuel",
+        "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
         "distrito": "10° distrito",
         "es_abogado": 1,
@@ -1315,6 +1461,7 @@
     },
     {
         "nombre_armonizado": "Zarate, Camila",
+        "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
         "distrito": "7° distrito",
         "es_abogado": 0,
