@@ -5,10 +5,10 @@ import os
 from matplotlib.backends.backend_pdf import PdfPages
 import math
 
-base_dir = "/Users/anibaloliveramorales/Desktop/Doctorado/-Projects-/B - constitutional-proposal-tracking/playground/research-proposal-implementation"
+base_dir = "/Users/anibaloliveramorales/Desktop/Doctorado/-Projects-/B - constitutional-proposal-tracking/playground/research-proposal-implementation/network-visualization"
 
 def process_comision(c_name):
-    net_file = os.path.join(base_dir, f"{c_name}_dynamic_networks_official.json")
+    net_file = os.path.join(base_dir, f"{c_name}_dynamic_networks.json")
     if not os.path.exists(net_file): return
     
     with open(net_file, 'r', encoding='utf-8') as f:

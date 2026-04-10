@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import os
 from PIL import Image
 
-base_dir = "/Users/anibaloliveramorales/Desktop/Doctorado/-Projects-/B - constitutional-proposal-tracking/playground/research-proposal-implementation"
+base_dir = "/Users/anibaloliveramorales/Desktop/Doctorado/-Projects-/B - constitutional-proposal-tracking/playground/research-proposal-implementation/network-visualization"
 
 def make_gif(c_name):
-    net_file = os.path.join(base_dir, f"{c_name}_dynamic_networks_official.json")
+    net_file = os.path.join(base_dir, f"{c_name}_dynamic_networks.json")
     if not os.path.exists(net_file): return
     
     with open(net_file, 'r', encoding='utf-8') as f:
@@ -49,7 +49,7 @@ def make_gif(c_name):
         
     # Convert to GIF
     images = [Image.open(f) for f in frames]
-    gif_path = os.path.join(base_dir, f"{c_name}_network_evolution_official.gif")
+    gif_path = os.path.join(base_dir, f"{c_name}_network_evolution.gif")
     images[0].save(
         gif_path,
         save_all=True,
