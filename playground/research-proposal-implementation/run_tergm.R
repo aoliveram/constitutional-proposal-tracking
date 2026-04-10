@@ -13,7 +13,7 @@ base_dir <- "/Users/anibaloliveramorales/Desktop/Doctorado/-Projects-/B - consti
 profiles <- fromJSON(file.path(base_dir, "conventionals-bcn-webscrapping/conventional-profiles.json"))
 
 # 2. Load C1 Networks data
-waves_data <- fromJSON(file.path(base_dir, "playground/research-proposal-implementation/C1_dynamic_networks.json"))
+waves_data <- fromJSON(file.path(base_dir, "playground/research-proposal-implementation/C1_dynamic_networks_official.json"))
 
 # Create base node set based on the network authors.
 all_nodes <- unique(unlist(lapply(waves_data, function(w) c(w$source, w$target))))
