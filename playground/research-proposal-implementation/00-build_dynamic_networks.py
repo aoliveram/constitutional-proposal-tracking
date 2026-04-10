@@ -9,10 +9,10 @@ C1_BINS = ["03-17", "04-01", "04-18", "04-30"]
 C3_BINS = ["02-14", "03-01", "03-14", "03-24", "04-06", "04-19", "04-26"]
 
 base_dir = "/Users/anibaloliveramorales/Desktop/Doctorado/-Projects-/B - constitutional-proposal-tracking"
-output_dir = os.path.join(base_dir, "playground/research-proposal-implementation")
+output_dir = os.path.join(base_dir, "playground/research-proposal-implementation/network-visualization")
 
 files = {
-    "C1": os.path.join(base_dir, "playground/comision-1-data/data/C1_texto-sistematizado_enriched_manual.json"),
+    "C1": os.path.join(base_dir, "comision-3/draft-after-indications-manual/C1_texto-sistematizado_enriched_manual.json"),
     "C3": os.path.join(base_dir, "comision-3/draft-after-indications-manual/C3_historial_manual.json")
 }
 
@@ -98,7 +98,7 @@ for c_name, filepath in files.items():
         waves = build_networks(data, official_bins, c_name)
         
         # Save results
-        out_file = os.path.join(output_dir, f"{c_name}_dynamic_networks_official.json")
+        out_file = os.path.join(output_dir, f"{c_name}_dynamic_networks.json")
         serializable = {}
         for t_label, edges in waves.items():
             serializable[t_label] = [{"source": k[0], "target": k[1], "weight": w} for k, w in edges.items()]
