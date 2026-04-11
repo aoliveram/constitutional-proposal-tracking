@@ -62,50 +62,60 @@ def enrich_files():
     print(f"Loaded mapping for {len(authors_map)} unique initiative IDs.")
     
     for com_id in TARGET_COMMISSIONS:
-        base_dir = os.path.join(f"comision-{com_id}", "genesis-extracted")
-        if not os.path.exists(base_dir):
-            print(f"Directory {base_dir} not found. Skipping Commission {com_id}.")
+        # --- PHASE 1: GENESIS EXTRACTED (Commented out as requested for this run) ---
+        # base_dir = os.path.join(f"comision-{com_id}", "genesis-extracted")
+        # if os.path.exists(base_dir):
+        #     pattern = os.path.join(base_dir, f"C{com_id}_GENESIS_*.json")
+        #     for filepath in glob.glob(pattern):
+        #         if any(x in filepath for x in ["enriched", "merged", "PREVIEW"]):
+        #             continue
+        #         process_json_file(filepath, authors_map)
+
+        # --- PHASE 2: DRAFT AFTER INDICATIONS MANUAL ---
+        manual_dir = os.path.join(f"comision-{com_id}", "draft-after-indications-manual")
+        if not os.path.exists(manual_dir):
+            print(f"Directory {manual_dir} not found. Skipping Commission {com_id}.")
             continue
             
-        # Target only the base GENESIS files as requested
-        pattern = os.path.join(base_dir, f"C{com_id}_GENESIS_*.json")
+        # Target manual history files (C3_historial_manual.json, etc.)
+        pattern = os.path.join(manual_dir, f"C{com_id}_*.json")
         for filepath in glob.glob(pattern):
-            # Exclude files already marked as enriched, merged or previews
-            if any(x in filepath for x in ["enriched", "merged", "PREVIEW"]):
-                continue
-                
-            print(f"Processing: {filepath}")
-            with open(filepath, 'r', encoding='utf-8') as f:
-                try:
-                    data = json.load(f)
-                except Exception as e:
-                    print(f"  Error loading JSON {filepath}: {e}")
-                    continue
+            print(f"Processing manual file: {filepath}")
+            process_json_file(filepath, authors_map, is_manual=True)
+
+def process_json_file(filepath, authors_map, is_manual=False):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        try:
+            data = json.load(f)
+        except Exception as e:
+            print(f"  Error loading JSON {filepath}: {e}")
+            return
+
+    modified = False
+    for entry in data:
+        # Only add authors if the entry doesn't have them or they are empty
+        # For manual history, we ONLY touch the root entries, NOT the "history" list
+        if not entry.get("authors"):
+            sources = entry.get("sources", [])
+            if isinstance(sources, str):
+                sources = [sources]
             
-            modified = False
-            for entry in data:
-                # Only add authors if the entry doesn't have them or they are empty
-                if not entry.get("authors"):
-                    sources = entry.get("sources", [])
-                    if isinstance(sources, str):
-                        sources = [sources]
-                    
-                    found_authors = set()
-                    for src in sources:
-                        norm_src = normalize_id(src)
-                        if norm_src in authors_map:
-                            found_authors.update(authors_map[norm_src])
-                    
-                    if found_authors:
-                        entry["authors"] = sorted(list(found_authors))
-                        modified = True
+            found_authors = set()
+            for src in sources:
+                norm_src = normalize_id(src)
+                if norm_src in authors_map:
+                    found_authors.update(authors_map[norm_src])
             
-            if modified:
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, indent=2, ensure_ascii=False)
-                print(f"  --> Updated {os.path.basename(filepath)} with authorship details.")
-            else:
-                print(f"  --> No missing author data could be matched for {os.path.basename(filepath)}.")
+            if found_authors:
+                entry["authors"] = sorted(list(found_authors))
+                modified = True
+    
+    if modified:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"  --> Updated {os.path.basename(filepath)} with authorship details.")
+    else:
+        print(f"  --> No missing author data could be matched for {os.path.basename(filepath)}.")
 
 if __name__ == "__main__":
     enrich_files()
