@@ -61,6 +61,29 @@
         "content": "derechos humanos y de la naturaleza",
         "content_to_remove": "derechos fundamentales",
         "placement_instructions": "en el inciso segundo"
+      },
+      {
+        "timestamp": "02-23-2",
+        "step": "Indicación",
+        "article": "Artículo 1",
+        "content_snapshot": "La función jurisdiccional. La jurisdicción es una función pública que se ejerce en nombre de los pueblos y que consiste en conocer y juzgar, por medio de un debido proceso los conflictos de relevancia jurídica y hacer ejecutar lo resuelto, de conformidad a la Constitución y las leyes, así como los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte.\nSe ejerce exclusivamente por los tribunales de justicia y las autoridades de los pueblos indígenas reconocidos por la Constitución o las leyes dictadas conforme a ella.\nAl ejercer la jurisdicción se debe velar por la tutela y promoción de los derechos humanos y de la naturaleza, del sistema democrático y el principio de juridicidad.",
+        "number": 5,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1.- La función jurisdiccional. La jurisdicción es una función pública que se ejerce en nombre de los pueblos y que consiste en conocer y juzgar, por medio de un debido proceso los conflictos de relevancia jurídica y hacer ejecutar lo resuelto, de conformidad a la Constitución y las leyes, así como los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte.\nSe ejerce exclusivamente por los tribunales de justicia y las autoridades de los pueblos indígenas reconocidos por la Constitución o las leyes dictadas conforme a ella.\nAl ejercer la jurisdicción se debe velar por la tutela y promoción de los derechos humanos y de la naturaleza, del sistema democrático y el principio de juridicidad.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -256,6 +279,29 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 2.- Pluralismo jurídico. El Sistema Nacional de Justicia coexiste, en un plano de igualdad, con los Sistemas Jurídicos Indígenas. Es deber del Estado garantizar una adecuada coordinación entre ambos, con pleno respeto al derecho a la libre determinación y los estándares internacionales de derechos humanos interpretados interculturalmente.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "02-23-2",
+        "step": "Indicación",
+        "article": "Artículo 2",
+        "content_snapshot": "Pluralismo jurídico. El Estado reconoce los sistemas jurídicos de los Pueblos Indígenas, los que en virtud de su derecho a la libre determinación coexisten coordinados en un plano de igualdad con el Sistema Nacional de Justicia. Estos deberán respetar los derechos fundamentales que establece esta Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte. La ley determinará los mecanismos de coordinación, cooperación y de resolución de conflictos de competencia entre los sistemas jurídicos indígenas y las entidades estatales.",
+        "number": 14,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2.- Pluralismo jurídico. El Estado reconoce los sistemas jurídicos de los Pueblos Indígenas, los que en virtud de su derecho a la libre determinación coexisten coordinados en un plano de igualdad con el Sistema Nacional de Justicia. Estos deberán respetar los derechos fundamentales que establece esta Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte. La ley determinará los mecanismos de coordinación, cooperación y de resolución de conflictos de competencia entre los sistemas jurídicos indígenas y las entidades estatales.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -887,7 +933,7 @@
         "placement_instructions": ""
       },
       {
-        "timestamp": "02-23",
+        "timestamp": "02-23-1",
         "step": "Indicación",
         "article": "Artículo 4",
         "content_snapshot": "De la inamovilidad. Las juezas y jueces son inamovibles. No pueden ser suspendidos, trasladados o removidos sino conforme a las causales y procedimientos establecidos por la Constitución y las leyes.",
@@ -1206,6 +1252,29 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 5.- Derecho de acceso a la justicia. La Constitución garantiza el pleno acceso a la justicia a todas las personas y colectivos. Es deber del Estado remover los obstáculos normativos, sociales, culturales y económicos que impidan o limiten la posibilidad de acudir a los órganos jurisdiccionales para la tutela y el ejercicio de sus derechos.\nLos tribunales deben brindar una atención adecuada a quienes presenten peticiones o consultas ante ellos, otorgando siempre un trato digno y respetuoso. Una ley establecerá sus derechos y deberes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "02-08",
+        "step": "Indicación",
+        "article": "Artículo 5",
+        "content_snapshot": "Derecho de acceso a la justicia. La Constitución garantiza el pleno acceso a la justicia a todas las personas y colectivos. Es deber del Estado remover los obstáculos sociales, culturales y económicos que impidan o limiten la posibilidad de acudir a los órganos jurisdiccionales para la tutela y el ejercicio de sus derechos.\nLos tribunales deben brindar una atención adecuada a quienes presenten peticiones o consultas ante ellos, otorgando siempre un trato digno y respetuoso. Una ley establecerá sus derechos y deberes.",
+        "number": 21,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 5.- Derecho de acceso a la justicia. La Constitución garantiza el pleno acceso a la justicia a todas las personas y colectivos. Es deber del Estado remover los obstáculos sociales, culturales y económicos que impidan o limiten la posibilidad de acudir a los órganos jurisdiccionales para la tutela y el ejercicio de sus derechos.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -1934,6 +2003,29 @@
         "content": "Artículo 7.- Inexcusabilidad e indelegabilidad. Reclamada su intervención en la forma legal y sobre materias de su competencia, los tribunales y los demás órganos que ejerzan jurisdicción no podrán excusarse de ejercer su función en un tiempo razonable ni aún a falta de norma jurídica expresa que resuelva el asunto sometido a su decisión.\nEl ejercicio de la jurisdicción es indelegable.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "02-23-2",
+        "step": "Indicación",
+        "article": "Artículo 7",
+        "content_snapshot": "Inexcusabilidad e indelegabilidad. Reclamada su intervención en la forma legal y sobre materias de su competencia, los tribunales no podrán excusarse de ejercer su función en un tiempo razonable ni aún a falta de norma jurídica expresa que resuelva el asunto sometido a su decisión.\nEl ejercicio de la jurisdicción es indelegable.",
+        "number": 26,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 7.- Inexcusabilidad e indelegabilidad. Reclamada su intervención en la forma legal y sobre materias de su competencia, los tribunales no podrán excusarse de ejercer su función en un tiempo razonable ni aún a falta de norma jurídica expresa que resuelva el asunto sometido a su decisión.\nEl ejercicio de la jurisdicción es indelegable",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -2185,7 +2277,7 @@
         "placement_instructions": ""
       },
       {
-        "timestamp": "02-23",
+        "timestamp": "02-23-1",
         "step": "Indicación",
         "article": "Artículo 8",
         "content_snapshot": "Ejecución de las resoluciones. Para hacer ejecutar las resoluciones y practicar o hacer practicar las actuaciones que determine la ley, los tribunales de justicia podrán impartir órdenes o instrucciones directas a la fuerza pública, debiendo cumplir lo mandatado de forma rápida y expedita, sin poder calificar su fundamento, oportunidad o legalidad.\nLas sentencias dictadas contra el Estado de Chile por tribunales internacionales de derechos humanos, cuya jurisdicción ha sido reconocida por éste, serán cumplidas por los tribunales de justicia conforme al procedimiento establecido por la ley, aun si contraviniere una sentencia firme pronunciada por estos.",
@@ -2452,6 +2544,29 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 9.- Fundamentación y lenguaje claro. Las resoluciones judiciales serán siempre motivadas, salvo en los casos establecidos por la ley. En todo evento, la sentencia que ponga término a un procedimiento siempre deberá ser fundada y redactada en lenguaje claro e inclusivo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "02-23-2",
+        "step": "Indicación",
+        "article": "Artículo 9",
+        "content_snapshot": "Fundamentación y lenguaje claro. Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. La ley podrá establecer excepciones al deber de fundamentación de las resoluciones judiciales.",
+        "number": 31,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9.- Fundamentación y lenguaje claro. Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. La ley podrá establecer excepciones al deber de fundamentación de las resoluciones judiciales.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -3014,6 +3129,29 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 11.- Principio de responsabilidad jurisdiccional. Las juezas y jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, y, en general, por toda prevaricación, denegación o torcida administración de justicia. La ley determinará los casos y el modo de hacer efectiva esta responsabilidad. Los perjuicios provocados por error judicial otorgan derecho a una indemnización conforme al procedimiento establecido por la Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "02-23-2",
+        "step": "Indicación",
+        "article": "Artículo 11",
+        "content_snapshot": "Principio de responsabilidad jurisdiccional. Las juezas y jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, y, en general, por toda prevaricación, denegación o torcida administración de justicia. La ley determinará los casos y el modo de hacer efectiva esta responsabilidad.\n Los perjuicios por error judicial otorgarán el derecho a una indemnización por el Estado, conforme al procedimiento establecido por la Constitución y las leyes.",
+        "number": 39,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 11,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Los perjuicios por error judicial otorgarán el derecho a una indemnización por el Estado, conforme al procedimiento establecido por la Constitución y las leyes.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -3825,7 +3963,7 @@
       {
         "timestamp": "02-08",
         "step": "Indicación",
-        "article": "Artículo 13",
+        "article": "Artículo 14",
         "content_snapshot": "Paridad y perspectiva de género. La función jurisdiccional se regirá por los principios de paridad y perspectiva de género. Todos los órganos y personas que intervienen en la función jurisdiccional deben garantizar la igualdad sustantiva.\n El Estado garantiza que los nombramientos en el Sistema Nacional de Justicia respeten el principio de paridad en todos los órganos de la jurisdicción, incluyendo la designación de las presidencias.\n Los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.",
         "number": "179",
         "authors_matched": [
@@ -3840,7 +3978,7 @@
         "target_article": 21,
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
-        "content": "Artículo 13.- Paridad y perspectiva de género. La función jurisdiccional se regirá por los principios de paridad y perspectiva de género. Todos los órganos y personas que intervienen en la función jurisdiccional deben garantizar la igualdad sustantiva. El Estado garantiza que los nombramientos en el Sistema Nacional de Justicia respeten el principio de paridad en todos los órganos de la jurisdicción, incluyendo la designación de las presidencias. Los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.",
+        "content": "Artículo 14.- Paridad y perspectiva de género. La función jurisdiccional se regirá por los principios de paridad y perspectiva de género. Todos los órganos y personas que intervienen en la función jurisdiccional deben garantizar la igualdad sustantiva. El Estado garantiza que los nombramientos en el Sistema Nacional de Justicia respeten el principio de paridad en todos los órganos de la jurisdicción, incluyendo la designación de las presidencias. Los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -3938,8 +4076,8 @@
       {
         "timestamp": "02-08",
         "step": "Indicación",
-        "article": "Artículo 14",
-        "content_snapshot": "Plurinacionalidad, pluralismo jurídico e interculturalidad. La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad. Los órganos y personas que intervienen en el desarrollo de la jurisdicción, deben adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, respetando las costumbres, tradiciones, protocolos y el derecho propio de los pueblos indígenas, conforme a los estándares internacionales de derechos humanos.",
+        "article": "Artículo 15",
+        "content_snapshot": "Plurinacionalidad, pluralismo jurídico e interculturalidad. La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad.\n Los órganos y personas que intervienen en el desarrollo de la jurisdicción, deben adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, respetando las costumbres, tradiciones, protocolos y el derecho propio de los pueblos indígenas, conforme a los estándares internacionales de derechos humanos.",
         "number": "184",
         "authors_matched": [
           "Royo, Manuela",
@@ -3953,7 +4091,30 @@
         "target_article": 22,
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
-        "content": "Artículo 14. Plurinacionalidad, pluralismo jurídico e interculturalidad. La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad. Los órganos y personas que intervienen en el desarrollo de la jurisdicción, deben adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, respetando las costumbres, tradiciones, protocolos y el derecho propio de los pueblos indígenas, conforme a los estándares internacionales de derechos humanos.",
+        "content": "Artículo 15. Plurinacionalidad, pluralismo jurídico e interculturalidad. La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad.\n Los órganos y personas que intervienen en el desarrollo de la jurisdicción, deben adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, respetando las costumbres, tradiciones, protocolos y el derecho propio de los pueblos indígenas, conforme a los estándares internacionales de derechos humanos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "02-23-2",
+        "step": "Indicación",
+        "article": "Artículo 15",
+        "content_snapshot": "Plurinacionalidad, pluralismo jurídico e interculturalidad. La función jurisdiccional se define en su estructura, integración y procedimientos conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad.\n Cuando se trate de personas indígenas, los tribunales y sus funcionarios deberán adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, tomando debidamente en consideración las costumbres, tradiciones, protocolos y los sistemas normativos de los pueblos indígenas, conforme a los tratados e instrumentos internacionales de derechos humanos de los que Chile es parte.",
+        "number": 43,
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Laibe, Tomas",
+          "Villena, Ingrid",
+          "Viera, Christian",
+          "Woldarsky, Manuel",
+          "Hoppe, Vanessa",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad"
+        ],
+        "target_article": 15,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Cuando se trate de personas indígenas, los tribunales y sus funcionarios deberán adoptar una perspectiva intercultural en el tratamiento y resolución de las materias de su competencia, tomando debidamente en consideración las costumbres, tradiciones, protocolos y los sistemas normativos de los pueblos indígenas, conforme a los tratados e instrumentos internacionales de derechos humanos de los que Chile es parte.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -4250,10 +4411,10 @@
     "final_status": "Eliminado"
   },
   {
-    "article_uid": "C6_IND02-08_ART15",
+    "article_uid": "C6_IND02-08_ART16",
     "timestamp": "02-08",
     "step": "Indicación",
-    "article": "Artículo 15",
+    "article": "Artículo 16",
     "text": "Mecanismos Colaborativos de Resolución de Conflictos. Es deber del Estado promover e implementar mecanismos colaborativos de resolución de conflictos que garanticen la participación activa y el diálogo.\n Sólo la ley podrá determinar los requisitos y efectos de los mecanismos alternativos de resolución de conflictos.",
     "number": "198",
     "authors_matched": [
@@ -4268,9 +4429,9 @@
     "target_article": 15,
     "target_scope": "TOTAL",
     "action": "ADD",
-    "content": "Artículo 15.- Mecanismos Colaborativos de Resolución de Conflictos. Es deber del Estado promover e implementar mecanismos colaborativos de resolución de conflictos que garanticen la participación activa y el diálogo. Sólo la ley podrá determinar los requisitos y efectos de los mecanismos alternativos de resolución de conflictos.",
+    "content": "Artículo 16.- Mecanismos Colaborativos de Resolución de Conflictos. Es deber del Estado promover e implementar mecanismos colaborativos de resolución de conflictos que garanticen la participación activa y el diálogo. Sólo la ley podrá determinar los requisitos y efectos de los mecanismos alternativos de resolución de conflictos.",
     "content_to_remove": "",
-    "placement_instructions": "agregar un nuevo artículo 15"
+    "placement_instructions": "agregar un nuevo artículo 16"
   },
   {
     "article": "Artículo 24.- Funciones de los tribunales",
@@ -4297,7 +4458,30 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART24",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 1",
+        "content_snapshot": "Principio de unidad jurisdiccional. Los tribunales de justicia se estructuran conforme al principio de unidad jurisdiccional como base de su organización y funcionamiento, estando sujetos al mismo estatuto jurídico y principios.\n No existirán Tribunales o jurisdicciones especiales para miembros de las Fuerzas Armadas o de Orden Público.",
+        "number": "5",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1.- Principio de unidad jurisdiccional. Los tribunales de justicia se estructuran conforme al principio de unidad jurisdiccional como base de su organización y funcionamiento, estando sujetos al mismo estatuto jurídico y principios.\n No existirán Tribunales o jurisdicciones especiales para miembros de las Fuerzas Armadas o de Orden Público.",
+        "content_to_remove": "Artículo 1.- Funciones de los tribunales. (Texto original)",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 25.- Bases orgánicas para la función jurisdiccional",
@@ -4324,7 +4508,121 @@
       "Politzer, Patricia"
     ],
     "article_uid": "C6_GEN1_ART25",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 2",
+        "content_snapshot": "Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.\n Sólo la ley podrá́ establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares.\n La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
+        "number": "15",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2.- Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno. Sólo la ley podrá́ establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares. La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
+        "content_to_remove": "Artículo 2.- Bases orgánicas para la función jurisdiccional. (Texto original)",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 3",
+    "text": "Mecanismos colaborativos, autocompositivos y restaurativos de justicia. La tutela jurídica de los derechos contemplará tanto el derecho a la acción mediante la jurisdicción como el derecho a elegir, acceder y participar en mecanismos colaborativos, autocompositivos y restaurativos de justicia. La ley determinará la forma y condiciones de funcionamiento de estos mecanismos y su relación con el poder judicial.",
+    "sources": [
+      ""
+    ],
+    "authors": [],
+    "article_uid": "C6_X_ART3",
+    "timestamp": "NA",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 3",
+        "content_snapshot": "",
+        "number": "26",
+        "authors_matched": [
+          "Labra, Patricia",
+          "Mayol, Luis",
+          "Cozzi, Ruggero"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 3.- Mecanismos colaborativos, autocompositivos y restaurativos de justicia.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 3",
+        "content_snapshot": "",
+        "number": "27",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 3.- Mecanismos colaborativos, autocompositivos y restaurativos de justicia.",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article_uid": "C6_IND03-07_ART3",
+    "article": "Artículo 3",
+    "timestamp": "03-07",
+    "text": "Cesación de juezas y jueces. Las juezas y jueces cesan en sus cargos por alcanzar los setenta años de edad, por renuncia, por constatarse una incapacidad legal sobreviniente o por remoción.",
+    "number": "29",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 3,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 3.- Cesación de juezas y jueces. Las juezas y jueces cesan en sus cargos por alcanzar los setenta años de edad, por renuncia, por constatarse una incapacidad legal sobreviniente o por remoción.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 3"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART4",
+    "article": "Artículo 4",
+    "timestamp": "03-07",
+    "text": "Fuero. Las juezas y los jueces no podrán ser acusados o privados de libertad, salvo el caso de delito flagrante, si la Corte de Apelaciones correspondiente no declara admisible uno o más capítulos de la acusación respectiva. La resolución que se pronuncie sobre la querella de capítulos será apelable para ante la Corte Suprema. Encontrándose firme la resolución que acoge la querella, el procedimiento penal continuará de acuerdo a las reglas generales y la jueza o el juez quedará suspendido del ejercicio de sus funciones.",
+    "number": "30",
+    "authors_matched": [
+      "Bravo, Daniel",
+      "Villena, Ingrid",
+      "Viera, Christian",
+      "Cruz, Andres"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 3 A.- Fuero. Las juezas y los jueces no podrán ser acusados o privados de libertad, salvo el caso de delito flagrante, si la Corte de Apelaciones correspondiente no declara admisible uno o más capítulos de la acusación respectiva. La resolución que se pronuncie sobre la querella de capítulos será apelable para ante la Corte Suprema. Encontrándose firme la resolución que acoge la querella, el procedimiento penal continuará de acuerdo a las reglas generales y la jueza o el juez quedará suspendido del ejercicio de sus funciones.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar el siguiente artículo nuevo"
   },
   {
     "article": "Artículo 26.- Aplicación de la Constitución, los tratados internacionales y derecho indígena",
@@ -4351,7 +4649,87 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART26",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 4",
+        "content_snapshot": "",
+        "number": "31",
+        "authors_matched": [
+          "Labra, Patricia",
+          "Mayol, Luis",
+          "Cozzi, Ruggero"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 4.- Aplicación de la Constitución, los tratados internacionales y derecho indígena.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 4",
+        "content_snapshot": "",
+        "number": "32",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 4.- Aplicación de la Constitución, los tratados internacionales y derecho indígena.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 4",
+        "content_snapshot": "",
+        "number": "33",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 4.- Aplicación de la Constitución, los tratados internacionales y derecho indígena.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART5",
+    "article": "Artículo 5",
+    "timestamp": "03-07",
+    "text": "Autonomía financiera. El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se destinarán en la Ley de Presupuestos del Estado los fondos necesarios para su adecuado funcionamiento.",
+    "number": "39",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 4,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 4.- Autonomía financiera. El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se destinarán en la Ley de Presupuestos del Estado los fondos necesarios para su adecuado funcionamiento.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 4"
   },
   {
     "article": "Artículo 27.- Resoluciones judiciales",
@@ -4378,7 +4756,52 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART27",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 5",
+        "content_snapshot": "",
+        "number": "40",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 5.- Resoluciones judiciales.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART6",
+    "timestamp": "03-07",
+    "article": "Artículo 6",
+    "text": "Publicidad. Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.",
+    "number": "44",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 5.- Publicidad. Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 5"
   },
   {
     "article": "Artículo 28. Separación de funciones en el sistema judicial",
@@ -4398,7 +4821,48 @@
       "Olivares, Ivanna"
     ],
     "timestamp": "01-25",
-    "article_uid": "C6_GEN1_ART28"
+    "article_uid": "C6_GEN1_ART28",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "article": "Artículo 6",
+        "content_snapshot": "",
+        "number": "45",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 6.- Separación de funciones en el sistema judicial.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART7",
+    "timestamp": "03-07",
+    "article": "Articulo 7",
+    "text": "Principio de proximidad e itinerancia. Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional.",
+    "number": "51",
+    "authors_matched": [
+      "Daza, Mauricio",
+      "Villena, Ingrid",
+      "Laibe, Tomas",
+      "Royo, Manuela",
+      "Llanquileo, Natividad",
+      "Gutierrez, Hugo"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 6.- Principio de proximidad e itinerancia. Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo 6"
   },
   {
     "article": "Artículo 29.- Función Jurisdiccional",
@@ -4423,7 +4887,30 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART29",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 8",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "De los tribunales. El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema.\n Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar el correcto ejercicio de sus funciones en conformidad a lo señalado en la Constitución y la ley.",
+        "number": "55",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 7.- De los tribunales. El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema. Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar el correcto ejercicio de sus funciones en conformidad a lo señalado en la Constitución y la ley.",
+        "content_to_remove": "Artículo 7.- Función Jurisdiccional. (Texto original)",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 29 A.- Órganos jurisdiccionales ordinarios",
@@ -4449,7 +4936,27 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART29A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 7 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "59",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 7 A.- Órganos jurisdiccionales ordinarios.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 29 B.- Estructura orgánica del Sistema Nacional de Justicia",
@@ -4473,7 +4980,77 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART29B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 7 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "62",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 7 B.- Estructura orgánica del Sistema Nacional de Justicia.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART9",
+    "timestamp": "03-07",
+    "article": "Artículo 9",
+    "text": "Acceso a la justicia intercultural. Las personas indígenas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos. El Estado debe garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural.\n En sus resoluciones y razonamientos, los tribunales deberán considerar las costumbres, tradiciones, protocolos y el derecho propio de los pueblos y naciones.",
+    "number": "64",
+    "authors_matched": [
+      "Jimenez, Luis"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX. Acceso a la justicia intercultural. Las personas indígenas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos. El Estado debe garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural. En sus resoluciones y razonamientos, los tribunales deberán considerar las costumbres, tradiciones, protocolos y el derecho propio de los pueblos y naciones.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART10",
+    "timestamp": "03-07",
+    "article": "Artículo 10",
+    "text": "Tutela efectiva de los derechos de los pueblos y naciones indígenas. Las personas pertenecientes a pueblos y naciones indígenas tienen derecho a acceder a un proceso judicial en la justicia ordinaria, a la tutela efectiva de sus derechos, a la pronta resolución de los conflictos y a la reparación efectiva de los daños causados, con pleno respeto a sus prácticas, sistemas jurídicos propios y los derechos garantizados en esta Constitución y el Derecho Internacional de los Derechos Humanos.",
+    "number": "65",
+    "authors_matched": [
+      "Jimenez, Luis"
+    ],
+    "target_article": 10,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX. Tutela efectiva de los derechos de los pueblos y naciones indígenas. Las personas pertenecientes a pueblos y naciones indígenas tienen derecho a acceder a un proceso judicial en la justicia ordinaria, a la tutela efectiva de sus derechos, a la pronta resolución de los conflictos y a la reparación efectiva de los daños causados, con pleno respeto a sus prácticas, sistemas jurídicos propios y los derechos garantizados en esta Constitución y el Derecho Internacional de los Derechos Humanos.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART11",
+    "timestamp": "03-07",
+    "article": "Artículo 11",
+    "text": "De los principios para la composición paritaria y plurinacional de los Tribunales del Sistema Nacional de Justicia. El Consejo Supremo de Justicia deberá asegurar que los nombramientos de juezas y jueces en los Tribunales del Sistema Nacional de Justicia se realizarán respetando los principios de paridad de género y de plurinacionalidad.\n En el nombramiento de las juezas y jueces integrantes de los Tribunales de Apelaciones y Tribunales de Instancia, se garantizará un número de cargos para jueces pertenecientes a pueblos originarios en conformidad a la proporción que tengan dichos pueblos en la población total del territorio jurisdiccional que corresponda. La Iey establecerá los procedimientos adecuados para garantizar dicha proporcionalidad.",
+    "number": "66",
+    "authors_matched": [
+      "Antilef, Victorino",
+      "Caiguan, Alexis",
+      "Linconao, Francisca"
+    ],
+    "target_article": 11,
+    "target_scope": "INCISO 1",
+    "action": "ADD",
+    "content": "Artículo xx: De los principios para la composición paritaria y plurinacional de los Tribunales del Sistema Nacional de Justicia. El Consejo Supremo de Justicia deberá asegurar que los nombramientos de juezas y jueces en los Tribunales del Sistema Nacional de Justicia se realizarán respetando los principios de paridad de género y de plurinacionalidad.",
+    "content_to_remove": "",
+    "placement_instructions": "adicionar un nuevo artículo bajo la numeración que corresponda"
   },
   {
     "article": "Artículo 30.- Funciones y composición",
@@ -4498,7 +5075,30 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART30",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "De la Corte Suprema. La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley.\n Se compone de veintiún juezas y jueces, elegidos conforme a criterios de paridad de género, plurinacionalidad y descentralización.\n Sus juezas y jueces duran en sus cargos un máximo de doce años sin posibilidad de reelección, pudiendo postular al término de dicho mandato a cualquier otro cargo del Sistema Nacional de Justicia distinto al de jueza o juez de la Corte Suprema.\n Funcionará en pleno o salas especializadas integradas por cinco juezas o jueces, de conformidad a lo dispuesto por la ley.\n La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.",
+        "number": "72",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 8.- De la Corte Suprema. La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley. Se compone de veintiún juezas y jueces, elegidos conforme a criterios de paridad de género, plurinacionalidad y descentralización. Sus juezas y jueces duran en sus cargos un máximo de doce años sin posibilidad de reelección, pudiendo postular al término de dicho mandato a cualquier otro cargo del Sistema Nacional de Justicia distinto al de jueza o juez de la Corte Suprema. Funcionará en pleno o salas especializadas integradas por cinco juezas o jueces, de conformidad a lo dispuesto por la ley. La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.",
+        "content_to_remove": "Artículo 8.- Funciones y composición. (Texto original)",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 30 A.- Funciones y composición",
@@ -4525,7 +5125,26 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART30A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 8 A",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "77",
+        "authors_matched": [
+          "Saldana, Alvin"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 8 A.- Funciones y composición.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 30 B.- Funciones y composición",
@@ -4546,7 +5165,26 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART30B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 8 B",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "85",
+        "authors_matched": [
+          "Saldana, Alvin"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 8 B.- Funciones y composición.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 30 C.- Corte Suprema",
@@ -4572,7 +5210,26 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART30C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 8 C",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "90",
+        "authors_matched": [
+          "Saldana, Alvin"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 8 C.- Corte Suprema.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 30 D.- Tribunal Supremo de Justicia",
@@ -4596,7 +5253,26 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART30D",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 8 D",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "96",
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 8 D.- Tribunal Supremo de Justicia.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 31.- Nombramiento",
@@ -4621,7 +5297,31 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART31",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 9",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "102",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 9.- Nombramiento.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 31 A.- Nombramiento de ministros y ministras",
@@ -4648,7 +5348,31 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART31A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 9 A",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "105",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 9 A.- Nombramiento de ministros y ministras.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 31 B.- Nombramientos",
@@ -4669,7 +5393,31 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART31B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 9 B",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "109",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 9 B.- Nombramientos.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 31 C.- Nombramientos",
@@ -4695,7 +5443,26 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART31C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 9 C",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "111",
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 9 C.- Nombramientos.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 32.- Funcionamiento",
@@ -4721,7 +5488,28 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART32",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 10",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "115",
+        "authors_matched": [
+          "Labra, Patricia",
+          "Mayol, Luis",
+          "Cozzi, Ruggero"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 10.- Funcionamiento.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 32 A.- Funcionamiento del Tribunal Supremo de Justicia",
@@ -4745,7 +5533,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART32A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 10 A",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "118",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 10 A.- Funcionamiento del Tribunal Supremo de Justicia.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 33.- Requisitos",
@@ -4770,7 +5578,31 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART33",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 11",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "122",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 11.- Requisitos.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 33 A.- Requisitos",
@@ -4796,7 +5628,26 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART33A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 11 A",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "124",
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 11 A.- Requisitos.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 33 B.- Requisitos para ser juez del Tribunal Supremo de Justicia",
@@ -4820,7 +5671,26 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART33B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 11 B",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "128",
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 11 B.- Requisitos para ser juez del Tribunal Supremo de Justicia.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 34.- Cortes de Apelaciones",
@@ -4846,7 +5716,30 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART34",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 13",
+        "timestamp": "03-07",
+        "content_snapshot": "De las Cortes de Apelaciones. Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley.\n Se componen por el número de juezas o jueces que determine la ley, con un mínimo de cuatro conforme a criterios de paridad de género, plurinacionalidad y descentralización.\n Funcionará en pleno, o en salas preferentemente especializadas integradas por tres juezas o jueces, de conformidad a lo dispuesto por la ley.\n La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años, sin posibilidad de ejercer nuevamente el cargo.",
+        "step": "Indicación",
+        "number": "137",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 12,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9.- De las Cortes de Apelaciones. Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley. Se componen por el número de juezas o jueces que determine la ley, con un mínimo de cuatro conforme a criterios de paridad de género, plurinacionalidad y descentralización. Funcionará en pleno, o en salas preferentemente especializadas integradas por tres juezas o jueces, de conformidad a lo dispuesto por la ley. La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años, sin posibilidad de ejercer nuevamente el cargo.",
+        "content_to_remove": "Artículo 12.- Cortes de Apelaciones. (Texto original)",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 34 A.- Los Tribunales de Apelaciones",
@@ -4870,7 +5763,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART34A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 12 A",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "143",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 12,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 12 A.- Los Tribunales de Apelaciones.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 35.- Funcionamiento de los Tribunales de Apelaciones",
@@ -4894,7 +5807,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART35",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 13",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "147",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 13.- Funcionamiento de los Tribunales de Apelaciones.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 36.- Requisitos para ser juez de los Tribunales de Apelaciones",
@@ -4918,7 +5851,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART36",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 14",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "151",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 14.- Requisitos para ser juez de los Tribunales de Apelaciones.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 37.- Tribunales de instancia",
@@ -4944,7 +5897,30 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART37",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 14",
+        "timestamp": "03-07",
+        "content_snapshot": "De los Tribunales de Instancia. Son tribunales de instancia los civiles, penales, de ejecución de penas, de familia, laborales, administrativos, ambientales, de competencia común o mixtos, vecinales y demás que establezca la ley.\n La competencia de estos tribunales y el número de juezas o jueces que los integrarán serán determinados por la ley. ",
+        "step": "Indicación",
+        "number": "161",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 10.- De los Tribunales de Instancia. Son tribunales de instancia los civiles, penales, de ejecución de penas, de familia, laborales, administrativos, ambientales, de competencia común o mixtos, vecinales y demás que establezca la ley.\n La competencia de estos tribunales y el número de juezas o jueces que los integrarán serán determinados por la ley.",
+        "content_to_remove": "Artículo 15.- Tribunales de instancia. (Texto original)",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 37 A.- De los Tribunales de Instancia",
@@ -4968,7 +5944,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART37A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 15 A",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "167",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 15 A.- De los Tribunales de Instancia.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 38.- De los Tribunales de Instancia Especiales",
@@ -4992,7 +5988,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART38",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 16",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "174",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 16.- De los Tribunales de Instancia Especiales.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 39.- Requisitos para ser Juez de un Tribunal de Instancia o Tribunal de Instancia Especial",
@@ -5016,11 +6032,31 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART39",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 17",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "181",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 17.- Requisitos para ser Juez de un Tribunal de Instancia o Tribunal de Instancia Especial.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 40.- De los principios para la composición paritaria y plurinacional de los Tribunales del Sistema Nacional de Justicia",
-    "text": "El Consejo Supremo de Justicia deberá asegurar que los nombramientos de juezas y jueces en los Tribunales del Sistema Nacional de Justicia se realizarán respetando los principios de paridad de género y de plurinacionalidad. En el nombramiento de las juezas y jueces integrantes de los Tribunales de Apelaciones y Tribunales de Instancia, se garantizará un número de cargos para jueces pertenecientes a pueblos originarios en conformidad a la proporción que tengan dichos pueblos en la población total del territorio jurisdiccional que corresponda. La Iey establecerá los procedimientos adecuados para garantizar dicha proporcionalidad.",
+    "text": "El Consejo Supremo de Justicia deberá asegurar que los nombramientos de juezas y jueces en los Tribunales del Sistema Nacional de Justicia se realizarán respetando los principios de paridad de género y de plurinacionalidad.\n En el nombramiento de las juezas y jueces integrantes de los Tribunales de Apelaciones y Tribunales de Instancia, se garantizará un número de cargos para jueces pertenecientes a pueblos originarios en conformidad a la proporción que tengan dichos pueblos en la población total del territorio jurisdiccional que corresponda. La Iey establecerá los procedimientos adecuados para garantizar dicha proporcionalidad.",
     "sources": [
       "319-6"
     ],
@@ -5040,7 +6076,27 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART40",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 18",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "188",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 18.- De los principios para la composición paritaria y plurinacional de los Tribunales del Sistema Nacional de Justicia.",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 41.- Tribunales administrativos",
@@ -5065,7 +6121,30 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART41",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 15",
+        "timestamp": "03-07",
+        "content_snapshot": "Tribunales administrativos. Los Tribunales Administrativos conocen y resuelven las acciones dirigidas en contra de la Administración del Estado o promovidas por ésta y de las demás materias que establezca la ley.\n Habrá al menos un Tribunal Administrativo en cada región del país, los que podrán funcionar en salas especializadas.\n Los asuntos de competencia de estos tribunales no podrán ser sometidos a arbitraje.\n La ley establecerá un procedimiento unificado, simple y expedito para conocer y resolver tales asuntos.",
+        "step": "Indicación",
+        "number": "201",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 11.- Tribunales administrativos. Los Tribunales Administrativos conocen y resuelven las acciones dirigidas en contra de la Administración del Estado o promovidas por ésta y de las demás materias que establezca la ley. Habrá al menos un Tribunal Administrativo en cada región del país, los que podrán funcionar en salas especializadas. Los asuntos de competencia de estos tribunales no podrán ser sometidos a arbitraje. La ley establecerá un procedimiento unificado, simple y expedito para conocer y resolver tales asuntos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 41 A.- Tribunales administrativos",
@@ -5092,7 +6171,27 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART41A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 19 A, B y C",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "203",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 19 A, 19 B y 19 C",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 41 B.- Tribunales administrativos",
@@ -5118,7 +6217,27 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART41B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 19 A, B y C",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "203",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 19 A, 19 B y 19 C",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 42.- Tribunales administrativos especiales",
@@ -5145,7 +6264,31 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART42",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 20, 21, 22, 23",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "212",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 20,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 20, 21, 22, 23 y epígrafe § Justicia del Trabajo y de Seguridad Social",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 43.- Tribunal de Cuentas",
@@ -5172,7 +6315,31 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART43",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 20, 21, 22, 23",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "212",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 20,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 20, 21, 22, 23 y epígrafe § Justicia del Trabajo y de Seguridad Social",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 44.- Integración de los tribunales",
@@ -5199,7 +6366,76 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART44",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 20, 21, 22, 23",
+        "timestamp": "03-07",
+        "content_snapshot": "",
+        "step": "Indicación",
+        "number": "212",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 20,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 20, 21, 22, 23 y epígrafe § Justicia del Trabajo y de Seguridad Social",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C6_IND03-07_ART16",
+    "article": "Artículo 16",
+    "timestamp": "03-07",
+    "text": "Establecimientos penitenciarios. Sólo el Estado puede ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines.\n La función establecida en este artículo no podrá ser ejercida por privados.\n Para la inserción, integración y reparación de las personas privadas de libertad, los establecimientos penitenciarios deben contar con espacios para el estudio, trabajo, deporte, las artes y culturas.\n En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto en el régimen de control cerrado, abierto y post penitenciario.",
+    "number": "228",
+    "authors_matched": [
+      "Jimenez, Luis"
+    ],
+    "target_article": 23,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX. Establecimientos penitenciarios. Sólo el Estado puede ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines. La función establecida en este artículo no podrá ser ejercida por privados. Para la inserción, integración y reparación de las personas privadas de libertad, los establecimientos penitenciarios deben contar con espacios para el estudio, trabajo, deporte, las artes y culturas. En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto en el régimen de control cerrado, abierto y post penitenciario.",
+    "content_to_remove": "",
+    "placement_instructions": "entre los artículos 23 y 24 texto sistematizado"
+  },
+  {
+    "article_uid": "C6_X_ART24",
+    "article": "Artículo 24",
+    "timestamp": "NA",
+    "text": "Principios y deberes. El sistema de cumplimiento de las sanciones penales y de las medidas de seguridad se organizará sobre la base del respeto a los derechos humanos y tendrá como fin la custodia y reinserción social de la persona que cumpla una condena judicial. Para ello, la ejecución penal se regirá por los principios de legalidad, humanidad, igualdad y no discriminación, progresividad y resocialización, y le serán aplicables las garantías del derecho penal y del debido proceso.\n El Estado, a través de gendarmería, asegurará a las personas privadas de libertad el reconocimiento de la diversidad, el derecho a sufragio, el derecho a la reinserción social, el derecho al libre ejercicio de su espiritualidad, el derecho a la salud oportuna y suficiente, y el control de legalidad de los actos que afecten o pudieren afectar sus derechos o garantías. La ley establecerá las condiciones para el ejercicio de tales derechos.\n Los grupos vulnerables gozarán de especial protección. Mujeres embarazadas, madres de lactantes, niños, niñas y adolescentes, adultos mayores, personas gravemente enfermas y personas con discapacidad física, mental o sensorial tendrán derecho a cumplir su condena a través de medidas alternativas a la privación de la libertad en los términos y condiciones que señale la ley",
+    "history": [
+      {
+        "article": "Artículo 17",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Principios y deberes. El sistema de cumplimiento de las sanciones penales y de las medidas de seguridad se organizará sobre la base del respeto a los derechos humanos y tendrá como objetivos el cumplimiento de la pena y la integración e inserción social de la persona que cumpla una condena judicial.\n Es deber del Estado, en su especial posición de garante frente a las personas privadas de libertad, velar por la protección y ejercicio efectivo de sus derechos fundamentales consagrados en esta Constitución y en los tratados e instrumentos internacionales sobre derechos humanos.",
+        "number": "231",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 12.- Principios y deberes. El sistema de cumplimiento de las sanciones penales y de las medidas de seguridad se organizará sobre la base del respeto a los derechos humanos y tendrá como objetivos el cumplimiento de la pena y la integración e inserción social de la persona que cumpla una condena judicial. Es deber del Estado, en su especial posición de garante frente a las personas privadas de libertad, velar por la protección y ejercicio efectivo de sus derechos fundamentales consagrados en esta Constitución y en los tratados e instrumentos internacionales sobre derechos humanos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 45.- Tribunales de ejecución de penas",
