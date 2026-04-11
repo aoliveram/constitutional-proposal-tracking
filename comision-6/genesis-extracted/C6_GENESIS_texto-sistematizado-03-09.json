@@ -6,7 +6,25 @@
       "457"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART1"
+    "article_uid": "C6_GEN2_ART1",
+    "authors": [
+      "Alvarado, Gloria",
+      "Daza, Mauricio",
+      "Delgado, Aurora",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Yarela",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Olivares, Ivanna",
+      "Royo, Manuela",
+      "Uribe, Cesar",
+      "Vilches, Carolina",
+      "Woldarsky, Manuel",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 2",
@@ -15,7 +33,25 @@
       "457"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART2"
+    "article_uid": "C6_GEN2_ART2",
+    "authors": [
+      "Alvarado, Gloria",
+      "Daza, Mauricio",
+      "Delgado, Aurora",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Yarela",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Olivares, Ivanna",
+      "Royo, Manuela",
+      "Uribe, Cesar",
+      "Vilches, Carolina",
+      "Woldarsky, Manuel",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Articulo 3",
@@ -24,7 +60,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART3"
+    "article_uid": "C6_GEN2_ART3",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 3 A",
@@ -33,7 +87,19 @@
       "909"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART3A"
+    "article_uid": "C6_GEN2_ART3A",
+    "authors": [
+      "Barraza, Marcos",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Videla, Carolina",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 4",
@@ -42,7 +108,18 @@
       "190"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART4"
+    "article_uid": "C6_GEN2_ART4",
+    "authors": [
+      "Bravo, Daniel",
+      "Daza, Mauricio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Royo, Manuela",
+      "Villena, Ingrid",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 5",
@@ -51,7 +128,19 @@
       "909"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART5"
+    "article_uid": "C6_GEN2_ART5",
+    "authors": [
+      "Barraza, Marcos",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Videla, Carolina",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 6",
@@ -60,7 +149,19 @@
       "763"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART6"
+    "article_uid": "C6_GEN2_ART6",
+    "authors": [
+      "Abarca, Jorge",
+      "Baranda, Benito",
+      "Cespedes, Lorena",
+      "Daza, Mauricio",
+      "Fuchslocher, Javier",
+      "Logan, Rodrigo",
+      "Martinez, Helmuth",
+      "Namor, Guillermo",
+      "Politzer, Patricia",
+      "Sepulveda, Carolina"
+    ]
   },
   {
     "article": "Artículo 7",
@@ -69,7 +170,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART7"
+    "article_uid": "C6_GEN2_ART7",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 7 A",
@@ -78,7 +197,19 @@
       "909"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART7A"
+    "article_uid": "C6_GEN2_ART7A",
+    "authors": [
+      "Barraza, Marcos",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Videla, Carolina",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 8",
@@ -87,7 +218,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART8"
+    "article_uid": "C6_GEN2_ART8",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 8 A",
@@ -96,7 +245,19 @@
       "909"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART8A"
+    "article_uid": "C6_GEN2_ART8A",
+    "authors": [
+      "Barraza, Marcos",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Videla, Carolina",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 9",
@@ -105,7 +266,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART9"
+    "article_uid": "C6_GEN2_ART9",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 10",
@@ -114,7 +293,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART10"
+    "article_uid": "C6_GEN2_ART10",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 10 A",
@@ -123,7 +320,19 @@
       "909"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART10A"
+    "article_uid": "C6_GEN2_ART10A",
+    "authors": [
+      "Barraza, Marcos",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Videla, Carolina",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 11",
@@ -132,7 +341,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART11"
+    "article_uid": "C6_GEN2_ART11",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 12",
@@ -141,7 +368,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART12"
+    "article_uid": "C6_GEN2_ART12",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Articulo 13",
@@ -150,7 +395,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART13"
+    "article_uid": "C6_GEN2_ART13",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Articulo 14",
@@ -159,7 +422,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART14"
+    "article_uid": "C6_GEN2_ART14",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 15",
@@ -168,7 +449,19 @@
       "909"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART15"
+    "article_uid": "C6_GEN2_ART15",
+    "authors": [
+      "Barraza, Marcos",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Videla, Carolina",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 16",
@@ -177,7 +470,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART16"
+    "article_uid": "C6_GEN2_ART16",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 17",
@@ -186,7 +497,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART17"
+    "article_uid": "C6_GEN2_ART17",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 18",
@@ -195,7 +524,25 @@
       "560"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART18"
+    "article_uid": "C6_GEN2_ART18",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 19",
@@ -204,7 +551,18 @@
       "444"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART19"
+    "article_uid": "C6_GEN2_ART19",
+    "authors": [
+      "Abarca, Jorge",
+      "Baranda, Benito",
+      "Daza, Mauricio",
+      "Fuchslocher, Javier",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Namor, Guillermo",
+      "Royo, Manuela",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 20",
@@ -213,7 +571,19 @@
       "445"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART20"
+    "article_uid": "C6_GEN2_ART20",
+    "authors": [
+      "Daza, Mauricio",
+      "Fuchslocher, Javier",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Martin, Juan Jose",
+      "Martinez, Helmuth",
+      "Namor, Guillermo",
+      "Politzer, Patricia",
+      "Royo, Manuela",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 21",
@@ -222,7 +592,19 @@
       "445"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART21"
+    "article_uid": "C6_GEN2_ART21",
+    "authors": [
+      "Daza, Mauricio",
+      "Fuchslocher, Javier",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Martin, Juan Jose",
+      "Martinez, Helmuth",
+      "Namor, Guillermo",
+      "Politzer, Patricia",
+      "Royo, Manuela",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 22",
@@ -231,7 +613,25 @@
       "202"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART22"
+    "article_uid": "C6_GEN2_ART22",
+    "authors": [
+      "Ampuero, Adriana",
+      "Arauna, Francisca",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Gonzalez, Dayana",
+      "Gutierrez, Hugo",
+      "Henriquez, Natalia",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Loncon, Elisa",
+      "Nunez, Nicolas",
+      "San Juan, Constanza",
+      "Sepulveda, Barbara",
+      "Vallejos, Loreto",
+      "Vidal, Rossana",
+      "Villena, Ingrid"
+    ]
   },
   {
     "article": "Artículo 23",
@@ -240,7 +640,17 @@
       "861"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART23"
+    "article_uid": "C6_GEN2_ART23",
+    "authors": [
+      "Barcelo, Luis",
+      "Botto, Miguel Angel",
+      "Castillo, Eduardo",
+      "Chahin, Fuad",
+      "Fuchslocher, Javier",
+      "Harboe, Felipe",
+      "Logan, Rodrigo",
+      "Squella, Agustin"
+    ]
   },
   {
     "article": "Artículo 24",
@@ -249,7 +659,20 @@
       "431"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART24"
+    "article_uid": "C6_GEN2_ART24",
+    "authors": [
+      "Barraza, Marcos",
+      "Cruz, Andres",
+      "Gallardo, Bessy",
+      "Godoy, Isabel",
+      "Laibe, Tomas",
+      "Millabur, Adolfo",
+      "Miranda, Valentina",
+      "Nunez, Nicolas",
+      "Sepulveda, Barbara",
+      "Sepulveda, Carolina",
+      "Videla, Carolina"
+    ]
   },
   {
     "article": "Articulo 24 A",
@@ -258,7 +681,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART24A"
+    "article_uid": "C6_GEN2_ART24A",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 24 B",
@@ -267,7 +708,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART24B"
+    "article_uid": "C6_GEN2_ART24B",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 25",
@@ -276,7 +734,18 @@
       "190"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART25"
+    "article_uid": "C6_GEN2_ART25",
+    "authors": [
+      "Bravo, Daniel",
+      "Daza, Mauricio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Royo, Manuela",
+      "Villena, Ingrid",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 26",
@@ -285,7 +754,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART26"
+    "article_uid": "C6_GEN2_ART26",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 27",
@@ -294,7 +780,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART27"
+    "article_uid": "C6_GEN2_ART27",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 27 A",
@@ -303,7 +807,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART27A"
+    "article_uid": "C6_GEN2_ART27A",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 27 B",
@@ -312,7 +833,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART27B"
+    "article_uid": "C6_GEN2_ART27B",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 28",
@@ -321,7 +859,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART28"
+    "article_uid": "C6_GEN2_ART28",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Articulo 28 A",
@@ -330,7 +886,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART28A"
+    "article_uid": "C6_GEN2_ART28A",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 29",
@@ -339,7 +912,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART29"
+    "article_uid": "C6_GEN2_ART29",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 30",
@@ -348,7 +938,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART30"
+    "article_uid": "C6_GEN2_ART30",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 30 A",
@@ -357,7 +965,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART30A"
+    "article_uid": "C6_GEN2_ART30A",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 31",
@@ -366,7 +991,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART31"
+    "article_uid": "C6_GEN2_ART31",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 32",
@@ -375,7 +1018,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART32"
+    "article_uid": "C6_GEN2_ART32",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Articulo 32 A",
@@ -384,7 +1045,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART32A"
+    "article_uid": "C6_GEN2_ART32A",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Articulo 33",
@@ -393,7 +1071,25 @@
       "559"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART33"
+    "article_uid": "C6_GEN2_ART33",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Articulo 33 A",
@@ -402,7 +1098,24 @@
       "805"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART33A"
+    "article_uid": "C6_GEN2_ART33A",
+    "authors": [
+      "Barraza, Marcos",
+      "Caiguan, Alexis",
+      "Daza, Mauricio",
+      "Gallardo, Bessy",
+      "Garin, Renato",
+      "Godoy, Isabel",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Miranda, Valentina",
+      "Portilla, Ericka",
+      "Royo, Manuela",
+      "Velasquez, Hernan",
+      "Videla, Carolina",
+      "Viera, Christian",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 34",
@@ -411,7 +1124,25 @@
       "409"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART34"
+    "article_uid": "C6_GEN2_ART34",
+    "authors": [
+      "Ampuero, Adriana",
+      "Arauna, Francisca",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Cruz, Andres",
+      "Jimenez, Luis",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Politzer, Patricia",
+      "San Juan, Constanza",
+      "Sepulveda, Barbara",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Viera, Christian",
+      "Villena, Ingrid"
+    ]
   },
   {
     "article": "Artículo 34 A",
@@ -420,7 +1151,25 @@
       "466"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART34A"
+    "article_uid": "C6_GEN2_ART34A",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 34 B",
@@ -429,7 +1178,25 @@
       "574"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART34B"
+    "article_uid": "C6_GEN2_ART34B",
+    "authors": [
+      "Alvarado, Gloria",
+      "Bassa, Jaime",
+      "Carrillo, Alondra",
+      "Daza, Mauricio",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Claudio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Meneses, Janis",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Stingo, Daniel",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 35",
@@ -438,7 +1205,25 @@
       "409"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART35"
+    "article_uid": "C6_GEN2_ART35",
+    "authors": [
+      "Ampuero, Adriana",
+      "Arauna, Francisca",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Cruz, Andres",
+      "Jimenez, Luis",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Politzer, Patricia",
+      "San Juan, Constanza",
+      "Sepulveda, Barbara",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Viera, Christian",
+      "Villena, Ingrid"
+    ]
   },
   {
     "article": "Artículo 36",
@@ -447,7 +1232,25 @@
       "409"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART36"
+    "article_uid": "C6_GEN2_ART36",
+    "authors": [
+      "Ampuero, Adriana",
+      "Arauna, Francisca",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Cruz, Andres",
+      "Jimenez, Luis",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Politzer, Patricia",
+      "San Juan, Constanza",
+      "Sepulveda, Barbara",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Viera, Christian",
+      "Villena, Ingrid"
+    ]
   },
   {
     "article": "Artículo 36 A",
@@ -456,7 +1259,25 @@
       "466"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART36A"
+    "article_uid": "C6_GEN2_ART36A",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 36 B",
@@ -465,7 +1286,25 @@
       "574"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART36B"
+    "article_uid": "C6_GEN2_ART36B",
+    "authors": [
+      "Alvarado, Gloria",
+      "Bassa, Jaime",
+      "Carrillo, Alondra",
+      "Daza, Mauricio",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Claudio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Meneses, Janis",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Stingo, Daniel",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 37",
@@ -474,7 +1313,25 @@
       "409"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART37"
+    "article_uid": "C6_GEN2_ART37",
+    "authors": [
+      "Ampuero, Adriana",
+      "Arauna, Francisca",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Cruz, Andres",
+      "Jimenez, Luis",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Politzer, Patricia",
+      "San Juan, Constanza",
+      "Sepulveda, Barbara",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Viera, Christian",
+      "Villena, Ingrid"
+    ]
   },
   {
     "article": "Artículo 37 A",
@@ -483,7 +1340,25 @@
       "574"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART37A"
+    "article_uid": "C6_GEN2_ART37A",
+    "authors": [
+      "Alvarado, Gloria",
+      "Bassa, Jaime",
+      "Carrillo, Alondra",
+      "Daza, Mauricio",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Claudio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Meneses, Janis",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Stingo, Daniel",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 38",
@@ -492,7 +1367,25 @@
       "466"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART38"
+    "article_uid": "C6_GEN2_ART38",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 38 A",
@@ -501,7 +1394,25 @@
       "574"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART38A"
+    "article_uid": "C6_GEN2_ART38A",
+    "authors": [
+      "Alvarado, Gloria",
+      "Bassa, Jaime",
+      "Carrillo, Alondra",
+      "Daza, Mauricio",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Claudio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Meneses, Janis",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Stingo, Daniel",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 39",
@@ -510,7 +1421,25 @@
       "409"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART39"
+    "article_uid": "C6_GEN2_ART39",
+    "authors": [
+      "Ampuero, Adriana",
+      "Arauna, Francisca",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Cruz, Andres",
+      "Jimenez, Luis",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Politzer, Patricia",
+      "San Juan, Constanza",
+      "Sepulveda, Barbara",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Viera, Christian",
+      "Villena, Ingrid"
+    ]
   },
   {
     "article": "Artículo 39 A",
@@ -519,7 +1448,25 @@
       "466"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART39A"
+    "article_uid": "C6_GEN2_ART39A",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pinto, Malucha",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 39 B",
@@ -528,7 +1475,25 @@
       "574"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART39B"
+    "article_uid": "C6_GEN2_ART39B",
+    "authors": [
+      "Alvarado, Gloria",
+      "Bassa, Jaime",
+      "Carrillo, Alondra",
+      "Daza, Mauricio",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Claudio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Meneses, Janis",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Stingo, Daniel",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 40",
@@ -537,7 +1502,25 @@
       "574"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART40"
+    "article_uid": "C6_GEN2_ART40",
+    "authors": [
+      "Alvarado, Gloria",
+      "Bassa, Jaime",
+      "Carrillo, Alondra",
+      "Daza, Mauricio",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gomez, Claudio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Meneses, Janis",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Stingo, Daniel",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 41",
@@ -546,7 +1529,25 @@
       "573"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART41"
+    "article_uid": "C6_GEN2_ART41",
+    "authors": [
+      "Bassa, Jaime",
+      "Daza, Mauricio",
+      "Galleguillos, Felix",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Llanquileo, Natividad",
+      "Martin, Juan Jose",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "San Juan, Constanza",
+      "Viera, Christian",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 41 A",
@@ -555,7 +1556,21 @@
       "914"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART41A"
+    "article_uid": "C6_GEN2_ART41A",
+    "authors": [
+      "Aguilera, Tiare",
+      "Bravo, Daniel",
+      "Catrileo, Rosa",
+      "Dorador, Cristina",
+      "Gomez, Yarela",
+      "Gonzalez, Lidia",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Mamani, Isabella",
+      "Millabur, Adolfo",
+      "Stingo, Daniel"
+    ]
   },
   {
     "article": "Artículo 42",
@@ -564,7 +1579,25 @@
       "573"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART42"
+    "article_uid": "C6_GEN2_ART42",
+    "authors": [
+      "Bassa, Jaime",
+      "Daza, Mauricio",
+      "Galleguillos, Felix",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Llanquileo, Natividad",
+      "Martin, Juan Jose",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "San Juan, Constanza",
+      "Viera, Christian",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 42 A",
@@ -573,7 +1606,21 @@
       "914"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART42A"
+    "article_uid": "C6_GEN2_ART42A",
+    "authors": [
+      "Aguilera, Tiare",
+      "Bravo, Daniel",
+      "Catrileo, Rosa",
+      "Dorador, Cristina",
+      "Gomez, Yarela",
+      "Gonzalez, Lidia",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Mamani, Isabella",
+      "Millabur, Adolfo",
+      "Stingo, Daniel"
+    ]
   },
   {
     "article": "Artículo 43",
@@ -582,7 +1629,25 @@
       "573"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART43"
+    "article_uid": "C6_GEN2_ART43",
+    "authors": [
+      "Bassa, Jaime",
+      "Daza, Mauricio",
+      "Galleguillos, Felix",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Llanquileo, Natividad",
+      "Martin, Juan Jose",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "San Juan, Constanza",
+      "Viera, Christian",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 44",
@@ -591,7 +1656,21 @@
       "914"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART44"
+    "article_uid": "C6_GEN2_ART44",
+    "authors": [
+      "Aguilera, Tiare",
+      "Bravo, Daniel",
+      "Catrileo, Rosa",
+      "Dorador, Cristina",
+      "Gomez, Yarela",
+      "Gonzalez, Lidia",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Mamani, Isabella",
+      "Millabur, Adolfo",
+      "Stingo, Daniel"
+    ]
   },
   {
     "article": "Artículo 45",
@@ -600,7 +1679,25 @@
       "573"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART45"
+    "article_uid": "C6_GEN2_ART45",
+    "authors": [
+      "Bassa, Jaime",
+      "Daza, Mauricio",
+      "Galleguillos, Felix",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Llanquileo, Natividad",
+      "Martin, Juan Jose",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "San Juan, Constanza",
+      "Viera, Christian",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 45 A",
@@ -609,7 +1706,21 @@
       "914"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART45A"
+    "article_uid": "C6_GEN2_ART45A",
+    "authors": [
+      "Aguilera, Tiare",
+      "Bravo, Daniel",
+      "Catrileo, Rosa",
+      "Dorador, Cristina",
+      "Gomez, Yarela",
+      "Gonzalez, Lidia",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Mamani, Isabella",
+      "Millabur, Adolfo",
+      "Stingo, Daniel"
+    ]
   },
   {
     "article": "Artículo 46",
@@ -618,7 +1729,21 @@
       "914"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART46"
+    "article_uid": "C6_GEN2_ART46",
+    "authors": [
+      "Aguilera, Tiare",
+      "Bravo, Daniel",
+      "Catrileo, Rosa",
+      "Dorador, Cristina",
+      "Gomez, Yarela",
+      "Gonzalez, Lidia",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Mamani, Isabella",
+      "Millabur, Adolfo",
+      "Stingo, Daniel"
+    ]
   },
   {
     "article": "Artículo 47",
@@ -627,7 +1752,21 @@
       "914"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART47"
+    "article_uid": "C6_GEN2_ART47",
+    "authors": [
+      "Aguilera, Tiare",
+      "Bravo, Daniel",
+      "Catrileo, Rosa",
+      "Dorador, Cristina",
+      "Gomez, Yarela",
+      "Gonzalez, Lidia",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Mamani, Isabella",
+      "Millabur, Adolfo",
+      "Stingo, Daniel"
+    ]
   },
   {
     "article": "Artículo 48",
@@ -636,7 +1775,18 @@
       "190"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART48"
+    "article_uid": "C6_GEN2_ART48",
+    "authors": [
+      "Bravo, Daniel",
+      "Daza, Mauricio",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Llanquileo, Natividad",
+      "Royo, Manuela",
+      "Villena, Ingrid",
+      "Woldarsky, Manuel"
+    ]
   },
   {
     "article": "Artículo 49",
@@ -708,7 +1858,25 @@
       "557"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART56"
+    "article_uid": "C6_GEN2_ART56",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pustilnick, Tammy",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 56 A",
@@ -717,7 +1885,92 @@
       "954"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART56A"
+    "article_uid": "C6_GEN2_ART56A",
+    "authors": [
+      "Abarca, Jorge",
+      "Aguilera, Tiare",
+      "Alvarado, Gloria",
+      "Alvez, Amaya",
+      "Ampuero, Adriana",
+      "Andrade, Cristobal",
+      "Antilef, Victorino",
+      "Arancibia, Jorge",
+      "Arauna, Francisca",
+      "Arellano, Marco",
+      "Arrau, Martin",
+      "Atria, Fernando",
+      "Bacian, Wilfredo",
+      "Baradit, Jorge",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Cancino, Adriana",
+      "Carrillo, Alondra",
+      "Castillo, Maria Trinidad",
+      "Catrileo, Rosa",
+      "Celis, Raul",
+      "Cespedes, Lorena",
+      "Chinga, Eric",
+      "Delgado, Aurora",
+      "Dominguez, Gaspar",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gallardo, Bessy",
+      "Galleguillos, Felix",
+      "Giustinianovich, Elisa",
+      "Godoy, Isabel",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Gonzalez, Dayana",
+      "Grandon, Giovanna",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Labbe, Bastian",
+      "Labrana, Elsa",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Madriaga, Tania",
+      "Mamani, Isabella",
+      "Martin, Juan Jose",
+      "Mella, Jeniffer",
+      "Meneses, Janis",
+      "Millabur, Adolfo",
+      "Miranda, Valentina",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Olivares, Ivanna",
+      "Oyarzun, Maria Jose",
+      "Perez, Alejandra",
+      "Pinto, Malucha",
+      "Portilla, Ericka",
+      "Quinteros, Maria Elisa",
+      "Rivera, Maria Magdalena",
+      "Roa, Giovanna",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Salinas, Fernando",
+      "San Juan, Constanza",
+      "Sanchez, Beatriz",
+      "Schonhaut, Constanza",
+      "Sepulveda, Barbara",
+      "Sepulveda, Carolina",
+      "Serey, Mariela",
+      "Silva, Luciano",
+      "Stingo, Daniel",
+      "Tirado, Fernando",
+      "Ubilla, Maria Cecilia",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Vargas, Margarita",
+      "Veloso, Paulina",
+      "Vergara, Lisette",
+      "Videla, Carolina",
+      "Vilches, Carolina",
+      "Woldarsky, Manuel",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 57",
@@ -726,7 +1979,25 @@
       "557"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART57"
+    "article_uid": "C6_GEN2_ART57",
+    "authors": [
+      "Alvarez, Julio",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Montero, Ricardo",
+      "Munoz, Pedro",
+      "Orellana, Matias",
+      "Pustilnick, Tammy",
+      "Reyes, Maria Ramona",
+      "Valenzuela, Cesar",
+      "Vargas, Mario"
+    ]
   },
   {
     "article": "Artículo 58",
@@ -735,7 +2006,92 @@
       "954"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART58"
+    "article_uid": "C6_GEN2_ART58",
+    "authors": [
+      "Abarca, Jorge",
+      "Aguilera, Tiare",
+      "Alvarado, Gloria",
+      "Alvez, Amaya",
+      "Ampuero, Adriana",
+      "Andrade, Cristobal",
+      "Antilef, Victorino",
+      "Arancibia, Jorge",
+      "Arauna, Francisca",
+      "Arellano, Marco",
+      "Arrau, Martin",
+      "Atria, Fernando",
+      "Bacian, Wilfredo",
+      "Baradit, Jorge",
+      "Baranda, Benito",
+      "Bravo, Daniel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Cancino, Adriana",
+      "Carrillo, Alondra",
+      "Castillo, Maria Trinidad",
+      "Catrileo, Rosa",
+      "Celis, Raul",
+      "Cespedes, Lorena",
+      "Chinga, Eric",
+      "Delgado, Aurora",
+      "Dominguez, Gaspar",
+      "Dorador, Cristina",
+      "Flores, Alejandra",
+      "Gallardo, Bessy",
+      "Galleguillos, Felix",
+      "Giustinianovich, Elisa",
+      "Godoy, Isabel",
+      "Gomez, Claudio",
+      "Gomez, Yarela",
+      "Gonzalez, Dayana",
+      "Grandon, Giovanna",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Labbe, Bastian",
+      "Labrana, Elsa",
+      "Llanquileo, Natividad",
+      "Loncon, Elisa",
+      "Madriaga, Tania",
+      "Mamani, Isabella",
+      "Martin, Juan Jose",
+      "Mella, Jeniffer",
+      "Meneses, Janis",
+      "Millabur, Adolfo",
+      "Miranda, Valentina",
+      "Namor, Guillermo",
+      "Nunez, Nicolas",
+      "Olivares, Ivanna",
+      "Oyarzun, Maria Jose",
+      "Perez, Alejandra",
+      "Pinto, Malucha",
+      "Portilla, Ericka",
+      "Quinteros, Maria Elisa",
+      "Rivera, Maria Magdalena",
+      "Roa, Giovanna",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Salinas, Fernando",
+      "San Juan, Constanza",
+      "Sanchez, Beatriz",
+      "Schonhaut, Constanza",
+      "Sepulveda, Barbara",
+      "Sepulveda, Carolina",
+      "Serey, Mariela",
+      "Silva, Luciano",
+      "Stingo, Daniel",
+      "Tirado, Fernando",
+      "Ubilla, Maria Cecilia",
+      "Uribe, Cesar",
+      "Vallejos, Loreto",
+      "Vargas, Margarita",
+      "Veloso, Paulina",
+      "Vergara, Lisette",
+      "Videla, Carolina",
+      "Vilches, Carolina",
+      "Woldarsky, Manuel",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 59",
@@ -744,7 +2100,24 @@
       "876"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART59"
+    "article_uid": "C6_GEN2_ART59",
+    "authors": [
+      "Alvarado, Gloria",
+      "Alvez, Amaya",
+      "Castillo, Maria Trinidad",
+      "Dorador, Cristina",
+      "Giustinianovich, Elisa",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Labbe, Bastian",
+      "Laibe, Tomas",
+      "Martin, Juan Jose",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Uribe, Cesar",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 60",
@@ -753,7 +2126,24 @@
       "876"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART60"
+    "article_uid": "C6_GEN2_ART60",
+    "authors": [
+      "Alvarado, Gloria",
+      "Alvez, Amaya",
+      "Castillo, Maria Trinidad",
+      "Dorador, Cristina",
+      "Giustinianovich, Elisa",
+      "Gutierrez, Hugo",
+      "Hoppe, Vanessa",
+      "Jimenez, Luis",
+      "Labbe, Bastian",
+      "Laibe, Tomas",
+      "Martin, Juan Jose",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Uribe, Cesar",
+      "Zarate, Camila"
+    ]
   },
   {
     "article": "Artículo 61",
@@ -762,7 +2152,17 @@
       "717"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART61"
+    "article_uid": "C6_GEN2_ART61",
+    "authors": [
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Vilches, Carolina"
+    ]
   },
   {
     "article": "Artículo 61 A",
@@ -771,7 +2171,23 @@
       "866"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART61A"
+    "article_uid": "C6_GEN2_ART61A",
+    "authors": [
+      "Aguilera, Tiare",
+      "Antilef, Victorino",
+      "Arellano, Marco",
+      "Barraza, Marcos",
+      "Caamano, Francisco",
+      "Celis, Raul",
+      "Garin, Renato",
+      "Hurtado, Maximiliano",
+      "Linconao, Francisca",
+      "Llanquileo, Natividad",
+      "Madriaga, Tania",
+      "Ossandon, Manuel",
+      "Perez, Alejandra",
+      "Sepulveda, Barbara"
+    ]
   },
   {
     "article": "Artículo 61 B",
@@ -780,7 +2196,18 @@
       "936"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART61B"
+    "article_uid": "C6_GEN2_ART61B",
+    "authors": [
+      "Baranda, Benito",
+      "Cespedes, Lorena",
+      "Daza, Mauricio",
+      "Logan, Rodrigo",
+      "Martinez, Helmuth",
+      "Politzer, Patricia",
+      "Pustilnick, Tammy",
+      "Sepulveda, Carolina",
+      "Valenzuela, Paulina"
+    ]
   },
   {
     "article": "Artículo 61 C",
@@ -789,7 +2216,25 @@
       "937"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART61C"
+    "article_uid": "C6_GEN2_ART61C",
+    "authors": [
+      "Alvarez, Julio",
+      "Atria, Fernando",
+      "Bassa, Jaime",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Munoz, Pedro",
+      "Namor, Guillermo",
+      "Orellana, Matias",
+      "Vargas, Mario",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 61 D",
@@ -807,7 +2252,17 @@
       "717"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART62"
+    "article_uid": "C6_GEN2_ART62",
+    "authors": [
+      "Carrillo, Alondra",
+      "Flores, Alejandra",
+      "Hoppe, Vanessa",
+      "Labbe, Bastian",
+      "Quinteros, Maria Elisa",
+      "Royo, Manuela",
+      "Saldana, Alvin",
+      "Vilches, Carolina"
+    ]
   },
   {
     "article": "Artículo 62 A",
@@ -816,7 +2271,23 @@
       "866"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART62A"
+    "article_uid": "C6_GEN2_ART62A",
+    "authors": [
+      "Aguilera, Tiare",
+      "Antilef, Victorino",
+      "Arellano, Marco",
+      "Barraza, Marcos",
+      "Caamano, Francisco",
+      "Celis, Raul",
+      "Garin, Renato",
+      "Hurtado, Maximiliano",
+      "Linconao, Francisca",
+      "Llanquileo, Natividad",
+      "Madriaga, Tania",
+      "Ossandon, Manuel",
+      "Perez, Alejandra",
+      "Sepulveda, Barbara"
+    ]
   },
   {
     "article": "Artículo 62 B",
@@ -825,7 +2296,18 @@
       "936"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART62B"
+    "article_uid": "C6_GEN2_ART62B",
+    "authors": [
+      "Baranda, Benito",
+      "Cespedes, Lorena",
+      "Daza, Mauricio",
+      "Logan, Rodrigo",
+      "Martinez, Helmuth",
+      "Politzer, Patricia",
+      "Pustilnick, Tammy",
+      "Sepulveda, Carolina",
+      "Valenzuela, Paulina"
+    ]
   },
   {
     "article": "Artículo 62 C",
@@ -834,7 +2316,25 @@
       "937"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART62C"
+    "article_uid": "C6_GEN2_ART62C",
+    "authors": [
+      "Alvarez, Julio",
+      "Atria, Fernando",
+      "Bassa, Jaime",
+      "Calvo, Carlos",
+      "Cancino, Adriana",
+      "Castillo, Maria Trinidad",
+      "Cruz, Andres",
+      "Fernandez, Patricio",
+      "Gomez, Claudio",
+      "Hurtado, Maximiliano",
+      "Laibe, Tomas",
+      "Munoz, Pedro",
+      "Namor, Guillermo",
+      "Orellana, Matias",
+      "Vargas, Mario",
+      "Viera, Christian"
+    ]
   },
   {
     "article": "Artículo 62 D",
@@ -852,6 +2352,22 @@
       "866"
     ],
     "timestamp": "03-09",
-    "article_uid": "C6_GEN2_ART63"
+    "article_uid": "C6_GEN2_ART63",
+    "authors": [
+      "Aguilera, Tiare",
+      "Antilef, Victorino",
+      "Arellano, Marco",
+      "Barraza, Marcos",
+      "Caamano, Francisco",
+      "Celis, Raul",
+      "Garin, Renato",
+      "Hurtado, Maximiliano",
+      "Linconao, Francisca",
+      "Llanquileo, Natividad",
+      "Madriaga, Tania",
+      "Ossandon, Manuel",
+      "Perez, Alejandra",
+      "Sepulveda, Barbara"
+    ]
   }
 ]
