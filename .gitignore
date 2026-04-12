@@ -6,10 +6,15 @@ __pycache__/
 *.pyd
 .Python
 env/
+venv/
 venvs/
 .venv/
 pip-log.txt
 pip-delete-this-directory.txt
+
+# macOS/iCloud sync duplicates
+* 2
+* 2.*
 
 # System
 .DS_Store
