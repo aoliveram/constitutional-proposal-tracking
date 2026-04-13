@@ -4514,7 +4514,7 @@
         "timestamp": "03-07",
         "step": "Indicación",
         "article": "Artículo 2",
-        "content_snapshot": "Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.\n Sólo la ley podrá́ establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares.\n La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
+        "content_snapshot": "Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.\n Sólo la ley podrá establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares.\n La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
         "number": "15",
         "authors_matched": [
           "Daza, Mauricio",
@@ -4529,6 +4529,28 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 2.- Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno. Sólo la ley podrá́ establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares. La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
         "content_to_remove": "Artículo 2.- Bases orgánicas para la función jurisdiccional. (Texto original)",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "article": "Artículo 2",
+        "content_snapshot": "Diferenciación funcional y estatuto común de los tribunales. Las y los integrantes de los órganos jurisdiccionales, unipersonales o colegiados, se denominarán juezas o jueces. No existirá jerarquía entre quienes ejercen jurisdicción y sólo se diferenciarán por la función que desempeñen. Las juezas o jueces no recibirán tratamiento honorífico alguno.\n Sólo la ley podrá establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares, interinos, suplentes o subrogantes.\n La planta de personal y organización administrativa interna de los tribunales será establecida por la ley.",
+        "number": "2",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Sólo la ley podrá establecer cargos de jueces y juezas. La Corte Suprema y las Cortes de Apelaciones no podrán ser integradas por personas que no tengan la calidad de juezas o jueces titulares, interinos, suplentes o subrogantes.",
+        "content_to_remove": "",
         "placement_instructions": ""
       }
     ]
@@ -4909,6 +4931,28 @@
         "content": "Artículo 7.- De los tribunales. El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema. Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar el correcto ejercicio de sus funciones en conformidad a lo señalado en la Constitución y la ley.",
         "content_to_remove": "Artículo 7.- Función Jurisdiccional. (Texto original)",
         "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 8",
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "content_snapshot": "De los tribunales. El Sistema Nacional de Justicia está integrado por la justicia vecinal, los tribunales de instancia, las Cortes de Apelaciones y la Corte Suprema.\n Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral de la gestión por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar su correcto funcionamiento, en conformidad a lo establecido en la Constitución y la ley. Esta revisión, en ningún caso, incluirá las resoluciones judiciales.",
+        "number": "6",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Todos los tribunales estarán sometidos, a lo menos cada cinco años, a una revisión integral de la gestión por el Consejo de la Justicia, que incluirá audiencias públicas, para determinar su correcto funcionamiento, en conformidad a lo establecido en la Constitución y la ley. Esta revisión, en ningún caso, incluirá las resoluciones judiciales.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -5016,7 +5060,31 @@
     "action": "ADD",
     "content": "Artículo XX. Acceso a la justicia intercultural. Las personas indígenas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos. El Estado debe garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural. En sus resoluciones y razonamientos, los tribunales deberán considerar las costumbres, tradiciones, protocolos y el derecho propio de los pueblos y naciones.",
     "content_to_remove": "",
-    "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”"
+    "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”",
+    "history": [
+      {
+        "article": "Artículo 9",
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "content_snapshot": "Acceso a la justicia intercultural. Es deber del Estado garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural.\n Las personas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos, cuando así lo requieran y no puedan proveérselas por sí mismas.",
+        "number": "8",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9. Acceso a la justicia intercultural. Es deber del Estado garantizar que los órganos que intervienen en el proceso respeten y promuevan el derecho a acceder a una justicia con perspectiva intercultural. Las personas tienen derecho a una asistencia jurídica especializada, intérpretes, facilitadores interculturales y peritajes consultivos, cuando así lo requieran y no puedan proveérselas por sí mismas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article_uid": "C6_IND03-07_ART10",
@@ -5096,6 +5164,28 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 8.- De la Corte Suprema. La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley. Se compone de veintiún juezas y jueces, elegidos conforme a criterios de paridad de género, plurinacionalidad y descentralización. Sus juezas y jueces duran en sus cargos un máximo de doce años sin posibilidad de reelección, pudiendo postular al término de dicho mandato a cualquier otro cargo del Sistema Nacional de Justicia distinto al de jueza o juez de la Corte Suprema. Funcionará en pleno o salas especializadas integradas por cinco juezas o jueces, de conformidad a lo dispuesto por la ley. La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.",
         "content_to_remove": "Artículo 8.- Funciones y composición. (Texto original)",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-01-1",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "De la Corte Suprema. La Corte Suprema es un órgano colegiado con jurisdicción en todo el país, que tiene como función velar por la correcta aplicación del derecho y uniformar su interpretación, así como las demás atribuciones que establezca esta Constitución y la ley.\n Se compondrá de veintiún juezas y jueces y funcionará en pleno o salas especializadas.\n Sus juezas y jueces durarán en sus cargos un máximo de catorce años, sin posibilidad de reelección.\n La presidencia de la Corte Suprema será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años sin posibilidad de ejercer nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar alguna de las salas.",
+        "number": "15",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 13,
+        "target_scope": "INCISO 2, 3, 4",
+        "action": "SUBSTITUTE",
+        "content": "Se compondrá de veintiún juezas y jueces y funcionará en pleno o salas especializadas.\n Sus juezas y jueces durarán en sus cargos un máximo de catorce años, sin posibilidad de reelección.",
+        "content_to_remove": "",
         "placement_instructions": ""
       }
     ]
@@ -5737,6 +5827,28 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 9.- De las Cortes de Apelaciones. Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley. Se componen por el número de juezas o jueces que determine la ley, con un mínimo de cuatro conforme a criterios de paridad de género, plurinacionalidad y descentralización. Funcionará en pleno, o en salas preferentemente especializadas integradas por tres juezas o jueces, de conformidad a lo dispuesto por la ley. La presidencia de cada Corte de Apelaciones será ejercida por una persona elegida por sus pares. Durará en sus funciones dos años, sin posibilidad de ejercer nuevamente el cargo.",
         "content_to_remove": "Artículo 12.- Cortes de Apelaciones. (Texto original)",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 13",
+        "timestamp": "04-01-1",
+        "content_snapshot": "De las Cortes de Apelaciones. Las Cortes de Apelaciones son órganos colegiados con jurisdicción sobre una región o parte de ella, cuya función principal es resolver las impugnaciones que se interpongan contra resoluciones de los tribunales de instancia, así como las demás competencias que establezca la Constitución y la ley.\n Funcionarán en pleno o salas preferentemente especializadas.\n La presidencia de cada Corte de Apelaciones será́ ejercida por una persona elegida por sus pares. Durará́ en sus funciones dos años.",
+        "step": "Indicación",
+        "number": "23",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 13,
+        "target_scope": "INCISO 2, 3, 4",
+        "action": "SUBSTITUTE",
+        "content": "Funcionarán en pleno o salas preferentemente especializadas.\n La presidencia de cada Corte de Apelaciones será́ ejercida por una persona elegida por sus pares. Durará́ en sus funciones dos años.",
+        "content_to_remove": "",
         "placement_instructions": ""
       }
     ]
@@ -6956,8 +7068,47 @@
         "content": "Artículo. Perspectiva de género y paridad. La función jurisdiccional debe ejercerse con perspectiva de género y bajo un enfoque interseccional, debiendo sus agentes garantizar la igualdad sustantiva de género y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia. Este mandato es extensivo a toda persona u órgano jurisdiccional, órganos auxiliares y funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género. El principio de paridad de género orientará la estructura, organización y puesta en práctica de la función jurisdiccional. El Consejo de la Justicia garantizará que los nombramientos de los órganos del Sistema Nacional de Justicia respeten este principio en todos los escalafones, incluyendo la designación de las presidencias que se sujetarán, a lo menos, al criterio de alternancia de género. Para un adecuado cumplimiento de este mandato el Consejo de la Justicia implementará medidas de acción afirmativa.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 22",
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "content_snapshot": "Perspectiva interseccional. La función jurisdiccional debe ejercerse bajo un enfoque interseccional, debiendo garantizar la igualdad sustantiva y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia.\n Este deber resulta extensivo a todo órgano jurisdiccional y auxiliar, funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia.",
+        "number": "28",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 22. Perspectiva interseccional. La función jurisdiccional debe ejercerse bajo un enfoque interseccional, debiendo garantizar la igualdad sustantiva y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia. Este deber resulta extensivo a todo órgano jurisdiccional y auxiliar, funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
+  },
+  {
+    "article_uid": "C6_IND04-01-1_ART24BIS",
+    "article": "Artículo 24 bis",
+    "timestamp": "04-01-1",
+    "step": "Indicación",
+    "content_snapshot": "Los sistemas de justicia indígenas solo conocerán conflictos entre miembros de un mismo pueblo originario. Los afectados siempre tendrán la opción de someter el asunto al Sistema Nacional de Justicia.",
+    "number": "39",
+    "authors_matched": [
+      "Daza, Mauricio"
+    ],
+    "target_article": 24,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 24 bis.- Los sistemas de justicia indígenas solo conocerán conflictos entre miembros de un mismo pueblo originario. Los afectados siempre tendrán la opción de someter el asunto al Sistema Nacional de Justicia.",
+    "content_to_remove": "",
+    "placement_instructions": "a continuación del artículo 24, un nuevo artículo 24 bis"
   },
   {
     "article": "Artículo 28 C",
@@ -7732,6 +7883,28 @@
         "content": "Artículo XX.- Del recurso de revisión de los actos de la jurisdicción indígena. Las decisiones de la jurisdicción indígena sólo serán revisables por el tribunal de integración plurinacional que establezca la ley, a través de un recurso de revisión por vulneración de derechos humanos consagrados en la Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los cuales Chile es parte. De constatarse la vulneración, el tribunal dictará una sentencia que reemplace la decisión en base a una perspectiva intercultural con el fin de maximizar la protección de derechos individuales y colectivos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 26",
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "content_snapshot": "Impugnaciones contra las decisiones de la jurisdicción indígena. La Corte Suprema conocerá y resolverá de las impugnaciones deducidas en contra de la decisiones de la jurisdicción indígena, en sala especializada y asistida por una consejería técnica integrada por expertos en su cultura y derecho propio, en la forma que establezca la ley.",
+        "number": "43",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 26. Impugnaciones contra las decisiones de la jurisdicción indígena. La Corte Suprema conocerá y resolverá de las impugnaciones deducidas en contra de la decisiones de la jurisdicción indígena, en sala especializada y asistida por una consejería técnica integrada por expertos en su cultura y derecho propio, en la forma que establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -8347,10 +8520,10 @@
     "timestamp": "01-25",
     "history": [
       {
-        "article": "Artículo 54",
+        "article": "Artículo 28",
         "timestamp": "03-07",
         "step": "Indicación",
-        "content_snapshot": "Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia:\n a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley,\n c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley.\n d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.\n f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.\n g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.\n h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.\n i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.\n j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local.\n l) Las demás que encomiende esta Constitución y las leyes.",
+        "content_snapshot": "Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia:\n a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley,\n c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley.\n d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.\n f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.\n g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.\n h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.\n i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.\n j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local.\n k) Las demás que encomiende esta Constitución y las leyes.",
         "number": "421",
         "authors_matched": [
           "Daza, Mauricio",
@@ -8363,7 +8536,29 @@
         "target_article": 54,
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
-        "content": "Artículo XX.- Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia: a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia. b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley, c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley. d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia. e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia. f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia. g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción. h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente. i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo. j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local. l) Las demás que encomiende esta Constitución y las leyes.",
+        "content": "Artículo XX.- Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia: a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia. b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley, c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley. d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia. e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia. f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia. g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción. h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente. i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo. j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local. k) Las demás que encomiende esta Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 28",
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "content_snapshot": "Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia:\n a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesto en esta Constitución y la ley.\n c) Efectuar una revisión integral de la gestión de todos los tribunales del sistema nacional de justicia. En ningún caso incluirá las resoluciones judiciales.\n d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.\n f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.\n g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.\n h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.\n i) Velar por la habilitación, formación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.\n j) Dictar instrucciones relativas a la organización y gestión administrativa de los tribunales. Estas instrucciones podrán tener un alcance nacional, regional o local.\n k) Las demás que encomiende esta Constitución y las leyes.",
+        "number": "48",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 28,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesto en esta Constitución y la ley.\n c) Efectuar una revisión integral de la gestión de todos los tribunales del sistema nacional de justicia. En ningún caso incluirá las resoluciones judiciales.\n d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.\n f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.\n g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.\n h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.\n i) Velar por la habilitación, formación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.\n j) Dictar instrucciones relativas a la organización y gestión administrativa de los tribunales. Estas instrucciones podrán tener un alcance nacional, regional o local.\n k) Las demás que encomiende esta Constitución y las leyes.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -8660,6 +8855,28 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo XX. Composición del Consejo de la Justicia. El Consejo de la Justicia se compone por diecisiete integrantes elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial, conforme a la siguiente integración: a) Seis integrantes serán juezas o jueces titulares elegidos por sus pares. b) Tres integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares. c) Dos integrantes elegidos por los pueblos originarios. d) Seis integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública. Las y los integrantes del Consejo de la Justicia señalados en las letras d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. En los demás casos los integrantes deberán contar con las competencias necesarias para el ejercicio del cargo. Las y los integrantes del Consejo de la Justicia durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 29",
+        "timestamp": "04-01-1",
+        "step": "Indicación",
+        "content_snapshot": "Composición del Consejo de la Justicia. El Consejo de la Justicia se compone por diecisiete integrantes, conforme a la siguiente integración:\n a) Ocho integrantes serán juezas o jueces titulares elegidos por sus pares.\n b) Dos integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares.\n c) Dos integrantes elegidos por los pueblos indígenas en la forma que determine la Constitución y la ley.\n d) Cinco integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública. Las y los integrantes señalados en la letra c) deberán ser personas de comprobada idoneidad para el ejercicio del cargo y que se hayan destacado en la función pública o social. En el caso de la letra d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. Las y los integrantes durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley. Sus integrantes serán elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial.",
+        "number": "50",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 29,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 29.- Composición del Consejo de la Justicia. El Consejo de la Justicia se compone por diecisiete integrantes, conforme a la siguiente integración: a) Ocho integrantes serán juezas o jueces titulares elegidos por sus pares. b) Dos integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares. c) Dos integrantes elegidos por los pueblos indígenas en la forma que determine la Constitución y la ley. d) Cinco integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública. Las y los integrantes señalados en la letra c) deberán ser personas de comprobada idoneidad para el ejercicio del cargo y que se hayan destacado en la función pública o social. En el caso de la letra d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. Las y los integrantes durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley. Sus integrantes serán elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -9210,6 +9427,28 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo XX. Funcionamiento del Consejo de la Justicia. El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución. El Consejo se organizará descentralizadamente, desplegándose a través de administradores zonales. La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 30",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Funcionamiento del Consejo de la Justicia. El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución.\n El Consejo se organizará desconcentradamente, en conformidad a lo que establezca la ley.\n La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.",
+        "number": "54",
+        "authors_matched": [
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Royo, Manuela",
+          "Stingo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 30,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "El Consejo se organizará desconcentradamente, en conformidad a lo que establezca la ley.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
