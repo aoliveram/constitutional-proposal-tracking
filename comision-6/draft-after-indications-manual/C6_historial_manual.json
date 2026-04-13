@@ -6462,7 +6462,30 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART45",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 18",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Tribunales de ejecución de penas. Habrá tribunales de ejecución de penas que velarán por los derechos fundamentales de las personas condenadas o sujetas a medidas de seguridad, conforme a lo reconocido en esta Constitución y los tratados e instrumentos internacionales de derechos humanos, procurando su integración e inserción social.\n Ejercerán funciones jurisdiccionales en materia de ejecución de penas y medidas de seguridad, control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias, protección de los derechos y beneficios de los internos en los establecimientos penitenciarios y demás que señale la ley.\n En aquellos casos que se impongan sanciones a personas indígenas, se deberá tener en cuenta sus características económicas, sociales y culturales, y dar preferencia a tipos de sanción distintos del encarcelamiento.",
+        "number": "242",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 14. Tribunales de ejecución de penas. Habrá tribunales de ejecución de penas que velarán por los derechos fundamentales de las personas condenadas o sujetas a medidas de seguridad, conforme a lo reconocido en esta Constitución y los tratados e instrumentos internacionales de derechos humanos, procurando su integración e inserción social. Ejercerán funciones jurisdiccionales en materia de ejecución de penas y medidas de seguridad, control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias, protección de los derechos y beneficios de los internos en los establecimientos penitenciarios y demás que señale la ley. En aquellos casos que se impongan sanciones a personas indígenas, se deberá tener en cuenta sus características económicas, sociales y culturales, y dar preferencia a tipos de sanción distintos del encarcelamiento.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 45 A.- Tribunales de ejecución de penas",
@@ -6488,7 +6511,34 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART45A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 18 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "244",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 25 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 46.- Tribunales de Justicia Comunales",
@@ -6515,7 +6565,34 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART46",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 19",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "De la justicia vecinal y los juzgados vecinales. La justicia vecinal se compone por los juzgados vecinales y los centros de justicia vecinal.\n En cada comuna del país que sea asiento de una municipalidad habrá, a lo menos, un juzgado vecinal que ejerce la función jurisdiccional respecto de todas aquellas controversias jurídicas que se susciten a nivel comunal que no sean competencia de otro tribunal y de los demás asuntos que la ley les encomiende, conforme a un procedimiento breve, oral, simple y expedito.",
+        "number": "254",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo",
+          "Bravo, Daniel",
+          "Jimenez, Luis",
+          "Logan, Rodrigo",
+          "Stingo, Daniel"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 15.- De la justicia vecinal y los juzgados vecinales. La justicia vecinal se compone por los juzgados vecinales y los centros de justicia vecinal. En cada comuna del país que sea asiento de una municipalidad habrá, a lo menos, un juzgado vecinal que ejerce la función jurisdiccional respecto de todas aquellas controversias jurídicas que se susciten a nivel comunal que no sean competencia de otro tribunal y de los demás asuntos que la ley les encomiende, conforme a un procedimiento breve, oral, simple y expedito.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 46 A.- Centros de justicia comunitaria",
@@ -6541,7 +6618,36 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART46A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 26 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "258",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Bravo, Daniel",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Logan, Rodrigo",
+          "Harboe, Felipe",
+          "Villena, Ingrid",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 26 A, 26 B, 26 C y 26 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 46 B.- Justicia local",
@@ -6564,7 +6670,36 @@
       "Hoppe, Vanessa"
     ],
     "article_uid": "C6_GEN1_ART46B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 26 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "258",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Bravo, Daniel",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Logan, Rodrigo",
+          "Harboe, Felipe",
+          "Villena, Ingrid",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 26 A, 26 B, 26 C y 26 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 46 C.- Justicia vecinal",
@@ -6585,7 +6720,36 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART46C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 26 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "258",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Bravo, Daniel",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Logan, Rodrigo",
+          "Harboe, Felipe",
+          "Villena, Ingrid",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 26 A, 26 B, 26 C y 26 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 46 D.- Juzgados comunitarios de Justicia",
@@ -6605,7 +6769,36 @@
       "Catrileo, Rosa"
     ],
     "article_uid": "C6_GEN1_ART46D",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 26 D",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "258",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Bravo, Daniel",
+          "Daza, Mauricio",
+          "Jimenez, Luis",
+          "Llanquileo, Natividad",
+          "Logan, Rodrigo",
+          "Harboe, Felipe",
+          "Villena, Ingrid",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 26 A, 26 B, 26 C y 26 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 47.- Mecanismos Colaborativos de Resolución de Conflictos",
@@ -6628,7 +6821,34 @@
       "Hoppe, Vanessa"
     ],
     "article_uid": "C6_GEN1_ART47",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 20",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Centros de justicia vecinal. Los centros de justicia vecinal son órganos encargados de promover la solución de conflictos vecinales y de pequeña cuantía dentro de una comunidad determinada por ley, en base al diálogo social, la paz y la participación de las partes involucradas, debiendo priorizar su instalación en zonas rurales y lugares alejados de áreas urbanas.\n Los centros de justicia vecinal deberán orientar e informar al público en materias jurídicas, haciendo las derivaciones que fuesen necesarias, así como ejercer las demás funciones que la ley les encomiende.\n La organización, atribuciones, materias y procedimientos que correspondan a los centros de justicia vecinal se regirán por la ley respectiva.",
+        "number": "269",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo",
+          "Bravo, Daniel",
+          "Jimenez, Luis",
+          "Logan, Rodrigo",
+          "Stingo, Daniel"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 16.- Centros de justicia vecinal. Los centros de justicia vecinal son órganos encargados de promover la solución de conflictos vecinales y de pequeña cuantía dentro de una comunidad determinada por ley, en base al diálogo social, la paz y la participación de las partes involucradas, debiendo priorizar su instalación en zonas rurales y lugares alejados de áreas urbanas. Los centros de justicia vecinal deberán orientar e informar al público en materias jurídicas, haciendo las derivaciones que fuesen necesarias, así como ejercer las demás funciones que la ley les encomiende. La organización, atribuciones, materias y procedimientos que correspondan a los centros de justicia vecinal se regirán por la ley respectiva.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 48.- Enfoque de género",
@@ -6656,7 +6876,29 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART48",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 21",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "El Sistema de Justicia deberá adoptar todas las medidas para prevenir, sancionar y erradicar la violencia contra mujeres, disidencias y diversidades sexo genéricas, en todas sus manifestaciones y ámbitos.\n El Consejo de la Justicia deberá asegurar la formación inicial y capacitación constante de la totalidad de funcionarias y funcionarios y auxiliares de la administración de justicia, con el fin de eliminar estereotipos de género y garantizar la incorporación de la perspectiva de género, el enfoque interseccional y de derechos humanos, sin discriminación en la administración de justicia.\n Se promoverá la creación de salas especializadas para conocer las causas de acoso, discriminación y otras formas de violencia contra mujeres, disidencias y diversidades sexo genéricas, en coordinación con los organismos e instituciones necesarias para otorgar una respuesta estatal adecuada, oportuna e integral.\n Todos los órganos auxiliares de justicia que intervengan en las salas especializadas, deben tener formación en la materia.",
+        "number": "275",
+        "authors_matched": [
+          "Hoppe, Vanessa",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Woldarsky, Manuel",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo.- El Sistema de Justicia deberá adoptar todas las medidas para prevenir, sancionar y erradicar la violencia contra mujeres, disidencias y diversidades sexo genéricas, en todas sus manifestaciones y ámbitos. El Consejo de la Justicia deberá asegurar la formación inicial y capacitación constante de la totalidad de funcionarias y funcionarios y auxiliares de la administración de justicia, con el fin de eliminar estereotipos de género y garantizar la incorporación de la perspectiva de género, el enfoque interseccional y de derechos humanos, sin discriminación en la administración de justicia. Se promoverá la creación de salas especializadas para conocer las causas de acoso, discriminación y otras formas de violencia contra mujeres, disidencias y diversidades sexo genéricas, en coordinación con los organismos e instituciones necesarias para otorgar una respuesta estatal adecuada, oportuna e integral. Todos los órganos auxiliares de justicia que intervengan en las salas especializadas, deben tener formación en la materia.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 48 A.- Enfoque de género",
@@ -6683,7 +6925,67 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART48A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "comment": "Se eliminó tras votación",
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 28 B",
+    "text": "De la Administración de justicia con perspectiva de género. La administración de justicia y los procesos en los cuales se ejerza jurisdicción deberán ejercerse con perspectiva de género y un enfoque interseccional y de derechos humanos, sin discriminación, asegurando la incorporación y cumplimiento de los estándares de debida diligencia y debido proceso en su ejercicio y cumplimiento. Este mandato será extensivo a todo órgano jurisdiccional o que ejerza jurisdicción, a todo auxiliar de la administración de justicia y, en general, a todo sujeto, procesal, que intervenga en el proceso y funcionarios y funcionarias que se desempeñen dentro del ciclo de administración de justicia. Asimismo, deberá observarse en todas las etapas, procesos de administración de justicia y procesos administrativos, con independencia de su naturaleza. El Estado y sus órganos adoptarán todas las medidas necesarias, en particular las referidas a asegurar la formación inicial y capacitación constante de la totalidad de funcionarios, operadores de justicia e intervinientes, con el fin de eliminar estereotipos de género y garantizar la incorporación de la perspectiva de género y el enfoque interseccional y de derechos humanos, sin discriminación en la administración de justicia. Los y las Agentes del Estado, funcionarios, funcionarias, auxiliares e intervinientes, que se desempeñen dentro del ciclo de administración de justicia deberán ejercer las labores de su cargo incorporando este mandato, durante todo el curso del proceso y en todas las actuaciones que realicen. Una ley regulará la forma en que cada órgano incorporará este mandato en sus atribuciones y funciones, las obligaciones que sus funcionarios y funcionarias deberán asumir, así como en la fiscalización y vigilancia de su cumplimiento y las vías de reclamación por su incumplimiento.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART28B",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 22",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Perspectiva de género y paridad. La función jurisdiccional debe ejercerse con perspectiva de género y bajo un enfoque interseccional, debiendo sus agentes garantizar la igualdad sustantiva de género y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia. Este mandato es extensivo a toda persona u órgano jurisdiccional, órganos auxiliares y funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género. El principio de paridad de género orientará la estructura, organización y puesta en práctica de la función jurisdiccional. El Consejo de la Justicia garantizará que los nombramientos de los órganos del Sistema Nacional de Justicia respeten este principio en todos los escalafones, incluyendo la designación de las presidencias que se sujetarán, a lo menos, al criterio de alternancia de género. Para un adecuado cumplimiento de este mandato el Consejo de la Justicia implementará medidas de acción afirmativa.",
+        "number": "281",
+        "authors_matched": [
+          "Hoppe, Vanessa",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Woldarsky, Manuel",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo. Perspectiva de género y paridad. La función jurisdiccional debe ejercerse con perspectiva de género y bajo un enfoque interseccional, debiendo sus agentes garantizar la igualdad sustantiva de género y el cumplimiento de las obligaciones internacionales de derechos humanos en la materia. Este mandato es extensivo a toda persona u órgano jurisdiccional, órganos auxiliares y funcionarias y funcionarios del Sistema de Justicia, durante todo el curso del proceso y en todas las actuaciones que realicen. Asimismo, los tribunales, cualquiera sea su competencia, deben resolver con enfoque de género. El principio de paridad de género orientará la estructura, organización y puesta en práctica de la función jurisdiccional. El Consejo de la Justicia garantizará que los nombramientos de los órganos del Sistema Nacional de Justicia respeten este principio en todos los escalafones, incluyendo la designación de las presidencias que se sujetarán, a lo menos, al criterio de alternancia de género. Para un adecuado cumplimiento de este mandato el Consejo de la Justicia implementará medidas de acción afirmativa.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 28 C",
+    "text": "La administración de justicia deberá ejercerse con perspectiva de género y bajo un enfoque interseccional y de derechos humanos, sin discriminación, velando por la observancia e incorporación de los estándares de debida diligencia y debido proceso en su ejercicio. Este mandato será extensivo a todo órgano jurisdiccional, a todo auxiliar de la administración de justicia y, en general, a todo sujeto procesal y funcionarios y funcionarias que se desempeñen dentro del ciclo de administración de justicia. Asimismo, deberá observarse en todas las etapas y procesos de administración de justicia, con independencia de su naturaleza. El Estado deberá tomar todas las medidas necesarias, en particular la formación inicial y capacitación constante de todos los operadores de justicia, a fin de eliminar estereotipos de género e incorporar una perspectiva de género con enfoque interseccional en todos los aspectos del sistema y de la administración de justicia. Los funcionarios y funcionarias que se desempeñen dentro del ciclo de administración de justicia deberán ejercer las labores de su cargo incorporando este mandato, durante todo el curso del proceso y en todas las actuaciones que realicen. Una ley regulará la forma en que cada órgano incorporará este mandato a sus funciones, las obligaciones que sus funcionarios y funcionarias deberán asumir, la fiscalización del cumplimiento de este mandato y las vías de reclamación por su incumplimiento.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART28C",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 28 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "284",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 28 C",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 49.- Tribunales especiales para la violencia de género",
@@ -6706,7 +7008,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART49",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 29",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "286",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 29,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 29",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 50.- Extensión del enfoque de género",
@@ -6734,7 +7056,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART50",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 30",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "287",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 30",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 50 A.- Procedimientos especiales con enfoque de género",
@@ -6757,7 +7099,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART50A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 30 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "288",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 30 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 51.- Formación en género y derechos humanos",
@@ -6785,7 +7147,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART51",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 31",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "290",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 31,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 31",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 52.- Reparación y resocialización",
@@ -6813,11 +7195,31 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART52",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 32",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "292",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 32,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 32",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 52 A.- Reparación integral",
-    "text": "El Estado generará mecanismos adecuados y procesos restaurativos, en colaboración y co-gestión con organizaciones sociales y comunitarias sin fines de lucro, que posibiliten la reparación integral de las víctimas. Los procesos restaurativos permitirán a las víctimas, cuando ellas lo consideren necesario y justo, optar por instancias alternativas a las judiciales que se adecuen a sus necesidades.",
+    "text": "Reparación Integral. El Estado generará mecanismos adecuados y procesos restaurativos, en colaboración y co-gestión con organizaciones sociales y comunitarias sin fines de lucro, que posibiliten la reparación integral de las víctimas. Los procesos restaurativos permitirán a las víctimas, cuando ellas lo consideren necesario y justo, optar por instancias alternativas a las judiciales que se adecuen a sus necesidades.",
     "sources": [
       "324-6"
     ],
@@ -6836,7 +7238,13 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART52A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "timestamp": "03-07",
+        "article": "Artículo 23"
+      }
+    ]
   },
   {
     "article": "Artículo 53.- Sistema de seguimiento y evaluación de medidas cautelares",
@@ -6859,7 +7267,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART53",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 33",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "294",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 33,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 33",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 54.- Financiamiento",
@@ -6887,7 +7315,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART54",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 34",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "295",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 34,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 34",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 55.- Medidas de privación de libertad",
@@ -6910,7 +7358,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART55",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 35",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "296",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 35,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 35",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 56.- Reinserción y reintegración social integral con enfoque de género",
@@ -6933,7 +7401,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART56",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 36",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "297",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 36,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 36",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 57.- Establecimientos penitenciarios",
@@ -6956,7 +7444,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART57",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 37",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "298",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 37,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 37",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 58.- Tribunales de ejecución y enfoque de género",
@@ -6979,7 +7487,27 @@
       "Gallardo, Bessy"
     ],
     "article_uid": "C6_GEN1_ART58",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 38",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "301",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 38,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 38",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 59.- Tribunales Militares",
@@ -7006,7 +7534,305 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART59",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "comment": "Se eliminó tras votación",
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 40",
+    "text": "Deber del Estado Plurinacional. El Estado Plurinacional de Chile debe respetar, garantizar y promover los sistemas jurídicos indígenas con perspectiva de género y de forma descentralizada, esto a través de la creación de tribunales indígenas.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART40",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 24",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "De los sistemas jurídicos de los pueblos y naciones indígenas. Los pueblos y naciones indígenas tienen derecho a conservar, fortalecer y desarrollar sus sistemas jurídicos, que comprenden sus autoridades, instituciones, derecho propio y funciones jurisdiccionales, con pleno respeto a los derechos humanos y de la naturaleza interpretados con enfoque intercultural.\n Es deber del Estado respetar, garantizar y promover los sistemas jurídicos indígenas.",
+        "number": "317",
+        "authors_matched": [
+          "Llanquileo, Natividad",
+          "Jimenez, Luis"
+        ],
+        "target_article": 40,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX: De los sistemas jurídicos de los pueblos y naciones indígenas. Los pueblos y naciones indígenas tienen derecho a conservar, fortalecer y desarrollar sus sistemas jurídicos, que comprenden sus autoridades, instituciones, derecho propio y funciones jurisdiccionales, con pleno respeto a los derechos humanos y de la naturaleza interpretados con enfoque intercultural. Es deber del Estado respetar, garantizar y promover los sistemas jurídicos indígenas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 40 A",
+    "text": "Del Pluralismo Jurídico. Para los efectos del pluralismo jurídico reconocido por esta Constitución y las leyes a los Pueblos Naciones originarias, se entiende incorporado también los pueblos tribales, en particular, el Pueblo Tribal Afrodescendiente Chileno.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART40A",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 40 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "321",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 40,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 40 A y 40 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 40 B",
+    "text": "Derechos de pueblos y naciones preexistentes. Los pueblos y naciones preexistentes al Estado tienen derecho a fortalecer, promover, desarrollar y mantener sus instituciones propias, tradiciones, derecho propio, procedimientos, prácticas, costumbres y sistemas propios de administración de justicia, que constituirán sistemas jurídicos especiales y autónomos que coexisten con el ordenamiento jurídico común del Estado, de conformidad a los tratados e instrumentos internacionales de derechos humanos que amparan a los pueblos indígenas. La función jurisdiccional del Estado debe organizarse, en su estructura, integración y procedimiento, conforme a los principios de plurinacionalidad, pluralismo jurídico e interculturalidad, velando por una adecuada coordinación entre el sistema nacional y las jurisdicciones indígenas que garantice el pleno respeto al derecho a la libre determinación y los estándares internacionales de derechos humanos que amparan a todas las personas. En las resoluciones y razonamientos de los tribunales de justicia que involucren a personas indígenas se deberán considerar los principios, garantías y derechos consignados en los tratados e instrumentos internacionales de derechos humanos, y en los tratados y pactos celebrados por los pueblos con la corona española y la República de Chile. Cuando se impongan sanciones penales a personas indígenas, deberá tenerse en cuenta sus características económicas, sociales y culturales, privilegiando medidas que no impliquen la privación de libertad, y cuando ello no sea posible, los sistemas intrapenitenciarios deben garantizar condiciones que permitan ejercer el derecho a vivir conforme a su propia cultura. Los órganos del Estado deben promover la defensa de los derechos e intereses de los pueblos y naciones indígenas preexistentes al Estado, otorgando asistencia jurídica especializada, intérpretes y facilitadores interculturales. La Defensoría del Pueblo deberá velar por los derechos de los pueblos indígenas y la naturaleza, ejerciendo las acciones necesarias para su garantía, efectiva protección y reparación.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART40B",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 40 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "321",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 40,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 40 A y 40 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 40 C",
+    "text": "Del Pluralismo Jurídico. El Estado reconoce el pluralismo jurídico y el derecho propio de las Primeras Naciones de acuerdo a sus instituciones y autoridades. Una ley, debidamente consultada, reconocerá las estructuras y autoridades jurisdiccionales competentes de las naciones originarias, y determinará el ámbito de sus competencias.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART40C",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 40 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "329",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 40,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 40 C",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 41",
+    "text": "Derecho de individuos de pueblos y naciones originarias. Los individuos pertenecientes a pueblos y naciones originarias preexistentes tienen derecho a acceder a un proceso judicial en la justicia ordinaria, a la tutela efectiva de sus derechos, a la pronta resolución de los conflictos y a la reparación efectiva de los daños causados con pleno respeto al derecho propio de los pueblos, las costumbres y prácticas.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART41",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 25",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Coordinación y cooperación. El Estado, con consentimiento de los pueblos, establecerá los mecanismos de coordinación entre las jurisdicciones indígenas y las entidades estatales; las distintas formas de cooperación; los requisitos, procedimientos y efectos de la acción de competencia y del recurso de revisión, el auxilio de la fuerza pública para la ejecución de las decisiones de la jurisdicción indígena y las demás materias necesarias para su implementación.\n Las partes siempre podrán ejercer una acción de competencia cuando consideren que su caso debe ser conocido por una sede jurisdiccional distinta.",
+        "number": "331",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid"
+        ],
+        "target_article": 41,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX.- Coordinación y cooperación. El Estado, con consentimiento de los pueblos, establecerá los mecanismos de coordinación entre las jurisdicciones indígenas y las entidades estatales; las distintas formas de cooperación; los requisitos, procedimientos y efectos de la acción de competencia y del recurso de revisión, el auxilio de la fuerza pública para la ejecución de las decisiones de la jurisdicción indígena y las demás materias necesarias para su implementación. Las partes siempre podrán ejercer una acción de competencia cuando consideren que su caso debe ser conocido por una sede jurisdiccional distinta.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 25",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Coordinación y cooperación. El Estado, con consentimiento de los pueblos, establecerá los mecanismos de coordinación entre las jurisdicciones indígenas y las entidades estatales; las distintas formas de cooperación; los requisitos, procedimientos y efectos de la acción de competencia y del recurso de revisión, el auxilio de la fuerza pública para la ejecución de las decisiones de la jurisdicción indígena y las demás materias necesarias para su implementación.\n Las partes siempre podrán ejercer una acción de competencia cuando consideren que su caso debe ser conocido por una sede jurisdiccional distinta.\n El derecho de las personas para optar por un sistema de justicia indígena propio o por el sistema nacional de justicia se determinará conforme a las reglas que establezca la ley.",
+        "number": "334",
+        "authors_matched": [
+          "Daza, Mauricio"
+        ],
+        "target_article": 41,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El derecho de las personas para optar por un sistema de justicia indígena propio o por el sistema nacional de justicia se determinará conforme a las reglas que establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": "como nuevo inciso final"
+      }
+    ]
+  },
+  {
+    "article": "Artículo 42",
+    "text": "Autoridades indígenas. Las autoridades tradicionales de los pueblos originarios tendrán la misma validez que otras autoridades nacionales. Cada pueblo indígena es autónomo en determinar sus autoridades, funciones y mecanismos de elección. El Estado no podrá ejercer acciones u omisiones que puedan desvirtuar la naturaleza de las autoridades indígenas.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART42",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 26",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Del recurso de revisión de los actos de la jurisdicción indígena. Las decisiones de la jurisdicción indígena sólo serán revisables por el tribunal de integración plurinacional que establezca la ley, a través de un recurso de revisión por vulneración de derechos humanos consagrados en la Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los cuales Chile es parte.\n De constatarse la vulneración, el tribunal dictará una sentencia que reemplace la decisión en base a una perspectiva intercultural con el fin de maximizar la protección de derechos individuales y colectivos.",
+        "number": "337",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid"
+        ],
+        "target_article": 42,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX.- Del recurso de revisión de los actos de la jurisdicción indígena. Las decisiones de la jurisdicción indígena sólo serán revisables por el tribunal de integración plurinacional que establezca la ley, a través de un recurso de revisión por vulneración de derechos humanos consagrados en la Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los cuales Chile es parte. De constatarse la vulneración, el tribunal dictará una sentencia que reemplace la decisión en base a una perspectiva intercultural con el fin de maximizar la protección de derechos individuales y colectivos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 43",
+    "text": "Consagración de la jurisdicción indígena.- Los pueblos y naciones indígenas preexistentes al Estado tienen derecho a recuperar, promover, administrar, ejercer, crear y desarrollar sus sistemas jurídicos, que comprenden los sistemas normativos, instituciones y jurisdicciones propias, que gozan de la misma jerarquía que el sistema común del Estado de conformidad al derecho internacional de los derechos humanos de los pueblos indígenas. Los actos y decisiones adoptadas en ejercicio de la jurisdicción indígena producen autoridad y efecto de cosa juzgada, y deben ser acatados por toda persona, órgano o autoridad, pudiendo requerir el auxilio de la fuerza pública para su ejecución. El Estado Plurinacional debe respetar, garantizar y promover los sistemas jurídicos indígenas.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART43",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 43",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "340",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid"
+        ],
+        "target_article": 43,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 43, 43 A, 43 B, 43 C y 44",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 43 A",
+    "text": "Jurisdicción indígena. Una jurisdicción especializada indígena, de aplicación voluntaria, administrará justicia conforme el derecho propio, cosmovisión, valores y principios de cada pueblo originario, sin más límites que los previstos en la Constitución y los tratados internacionales sobre derechos humanos. El sistema de justicia nacional trabajará en coordinación con el sistema de justicia indígena.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART43A",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 43 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "340",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid"
+        ],
+        "target_article": 43,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 43, 43 A, 43 B, 43 C y 44",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 43 B",
+    "text": "Derecho a un Sistema de Justicia. La nueva constitución deberá reconocer los distintos modelos de entendimiento de hacer justicia en los territorios originarios. Se deberá reconocer los principios del derecho consuetudinario, los instrumentos, procedimiento y aplicación de la normativa legal, deberán atender los aspectos interculturales de las manifestaciones, tradiciones y costumbres de los pueblos originarios. En aquellos pueblos originarios que existan modelos propios de administrar justicia, estos deberán ser reconocidos y pasara hacer parte del modelo de justicia del estado chileno. Las instituciones de justicia deberán tener funcionarios capacitados para aplicar y hacer funcionar las leyes conforme a una sociedad intercultural. Los pueblos originarios tienen el derecho de manifestarse y de reproducir su legado ancestral, social y cultural, sus creencias religiosas, sus costumbres y tradiciones, sobre la base de su propia cosmovisión. Gozaran el derecho a mantener su identidad, reproducirla y conservarla, incluso a materializarla en la cédula de identidad que otorga el estado chileno. Derechos a repatriar nuestros ancestros que permanecen fuera de nuestro país y fuera de nuestro pueblo. Derecho de que los ajuares vuelvan a su lugar de origen como, paquetes mortuorios, pequeños cuerpos de nonatos. El derecho fundamental de volver los cuerpos que están actualmente en laboratorios que podamos volver a enterrarlos en la madre tierra. Derechos sobre nuestra Semilla ancestral. Siempre han sido nuestras que no sean intervenidas con químicos o especies dañinas para el ser humano, somos semillas y somos parte de ellas.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART43B",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 43 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "340",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid"
+        ],
+        "target_article": 43,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 43, 43 A, 43 B, 43 C y 44",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 60.- Sobre la jurisdicción indígena",
@@ -7026,7 +7852,32 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART60",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 44",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "340",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid"
+        ],
+        "target_article": 43,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 43, 43 A, 43 B, 43 C y 44",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 61.- Tribunal especial",
@@ -7046,7 +7897,9 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART61",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "comment": "Se eliminó tras votación",
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 62.- Garantía de acceso a la justicia intercultural",
@@ -7066,7 +7919,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART62",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 46",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "368",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 46,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 46",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 63.- Deber estatal de brindar una justicia intercultural",
@@ -7086,7 +7965,170 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART63",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 47",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "372",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 47,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 47",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 48",
+    "text": "Sistema de justicia y derecho propio. El pueblo mapuche administrará su sistema de Justicia, y aplicará su Derecho propio, a través de sus normas y procedimientos tradicionales, en atención al principio de pluralismo jurídico y sin perjuicio de los derechos fundamentales reconocidos en la presente Constitución. El Az Mapu y el sistema de Justicia mapuche pondrá especial énfasis en la prevención de conductas antijurídicas, procurando la rectitud en el comportamiento colectivo y personal, en atención a los modelos o estándares de kimche, norche, kümeche y newenche.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART48",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 48",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "378",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Harboe, Felipe",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Título Justicia Mapuche y artículos 48, 49, 50 y 51",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 49",
+    "text": "Costumbre del pueblo mapuche. La costumbre del pueblo mapuche, en cuanto fuente de Derecho y dentro de los ámbitos establecidos en esta Constitución, tendrá el mismo nivel y valor que la ley. Podrá ser invocada y aplicada por los cualquiera de los tribunales integrantes del Poder Judicial, incluidos los tribunales mapuche.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART49",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 49",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "378",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Harboe, Felipe",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Título Justicia Mapuche y artículos 48, 49, 50 y 51",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 50",
+    "text": "Tribunales mapuche. El Estado promoverá y establecerá los tribunales mapuche. El territorio, imperio, materias y personas sobre las cuales se ejercerá la jurisdicción de los tribunales mapuche se determinará en base a lo dispuesto en la presente Constitución y las leyes, en colaboración con los demás tribunales integrantes del Poder Judicial, y la normativa sobre coordinación y resolución de conflictos de competencia.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART50",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 50",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "378",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Harboe, Felipe",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Título Justicia Mapuche y artículos 48, 49, 50 y 51",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 51",
+    "text": " Cumplimiento de decisiones de tribunales mapuches. Toda persona o autoridad pública deberá acatar y respetar las decisiones de los tribunales mapuche, bajo las sanciones señaladas en el Estatuto Autonómico, la presente Constitución y la legislación dictada conforme a ella. Para el cumplimiento de las decisiones de la jurisdicción mapuche y la aplicación de las penas, sus autoridades podrán exhortar el apoyo de los órganos competentes del Estado chileno.",
+    "sources": [],
+    "authors": [],
+    "article_uid": "C6_X_ART51",
+    "timestamp": "NA",
+    "history": [
+      {
+        "article": "Artículo 51",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "378",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Woldarsky, Manuel",
+          "Royo, Manuela",
+          "Gutierrez, Hugo",
+          "Villena, Ingrid",
+          "Harboe, Felipe",
+          "Bown, Carol",
+          "Hurtado, Ruth"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Título Justicia Mapuche y artículos 48, 49, 50 y 51",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 64.- El Consejo Supremo de Justicia",
@@ -7113,7 +8155,30 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART64",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 27",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Consejo de la Justicia. El Consejo de la Justicia es un órgano autónomo, técnico, paritario y plurinacional, con personalidad jurídica y patrimonio propio, cuya finalidad es fortalecer la independencia judicial. Está encargado del nombramiento, gobierno, gestión, formación y disciplina en el Sistema Nacional de Justicia.\n En el ejercicio de sus atribuciones debe considerar el principio de no discriminación, la inclusión, paridad de género, equidad territorial y plurinacionalidad.",
+        "number": "408",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 52,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX. Consejo de la Justicia. El Consejo de la Justicia es un órgano autónomo, técnico, paritario y plurinacional, con personalidad jurídica y patrimonio propio, cuya finalidad es fortalecer la independencia judicial. Está encargado del nombramiento, gobierno, gestión, formación y disciplina en el Sistema Nacional de Justicia. En el ejercicio de sus atribuciones debe considerar el principio de no discriminación, la inclusión, paridad de género, equidad territorial y plurinacionalidad.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 64 A.- Consejo de la Justicia",
@@ -7136,7 +8201,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART64A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 52 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "409",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 52,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 52 A, 52 B y 53",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 64 B.- Gobierno Judicial",
@@ -7156,7 +8247,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART64B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 52 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "409",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 52,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 52 A, 52 B y 53",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 65. Dirección y Control de la gestión judicial",
@@ -7176,7 +8293,33 @@
       "Olivares, Ivanna"
     ],
     "timestamp": "01-25",
-    "article_uid": "C6_GEN1_ART65"
+    "article_uid": "C6_GEN1_ART65",
+    "history": [
+      {
+        "article": "Artículo 53",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "409",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 52,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 52 A, 52 B y 53",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 66.- Funciones del Consejo Nacional de la Jurisdicción",
@@ -7201,7 +8344,30 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART66",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 54",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia:\n a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley,\n c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley.\n d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.\n e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.\n f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.\n g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.\n h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.\n i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.\n j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local.\n l) Las demás que encomiende esta Constitución y las leyes.",
+        "number": "421",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX.- Atribuciones del Consejo de la Justicia. Son atribuciones del Consejo de la Justicia: a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia. b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesta en esta Constitución y la ley, c) Efectuar una revisión integral de todos los tribunales del sistema nacional de justicia, en conformidad a lo establecido en esta Constitución y la ley. d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia. e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia. f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia. g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción. h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente. i) Velar por la formación, capacitación, habilitación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo. j) Dictar instrucciones relativas a la organización, gestión y debido funcionamiento judicial. Estas instrucciones podrán tener un alcance nacional, regional o local. l) Las demás que encomiende esta Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 66 A.- Funciones",
@@ -7228,7 +8394,33 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART66A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 54 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "428",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 54 A, 54 B, 54 C, 54 D y 54 E",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 66 B.- Funciones [y composición]",
@@ -7249,7 +8441,33 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART66B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 54 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "428",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 54 A, 54 B, 54 C, 54 D y 54 E",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 66 C.- Atribuciones del Consejo Supremo de Justicia",
@@ -7276,7 +8494,33 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART66C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 54 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "428",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 54 A, 54 B, 54 C, 54 D y 54 E",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 66 D.- Funciones del Consejo de la Justicia",
@@ -7299,7 +8543,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART66D",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 54 D",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "428",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 54 A, 54 B, 54 C, 54 D y 54 E",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 66 E.- Funciones y Competencias del CNJ",
@@ -7319,7 +8589,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART66E",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 54 E",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "428",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 54 A, 54 B, 54 C, 54 D y 54 E",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 67.- Integración",
@@ -7344,7 +8640,30 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART67",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 29",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Composición del Consejo de la Justicia. El Consejo de la Justicia se compone por diecisiete integrantes elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial, conforme a la siguiente integración:\n a) Seis integrantes serán juezas o jueces titulares elegidos por sus pares.\n b) Tres integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares.\n c) Dos integrantes elegidos por los pueblos originarios.\n d) Seis integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública.\n Las y los integrantes del Consejo de la Justicia señalados en las letras d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. En los demás casos los integrantes deberán contar con las competencias necesarias para el ejercicio del cargo.\n Las y los integrantes del Consejo de la Justicia durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley.",
+        "number": "459",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX. Composición del Consejo de la Justicia. El Consejo de la Justicia se compone por diecisiete integrantes elegidos de acuerdo a criterios de paridad de género, plurinacionalidad y equidad territorial, conforme a la siguiente integración: a) Seis integrantes serán juezas o jueces titulares elegidos por sus pares. b) Tres integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares. c) Dos integrantes elegidos por los pueblos originarios. d) Seis integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública. Las y los integrantes del Consejo de la Justicia señalados en las letras d) deberán ser profesionales con a lo menos diez años del título correspondiente, que se hubieren destacado en la actividad profesional, académica o en la función pública. En los demás casos los integrantes deberán contar con las competencias necesarias para el ejercicio del cargo. Las y los integrantes del Consejo de la Justicia durarán seis años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades cada tres años de conformidad a lo establecido por la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 67 A.- Composición y duración del cargo",
@@ -7371,7 +8690,33 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART67A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 55 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "469",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 55 A, 55 B, 55 C, 55 D, 55 E y 56",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 67 B.- De la composición e integración del Consejo Supremo de Justicia",
@@ -7398,7 +8743,33 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART67B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 55 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "469",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 55 A, 55 B, 55 C, 55 D, 55 E y 56",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 67 C.- Composición y duración del cargo",
@@ -7419,7 +8790,33 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART67C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 55 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "469",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 55 A, 55 B, 55 C, 55 D, 55 E y 56",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 67 D.- Dirección del Consejo de la Justicia",
@@ -7442,7 +8839,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART67D",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 55 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "469",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 55 A, 55 B, 55 C, 55 D, 55 E y 56",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 67 E.- Composición del CNJ",
@@ -7462,7 +8885,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART67E",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 55 E",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "469",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 55 A, 55 B, 55 C, 55 D, 55 E y 56",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 68.- Requisitos",
@@ -7489,7 +8938,33 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART68",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 56",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "469",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 55,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 55 A, 55 B, 55 C, 55 D, 55 E y 56",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 68 A.- Requisitos",
@@ -7516,7 +8991,34 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART68A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 56 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "515",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 56 A, 56 B, 56 C y 56 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 68 B.- Requisitos",
@@ -7537,7 +9039,34 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART68B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 56 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "515",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 56 A, 56 B, 56 C y 56 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 68 C.- Requisitos",
@@ -7560,7 +9089,34 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART68C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 56 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "515",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 56 A, 56 B, 56 C y 56 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 68 D.- De los requisitos para ser elegido",
@@ -7580,7 +9136,34 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART68D",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 56 D",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "515",
+        "authors_matched": [
+          "Cruz, Andres",
+          "Laibe, Tomas",
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 56 A, 56 B, 56 C y 56 D",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 69.- Funcionamiento",
@@ -7607,7 +9190,30 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART69",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 30",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Funcionamiento del Consejo de la Justicia. El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución.\n El Consejo se organizará descentralizadamente, desplegándose a través de administradores zonales.\n La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.",
+        "number": "528",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 57,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX. Funcionamiento del Consejo de la Justicia. El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio, con las excepciones que establezca esta Constitución. El Consejo se organizará descentralizadamente, desplegándose a través de administradores zonales. La ley determinará la organización, funcionamiento, procedimientos de elección de integrantes del Consejo y fijará la planta, régimen de remuneraciones y estatuto de su personal.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 69 A.- Funcionamiento",
@@ -7630,7 +9236,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART69A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 57 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "529",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 57,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 57 A y 57 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 69 B.- Funcionamiento del CNJ",
@@ -7650,7 +9282,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART69B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 57 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "529",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 57,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 57 A y 57 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 70.- Incompatibilidades",
@@ -7675,7 +9333,30 @@
       "Schonhaut, Constanza"
     ],
     "article_uid": "C6_GEN1_ART70",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 31",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Inhabilidades e incompatibilidades. Las y los consejeros no podrán ejercer otra función o empleo, sea o no remunerado, con exclusión de las actividades académicas. Tampoco podrán concursar para ser designados en cargos judiciales hasta transcurrido un año desde que cesen en sus funciones. La ley podrá establecer otras incompatibilidades en el ejercicio del cargo.\n Las y los consejeros indicados en las letras a y b del artículo [Artículo XX. Composición del Consejo de la Justicia] se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.",
+        "number": "537",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX. Inhabilidades e incompatibilidades. Las y los consejeros no podrán ejercer otra función o empleo, sea o no remunerado, con exclusión de las actividades académicas. Tampoco podrán concursar para ser designados en cargos judiciales hasta transcurrido un año desde que cesen en sus funciones. La ley podrá establecer otras incompatibilidades en el ejercicio del cargo. Las y los consejeros indicados en las letras a y b del artículo [Artículo XX. Composición del Consejo de la Justicia] se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 70 A.- Incompatibilidades",
@@ -7702,7 +9383,33 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART70A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 58 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 70 B.- Incompatibilidades",
@@ -7723,7 +9430,33 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART70B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 58 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 70 C.- Incompatibilidades",
@@ -7746,7 +9479,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART70C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 58 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 70 D.- Inhabilidades e incompatibilidades",
@@ -7766,7 +9525,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART70D",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 58 D",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 71.- Prohibiciones establecidas a los consejeros",
@@ -7786,7 +9571,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART71",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 59",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 72.- Presidente",
@@ -7813,7 +9624,33 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART72",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 60",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 72 A.- Presidente del CNJ",
@@ -7833,7 +9670,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART72A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 60 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "538",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 58 A, 58 B, 58 C, 58 D, 59, 60 y 60 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 73.- Sobre las causales de cesación de quienes integran el Consejo Supremo de Justicia",
@@ -7860,7 +9723,30 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART73",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 32",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Sobre las causales de cesación de quienes integran el Consejo de la Justicia. Las y los integrantes del Consejo cesarán en su cargo al término de su período, por cumplir setenta años de edad, por remoción, renuncia, incapacidad física o mental sobreviniente o condena por delito que merezca pena aflictiva.\n Tanto la renuncia como la incapacidad sobreviniente deberá ser aceptada por el Consejo.\n El proceso de remoción será determinado por la ley, respetando todas las garantías de un debido proceso.",
+        "number": "559",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX.- Sobre las causales de cesación de quienes integran el Consejo de la Justicia. Las y los integrantes del Consejo cesarán en su cargo al término de su período, por cumplir setenta años de edad, por remoción, renuncia, incapacidad física o mental sobreviniente o condena por delito que merezca pena aflictiva. Tanto la renuncia como la incapacidad sobreviniente deberá ser aceptada por el Consejo. El proceso de remoción será determinado por la ley, respetando todas las garantías de un debido proceso.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 73 A.- Cesación en el cargo",
@@ -7881,7 +9767,31 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART73A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 61 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "560",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 61 A, 61 B y 62",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 73 B.- Remoción",
@@ -7904,7 +9814,31 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART73B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 61 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "560",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 61 A, 61 B y 62",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 74.- Principios en los nombramientos judiciales",
@@ -7942,7 +9876,31 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART74",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Artículo 62",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "560",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículo 61 A, 61 B y 62",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 74 A. Bases generales del procedimiento de nombramiento",
@@ -7969,7 +9927,30 @@
       "Bacian, Wilfredo"
     ],
     "timestamp": "01-25",
-    "article_uid": "C6_GEN1_ART74A"
+    "article_uid": "C6_GEN1_ART74A",
+    "history": [
+      {
+        "article": "Articulo 33",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "De los nombramientos judiciales. El Consejo efectuará los nombramientos mediante concursos públicos regulados por la ley, los que incluirán audiencias públicas.\n Para acceder a un cargo de juez o jueza dentro del Sistema Nacional de Justicia se requerirá haber aprobado el curso de habilitación de la Academia Judicial para el ejercicio de la función jurisdiccional, contar con tres años de ejercicio de la profesión de abogado o abogada para el caso de tribunales de instancia, cinco años para el caso de las Cortes de Apelaciones y veinte años para el caso de la Corte Suprema y los demás requisitos que establezca la Constitución y la ley.",
+        "number": "569",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 62,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX. De los nombramientos judiciales. El Consejo efectuará los nombramientos mediante concursos públicos regulados por la ley, los que incluirán audiencias públicas. Para acceder a un cargo de juez o jueza dentro del Sistema Nacional de Justicia se requerirá haber aprobado el curso de habilitación de la Academia Judicial para el ejercicio de la función jurisdiccional, contar con tres años de ejercicio de la profesión de abogado o abogada para el caso de tribunales de instancia, cinco años para el caso de las Cortes de Apelaciones y veinte años para el caso de la Corte Suprema y los demás requisitos que establezca la Constitución y la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 74 B.- Nombramientos",
@@ -7989,7 +9970,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART74B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 62 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "573",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 62,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 62 B, 63 y 64",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 75.- Formación y Capacitación permanente",
@@ -8009,7 +10016,33 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART75",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 63",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "573",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 62,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 62 B, 63 y 64",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 76.- Justicia abierta",
@@ -8032,7 +10065,33 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C6_GEN1_ART76",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 64",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "573",
+        "authors_matched": [
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 62,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 62 B, 63 y 64",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 77.- Principio de responsabilidad administrativa",
@@ -8059,7 +10118,30 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART77",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 34",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "Potestad disciplinaria. Los procedimientos disciplinarios serán conocidos y resueltos por una comisión compuesta por cinco integrantes del Consejo elegidos por sorteo, decisión que será revisable por su Pleno a petición del afectado.\n La resolución del Consejo que ponga término al procedimiento será impugnable ante el órgano que establezca la Constitución. Las decisiones adoptadas conforme a los incisos anteriores, no podrán ser revisadas ni impugnadas ante otros órganos del Sistema Nacional de Justicia.",
+        "number": "586",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 65,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX. Potestad disciplinaria. Los procedimientos disciplinarios serán conocidos y resueltos por una comisión compuesta por cinco integrantes del Consejo elegidos por sorteo, decisión que será revisable por su Pleno a petición del afectado. La resolución del Consejo que ponga término al procedimiento será impugnable ante el órgano que establezca la Constitución. Las decisiones adoptadas conforme a los incisos anteriores, no podrán ser revisadas ni impugnadas ante otros órganos del Sistema Nacional de Justicia.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "Artículo 77 A.- Responsabilidad disciplinaria",
@@ -8080,7 +10162,31 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART77A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 65 A",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "589",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 65,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 65 A, 65 B, 65 C y 66",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 77 B.- Ejercicio de las potestades correccionales y disciplinarias del Consejo de la Justicia",
@@ -8107,7 +10213,31 @@
       "Bacian, Wilfredo"
     ],
     "article_uid": "C6_GEN1_ART77B",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 65 B",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "589",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 65,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 65 A, 65 B, 65 C y 66",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 77 C.- Procedimiento disciplinario",
@@ -8127,7 +10257,31 @@
       "Olivares, Ivanna"
     ],
     "article_uid": "C6_GEN1_ART77C",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 65 C",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "589",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 65,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 65 A, 65 B, 65 C y 66",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 78.- Responsabilidad penal",
@@ -8154,7 +10308,31 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART78",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 66",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "589",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 65,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 65 A, 65 B, 65 C y 66",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 79.- Presupuesto",
@@ -8181,7 +10359,31 @@
       "Cruz, Andres"
     ],
     "article_uid": "C6_GEN1_ART79",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 67",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "598",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 67,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 67 y 67 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 79 A.- Presupuesto",
@@ -8202,7 +10404,31 @@
       "Labra, Patricia"
     ],
     "article_uid": "C6_GEN1_ART79A",
-    "timestamp": "01-25"
+    "timestamp": "01-25",
+    "history": [
+      {
+        "article": "Articulo 67",
+        "timestamp": "03-07",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "598",
+        "authors_matched": [
+          "Daza, Mauricio",
+          "Villena, Ingrid",
+          "Laibe, Tomas",
+          "Royo, Manuela",
+          "Llanquileo, Natividad",
+          "Gutierrez, Hugo"
+        ],
+        "target_article": 67,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "artículos 67 y 67 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 1",
