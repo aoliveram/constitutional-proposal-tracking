@@ -7098,7 +7098,7 @@
     "article": "Artículo 24 bis",
     "timestamp": "04-01-1",
     "step": "Indicación",
-    "content_snapshot": "Los sistemas de justicia indígenas solo conocerán conflictos entre miembros de un mismo pueblo originario. Los afectados siempre tendrán la opción de someter el asunto al Sistema Nacional de Justicia.",
+    "text": "Los sistemas de justicia indígenas solo conocerán conflictos entre miembros de un mismo pueblo originario. Los afectados siempre tendrán la opción de someter el asunto al Sistema Nacional de Justicia.",
     "number": "39",
     "authors_matched": [
       "Daza, Mauricio"
@@ -13065,6 +13065,25 @@
       "Vilches, Carolina",
       "Woldarsky, Manuel",
       "Zarate, Camila"
+    ],
+    "history": [
+      {
+        "article": "Artículo 1",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Tribunales Ambientales. Los Tribunales Ambientales conocen y resuelven las acciones de impugnación de la legalidad de los actos administrativos que se pronuncien sobre materia ambiental, de la acción de Reparación por Daño Ambiental y de la Acción de Tutela Ambiental y de los Derechos de la Naturaleza.\n Habrá al menos un Tribunal Ambiental en cada Región del país y se constituirán de forma unipersonal. Para decidir los conflictos de su competencia, deberán tener en consideración los principios ambientales presentes en esta Constitución y los Tratados Internacionales ratificados y vigentes en materia ambiental.\n Las acciones para impugnar la legalidad de los actos administrativos que se pronuncien sobre materia ambiental, podrán interponerse directamente a los Tribunales Ambientales, sin que pueda exigirse el agotamiento previo de la vía administrativa.\n La ley dispondrá medidas especiales que posibiliten materialmente el acceso a la Justicia Ambiental a aquellas personas, grupos, comunidades o territorios vulnerables.",
+        "number": 1,
+        "authors_matched": [
+          "Hoppe, Vanessa",
+          "Royo, Manuela"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1.- Tribunales Ambientales. Los Tribunales Ambientales conocen y resuelven las acciones de impugnación de la legalidad de los actos administrativos que se pronuncien sobre materia ambiental, de la acción de Reparación por Daño Ambiental y de la Acción de Tutela Ambiental y de los Derechos de la Naturaleza. Habrá al menos un Tribunal Ambiental en cada Región del país y se constituirán de forma unipersonal. Para decidir los conflictos de su competencia, deberán tener en consideración los principios ambientales presentes en esta Constitución y los Tratados Internacionales ratificados y vigentes en materia ambiental. Las acciones para impugnar la legalidad de los actos administrativos que se pronuncien sobre materia ambiental, podrán interponerse directamente a los Tribunales Ambientales, sin que pueda exigirse el agotamiento previo de la vía administrativa. La ley dispondrá medidas especiales que posibiliten materialmente el acceso a la Justicia Ambiental a aquellas personas, grupos, comunidades o territorios vulnerables.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13092,6 +13111,25 @@
       "Vilches, Carolina",
       "Woldarsky, Manuel",
       "Zarate, Camila"
+    ],
+    "history": [
+      {
+        "article": "Artículo 2",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Mecanismos colaborativos en conflictos socioambientales. Es deber del Estado promover e implementar mecanismos colaborativos de gestión para la prevención y solución de conflictos socioambientales, garantizando el acceso gratuito e informado, para toda persona o comunidad afectada en el ejercicio de sus derechos ambientales.\n La ley asegurará la infraestructura, equipamiento e instalaciones necesarias para tal fin a nivel nacional y regional, junto con el asesoramiento profesional y técnico especializado para promover el diálogo entre todas las partes interesadas.",
+        "number": 3,
+        "authors_matched": [
+          "Hoppe, Vanessa",
+          "Royo, Manuela"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2.- Mecanismos colaborativos en conflictos socioambientales. Es deber del Estado promover e implementar mecanismos colaborativos de gestión para la prevención y solución de conflictos socioambientales, garantizando el acceso gratuito e informado, para toda persona o comunidad afectada en el ejercicio de sus derechos ambientales. La ley asegurará la infraestructura, equipamiento e instalaciones necesarias para tal fin a nivel nacional y regional, junto con el asesoramiento profesional y técnico especializado para promover el diálogo entre todas las partes interesadas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13119,6 +13157,41 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Articulo 3",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Del Ministerio Público. El Ministerio Público es un organismo autónomo, con personalidad jurídica y patrimonio propio que tiene como funciones dirigir en forma exclusiva la investigación de los hechos que pudiesen ser constitutivos de delito, los que determinen la participación punible y los que acrediten la inocencia del imputado.\n Ejercerá la acción penal pública en representación exclusiva de la sociedad, en la forma prevista por la ley. En dichas funciones deberá velar por el respeto y promoción de los derechos humanos, considerando también los intereses de la víctima, respecto de quienes deberá adoptar todas aquellas medidas que sean necesarias para protegerlas, al igual que a los testigos.\n Ninguna ley ni autoridad podrá en caso alguno impedir o establecer condiciones que entorpezcan el desarrollo de la investigación y el ejercicio de la acción penal pública cuando se trate de hechos que comprometan el interés público, el patrimonio de la nación o contra bienes jurídicos colectivos.\n En caso alguno podrá ejercer funciones jurisdiccionales.\n La víctima del delito y las demás personas que determine la ley podrán ejercer igualmente la acción penal.\n El Ministerio Público podrá impartir órdenes directas a las Fuerzas de Orden y Seguridad Pública para el ejercicio de sus funciones. La autoridad policial requerida deberá cumplir sin más trámite dichas órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición, a menos que ésta sea verbal, de la autorización judicial.\n Las actuaciones que amenacen, priven o perturben al imputado o a terceros del ejercicio de los derechos que esta Constitución asegura, requerirán siempre de autorización judicial previa y motivada.",
+        "number": 7,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 3.- Del Ministerio Público. El Ministerio Público es un organismo autónomo y jerarquizado, con personalidad jurídica y patrimonio propio que tiene como funciones dirigir en forma exclusiva la investigación de los hechos que pudiesen ser constitutivos de delito, los que determinen la participación punible y los que acrediten la inocencia del imputado. Ejercerá la acción penal pública en representación exclusiva de la sociedad, en la forma prevista por la ley. En dichas funciones deberá velar por el respeto y promoción de los derechos humanos, considerando también los intereses de la víctima, respecto de quienes deberá adoptar todas aquellas medidas que sean necesarias para protegerlas, al igual que a los testigos. Ninguna ley ni autoridad podrá en caso alguno impedir o establecer condiciones que entorpezcan el desarrollo de la investigación y el ejercicio de la acción penal pública cuando se trate de hechos que comprometan el interés público, el patrimonio de la nación o contra bienes jurídicos colectivos. En caso alguno podrá ejercer funciones jurisdiccionales. La víctima del delito y las demás personas que determine la ley podrán ejercer igualmente la acción penal. El Ministerio Público podrá impartir órdenes directas a las Fuerzas de Orden y Seguridad Pública para el ejercicio de sus funciones. La autoridad policial requerida deberá cumplir sin más trámite dichas órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición, a menos que ésta sea verbal, de la autorización judicial. Las actuaciones que amenacen, priven o perturben al imputado o a terceros del ejercicio de los derechos que esta Constitución asegura, requerirán siempre de autorización judicial previa y motivada.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "number": 10,
+        "authors_matched": [
+          "Logan, Rodrigo"
+        ],
+        "target_article": 3,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "y jerarquizado",
+        "content_to_remove": "",
+        "placement_instructions": "luego de la palabra “autónomo,”"
+      }
     ]
   },
   {
@@ -13140,7 +13213,47 @@
       "Royo, Manuela",
       "Videla, Carolina",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 3 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 14,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 3 A",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 3 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 15,
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 3 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 4",
@@ -13160,7 +13273,47 @@
       "Royo, Manuela",
       "Villena, Ingrid",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 4",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 19,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 4",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 4",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 20,
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 4",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 5",
@@ -13181,7 +13334,31 @@
       "Royo, Manuela",
       "Videla, Carolina",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 5",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 22,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 5",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 6",
@@ -13202,7 +13379,31 @@
       "Namor, Guillermo",
       "Politzer, Patricia",
       "Sepulveda, Carolina"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 6",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 24,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 6",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 7",
@@ -13229,7 +13430,31 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 7",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 25,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 7",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 7 A",
@@ -13250,7 +13475,31 @@
       "Royo, Manuela",
       "Videla, Carolina",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 7 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 38,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 7A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 8",
@@ -13277,6 +13526,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 4",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "De la organización y atribuciones del Ministerio Público. Una ley determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir las y los fiscales para su nombramiento y las causales de su remoción. Los fiscales cesarán en su cargo al cumplir los 70 años.\n Las autoridades superiores de la institución deberán siempre fundar aquellas órdenes e instrucciones dirigidas a los fiscales, que puedan afectar una investigación o el ejercicio de la acción penal.",
+        "number": 44,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 4.- De la organización y atribuciones del Ministerio Público. Una ley determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir las y los fiscales para su nombramiento y las causales de su remoción. Los fiscales cesarán en su cargo al cumplir los 70 años. Las autoridades superiores de la institución deberán siempre fundar aquellas órdenes e instrucciones dirigidas a los fiscales, que puedan afectar una investigación o el ejercicio de la acción penal.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13298,7 +13570,31 @@
       "Royo, Manuela",
       "Videla, Carolina",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 8 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 48,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 8 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Articulo 9",
@@ -13325,6 +13621,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 5",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "De la Fiscalía Regional. Existirá una Fiscalía Regional en cada región del país, sin perjuicio que la ley podrá establecer más de una por región.\n Las y los fiscales regionales deberán haberse desempeñado como fiscales adjuntos durante cinco o más años, no haber ejercido como fiscal regional, haber aprobado cursos de formación especializada y poseer las demás calidades que establezca la ley.\n Durarán cuatro años y una vez concluida su labor, podrán retornar a la función que ejercían en el Ministerio Público. No podrán ser reelectos ni postular nuevamente a fiscal regional.",
+        "number": 52,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9.- De la Fiscalía Regional. Existirá una Fiscalía Regional en cada región del país, sin perjuicio que la ley podrá establecer más de una por región. Las y los fiscales regionales deberán haberse desempeñado como fiscales adjuntos durante cinco o más años, no haber ejercido como fiscal regional, haber aprobado cursos de formación especializada y poseer las demás calidades que establezca la ley. Durarán cuatro años y una vez concluida su labor, podrán retornar a la función que ejercían en el Ministerio Público. No podrán ser reelectos ni postular nuevamente a fiscal regional.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13352,6 +13671,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 6",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Dirección del Ministerio Público. La dirección superior del Ministerio Público reside en un Consejo Superior, órgano colegiado, paritario, que designará de entre sus miembros a un presidente y a un director ejecutivo.",
+        "number": 59,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 5.- Dirección del Ministerio Público. La dirección superior del Ministerio Público reside en un Consejo Superior, órgano colegiado, paritario, que designará de entre sus miembros a un presidente y a un director ejecutivo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13373,6 +13715,29 @@
       "Royo, Manuela",
       "Videla, Carolina",
       "Woldarsky, Manuel"
+    ],
+    "history": [
+      {
+        "article": "Artículo 7",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo Superior del Ministerio Público. El Consejo estará compuesto por siete miembros, designados de la siguiente manera:\n a) Tres integrantes elegidos democráticamente por las y los fiscales entre sus pares.\n b) Un integrante elegido democráticamente por funcionarios y funcionarias del Ministerio Público entre sus pares.\n c) Tres integrantes elegidos por el Congreso plurinacional a partir de ternas elaboradas por el Consejo de Alta Dirección Pública. Los candidatos y candidatas no podrán haber desempeñado cargos de elección popular ni haber sido candidatos a ellos, así como tampoco podrán haber desarrollado funciones en el Gobierno o Administración del Estado en cargos que sean de exclusiva confianza del Presidente de la República, en los últimos cuatro años.\n La ley establecerá el procedimiento y los requisitos que deberán reunir los consejeros del Ministerio Público. Los consejeros durarán cuatro años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades en conformidad a lo que señale la ley.\n La calidad de consejero es incompatible con todo otro cargo o función sea o no remunerada, con excepción de la docencia universitaria con los límites que señale la ley.\n Las y los consejeros indicados en las letras a) y b) se entenderán suspendidos del ejercicio de su función mientras dure su cometido, pudiendo retornar al ejercicio de sus funciones una vez cumplido este desempeño.",
+        "number": 74,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 6.- Del Consejo Superior del Ministerio Público. El Consejo estará compuesto por siete miembros, designados de la siguiente manera: a) Tres integrantes elegidos democráticamente por las y los fiscales entre sus pares. b) Un integrante elegido democráticamente por funcionarios y funcionarias del Ministerio Público entre sus pares. c) Tres integrantes elegidos por el Congreso plurinacional a partir de ternas elaboradas por el Consejo de Alta Dirección Pública. Los candidatos y candidatas no podrán haber desempeñado cargos de elección popular ni haber sido candidatos a ellos, así como tampoco podrán haber desarrollado funciones en el Gobierno o Administración del Estado en cargos que sean de exclusiva confianza del Presidente de la República, en los últimos cuatro años. La ley establecerá el procedimiento y los requisitos que deberán reunir los consejeros del Ministerio Público. Los consejeros durarán cuatro años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades en conformidad a lo que señale la ley. La calidad de consejero es incompatible con todo otro cargo o función sea o no remunerada, con excepción de la docencia universitaria con los límites que señale la ley. Las y los consejeros indicados en las letras a) y b) se entenderán suspendidos del ejercicio de su función mientras dure su cometido, pudiendo retornar al ejercicio de sus funciones una vez cumplido este desempeño.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13400,6 +13765,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 8",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Atribuciones del Consejo Superior del Ministerio Público. El Consejo Superior del Ministerio Público tendrá las siguientes atribuciones:\n a) Dirigir el organismo, velando por el cumplimiento de sus objetivos;\n b) Determinar la política de gestión profesional de las y los funcionarios del Ministerio Público.\n c) Supervigilar la política de persecución penal adoptada por el Comité del Ministerio Público.\n d) Evaluar y calificar permanentemente el desempeño de las y los funcionarios.\n e) Designar a su presidente, a los fiscales regionales, fiscales adjuntos y demás funcionarios del Ministerio Público en conformidad a la ley.\n f) Ejercer la potestad disciplinaria respecto de las y los funcionarios, en conformidad a la ley.\n g) Definir las necesidades presupuestarias, gestionando los recursos para su adecuado funcionamiento.\n h) Las demás atribuciones que establezca la ley.",
+        "number": 79,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 7.- Atribuciones del Consejo Superior del Ministerio Público. El Consejo Superior del Ministerio Público tendrá las siguientes atribuciones: a) Dirigir el organismo, velando por el cumplimiento de sus objetivos; b) Determinar la política de gestión profesional de las y los funcionarios del Ministerio Público. c) Supervigilar la política de persecución penal adoptada por el Comité del Ministerio Público. d) Evaluar y calificar permanentemente el desempeño de las y los funcionarios. e) Designar a su presidente, a los fiscales regionales, fiscales adjuntos y demás funcionarios del Ministerio Público en conformidad a la ley. f) Ejercer la potestad disciplinaria respecto de las y los funcionarios, en conformidad a la ley. g) Definir las necesidades presupuestarias, gestionando los recursos para su adecuado funcionamiento. h) Las demás atribuciones que establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13427,6 +13815,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 9",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "El Presidente del Consejo. El Presidente del Consejo del Ministerio Público dirigirá las sesiones ordinarias y extraordinarias del órgano y representara a la institución ante los demás órganos del Estado, sin perjuicio de las demás atribuciones que señale la ley.",
+        "number": 85,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 12,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 8.- El Presidente del Consejo. El Presidente del Consejo del Ministerio Público dirigirá las sesiones ordinarias y extraordinarias del órgano y representara a la institución ante los demás órganos del Estado, sin perjuicio de las demás atribuciones que señale la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13454,6 +13865,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 10",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Del Comité del Ministerio Público. Existirá un Comité del Ministerio Público, compuesto por el Presidente del Consejo Superior y los fiscales regionales.\n El Comité deberá fijar la política de persecución penal y los criterios de actuación para el cumplimiento de dichos objetivos, debiendo siempre velar por la transparencia y objetividad, resguardando los intereses de la sociedad y el respeto de los derechos humanos.",
+        "number": 89,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 10.- Del Comité del Ministerio Público. Existirá un Comité del Ministerio Público, compuesto por el Presidente del Consejo Superior y los fiscales regionales. El Comité deberá fijar la política de persecución penal y los criterios de actuación para el cumplimiento de dichos objetivos, debiendo siempre velar por la transparencia y objetividad, resguardando los intereses de la sociedad y el respeto de los derechos humanos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13481,6 +13915,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 11",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Fiscales Adjuntos del Ministerio Público. Existirán fiscales adjuntos del Ministerio Público quienes ejercerán su labor autónomamente en los casos específicos que se les asignen, conforme a los límites establecidos en la Constitución y las leyes.",
+        "number": 92,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 11.- Fiscales Adjuntos del Ministerio Público. Existirán fiscales adjuntos del Ministerio Público quienes ejercerán su labor autónomamente en los casos específicos que se les asignen, conforme a los límites establecidos en la Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13502,7 +13959,52 @@
       "Royo, Manuela",
       "Videla, Carolina",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 15",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 100,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 15",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 15",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 102,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 15",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Articulo 16",
@@ -13529,7 +14031,52 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 16",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 101,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 16",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 16",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 102,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 16",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 17",
@@ -13556,7 +14103,31 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 17",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 102,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 17",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 18",
@@ -13583,6 +14154,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Artículo 12",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "De la rendición de cuentas. El Presidente del Consejo Superior del Ministerio Público y los fiscales regionales deberán rendir, anualmente, una cuenta pública de su gestión. En el caso del Presidente del Consejo Superior, se rendirá la cuenta ante el Congreso y en el caso de los fiscales regionales, ante la Asamblea Regional.",
+        "number": 108,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 12.- De la rendición de cuentas. El Presidente del Consejo Superior del Ministerio Público y los fiscales regionales deberán rendir, anualmente, una cuenta pública de su gestión. En el caso del Presidente del Consejo Superior, se rendirá la cuenta ante el Congreso y en el caso de los fiscales regionales, ante la Asamblea Regional.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13603,6 +14197,24 @@
       "Namor, Guillermo",
       "Royo, Manuela",
       "Woldarsky, Manuel"
+    ],
+    "history": [
+      {
+        "article": "Artículo 13",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a un proceso con todas las garantías. Toda persona tendrá derecho a un proceso razonable y justo, adecuado a sus fines, ante un tribunal competente, independiente e imparcial, establecido con anterioridad por la ley.\n El proceso sólo podrá ser regulado por la ley.\n Toda persona tiene derecho a un proceso en que se salvaguarden las garantías mínimas que se señalan en esta Constitución, sin perjuicio de las restantes garantías procesales que se establezcan en la ley y en los tratados internacionales que se encuentren vigentes y hayan sido ratificados por Chile.\n Toda persona tiene derecho a ser oída y juzgada en procesos o juicios que se resuelvan en un plazo razonable y sin dilaciones indebidas, en igualdad de condiciones y bilateralidad de la audiencia. Las resoluciones y sentencias judiciales que serán suficientemente motivadas, asegurándose el acceso a un recurso efectivo contra lo resuelto ante un tribunal de mayor grado jurisdiccional que determine la ley.\n Los actos procesales deben estar desprovistos de formalismos innecesarios. No se sacrificará la justicia por la sola omisión de formalidades no esenciales.\n Toda persona tendrá derecho a la defensa en la forma que la ley señale, sin que ninguna autoridad o individuo pueda impedirlo, restringirlo o perturbarlo indebidamente. En el ejercicio de este derecho se deberá garantizar la comunicación libre y privada con quien ejerza su defensa jurídica.\n La Constitución asegura a toda persona el derecho a ser asistida gratuitamente por un traductor, intérprete o facilitador, con el fin de que puedan acceder a toda la información e intervenir en el proceso, considerando todos los ajustes de procedimiento necesarios y adecuados a su persona.",
+        "number": 113,
+        "authors_matched": [
+          "Daza, Mauricio"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 19.- Derecho a un proceso con todas las garantías. Toda persona tendrá derecho a un proceso razonable y justo, adecuado a sus fines, ante un tribunal competente, independiente e imparcial, establecido con anterioridad por la ley. El proceso sólo podrá ser regulado por la ley. Toda persona tiene derecho a un proceso en que se salvaguarden las garantías mínimas que se señalan en esta Constitución, sin perjuicio de las restantes garantías procesales que se establezcan en la ley y en los tratados internacionales que se encuentren vigentes y hayan sido ratificados por Chile. Toda persona tiene derecho a ser oída y juzgada en procesos o juicios que se resuelvan en un plazo razonable y sin dilaciones indebidas, en igualdad de condiciones y bilateralidad de la audiencia. Las resoluciones y sentencias judiciales que serán suficientemente motivadas, asegurándose el acceso a un recurso efectivo contra lo resuelto ante un tribunal de mayor grado jurisdiccional que determine la ley. Los actos procesales deben estar desprovistos de formalismos innecesarios. No se sacrificará la justicia por la sola omisión de formalidades no esenciales. Toda persona tendrá derecho a la defensa en la forma que la ley señale, sin que ninguna autoridad o individuo pueda impedirlo, restringirlo o perturbarlo indebidamente. En el ejercicio de este derecho se deberá garantizar la comunicación libre y privada con quien ejerza su defensa jurídica. La Constitución asegura a toda persona el derecho a ser asistida gratuitamente por un traductor, intérprete o facilitador, con el fin de que puedan acceder a toda la información e intervenir en el proceso, considerando todos los ajustes de procedimiento necesarios y adecuados a su persona.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13624,7 +14236,26 @@
       "Politzer, Patricia",
       "Royo, Manuela",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Artículo 20",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 116,
+        "authors_matched": [
+          "Daza, Mauricio"
+        ],
+        "target_article": 20,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 20",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 21",
@@ -13645,7 +14276,88 @@
       "Politzer, Patricia",
       "Royo, Manuela",
       "Woldarsky, Manuel"
+    ],
+    "history": [
+      {
+        "article": "Artículo 14",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la asistencia jurídica. La Constitución asegura a todas las personas la asistencia jurídica en la forma que establece la ley. Ninguna autoridad, individuo o grupo podrá impedirla o restringirla si hubiera sido formalmente requerida. El Estado asegura la asesoría jurídica gratuita e íntegra por parte de abogadas y abogados habilitados para el ejercicio de la profesión, a toda persona que no pueda obtenerla por sí misma. La ley establecerá los medios para concretar este derecho.",
+        "number": 117,
+        "authors_matched": [
+          "Daza, Mauricio"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 21.- Derecho a la asesoría jurídica gratuita. Toda persona tiene derecho a la asesoría jurídica gratuita. El Estado asegura la asesoría jurídica gratuita e íntegra por parte de abogadas y abogados habilitados para el ejercicio de la profesión, a toda persona que no pueda obtenerla por sí misma. La ley establecerá los medios para concretar este derecho.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "article": "Artículo 14",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la asistencia jurídica. La Constitución asegura a todas las personas la asistencia jurídica en la forma que establece la ley. Ninguna autoridad, individuo o grupo podrá impedirla o restringirla si hubiera sido formalmente requerida. El Estado asegura la asesoría jurídica gratuita e íntegra por parte de abogadas y abogados habilitados para el ejercicio de la profesión, a toda persona que no pueda obtenerla por sí misma. La ley establecerá los medios para concretar este derecho.\n Asimismo, es deber del Estado otorgar asistencia jurídica especializada para la protección del interés superior de los niños, niñas y adolescentes, especialmente cuando estos han sido sujetos de medidas de protección, procurando crear todas las condiciones necesarias para el resguardo de sus derechos.",
+        "number": 144,
+        "authors_matched": [
+          "Labra, Patricia",
+          "Mayol, Luis",
+          "Bown, Carol",
+          "Hurtado, Ruth",
+          "Cozzi, Ruggero",
+          "Fontaine, Bernardo",
+          "Tepper, Maria Angelica",
+          "Silva, Luciano",
+          "Rebolledo, Barbara",
+          "Vega, Roberto",
+          "Ossandon, Manuel",
+          "Celis, Raul",
+          "De la Maza, Bernardo",
+          "Jurgensen, Harry",
+          "Monckeberg, Cristian",
+          "Larrain, Hernan"
+        ],
+        "target_article": 21,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Asimismo, es deber del Estado otorgar asistencia jurídica especializada para la protección del interés superior de los niños, niñas y adolescentes, especialmente cuando estos han sido sujetos de medidas de protección, procurando crear todas las condiciones necesarias para el resguardo de sus derechos.",
+        "content_to_remove": "",
+        "placement_instructions": "como inciso final"
+      }
     ]
+  },
+  {
+    "article_uid": "C6_IND04-01-2_ART15",
+    "timestamp": "04-01-2",
+    "article": "Articulo 15",
+    "text": "Garantías procesales penales. Toda persona imputada por un delito tiene derecho a las siguientes garantías mínimas:\n a) Ser presumido como inocente mientras no se pruebe su culpabilidad conforme a la ley.\n b) A ser informada sin demora, en una lengua o idioma que comprenda y en forma detallada de sus derechos, de la naturaleza y causas de la investigación seguida contra ella y de la acusación formulada en su contra.\n c) A estar presente en el juicio y a defenderse personalmente o ser asistido por un defensor de su elección. Tendrá derecho a ser asistida por un defensor proporcionado por el Estado, si no pudiere defenderse por sí misma, el cual será gratuito si carece de los medios suficientes para pagarlo.\n d) Formular las pretensiones, excepciones, alegaciones y defensas que estimare oportunas.\n e) A rendir las pruebas y contrastar efectivamente aquellas que le perjudiquen.\n f) A guardar silencio o, en caso de consentir en prestar declaración, no ser obligada a declarar contra sí misma ni a reconocer su culpabilidad.\n g) A impugnar de la sentencia en la forma y oportunidades establecidas en la ley, mediante un recurso accesible y eficaz.\n h) La persona condenada, absuelta o sobreseída definitivamente por sentencia ejecutoriada, no podrá ser sometida a un nuevo procedimiento, investigación o persecución penal por el mismo hecho.\n i) Queda prohibido todo método de investigación o de interrogación que menoscabe o coarte la libertad del imputado para declarar. En consecuencia, no podrá ser sometido a ninguna clase de coacción o amenaza.\n j) Las sanciones que se apliquen deberán ser siempre proporcionales a la infracción cometida.\n k) No podrá imponerse la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes.",
+    "number": 123,
+    "authors_matched": [
+      "Daza, Mauricio"
+    ],
+    "target_article": 21,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Artículo 21 bis.- Garantías procesales penales. Toda persona imputada por un delito tiene derecho a las siguientes garantías mínimas: a) Ser presumido como inocente mientras no se pruebe su culpabilidad conforme a la ley. b) A ser informada sin demora, en una lengua o idioma que comprenda y en forma detallada de sus derechos, de la naturaleza y causas de la investigación seguida contra ella y de la acusación formulada en su contra. c) A estar presente en el juicio y a defenderse personalmente o ser asistido por un defensor de su elección. Tendrá derecho a ser asistida por un defensor proporcionado por el Estado, si no pudiere defenderse por sí misma, el cual será gratuito si carece de los medios suficientes para pagarlo. d) Formular las pretensiones, excepciones, alegaciones y defensas que estimare oportunas. e) A rendir las pruebas y contrastar efectivamente aquellas que le perjudiquen. f) A guardar silencio o, en caso de consentir en prestar declaración, no ser obligada a declarar contra sí misma ni a reconocer su culpabilidad. g) A impugnar de la sentencia en la forma y oportunidades establecidas en la ley, mediante un recurso accesible y eficaz. h) La persona condenada, absuelta o sobreseída definitivamente por sentencia ejecutoriada, no podrá ser sometida a un nuevo procedimiento, investigación o persecución penal por el mismo hecho. i) Queda prohibido todo método de investigación o de interrogación que menoscabe o coarte la libertad del imputado para declarar. En consecuencia, no podrá ser sometido a ninguna clase de coacción o amenaza. j) Las sanciones que se apliquen deberán ser siempre proporcionales a la infracción cometida. k) No podrá imponerse la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes.",
+    "content_to_remove": "",
+    "placement_instructions": "a continuación del artículo 21"
+  },
+  {
+    "article_uid": "C6_IND04-01-2_ART16",
+    "timestamp": "04-01-2",
+    "article": "Articulo 16",
+    "text": "Del principio de legalidad de los delitos y las penas. Ninguna persona podrá ser perseguida, castigada penalmente u objeto de una medida de seguridad penal, sino en virtud de una ley propiamente tal que haya entrado en vigor con anterioridad a la perpetración del hecho, salvo que posteriormente entre en vigencia una nueva ley favorable para el imputado.\n La ley no podrá castigar ningún hecho sin que la conducta que constituye su núcleo esté expresa y determinadamente contemplada en ella.",
+    "number": 124,
+    "authors_matched": [
+      "Daza, Mauricio"
+    ],
+    "target_article": 21,
+    "target_scope": "INCISO",
+    "action": "ADD",
+    "content": "Artículo 21 ter.- Del principio de legalidad de los delitos y las penas. Ninguna persona podrá ser perseguida, castigada penalmente u objeto de una medida de seguridad penal, sino en virtud de una ley propiamente tal que haya entrado en vigor con anterioridad a la perpetración del hecho, salvo que posteriormente entre en vigencia una nueva ley favorable para el imputado. La ley no podrá castigar ningún hecho sin que la conducta que constituye su núcleo esté expresa y determinadamente contemplada en ella.",
+    "content_to_remove": "",
+    "placement_instructions": "a continuación del artículo 21 bis"
   },
   {
     "article": "Artículo 22",
@@ -13672,6 +14384,25 @@
       "Vallejos, Loreto",
       "Vidal, Rossana",
       "Villena, Ingrid"
+    ],
+    "history": [
+      {
+        "article": "Articulo 17",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Servicio Integral de Acceso a la Justicia. Un organismo autónomo, de carácter técnico, con personalidad jurídica y patrimonio propio, denominado Servicio Integral de Acceso a la Justicia, tendrá por función prestar asesoría, defensa y representación jurídica letrada de calidad, así como también brindar apoyo profesional de tipo psicológico y social en los casos que corresponda.\n El Servicio Integral de Acceso a la Justicia estará estructurado por las áreas de atención que establezca su ley, la cual deberá considerar a lo menos, áreas de asuntos civiles y de consumo, de defensa laboral, de asuntos de las familias, de contencioso administrativo, de personas mayores, de derechos humanos, de medio ambiente y de defensa de víctimas penales.\n En lo demás, la composición, organización, funciones y atribuciones del Servicio Integral de Acceso a la Justicia será determinada por la ley, considerando criterios de paridad y equidad territorial.",
+        "number": 143,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 22.- Servicio Integral de Acceso a la Justicia. Un organismo autónomo, de carácter técnico, con personalidad jurídica y patrimonio propio, denominado Servicio Integral de Acceso a la Justicia, tendrá por función prestar asesoría, defensa y representación jurídica letrada de calidad, así como también brindar apoyo profesional de tipo psicológico y social en los casos que corresponda. El Servicio Integral de Acceso a la Justicia estará estructurado por las áreas de atención que establezca su ley, la cual deberá considerar a lo menos, áreas de asuntos civiles y de consumo, de defensa laboral, de asuntos de las familias, de contencioso administrativo, de personas mayores, de derechos humanos, de medio ambiente y de defensa de víctimas penales. En lo demás, la composición, organización, funciones y atribuciones del Servicio Integral de Acceso a la Justicia será determinada por la ley, considerando criterios de paridad y equidad territorial.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
     ]
   },
   {
@@ -13691,7 +14422,9 @@
       "Harboe, Felipe",
       "Logan, Rodrigo",
       "Squella, Agustin"
-    ]
+    ],
+    "comment": "Se eliminó tras votación",
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 24",
@@ -13713,6 +14446,29 @@
       "Sepulveda, Barbara",
       "Sepulveda, Carolina",
       "Videla, Carolina"
+    ],
+    "history": [
+      {
+        "article": "Articulo 18",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "De la Defensoría Penal Pública. La Defensoría Penal Pública es un organismo autónomo, con personalidad jurídica y patrimonio propio, que tiene por función proporcionar defensa penal a los imputados por hechos que pudiesen configurar un delito que deban ser conocidos por los tribunales con competencia en lo penal, desde la primera actuación de la investigación dirigida en su contra y hasta la completa ejecución de la pena que le haya sido impuesta, y que carezcan de defensa letrada.\n Estará facultada para denunciar al Estado ante los Organismos Internacionales de Derechos Humanos, cuando en el curso de las investigaciones y procedimientos penales en que intervenga, constate violaciones de derechos fundamentales, en coordinación con otros órganos del Estado.\n La ley determinará la organización y atribuciones de la Defensoría Penal Pública, debiendo garantizarse su independencia externa.",
+        "number": 146,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 24.- De la Defensoría Penal Pública. La Defensoría Penal Pública es un organismo autónomo, con personalidad jurídica y patrimonio propio, que tiene por función proporcionar defensa penal a los imputados por hechos que pudiesen configurar un delito que deban ser conocidos por los tribunales con competencia en lo penal, desde la primera actuación de la investigación dirigida en su contra y hasta la completa ejecución de la pena que le haya sido impuesta, y que carezcan de defensa letrada. Estará facultada para denunciar al Estado ante los Organismos Internacionales de Derechos Humanos, cuando en el curso de las investigaciones y procedimientos penales en que intervenga, constate violaciones de derechos fundamentales, en coordinación con otros órganos del Estado. La ley determinará la organización y atribuciones de la Defensoría Penal Pública, debiendo garantizarse su independencia externa.",
+        "content_to_remove": "",
+        "placement_instructions": "nuevo artículo"
+      }
     ]
   },
   {
@@ -13740,7 +14496,32 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 24 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 147,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 24 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 24 B",
@@ -13766,7 +14547,32 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 24 B",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 150,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 24 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 25",
@@ -13786,6 +14592,29 @@
       "Royo, Manuela",
       "Villena, Ingrid",
       "Woldarsky, Manuel"
+    ],
+    "history": [
+      {
+        "article": "Articulo 19",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "De la defensa penal pública. La función de defensa penal pública será ejercida exclusivamente por defensoras y defensores penales públicos. Los servicios de defensa jurídica que preste la Defensoría Penal Pública no podrán ser licitados o delegados en abogados particulares, sin perjuicio de la contratación excepcional que pueda realizar en los casos y forma que establezca la ley.",
+        "number": 152,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 25.- De la defensa penal pública. La función de defensa penal pública será ejercida exclusivamente por defensoras y defensores penales públicos. Los servicios de defensa jurídica que preste la Defensoría Penal Pública no podrán ser licitados o delegados en abogados particulares, sin perjuicio de la contratación excepcional que pueda realizar en los casos y forma que establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": "nuevo artículo"
+      }
     ]
   },
   {
@@ -13812,7 +14641,31 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 26",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 153,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 27",
@@ -13839,6 +14692,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Articulo 20",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Dirección de la Defensoría Penal Pública. La dirección superior de la Defensoría Penal Pública reside en un Consejo Superior, órgano colegiado, paritario, que designará de entre sus miembros a un presidente y a un director ejecutivo.",
+        "number": 155,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 27.- Dirección de la Defensoría Penal Pública. La dirección superior de la Defensoría Penal Pública reside en un Consejo Superior, órgano colegiado, paritario, que designará de entre sus miembros a un presidente y a un director ejecutivo.",
+        "content_to_remove": "",
+        "placement_instructions": "nuevo artículo"
+      }
     ]
   },
   {
@@ -13865,7 +14741,32 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 27 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 156,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 27 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Articulo 27 B",
@@ -13891,7 +14792,32 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 27 B",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 159,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 27 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 28",
@@ -13918,6 +14844,29 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
+    ],
+    "history": [
+      {
+        "article": "Articulo 21",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Del Consejo Superior de la Defensoría Penal Pública. El Consejo Superior estará integrado por siete integrantes designados de la siguiente manera:\n a) Tres integrantes elegidos democráticamente por los defensores y defensoras entre sus pares.\n b) Un integrante elegido democráticamente por funcionarios y funcionarias de la Defensoría Penal Pública entre sus pares.\n c) Tres integrantes elegidos por el Congreso plurinacional a partir de ternas elaboradas por el Consejo de Alta Dirección Pública. Los candidatos y candidatas no podrán haber desempeñado cargos de elección popular ni haber sido candidatos a ellos, así como tampoco podrán haber desarrollado funciones en el Gobierno o Administración del Estado en cargos que sean de exclusiva confianza del Presidente de la República, en los últimos cuatro años.\n La ley establecerá el procedimiento y los requisitos que deberán reunir los consejeros de la Defensoría Penal Pública. Los consejeros durarán cuatro años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades en conformidad a lo que señale la ley.\n La calidad de consejero es incompatible con todo otro cargo o función sea o no remunerada, con excepción de la docencia universitaria con los límites que señale la ley.\n Las y los consejeros indicados en las letras a) y b) se entenderán suspendidos del ejercicio de su función mientras dure su cometido, pudiendo retornar al ejercicio de sus funciones una vez cumplido este desempeño.",
+        "number": 161,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 28.- Del Consejo Superior de la Defensoría Penal Pública. El Consejo Superior estará integrado por siete integrantes designados de la siguiente manera: a) Tres integrantes elegidos democráticamente por los defensores y defensoras entre sus pares. b) Un integrante elegido democráticamente por funcionarios y funcionarias de la Defensoría Penal Pública entre sus pares. c) Tres integrantes elegidos por el Congreso plurinacional a partir de ternas elaboradas por el Consejo de Alta Dirección Pública. Los candidatos y candidatas no podrán haber desempeñado cargos de elección popular ni haber sido candidatos a ellos, así como tampoco podrán haber desarrollado funciones en el Gobierno o Administración del Estado en cargos que sean de exclusiva confianza del Presidente de la República, en los últimos cuatro años. La ley establecerá el procedimiento y los requisitos que deberán reunir los consejeros de la Defensoría Penal Pública. Los consejeros durarán cuatro años en sus cargos y no podrán ser reelegidos, debiendo renovarse por parcialidades en conformidad a lo que señale la ley. La calidad de consejero es incompatible con todo otro cargo o función sea o no remunerada, con excepción de la docencia universitaria con los límites que señale la ley. Las y los consejeros indicados en las letras a) y b) se entenderán suspendidos del ejercicio de su función mientras dure su cometido, pudiendo retornar al ejercicio de sus funciones una vez cumplido este desempeño.",
+        "content_to_remove": "",
+        "placement_instructions": "nuevo artículo"
+      }
     ]
   },
   {
@@ -13944,6 +14893,29 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
+    ],
+    "history": [
+      {
+        "article": "Articulo 22",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Atribuciones del Consejo Superior de la Defensoría Penal Pública. El Consejo Superior de la Defensoría Penal Pública tendrá las siguientes atribuciones:\n a) Dirigir el organismo, velando por el cumplimiento de sus objetivos;\n b) Determinar la política de gestión profesional de las y los funcionarios de la Defensoría Penal Pública.\n c) Evaluar y calificar permanentemente el desempeño de las y los funcionarios.\n d) Designar al defensor nacional y a los defensores regionales en conformidad a la ley.\n e) Ejercer la potestad disciplinaria respecto de las y los funcionarios, en conformidad a la ley.\n f) Definir las necesidades presupuestarias, gestionando los recursos para su adecuado funcionamiento.\n g) Las demás atribuciones que establezca la ley.",
+        "number": 163,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 31.- Atribuciones del Consejo Superior de la Defensoría Penal Pública. El Consejo Superior de la Defensoría Penal Pública tendrá las siguientes atribuciones: a) Dirigir el organismo, velando por el cumplimiento de sus objetivos; b) Determinar la política de gestión profesional de las y los funcionarios de la Defensoría Penal Pública. c) Evaluar y calificar permanentemente el desempeño de las y los funcionarios. d) Designar al defensor nacional y a los defensores regionales en conformidad a la ley. e) Ejercer la potestad disciplinaria respecto de las y los funcionarios, en conformidad a la ley. f) Definir las necesidades presupuestarias, gestionando los recursos para su adecuado funcionamiento. g) Las demás atribuciones que establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": "reemplazar el artículo 28 A por un nuevo artículo"
+      }
     ]
   },
   {
@@ -13970,6 +14942,29 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
+    ],
+    "history": [
+      {
+        "article": "Articulo 23",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Del Defensor o Defensora Nacional. La o el Defensor Nacional dirigirá las sesiones ordinarias y extraordinarias del Consejo Superior de la Defensoría Penal Pública y representará a la institución ante los demás órganos del Estado, sin perjuicio de las demás atribuciones que señale la ley.",
+        "number": 164,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis"
+        ],
+        "target_article": 29,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 29.- Del Defensor o Defensora Nacional. La o el Defensor Nacional dirigirá las sesiones ordinarias y extraordinarias del Consejo Superior de la Defensoría Penal Pública y representará a la institución ante los demás órganos del Estado, sin perjuicio de las demás atribuciones que señale la ley.",
+        "content_to_remove": "",
+        "placement_instructions": "nuevo artículo"
+      }
     ]
   },
   {
@@ -13997,7 +14992,32 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 30",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 30 A",
@@ -14023,7 +15043,32 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 30 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 31",
@@ -14050,7 +15095,32 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 31",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 32",
@@ -14077,7 +15147,32 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 32",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Articulo 32 A",
@@ -14103,7 +15198,32 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 32 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Articulo 33",
@@ -14130,7 +15250,32 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 33",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Articulo 33 A",
@@ -14156,7 +15301,32 @@
       "Videla, Carolina",
       "Viera, Christian",
       "Woldarsky, Manuel"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 33 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 165,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Hoppe, Vanessa",
+          "Daza, Mauricio",
+          "Viera, Christian",
+          "Laibe, Tomas",
+          "Jimenez, Luis",
+          "Harboe, Felipe"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículos 30 a 33 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 34",
@@ -14183,6 +15353,25 @@
       "Vallejos, Loreto",
       "Viera, Christian",
       "Villena, Ingrid"
+    ],
+    "history": [
+      {
+        "article": "Articulo 24",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Defensoría del Pueblo. Un organismo autónomo, de carácter técnico, con personalidad jurídica de derecho público, patrimonio propio y titularidad unipersonal denominada Defensoría del Pueblo tendrá por finalidad la promoción, protección y colaboración en la defensa de los derechos fundamentales asegurados en esta Constitución, en los tratados e instrumentos internacionales de derechos humanos y en las leyes, ante los actos u omisiones de los órganos de la administración del Estado y de entidades privadas que ejerzan actividades de servicio o utilidad pública, en los términos que establezca la ley respectiva.\n La Defensoría del Pueblo velará siempre por el resguardo efectivo del interés ciudadano en la gestión y finalidad que la Constitución y las leyes confieren a dichos órganos y entidades.\n La ley determinará la organización, funciones, financiamiento y atribuciones de la Defensoría del Pueblo.\n El presupuesto de la Defensoría del Pueblo estará fijado en una glosa especial del presupuesto del Estado para el desempeño de sus funciones.",
+        "number": 179,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 34,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 34. Defensoría del Pueblo. Un organismo autónomo, de carácter técnico, con personalidad jurídica de derecho público, patrimonio propio y titularidad unipersonal denominada Defensoría del Pueblo tendrá por finalidad la promoción, protección y colaboración en la defensa de los derechos fundamentales asegurados en esta Constitución, en los tratados e instrumentos internacionales de derechos humanos y en las leyes, ante los actos u omisiones de los órganos de la administración del Estado y de entidades privadas que ejerzan actividades de servicio o utilidad pública, en los términos que establezca la ley respectiva. La Defensoría del Pueblo velará siempre por el resguardo efectivo del interés ciudadano en la gestión y finalidad que la Constitución y las leyes confieren a dichos órganos y entidades. La ley determinará la organización, funciones, financiamiento y atribuciones de la Defensoría del Pueblo. El presupuesto de la Defensoría del Pueblo estará fijado en una glosa especial del presupuesto del Estado para el desempeño de sus funciones.",
+        "content_to_remove": "",
+        "placement_instructions": "sustituirlo por el siguiente texto"
+      }
     ]
   },
   {
@@ -14210,7 +15399,27 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 34 A",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 181,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 34,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 34 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 34 B",
@@ -14237,7 +15446,27 @@
       "Saldana, Alvin",
       "Stingo, Daniel",
       "Viera, Christian"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 34 B",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 182,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 34,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 34 B",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 35",
@@ -14264,6 +15493,25 @@
       "Vallejos, Loreto",
       "Viera, Christian",
       "Villena, Ingrid"
+    ],
+    "history": [
+      {
+        "article": "Articulo 25",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Actuación de la Defensoría del Pueblo. La Defensoría del Pueblo actuará de manera gratuita y simplificada y ejercerá sus atribuciones, de oficio o a petición de parte, en favor de las personas, agrupaciones o pueblos, según sea el caso.\n Las autoridades estarán obligadas a colaborar con los requerimientos necesarios para la libre función de la Defensoría del Pueblo, la que podrá acceder a la información reservada de las instituciones, sin obstáculo alguno, y podrá constituirse en dependencias de los órganos objeto de fiscalización.",
+        "number": 184,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 35,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 35. Actuación de la Defensoría del Pueblo. La Defensoría del Pueblo actuará de manera gratuita y simplificada y ejercerá sus atribuciones, de oficio o a petición de parte, en favor de las personas, agrupaciones o pueblos, según sea el caso. Las autoridades estarán obligadas a colaborar con los requerimientos necesarios para la libre función de la Defensoría del Pueblo, la que podrá acceder a la información reservada de las instituciones, sin obstáculo alguno, y podrá constituirse en dependencias de los órganos objeto de fiscalización.",
+        "content_to_remove": "",
+        "placement_instructions": "sustituirlo por el siguiente texto"
+      }
     ]
   },
   {
@@ -14291,6 +15539,25 @@
       "Vallejos, Loreto",
       "Viera, Christian",
       "Villena, Ingrid"
+    ],
+    "history": [
+      {
+        "article": "Articulo 36",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "Atribuciones de la Defensoría del Pueblo. La Defensoría del Pueblo tendrá, a lo menos, las siguientes atribuciones:\n 1. Supervigilar, en relación a su mandato constitucional, a los órganos del Estado y entidades privadas.\n 2. Formular recomendaciones a los órganos del Estado y entidades privadas que ejerzan actividades de servicio o utilidad pública, en materias de su competencia, las que no serán vinculantes.\n 3. Realizar acciones de seguimiento y monitoreo respecto de las recomendaciones realizadas por los organismos internacionales en materia de derechos humanos y las sentencias dictadas en contra del estado por tribunales internacionales.\n 4. Tramitar quejas o reclamos a solicitud de cualquier persona o agrupación que lo solicite ante el organismo que corresponda, el que estará siempre obligado a proporcionarle la información y colaboración necesaria para su solución.\n 5. Practicar mediaciones o buenos oficios entre las personas y los organismos públicos o entidades privadas, en materias de su competencia.\n 6. Litigar cuando se identifiquen patrones de violación de derechos humanos, interponiendo las acciones y recursos que esta Constitución y las leyes establecen, incluidas las de naturaleza colectiva y administrativa, que determine su ley.\n 7. Interponer acciones legales ante los tribunales de justicia respecto de hechos que revistan carácter de crímenes de genocidio, de lesa humanidad o de guerra, tortura, desaparición forzada de personas, y demás que establezca la ley.\n 8. Custodiar y preservar los antecedentes reunidos por comisiones de verdad, justicia, reparación y garantía de no repetición.\n 9. Educar en derechos humanos.\n 10. Iniciativa de ley en materias de su competencia.\n 11. Las demás que fije la ley.\n La Defensoría del Pueblo ejercerá plenamente sus atribuciones en todo tiempo y lugar, incluido durante la vigencia de los estados de excepción que se establezcan.",
+        "number": 185,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 36,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 36. Atribuciones de la Defensoría del Pueblo. La Defensoría del Pueblo tendrá, a lo menos, las siguientes atribuciones: 1. Supervigilar, en relación a su mandato constitucional, a los órganos del Estado y entidades privadas. 2. Formular recomendaciones a los órganos del Estado y entidades privadas que ejerzan actividades de servicio o utilidad pública, en materias de su competencia, las que no serán vinculantes. 3. Realizar acciones de seguimiento y monitoreo respecto de las recomendaciones realizadas por los organismos internacionales en materia de derechos humanos y las sentencias dictadas en contra del estado por tribunales internacionales. 4. Tramitar quejas o reclamos a solicitud de cualquier persona o agrupación que lo solicite ante el organismo que corresponda, el que estará siempre obligado a proporcionarle la información y colaboración necesaria para su solución. 5. Practicar mediaciones o buenos oficios entre las personas y los organismos públicos o entidades privadas, en materias de su competencia. 6. Litigar cuando se identifiquen patrones de violación de derechos humanos, interponiendo las acciones y recursos que esta Constitución y las leyes establecen, incluidas las de naturaleza colectiva y administrativa, que determine su ley. 7. Interponer acciones legales ante los tribunales de justicia respecto de hechos que revistan carácter de crímenes de genocidio, de lesa humanidad o de guerra, tortura, desaparición forzada de personas, y demás que establezca la ley. 8. Custodiar y preservar los antecedentes reunidos por comisiones de verdad, justicia, reparación y garantía de no repetición. 9. Educar en derechos humanos. 10. Iniciativa de ley en materias de su competencia. 11. Las demás que fije la ley. La Defensoría del Pueblo ejercerá plenamente sus atribuciones en todo tiempo y lugar, incluido durante la vigencia de los estados de excepción que se establezcan.",
+        "content_to_remove": "",
+        "placement_instructions": "sustituirlo por el siguiente texto"
+      }
     ]
   },
   {
@@ -14318,7 +15585,27 @@
       "Reyes, Maria Ramona",
       "Valenzuela, Cesar",
       "Vargas, Mario"
-    ]
+    ],
+    "history": [
+      {
+        "article": "Articulo 36",
+        "timestamp": "04-01-2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 186,
+        "authors_matched": [
+          "Bravo, Daniel",
+          "Villena, Ingrid"
+        ],
+        "target_article": 36,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "Artículo 36 A",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 41",
