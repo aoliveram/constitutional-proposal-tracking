@@ -62,14 +62,14 @@ def enrich_files():
     print(f"Loaded mapping for {len(authors_map)} unique initiative IDs.")
     
     for com_id in TARGET_COMMISSIONS:
-        # --- PHASE 1: GENESIS EXTRACTED (Commented out as requested for this run) ---
-        # base_dir = os.path.join(f"comision-{com_id}", "genesis-extracted")
-        # if os.path.exists(base_dir):
-        #     pattern = os.path.join(base_dir, f"C{com_id}_GENESIS_*.json")
-        #     for filepath in glob.glob(pattern):
-        #         if any(x in filepath for x in ["enriched", "merged", "PREVIEW"]):
-        #             continue
-        #         process_json_file(filepath, authors_map)
+        # --- PHASE 1: GENESIS EXTRACTED ---
+        base_dir = os.path.join(f"comision-{com_id}", "genesis-extracted")
+        if os.path.exists(base_dir):
+            pattern = os.path.join(base_dir, f"C{com_id}_GENESIS_*.json")
+            for filepath in glob.glob(pattern):
+                if any(x in filepath for x in ["enriched", "merged", "PREVIEW"]):
+                    continue
+                process_json_file(filepath, authors_map)
 
         # --- PHASE 2: DRAFT AFTER INDICATIONS MANUAL ---
         manual_dir = os.path.join(f"comision-{com_id}", "draft-after-indications-manual")
