@@ -4491,6 +4491,10 @@
     "timestamp": "02-17",
     "history": [
       {
+        "timestamp": "02-19",
+        "article": "Artículo 4.2",
+        "step": "Indicacion",
+        "content_snapshot": "",
         "number": "237",
         "authors_matched": [
           "Dorador, Cristina",
@@ -4516,8 +4520,60 @@
     "final_status": "Eliminado"
   },
   {
+    "article_uid": "C7_IND02-19_CH2_ART5",
+    "timestamp": "02-19",
     "article": "Artículo 5",
-    "text": "El Estado garantiza el derecho de todas las personas y comunidades a desarrollar libremente sus prácticas artístico-culturales en espacios públicos. (ICC N° 874 Artículo X inciso primero). El Estado reconoce y valora el arte callejero y su aporte a la democratización de la vida cultural... (ICC N° 874 Artículo X inciso segundo). El Estado protege el desarrollo pleno del arte callejero a través de los mecanismos que la ley determinará... (ICC N° 874 Artículo X inciso tercero).",
+    "text": "El Estado velará por remover los obstáculos que impidan o dificulten el acceso, goce y ejercicio de los derechos culturales, con el objeto de desarrollar una vida cultural plena.",
+    "number": "245",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 5-. El Estado velará por remover los obstáculos que impidan o dificulten el acceso, goce y ejercicio de los derechos culturales, con el objeto de desarrollar una vida cultural plena.",
+    "content_to_remove": null,
+    "placement_instructions": "siguiente artículo 5, nuevo"
+  },
+  {
+    "article_uid": "C7_IND02-19_CH2_ART6",
+    "timestamp": "02-19",
+    "article": "Artículo 6",
+    "text": "El Estado promueve la cooperación internacional cultural y la integración regional, fortaleciendo sus relaciones solidarias con otros Estados y pueblos velando por el respeto de las culturas migrantes y extranjeras.",
+    "number": "246",
+    "authors_matched": [
+      "Dorador, Cristina",
+      "Pinto, Malucha",
+      "Valenzuela, Paulina",
+      "Vargas, Margarita",
+      "Vidal, Rossana",
+      "Videla, Carolina",
+      "Achurra, Ignacio",
+      "Botto, Miguel Angel",
+      "Caamano, Francisco",
+      "Caiguan, Alexis",
+      "Calvo, Carlos"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 6.- El Estado promueve la cooperación internacional cultural y la integración regional, fortaleciendo sus relaciones solidarias con otros Estados y pueblos velando por el respeto de las culturas migrantes y extranjeras.",
+    "content_to_remove": null,
+    "placement_instructions": "siguiente artículo 5, nuevo"
+  },
+  {
+    "article": "Artículo 5",
+    "text": "El Estado garantiza el derecho de todas las personas y comunidades a desarrollar libremente sus prácticas artístico-culturales en espacios públicos. (ICC N° 874 Artículo X inciso primero).\n El Estado reconoce y valora el arte callejero y su aporte a la democratización de la vida cultural, a través de sus saberes, oficios, disciplinas y expresiones. A la vez reconoce que el arte callejero forma parte de los patrimonios culturales de los pueblos de Chile. (ICC N° 874 Artículo X inciso segundo).\n El Estado protege el desarrollo pleno del arte callejero a través de los mecanismos que la ley determinará. Estos mecanismos deben respetar su diversidad de expresiones y formas de organización, así como también, asegurar el involucramiento vinculante de personas y comunidades que en ellas participan. (ICC N° 874 Artículo X inciso tercero).",
     "sources": [
       "874"
     ],
@@ -4534,7 +4590,79 @@
       "Videla, Carolina"
     ],
     "article_uid": "C7_GEN2_CH2_ART5",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 5",
+        "step": "Indicacion",
+        "content_snapshot": "El Estado reconoce y valora el arte callejero y su aporte a la democratización de la vida cultural, a través de sus saberes, oficios, disciplinas y expresiones. A la vez reconoce que el arte callejero forma parte de los patrimonios culturales de los pueblos de Chile. (ICC N° 874 Artículo X inciso segundo).\n El Estado protege el desarrollo pleno del arte callejero a través de los mecanismos que la ley determinará. Estos mecanismos deben respetar su diversidad de expresiones y formas de organización, así como también, asegurar el involucramiento vinculante de personas y comunidades que en ellas participan. (ICC N° 874 Artículo X inciso tercero).",
+        "number": "247",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 5",
+        "step": "Indicacion",
+        "content_snapshot": "El Estado reconoce y valora el arte callejero y su aporte a la democratización de la vida cultural, a través de sus saberes, oficios, disciplinas y expresiones. A su vez reconoce que el arte callejero forma parte de los patrimonios culturales de los pueblos de Chile. (ICC N° 874 Artículo X inciso segundo).\n El Estado protege el desarrollo pleno del arte callejero a través de los mecanismos que la ley determinará. Estos mecanismos deben respetar su diversidad de expresiones y formas de organización, así como también, asegurar el involucramiento vinculante de personas y comunidades que en ellas participan. (ICC N° 874 Artículo X inciso tercero).",
+        "number": "250",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 5,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "su",
+        "content_to_remove": "la",
+        "placement_instructions": "sustituir el artículo 'la', que está entre la palabra 'A' y la palabra 'vez'"
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 5",
+        "step": "Indicacion",
+        "content_snapshot": "El Estado reconoce y valora el arte callejero y su aporte a la democratización de la vida cultural, a través de sus saberes, oficios, disciplinas y expresiones. A su vez reconoce que el arte callejero forma parte de los patrimonios culturales de los pueblos de Chile.\n El Estado protege el desarrollo pleno del arte callejero y las expresiones populares de la ruralidad a través de los mecanismos que la ley determinará. Estos mecanismos deben respetar su diversidad de expresiones y formas de organización, así como también, asegurar el involucramiento vinculante de personas y comunidades que en ellas participan.",
+        "number": "260",
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "y las expresiones populares de la ruralidad",
+        "content_to_remove": null,
+        "placement_instructions": "antes de 'a través de los mecanismos,'"
+      }
+    ]
   },
   {
     "article": "Art. 1",
@@ -4561,7 +4689,35 @@
       "Videla, Carolina"
     ],
     "article_uid": "C7_GEN2_CH3_ART1",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 1",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas, individual y colectivamente, tienen derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación.",
+        "number": "264",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1: Todas las personas, individual y colectivamente, tienen derecho al acceso universal, a la conectividad digital y a las tecnologías de la información y comunicación",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Art 1.2",
@@ -4584,7 +4740,36 @@
       "Vallejos, Loreto"
     ],
     "article_uid": "C7_GEN2_CH3_ART1_2",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 1.2",
+        "step": "Indicacion",
+        "content_snapshot": "",
+        "number": "266",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Art 2",
@@ -4611,7 +4796,35 @@
       "Videla, Carolina"
     ],
     "article_uid": "C7_GEN2_CH3_ART2",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras.\n El Estado participa y promueve activamente el desarrollo e implementación de las telecomunicaciones, servicios de conectividad y las tecnologías de la información y comunicación, posibilitando distintos modelos y alternativas, respetando los principios de igualdad, continuidad, adaptabilidad, sustentabilidad, equidad territorial, descentralización y gestión compartida.\n La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.",
+        "number": "269",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2: El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras. El Estado participa y promueve activamente el desarrollo e implementación de las telecomunicaciones, servicios de conectividad y las tecnologías de la información y comunicación, posibilitando distintos modelos y alternativas, respetando los principios de igualdad, continuidad, adaptabilidad, sustentabilidad, equidad territorial, descentralización y gestión compartida. La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Art 2.1",
@@ -4638,7 +4851,35 @@
       "Videla, Carolina"
     ],
     "article_uid": "C7_GEN2_CH3_ART2_1",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 4",
+        "step": "Indicacion",
+        "content_snapshot": "El Estado garantiza el cumplimiento del principio de neutralidad en la red. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
+        "number": "273",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 4: El Estado garantiza el cumplimiento del principio de neutralidad en la red. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Art 2.2",
@@ -4665,7 +4906,35 @@
       "Videla, Carolina"
     ],
     "article_uid": "C7_GEN2_CH3_ART2_2",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 3",
+        "step": "Indicacion",
+        "content_snapshot": "El Estado garantiza el acceso libre, equitativo y descentralizado, con condiciones de calidad y velocidad adecuadas y efectivas a los servicios básicos de comunicación.",
+        "number": "275",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 3: El Estado garantiza el acceso libre, equitativo y descentralizado, con condiciones de calidad y velocidad adecuadas y efectivas a los servicios básicos de comunicación",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Artículo 2.3",
@@ -4691,7 +4960,36 @@
       "Videla, Carolina"
     ],
     "article_uid": "C7_GEN2_CH3_ART2_3",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2.3",
+        "step": "Indicacion",
+        "content_snapshot": "",
+        "number": "283",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Art 2.4",
@@ -4714,11 +5012,56 @@
       "Vallejos, Loreto"
     ],
     "article_uid": "C7_GEN2_CH3_ART2_4",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2.4",
+        "step": "Indicacion",
+        "content_snapshot": "",
+        "number": "285",
+        "authors_matched": [
+          "Vergara, Lisette"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2.4",
+        "step": "Indicacion",
+        "content_snapshot": "",
+        "number": "285.1",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 3",
-    "text": "Toda persona tiene el derecho a la alfabetización digital, al desarrollo del conocimiento. pensamiento y lenguaje tecnológico computacional, así como a gozar de sus beneficios. (ICC N° 92-7 Artículo X1). El Estado asegurará la alfabetización digital universal... (ICC N° 92-7 Artículo X2).",
+    "text": " Toda persona tiene el derecho a la alfabetización digital, al desarrollo del conocimiento. pensamiento y lenguaje tecnológico computacional, así como a gozar de sus beneficios.\n El Estado asegurará la alfabetización digital universal, el desarrollo del conocimiento, pensamiento y lenguaje tecnológico computacional, para que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual, creará políticas públicas y financiará planes y programas gratuitos con tal objeto.",
     "sources": [
       "92-7"
     ],
@@ -4738,7 +5081,61 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C7_GEN2_CH3_ART3",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 5",
+        "step": "Indicacion",
+        "content_snapshot": "Toda persona tiene el derecho a la educación digital, al desarrollo del conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus beneficios. El Estado asegurará que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual creará políticas públicas y financiará planes y programas gratuitos con tal objeto.\n El Estado asegurará la alfabetización digital universal, el desarrollo del conocimiento, pensamiento y lenguaje tecnológico computacional, para que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual, creará políticas públicas y financiará planes y programas gratuitos con tal objeto.",
+        "number": "290",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 5: Toda persona tiene el derecho a la educación digital, al desarrollo del conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus beneficios. El Estado asegurará que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual creará políticas públicas y financiará planes y programas gratuitos con tal objeto.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 5",
+        "step": "Indicacion",
+        "content_snapshot": "Toda persona tiene el derecho a la educación digital, al desarrollo del conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus beneficios. El Estado asegurará que todas las personas tengan la posibilidad de ejercer sus derechos en los espacios digitales, para lo cual creará políticas públicas y financiará planes y programas gratuitos con tal objeto.",
+        "number": "292",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Artículo 1",
@@ -4763,11 +5160,39 @@
       "Villena, Ingrid"
     ],
     "article_uid": "C7_GEN2_CH4_ART1",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 6",
+        "step": "Indicacion",
+        "content_snapshot": "Se reconoce el derecho de todas las personas a una vida libre de violencia en cualquier plataforma o medio digital, con especial énfasis en los grupos históricamente excluidos.\n El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
+        "number": "293",
+        "authors_matched": [
+          "Dorador, Cristina",
+          "Pinto, Malucha",
+          "Valenzuela, Paulina",
+          "Vargas, Margarita",
+          "Vidal, Rossana",
+          "Videla, Carolina",
+          "Achurra, Ignacio",
+          "Botto, Miguel Angel",
+          "Caamano, Francisco",
+          "Caiguan, Alexis",
+          "Calvo, Carlos"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 6: Se reconoce el derecho de todas las personas a una vida libre de violencia en cualquier plataforma o medio digital, con especial énfasis en los grupos históricamente excluidos. El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Artículo 1:X",
-    "text": "Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre. El legislador establecerá un límite máximo a la jornada de trabajo... (ICC N°149-04 Artículo X inciso primero). En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades... (ICC N°149-07 Artículo X inciso tercero).",
+    "text": "Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre. El legislador establecerá un límite máximo a la jornada de trabajo y los derechos al descanso semanal y a vacaciones periódicas pagadas para los trabajadores. .(ICC N°149-04 Artículo X inciso primero).\n En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades, especialmente en el nivel local, respetar los derechos de los pueblos indígenas, promover un diálogo intercultural e incluir incentivos vinculados a la protección, conservación y restauración de la naturaleza y su biodiversidad. (ICC N°149-07 Artículo X inciso tercero).",
     "sources": [
       "149-04",
       "149-07"
@@ -4787,16 +5212,121 @@
       "Veloso, Paulina"
     ],
     "article_uid": "C7_GEN2_CH4_ART1",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 1",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre. La legislación establecerá un límite máximo a la jornada de trabajo y los derechos al descanso semanal y a todos los demás derechos laborales que establezca la Constitución y las leyes.\n En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades, especialmente en el nivel local, respetar los derechos de los pueblos indígenas, promover un diálogo intercultural e incluir incentivos vinculados a la protección, conservación y restauración de la naturaleza y su biodiversidad.",
+        "number": "298",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1: Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre. La legislación establecerá un límite máximo a la jornada de trabajo y los derechos al descanso semanal y a todos los demás derechos laborales que establezca la Constitución y las leyes.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 1",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre. La legislación establecerá un límite máximo a la jornada de trabajo y los derechos al descanso semanal y a todos los demás derechos laborales que establezca la Constitución y las leyes.\n En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades, especialmente en el nivel local, el respeto de los derechos de los pueblos indígenas, la promoción del diálogo intercultural, así como la protección, conservación y restauración de la naturaleza y su biodiversidad",
+        "number": "299",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades, especialmente en el nivel local, el respeto de los derechos de los pueblos indígenas, la promoción del diálogo intercultural, así como la protección, conservación y restauración de la naturaleza y su biodiversidad",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "Artículo 1.2",
-    "text": "Artículo X: Todas las personas, individual o colectivamente, tienen el derecho al cuerpo. Ello comprende desarrollar, respetar y disfrutar de su corporalidad, emociones y mente... (ICC N°203-07 Artículo X inciso primero). [Contenido adicional sobre muerte digna, integridad corporal y aprendizaje sobre el cuerpo basado en ICC N°203-07].",
+    "text": "Todas las personas, individual o colectivamente, tienen el derecho al cuerpo. Ello comprende desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas. (ICC N°203-07 Artículo X inciso primero).\n Así como también, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias. (ICC N°203-07 Artículo X inciso segundo).\n El Estado debe asegurar la integridad corporal de las personas, garantizando su soberanía por medio de un trato justo, defensa personalizada y experta, atendiendo a necesidades especiales. (ICC N°203-07 Artículo X inciso tercero).\n Asimismo, debe promover el aprendizaje sobre sus cuerpos por medio de una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal. De la misma manera, el Estado deberá estimular y apoyar el desarrollo de instancias comunitarias de educación informal que promuevan el aprendizaje de la corporalidad en las distintas etapas de la vida, ya sea con fines de conocimiento, lúdicos, artísticos, culturales, ancestrales, de salud o de superación de vulnerabilidades. (ICC N°203-07 Artículo X inciso cuarto).",
     "sources": [
       "203-07"
     ],
     "article_uid": "C7_GEN2_CH4_ART1_2",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas tienen el derecho a desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas.\n Así como también, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias. (ICC N°203-07 Artículo X inciso segundo).\n El Estado debe asegurar la integridad corporal de las personas, garantizando su soberanía por medio de un trato justo, defensa personalizada y experta, atendiendo a necesidades especiales. (ICC N°203-07 Artículo X inciso tercero).\n Asimismo, debe promover el aprendizaje sobre sus cuerpos por medio de una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal. De la misma manera, el Estado deberá estimular y apoyar el desarrollo de instancias comunitarias de educación informal que promuevan el aprendizaje de la corporalidad en las distintas etapas de la vida, ya sea con fines de conocimiento, lúdicos, artísticos, culturales, ancestrales, de salud o de superación de vulnerabilidades. (ICC N°203-07 Artículo X inciso cuarto).",
+        "number": "304.1",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2: Todas las personas tienen el derecho a desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas tienen el derecho a desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas.\n Asimismo, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias.\n El Estado debe asegurar la integridad corporal de las personas, garantizando su soberanía por medio de un trato justo, defensa personalizada y experta, atendiendo a necesidades especiales. (ICC N°203-07 Artículo X inciso tercero).\n Asimismo, debe promover el aprendizaje sobre sus cuerpos por medio de una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal. De la misma manera, el Estado deberá estimular y apoyar el desarrollo de instancias comunitarias de educación informal que promuevan el aprendizaje de la corporalidad en las distintas etapas de la vida, ya sea con fines de conocimiento, lúdicos, artísticos, culturales, ancestrales, de salud o de superación de vulnerabilidades. (ICC N°203-07 Artículo X inciso cuarto).",
+        "number": "309",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "Asimismo, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas tienen el derecho a desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas.\n Asimismo, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias.\n Asimismo, debe promover el aprendizaje sobre sus cuerpos por medio de una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal. De la misma manera, el Estado deberá estimular y apoyar el desarrollo de instancias comunitarias de educación informal que promuevan el aprendizaje de la corporalidad en las distintas etapas de la vida, ya sea con fines de conocimiento, lúdicos, artísticos, culturales, ancestrales, de salud o de superación de vulnerabilidades. (ICC N°203-07 Artículo X inciso cuarto).",
+        "number": "310",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo 2",
+        "step": "Indicacion",
+        "content_snapshot": "Todas las personas tienen el derecho a desarrollar, respetar y disfrutar de su corporalidad, emociones y mente, en las distintas etapas de la vida, según las necesidades que se requiera para cada una de ellas.\n Asimismo, tienen el derecho a una muerte, rito y sepultura digna, al conocimiento de las causas de su deceso como la ubicación de sus restos, para permitir la preservación de su memoria, todo de acuerdo a su cosmovisión, cultura y creencias.\n El Estado debe promover una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal.",
+        "number": "312",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "El Estado debe promover una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
   },
   {
     "article": "ARTÍCULO XX1",
@@ -4826,7 +5356,7 @@
   },
   {
     "article": "ARTÍCULO XX2",
-    "text": "Las personas, comunidades, pueblos, nacionalidades y colectivos son titulares y gozarán de los derechos garantizados en la Constitución y en los instrumentos internacionales (ICC N° 403 Artículo XX2 inciso primero). [Contenido adicional sobre igualdad ante la ley y no discriminación basado en ICC N° 403 Artículo XX2].",
+    "text": "Las personas, comunidades, pueblos, nacionalidades y colectivos son titulares y gozarán de los derechos garantizados en la Constitución y en los instrumentos internacionales.\n Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.\n El Estado reconoce y asegura estos derechos; sin discriminación de ninguna índole en razón de etnia, lugar de nacimiento, edad, sexo, género, identidad cultural, estado civil, idioma, religión, filiación política, pasado judicial, condición socio económica, condición migratoria, orientación sexual, estado de salud, vivir con VIH, discapacidad, neurodivergencia, ni por cualquier otra distinción, personal o colectiva, temporal o permanente, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de sus derechos.",
     "sources": [
       "403"
     ],
@@ -4848,7 +5378,14 @@
       "Vilches, Carolina"
     ],
     "article_uid": "C7_GEN2_CH5_ARTXX2",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-17",
+        "content_snapshot": "Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.\n El Estado reconoce y asegura estos derechos; sin discriminación de ninguna índole en razón de etnia, lugar de nacimiento, edad, sexo, género, identidad cultural, estado civil, idioma, religión, filiación política, pasado judicial, condición socio económica, condición migratoria, orientación sexual, estado de salud, vivir con VIH, discapacidad, neurodivergencia, ni por cualquier otra distinción, personal o colectiva, temporal o permanente, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de sus derechos.",
+        "comment": "Se rechazó por votación general el primer inciso. El segundo y tercero fueron aprobados"
+      }
+    ]
   },
   {
     "article": "ARTÍCULO XX3",
@@ -4874,6 +5411,82 @@
       "Vilches, Carolina"
     ],
     "article_uid": "C7_GEN2_CH5_ARTXX3",
+    "timestamp": "02-17"
+  },
+  {
+    "article": "ARTÍCULO X",
+    "text": "Las ciencias y tecnologías están al servicio de las personas y sus comunidades y su finalidad es promover su desarrollo integral y el bien común. (ICC N° 638-7 Artículo X inciso primero).\n El desarrollo de las ciencias y tecnologías debe realizarse respetando la dignidad de toda persona humana, su vida y de su entorno, según los más altos estándares éticos reconocidos a nivel internacional, los derechos fundamentales de las generaciones presentes y futuras, las diferentes culturas, la diversidad humana y la biodiversidad, incluidos los animales como seres sintientes. (ICC N° 638-7 Artículo X inciso segundo).",
+    "sources": [
+      "638-7"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN2_CH6_ARTX",
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "02-19",
+        "article": "Artículo X",
+        "step": "Indicacion",
+        "content_snapshot": "Las ciencias y tecnologías están al servicio de las personas y comunidades, teniendo como fin la promoción del desarrollo integral y del bien común, con respeto a la dignidad humana y la protección de los derechos fundamentales, los derechos de los animales no humanos y los derechos de la naturaleza, además de los otros derechos consagrados en esta Constitución y la Ley.\n El desarrollo de las ciencias y tecnologías debe realizarse respetando la dignidad de toda persona humana, su vida y de su entorno, según los más altos estándares éticos reconocidos a nivel internacional, los derechos fundamentales de las generaciones presentes y futuras, las diferentes culturas, la diversidad humana y la biodiversidad, incluidos los animales como seres sintientes. (ICC N° 638-7 Artículo X inciso segundo).",
+        "number": "326",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 0,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "Artículo X: Las ciencias y tecnologías están al servicio de las personas y comunidades, teniendo como fin la promoción del desarrollo integral y del bien común, con respeto a la dignidad humana y la protección de los derechos fundamentales, los derechos de los animales no humanos y los derechos de la naturaleza, además de los otros derechos consagrados en esta Constitución y la Ley.",
+        "content_to_remove": null,
+        "placement_instructions": null
+      },
+      {
+        "timestamp": "02-19",
+        "article": "Artículo X",
+        "step": "Indicacion",
+        "content_snapshot": "Las ciencias y tecnologías están al servicio de las personas y comunidades, teniendo como fin la promoción del desarrollo integral y del bien común, con respeto a la dignidad humana y la protección de los derechos fundamentales, los derechos de los animales no humanos y los derechos de la naturaleza, además de los otros derechos consagrados en esta Constitución y la Ley.",
+        "number": "328",
+        "authors_matched": [
+          "Valenzuela, Paulina",
+          "Caamano, Francisco"
+        ],
+        "target_article": 0,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": null,
+        "placement_instructions": null
+      }
+    ]
+  },
+  {
+    "article": "ARTÍCULO XX",
+    "text": "La Constitución reconoce el principio de protección de la identidad humana presente y futura, base del respeto de la dignidad personal como principio y valor en sí.",
+    "sources": [
+      "638-7"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN2_CH6_ARTXX",
+    "timestamp": "02-17"
+  },
+  {
+    "article": "ARTÍCULO XXX2",
+    "text": "La Constitución reconoce el derecho de todas las personas y comunidades de participar en los estudios que tengan por fin una mejora de su buen vivir y de compartir los beneficios de estas investigaciones.",
+    "sources": [
+      "638-7"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN2_CH6_ARTXXX2",
+    "timestamp": "02-17"
+  },
+  {
+    "article": "ARTÍCULO XXX2",
+    "text": "El Estado debe promover las ciencias y tecnologías y velar porque se realice dichas actividades según los principios de pro humanidad, de solidaridad, de responsabilidad, precautorio y de protección del medio ambiente y la biodiversidad.",
+    "sources": [
+      "638-7"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN2_CH6_ARTXXX2",
     "timestamp": "02-17"
   },
   {
