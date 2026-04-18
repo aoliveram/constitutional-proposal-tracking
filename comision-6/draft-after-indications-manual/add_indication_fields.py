@@ -10,7 +10,7 @@ def process_file(file_path):
         for item in data:
             new_item = {}
             # Los cuatro campos solicitados al principio
-            new_item["timestamp"] = item.get("timestamp", "04-01-2")
+            new_item["timestamp"] = item.get("timestamp", "05-08")
             
             target = item.get("target_article", "")
             if target:
@@ -40,5 +40,5 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         target_file = sys.argv[1]
     else:
-        target_file = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\indicaciones-universal-extracted\C6_VOTACION_informe-indicaciones-6-04-01-2_4.json'
+        target_file = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\indicaciones-universal-extracted\C6_VOTACION_informe-indicaciones-8-05-08_2.json'
     process_file(target_file)
