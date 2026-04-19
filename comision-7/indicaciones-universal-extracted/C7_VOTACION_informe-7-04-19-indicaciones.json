@@ -1,5 +1,9 @@
 [
   {
+    "timestamp": "04-19",
+    "article": "Artículo 1",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "2",
     "authors_matched": [
       "Videla, Carolina"
@@ -12,6 +16,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 1",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "3",
     "authors_matched": [
       "Caiguan, Alexis"
@@ -24,6 +32,10 @@
     "placement_instructions": "entre el primero y el segundo"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 1",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "4",
     "authors_matched": [
       "Caamaño, Francisco"
@@ -36,6 +48,10 @@
     "placement_instructions": "como nuevo inciso"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 1",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "5",
     "authors_matched": [
       "Caamaño, Francisco"
@@ -48,6 +64,10 @@
     "placement_instructions": "nuevo artículo"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 2",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "7",
     "authors_matched": [
       "Videla, Carolina"
@@ -60,6 +80,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 2",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "9",
     "authors_matched": [
       "Jimenez, Luis"
@@ -72,6 +96,10 @@
     "placement_instructions": "para agregar un nuevo inciso"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 2",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "10",
     "authors_matched": [
       "Neumann, Ricardo",
@@ -86,6 +114,10 @@
     "placement_instructions": "para agregar un nuevo inciso"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 4",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "12",
     "authors_matched": [
       "Videla, Carolina"
@@ -98,6 +130,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 5",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "15",
     "authors_matched": [
       "Neumann, Ricardo",
@@ -112,6 +148,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 5",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "16",
     "authors_matched": [
       "Videla, Carolina"
@@ -124,6 +164,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 5",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "17",
     "authors_matched": [
       "Caiguan, Alexis"
@@ -136,6 +180,10 @@
     "placement_instructions": "a continuación del artículo 5 y antes del 6"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 6",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "18",
     "authors_matched": [
       "Videla, Carolina"
@@ -148,6 +196,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 6",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "18_PHRASE",
     "authors_matched": [],
     "target_article": 6,
@@ -158,6 +210,10 @@
     "placement_instructions": "en el inciso segundo"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 6",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "31",
     "authors_matched": [
       "Valenzuela, Paulina"
@@ -170,6 +226,10 @@
     "placement_instructions": "como nuevo artículo 6C"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 7",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "33",
     "authors_matched": [
       "Neumann, Ricardo",
@@ -184,6 +244,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 7",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "34",
     "authors_matched": [
       "Videla, Carolina"
@@ -196,6 +260,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 9",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "37",
     "authors_matched": [
       "Videla, Carolina"
@@ -208,6 +276,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 9",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "39",
     "authors_matched": [
       "Videla, Carolina"
@@ -220,6 +292,10 @@
     "placement_instructions": "nuevo artículo"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 10",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "41",
     "authors_matched": [
       "Videla, Carolina"
@@ -232,6 +308,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 11",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "43",
     "authors_matched": [
       "Videla, Carolina"
@@ -244,6 +324,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 14",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "45",
     "authors_matched": [
       "Videla, Carolina"
@@ -256,6 +340,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 15",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "47",
     "authors_matched": [
       "Videla, Carolina"
@@ -268,6 +356,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 17",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "53",
     "authors_matched": [
       "Videla, Carolina"
@@ -280,6 +372,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 17",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "54",
     "authors_matched": [
       "Videla, Carolina"
@@ -292,6 +388,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 18",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "55",
     "authors_matched": [
       "Videla, Carolina"
@@ -304,6 +404,10 @@
     "placement_instructions": "artículo nuevo previo al artículo 18"
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 18",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "57",
     "authors_matched": [
       "Caiguan, Alexis"
@@ -316,6 +420,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 21",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "61",
     "authors_matched": [
       "Videla, Carolina"
@@ -328,6 +436,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 23",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "64",
     "authors_matched": [
       "Neumann, Ricardo",
@@ -342,6 +454,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 23",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "65",
     "authors_matched": [
       "Videla, Carolina"
@@ -354,6 +470,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 24",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "67",
     "authors_matched": [
       "Videla, Carolina"
@@ -366,6 +486,10 @@
     "placement_instructions": ""
   },
   {
+    "timestamp": "04-19",
+    "article": "Artículo 25",
+    "step": "Indicación",
+    "content_snapshot": "",
     "number": "70",
     "authors_matched": [
       "Videla, Carolina"

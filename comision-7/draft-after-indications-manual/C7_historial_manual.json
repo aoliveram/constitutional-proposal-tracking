@@ -2137,6 +2137,21 @@
         "content": "",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la comunicación social. Toda persona, individual o colectivamente, tiene derecho a producir información y a participar equitativamente en la comunicación social. Se reconoce el derecho a fundar y mantener medios de comunicación e información.",
+        "number": "3",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 1,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 1.- Derecho a la comunicación social. Toda persona, individual o colectivamente, tiene derecho a producir información y a participar equitativamente en la comunicación social. Se reconoce el derecho a fundar y mantener medios de comunicación e información.",
+        "content_to_remove": ""
       }
     ]
   },
@@ -2186,6 +2201,38 @@
         "content": "Artículo 2.- El Estado tiene el deber de respetar la libertad de prensa, velar por el pluralismo de los medios de comunicación y por la diversidad de opiniones, siendo esto consustancial a la democracia y su fortalecimiento. Se prohíbe la censura previa.",
         "content_to_remove": "",
         "placement_instructions": "pasa a ser artículo 2"
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "El Estado debe respetar la libertad de prensa, promover el pluralismo de los medios de comunicación y la diversidad de información. Se prohíbe la censura previa.\n Se prohíbe la censura previa.",
+        "number": 4,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2.- El Estado debe respetar la libertad de prensa, promover el pluralismo de los medios de comunicación y la diversidad de información. Se prohíbe la censura previa.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "El Estado debe respetar la libertad de prensa, promover el pluralismo de los medios de comunicación y la diversidad de información. Se prohíbe la censura previa.",
+        "number": 5,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -2305,6 +2352,21 @@
         "content": "Artículo 4. El Estado fomenta y facilita la creación de radioemisoras, televisoras, canales y plataformas digitales, así como cualquier otro medio de comunicación e información, asegurando el espacio igualitario para la transmisión eficaz de estos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 4",
+        "step": "Indicación",
+        "content_snapshot": "Promoción de medios de comunicación e información. El Estado fomenta la creación de medios de comunicación e información y su desarrollo a nivel regional, local y comunitario. El Estado garantiza el derecho de los pueblos y naciones indígenas preexistentes a desarrollar y mantener medios de comunicación e información preferentemente en sus propias lenguas.",
+        "number": "17",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 4.- Promoción de medios de comunicación e información. El Estado fomenta la creación de medios de comunicación e información y su desarrollo a nivel regional, local y comunitario. El Estado garantiza el derecho de los pueblos y naciones indígenas preexistentes a desarrollar y mantener medios de comunicación e información preferentemente en sus propias lenguas.",
+        "content_to_remove": ""
       }
     ]
   },
@@ -2559,6 +2621,21 @@
         "content": "Artículo 3.- El Estado fomenta la existencia de medios de comunicación libres e independientes. Se prohíbe la concentración de la propiedad de los medios de comunicación e información. Corresponderá a la ley regular dicha prohibición. En ningún caso se podrá establecer el monopolio estatal sobre ellos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 3",
+        "step": "Indicación",
+        "content_snapshot": "Concentración de la propiedad de medios. El Estado impedirá la concentración de la propiedad de los medios de comunicación e información. En ningún caso se podrá establecer el monopolio estatal sobre ellos. Corresponderá a la ley el resguardo de este precepto.",
+        "number": "10",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 3.- Concentración de la propiedad de medios. El Estado impedirá la concentración de la propiedad de los medios de comunicación e información. En ningún caso se podrá establecer el monopolio estatal sobre ellos. Corresponderá a la ley el resguardo de este precepto.",
+        "content_to_remove": ""
       }
     ]
   },
@@ -2586,7 +2663,58 @@
     "action": "SUBSTITUTE",
     "content": "Artículo 5.- El Estado promueve y respeta la existencia y desarrollo de medios públicos, regionales, locales y comunitarios. Asimismo, el Estado contribuye a que las personas, individual o colectivamente, desarrollen sus propias iniciativas de comunicación, asegurando el acceso y participación equitativa de los distintos grupos sociales, pueblos y naciones, en un sistema de medios y soportes de comunicación e información diverso, pluralista, transparente, inclusivo, intercultural ,plurilingüe y descentralizado. La ley promoverá la comunicación e información comunitaria y de los pueblos y naciones, su presencia en el sistema de comunicación y su contribución al conocimiento, la cultura y la promoción de los derechos humanos.",
     "content_to_remove": "",
-    "placement_instructions": "pasa a ser artículo 5"
+    "placement_instructions": "pasa a ser artículo 5",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "20",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "21",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "22",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND02-19_CH1_ART7",
@@ -2612,7 +2740,25 @@
     "action": "SUBSTITUTE",
     "content": "Artículo 7.- El Estado garantiza la protección y seguridad de las fuentes de información, de quienes ejercen la labor de comunicar, de periodistas y de sus familias, en especial de mujeres y diversidades. Una ley establecerá los mecanismos adecuados y efectivos de protección, que incluya una respuesta adecuada frente a vulneraciones.",
     "content_to_remove": "",
-    "placement_instructions": "pasa a ser artículo 7"
+    "placement_instructions": "pasa a ser artículo 7",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 7",
+        "step": "Indicación",
+        "content_snapshot": "Protección de fuentes y comunicadores. El Estado garantiza la protección y seguridad de las fuentes de información, los periodistas, y de quienes ejercen la labor de comunicar.",
+        "number": "34",
+        "authors_matched": [
+          "Pinto, Malucha",
+          "Videla, Carolina"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 6.- Protección de fuentes y comunicadores. El Estado garantiza la protección y seguridad de las fuentes de información, los periodistas, y de quienes ejercen la labor de comunicar.",
+        "content_to_remove": ""
+      }
+    ]
   },
   {
     "article": "Artículo 3.3",
@@ -2823,7 +2969,42 @@
     "action": "SUBSTITUTE",
     "content": "Artículo. 6.- El Estado garantiza y fomenta la educación mediática con perspectiva de género, feminista y no sexista, derechos humanos, descentralizada y plurinacional en los medios de comunicación, de acuerdo a la forma que establezca la ley.",
     "content_to_remove": "",
-    "placement_instructions": ""
+    "placement_instructions": "",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "Educación mediática. Toda persona tiene derecho a acceder a la educación mediática con enfoque de género y derechos humanos, con el fin de garantizar la formación de una ciudadanía activa, crítica e informada acerca del sistema de comunicación social.",
+        "number": "28",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 5.- Educación mediática. Toda persona tiene derecho a acceder a la educación mediática con enfoque de género y derechos humanos, con el fin de garantizar la formación de una ciudadanía activa, crítica e informada acerca del sistema de comunicación social.",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "Educación mediática. Toda persona tiene derecho a acceder a la educación mediática con enfoque de género y derechos humanos, con el fin de garantizar la formación de una ciudadanía activa, crítica e informada acerca del sistema de comunicación social, con pleno respeto a la libertad de prensa.",
+        "number": "31",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 6,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "con pleno respeto a la libertad de prensa",
+        "content_to_remove": "",
+        "placement_instructions": "luego del último punto, que pasa a ser una coma"
+      }
+    ]
   },
   {
     "article": "Artículo 3.4",
@@ -3341,8 +3522,75 @@
         "content": "“Estos derechos deben ejercerse con pleno respeto a los derechos humanos y de la naturaleza. Ni el Estado, grupo o individuo alguno podrán emprender actividades o actos encaminados a la vulneración de derechos o libertades reconocidas o a su limitación en mayor medida que la prevista. Los derechos culturales deben desarrollarse bajo el pleno respeto a la diversidad cultural. La ley regulará el ejercicio de los derechos contenidos en este artículo.”",
         "content_to_remove": "",
         "placement_instructions": "incisos finales, nuevos"
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "Derechos culturales. La Constitución asegura a todas las personas y comunidades:\n 1°. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.\n 2°. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.\n 3°. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.\n 4°. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.\n El Estado garantiza los recursos para hacer efectiva la actividad cultural y artística.\n Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.",
+        "number": "37",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9. Derechos culturales. La Constitución asegura a todas las personas y comunidades: 1°. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad. 2°. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios. 3°. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa. 4°. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes. El Estado garantiza los recursos para hacer efectiva la actividad cultural y artística. Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "Derechos culturales. La Constitución asegura a todas las personas y comunidades:\n 1°. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.\n 2°. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.\n 3°. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.\n 4°. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.\n El Estado garantiza los recursos para hacer efectiva la actividad cultural y artística.\n Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.\n La ley establecerá un tratamiento tributario especial que incentive la promoción de organizaciones culturales, y definirá un sistema de conformación, registro, transparencia y rendición de cuentas que garantice la colaboración efectiva de estas organizaciones con el bien común.",
+        "number": "44",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 9,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "La ley establecerá un tratamiento tributario especial que incentive la promoción de organizaciones culturales, y definirá un sistema de conformación, registro, transparencia y rendición de cuentas que garantice la colaboración efectiva de estas organizaciones con el bien común.",
+        "content_to_remove": "",
+        "placement_instructions": "como inciso penúltimo del nuevo artículo 9"
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "Derechos culturales. La Constitución asegura a todas las personas y comunidades:\n 1°. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.\n 2°. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.\n 3°. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.\n 4°. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.\n 5°. La igualdad ante la ley y no discriminación arbitraria de las diversas cosmovisiones que componen la interculturalidad del país, promoviendo su interrelación armónica y el respeto de todas las expresiones simbólicas, culturales y patrimoniales, sean estas tangibles o intangibles.\n El Estado garantiza los recursos para hacer efectiva la actividad cultural y artística.\n Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.\n La ley establecerá un tratamiento tributario especial que incentive la promoción de organizaciones culturales, y definirá un sistema de conformación, registro, transparencia y rendición de cuentas que garantice la colaboración efectiva de estas organizaciones con el bien común.",
+        "number": "54",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 9,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Numeral X: La igualdad ante la ley y no discriminación arbitraria de las diversas cosmovisiones que componen la interculturalidad del país, promoviendo su interrelación armónica y el respeto de todas las expresiones simbólicas, culturales y patrimoniales, sean estas tangibles o intangibles.",
+        "content_to_remove": "",
+        "placement_instructions": "como nuevo numeral"
       }
     ]
+  },
+  {
+    "article_uid": "C7_IND03-08-1_CH1_ARTN",
+    "timestamp": "03-08-1",
+    "article": "Artículo nuevo",
+    "text": "El Estado reconoce el valor de las culturas comunitarias como espacios relacionales de creación y construcción de identidades culturales.",
+    "number": "58.1",
+    "authors_matched": [
+      "Pinto, Malucha"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo XX.- El Estado reconoce el valor de las culturas comunitarias como espacios relacionales de creación y construcción de identidades culturales.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un nuevo artículo"
   },
   {
     "article": "Artículo 1.2",
@@ -3726,7 +3974,7 @@
         "timestamp": "02-19",
         "article": "Artículo 2",
         "step": "Indicacion",
-        "content_snapshot": "Los pueblos y naciones preexistentes al Estado, el pueblo tribal afrodescendiente chileno y sus integrantes tienen derecho a la identidad e integridad cultural, y a que se reconozcan y respeten sus formas y modos de vida, su vinculación con la tierra, territorio, mar, maritorio, cosmovisiones, epistemologías, ontologías, espiritualidad, normas, tradiciones, prácticas sociales y culturales; sus usos, costumbres; las formas y modos de organización social, económica, política y alimentaria; las formas y modos de transmisión del conocimiento, instituciones, prácticas, creencias, valores e idiomas y lenguas, lo que se desarrolla en procesos de interrelación.\n Lo anterior incluye el derecho de determinar la forma de ejercicio y sus límites, en el marco de respeto y dignidad entre los pueblos y naciones.\n Para el pleno ejercicio de estos derechos, el Estado debe resguardar, proteger e implementar medidas de reparación y restitución de su patrimonio cultural. (ICC N° 79-2 Articulo XX1 inciso tercero).\n En conjunto con los pueblos, el Estado tiene el deber de colaborar tanto nacional como internacionalmente, para el logro efectivo de la práctica, participación, manifestación, recreación y regeneración de sus culturas, facilitando sus procesos de transmisión, transferencia, intercambio, diálogo y encuentro para su continuidad colectiva, de sus integrantes y para las generaciones futuras. (ICC N° 79-2 Articulo XX3 inciso segundo).",
+        "content_snapshot": "Los pueblos y naciones preexistentes al Estado, el pueblo tribal afrodescendiente chileno y sus integrantes tienen derecho a la identidad e integridad cultural, y a que se reconozcan y respeten sus formas y modos de vida, su vinculación con la tierra, territorio, mar, maritorio, cosmovisiones, epistemologías, ontologías, espiritualidad, normas, tradiciones, prácticas sociales y culturales; sus usos, costumbres; las formas y modos de organización social, económica, política y alimentaria; las formas y modos de transmisión del conocimiento, instituciones, prácticas, creencias, valores e idiomas y lenguas, lo que se desarrolla en procesos de interrelación.\n Lo anterior incluye el derecho de determinar la forma de ejercicio y sus límites, en el marco de respeto y dignidad entre los pueblos y naciones.\n Para el pleno ejercicio de estos derechos, el Estado debe resguardar, proteger e implementar medidas de reparación y restitución de su patrimonio cultural. (ICC N° 79-2 Articulo XX1 inciso tercero).",
         "number": 142,
         "authors_matched": [
           "Neumann, Ricardo",
@@ -3739,8 +3987,96 @@
         "content": "",
         "content_to_remove": "",
         "placement_instructions": "Inciso séptimo"
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "61",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 10. Identidad e integridad cultural. Los pueblos y naciones indígenas preexistentes y sus integrantes tienen derecho a la identidad e integridad cultural, y a que se reconozcan y respeten sus formas de vida, de transmisión del conocimiento, sus cosmovisiones, el vínculo con la tierra, el mar y el territorio, sus usos, costumbres, tradiciones e instituciones propias y su lengua, los cuales se desarrollan en procesos de interrelación. A su vez, el pueblo tribal afrodescendiente chileno tiene derecho a desarrollar su cultura, su identidad e instituciones propias, garantizando el Estado el ejercicio de este derecho.",
+        "content_to_remove": ""
       }
     ]
+  },
+  {
+    "article_uid": "C7-X-ART10",
+    "article": "Art 11",
+    "timestamp": "NA",
+    "text": "En conjunto con los pueblos, el Estado tiene el deber de colaborar tanto nacional como internacionalmente, para el logro efectivo de la práctica, participación, manifestación, recreación y regeneración de sus culturas, facilitando sus procesos de transmisión, transferencia, intercambio, diálogo y encuentro para su continuidad colectiva, de sus integrantes y para las generaciones futuras.",
+    "comment": "Este artículo originalmente provenía de C7_GEN2_CH2_ART1_5, pero después, pasó a ser un artículo independiente",
+    "sources": [
+      "79-2"
+    ],
+    "authors": [
+      "Antilef, Victorino",
+      "Caiguan, Alexis",
+      "Chinga, Eric",
+      "Dorador, Cristina",
+      "Godoy, Isabel",
+      "Linconao, Francisca",
+      "Llanquileo, Natividad",
+      "Pinto, Malucha",
+      "Vargas, Margarita",
+      "Videla, Carolina"
+    ],
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "66",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "67",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "68",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 2.2",
@@ -4466,7 +4802,58 @@
     "action": "ADD",
     "content": "Artículo 4-. El Estado garantiza los recursos para hacer efectiva la actividad artística y cultural desarrollada por personas y comunidades, asegurando la descentralización y autonomía de las regiones, localidades y pueblos en esta materia.\nLa ley deberá asegurar criterios de perspectiva de género, plurinacionalidad, inclusión, pluralismo y pertinencia territorial en la distribución de los recursos.",
     "content_to_remove": null,
-    "placement_instructions": "siguiente artículo 4, nuevo"
+    "placement_instructions": "siguiente artículo 4, nuevo",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "69",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "70",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "71",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 4.2",
@@ -4543,7 +4930,42 @@
     "action": "ADD",
     "content": "Artículo 5-. El Estado velará por remover los obstáculos que impidan o dificulten el acceso, goce y ejercicio de los derechos culturales, con el objeto de desarrollar una vida cultural plena.",
     "content_to_remove": null,
-    "placement_instructions": "siguiente artículo 5, nuevo"
+    "placement_instructions": "siguiente artículo 5, nuevo",
+    "history": [
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 15",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 6,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 15",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 7,
+        "authors_matched": [
+          "Neumann, Ricardo"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND02-19_CH2_ART6",
@@ -4569,7 +4991,58 @@
     "action": "ADD",
     "content": "Artículo 6.- El Estado promueve la cooperación internacional cultural y la integración regional, fortaleciendo sus relaciones solidarias con otros Estados y pueblos velando por el respeto de las culturas migrantes y extranjeras.",
     "content_to_remove": null,
-    "placement_instructions": "siguiente artículo 5, nuevo"
+    "placement_instructions": "siguiente artículo 5, nuevo",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 16",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "73",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 16",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "74",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 16",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "75",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 5",
@@ -4661,6 +5134,21 @@
         "content": "y las expresiones populares de la ruralidad",
         "content_to_remove": null,
         "placement_instructions": "antes de 'a través de los mecanismos,'"
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 17",
+        "step": "Indicación",
+        "content_snapshot": "Se reconoce el aporte del arte callejero y el arte popular, como el de las culturas comunitarias, a la democratización de la vida cultural.",
+        "number": "79",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 17,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo XX.- Se reconoce el aporte del arte callejero y el arte popular, como el de las culturas comunitarias, a la democratización de la vida cultural.",
+        "content_to_remove": ""
       }
     ]
   },
@@ -4823,6 +5311,38 @@
         "content": "Artículo 2: El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras. El Estado participa y promueve activamente el desarrollo e implementación de las telecomunicaciones, servicios de conectividad y las tecnologías de la información y comunicación, posibilitando distintos modelos y alternativas, respetando los principios de igualdad, continuidad, adaptabilidad, sustentabilidad, equidad territorial, descentralización y gestión compartida. La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 19",
+        "step": "Indicación",
+        "content_snapshot": "El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras.\n Es deber del Estado promover y participar del desarrollo de las telecomunicaciones, servicios de conectividad y tecnologías de la información y comunicación. La ley regulará la forma en que el Estado cumplirá este deber, así como su participación y la de otros actores en la materia.\n La ley determinará la forma en que el Estado y sus instituciones, además de la sociedad civil, participarán en los servicios de telecomunicaciones.",
+        "number": 11,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 19,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Es deber del Estado promover y participar del desarrollo de las telecomunicaciones, servicios de conectividad y tecnologías de la información y comunicación. La ley regulará la forma en que el Estado cumplirá este deber, así como su participación y la de otros actores en la materia.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 19",
+        "step": "Indicación",
+        "content_snapshot": "El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital, sus dispositivos e infraestructuras.\n Es deber del Estado promover y participar del desarrollo de las telecomunicaciones, servicios de conectividad y tecnologías de la información y comunicación. La ley regulará la forma en que el Estado cumplirá este deber, así como su participación y la de otros actores en la materia.",
+        "number": 12,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 19,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -5187,6 +5707,38 @@
         "content": "Artículo 6: Se reconoce el derecho de todas las personas a una vida libre de violencia en cualquier plataforma o medio digital, con especial énfasis en los grupos históricamente excluidos. El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho. Las obligaciones, condiciones y límites en esta materia serán determinados por la ley",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 23",
+        "step": "Indicación",
+        "content_snapshot": "Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promotion, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.\n El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
+        "number": 14,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 23,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 23.- Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promotion, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 23",
+        "step": "Indicación",
+        "content_snapshot": "Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promotion, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
+        "number": 15,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 23,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -5246,6 +5798,21 @@
         "content": "En todas las políticas públicas relacionadas con estos objetivos, el Estado deberá velar por la participación de las comunidades, especialmente en el nivel local, el respeto de los derechos de los pueblos indígenas, la promoción del diálogo intercultural, así como la protección, conservación y restauración de la naturaleza y su biodiversidad",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "Derecho al ocio. Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre.",
+        "number": "84",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 24.- Derecho al ocio. Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre.",
+        "content_to_remove": ""
       }
     ]
   },
@@ -5325,12 +5892,27 @@
         "content": "El Estado debe promover una educación integral e intercultural, que entregue herramientas motrices y socio-afectivas, teóricas y prácticas, para poder conocer, comprender y disfrutar la experiencia del lenguaje corporal.",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 25",
+        "step": "Indicación",
+        "content_snapshot": "Derecho al cuerpo. Todas las personas tienen el derecho a desarrollar y disfrutar de su corporeidad, así como a una muerte, rito y sepultura digna, de acuerdo a su cosmovisión, cultura y creencias.",
+        "number": "87",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 25. Derecho al cuerpo. Todas las personas tienen el derecho a desarrollar y disfrutar de su corporeidad, así como a una muerte, rito y sepultura digna, de acuerdo a su cosmovisión, cultura y creencias.",
+        "content_to_remove": ""
       }
     ]
   },
   {
     "article": "ARTÍCULO XX1",
-    "text": "El Estado reconoce la neuro diversidad y a las personas neuro divergentes, su derecho a una vida plena, al buen vivir, autonomía y autodeterminación durante todo su ciclo vital... (ICC N° 403 Artículo XX1 inciso primero). El Estado deberá garantizar y promover el trato digno y su inclusión en todos los espacios sociales y políticos... (ICC N° 403 Artículo XX1 inciso segundo).",
+    "text": "El Estado reconoce la neuro diversidad y a las personas neuro divergentes, su derecho a una vida plena, al buen vivir, autonomía y autodeterminación durante todo su ciclo vital; a su respecto debe garantizar el acceso todos los derechos reconocidos en esta Constitución y en tratados internacionales ratificados por Chile, asegurando los ajustes necesarios y especializados dirigidos a eliminar las barreras estructurales que impidan su ejercicio pleno.\n El Estado deberá garantizar y promover el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones sin discriminación.\n Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.",
     "sources": [
       "403"
     ],
@@ -5352,7 +5934,57 @@
       "Vilches, Carolina"
     ],
     "article_uid": "C7_GEN2_CH5_ARTXX1",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "El Estado reconoce la neurodiversidad y garantiza a las personas neurodivergentes su derecho a una vida autónoma, a desarrollar libremente su personalidad e identidad, a ejercer su capacidad jurídica y los derechos, individuales y colectivos, reconocidos en esta Constitución y los tratados e instrumentos internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes.\n El Estado deberá garantizar y promover el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones sin discriminación.\n Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.",
+        "number": 17,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 26.- El Estado reconoce la neurodiversidad y garantiza a las personas neurodivergentes su derecho a una vida autónoma, a desarrollar libremente su personalidad e identidad, a ejercer su capacidad jurídica y los derechos, individuales y colectivos, reconocidos en esta Constitución y los tratados e instrumentos internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "El Estado reconoce la neurodiversidad y garantiza a las personas neurodivergentes su derecho a una vida autónoma, a desarrollar libremente su personalidad e identidad, a ejercer su capacidad jurídica y los derechos, individuales y colectivos, reconocidos en esta Constitución y los tratados e instrumentos internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes.\n Es deber del Estado desarrollar un sistema transversal de apoyos que establezca ajustes razonables y mecanismos especializados que permitan eliminar las barreras estructurales que impiden el goce y ejercicio de sus derechos en plenitud y que asegure su trato digno e inclusivo.\n Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.",
+        "number": 18,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Es deber del Estado desarrollar un sistema transversal de apoyos que establezca ajustes razonables y mecanismos especializados que permitan eliminar las barreras estructurales que impiden el goce y ejercicio de sus derechos en plenitud y que asegure su trato digno e inclusivo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-08-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "El Estado reconoce la neurodiversidad y garantiza a las personas neurodivergentes su derecho a una vida autónoma, a desarrollar libremente su personalidad e identidad, a ejercer su capacidad jurídica y los derechos, individuales y colectivos, reconocidos en esta Constitución y los tratados e instrumentos internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes.\n Es deber del Estado desarrollar un sistema transversal de apoyos que establezca ajustes razonables y mecanismos especializados que permitan eliminar las barreras estructurales que impiden el goce y ejercicio de sus derechos en plenitud y que asegure su trato digno e inclusivo.",
+        "number": 19,
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   },
   {
     "article": "ARTÍCULO XX2",
@@ -5411,7 +6043,57 @@
       "Vilches, Carolina"
     ],
     "article_uid": "C7_GEN2_CH5_ARTXX3",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "89",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "90",
+        "authors_matched": [
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica",
+          "Neumann, Ricardo"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "91",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      }
+    ]
   },
   {
     "article": "ARTÍCULO X",
@@ -5456,6 +6138,21 @@
         "content": "",
         "content_to_remove": null,
         "placement_instructions": null
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "Principios de la Bioética. Las ciencias y tecnologías deben desarrollarse bajo los principios de solidaridad, cooperación, precautorio, de responsabilidad y con pleno respeto a la dignidad humana, los derechos de la naturaleza y los derechos fundamentales consagrados en esta Constitución y las leyes.",
+        "number": "93",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 27. - Principios de la Bioética. Las ciencias y tecnologías deben desarrollarse bajo los principios de solidaridad, cooperación, precautorio, de responsabilidad y con pleno respeto a la dignidad humana, los derechos de la naturaleza y los derechos fundamentales consagrados en esta Constitución y las leyes.",
+        "content_to_remove": ""
       }
     ]
   },
@@ -5487,7 +6184,41 @@
     ],
     "authors": [],
     "article_uid": "C7_GEN2_CH6_ARTXXX2",
-    "timestamp": "02-17"
+    "timestamp": "02-17",
+    "history": [
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 30",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "97",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      },
+      {
+        "timestamp": "03-08-1",
+        "article": "Artículo 30",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "98",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 1 (Cuerpo)",
