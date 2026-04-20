@@ -85,7 +85,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 339.- Artículo 1"
   },
   {
     "article": "Artículo 1 A.- Función Jurisdiccional",
@@ -305,7 +306,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 340.- Artículo 2"
   },
   {
     "article": "Artículo 2 A.- Unidad jurisdiccional",
@@ -581,7 +583,8 @@
         "content_to_remove": "",
         "placement_instructions": "como nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Similar a 341.- Artículo 3"
   },
   {
     "article": "Artículo 4 A.- Independencia e imparcialidad",
@@ -954,7 +957,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 342.- Artículo 4"
   },
   {
     "article": "Artículo 5 A.- Inamovilidad",
@@ -1278,7 +1282,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 343.- Artículo 5"
   },
   {
     "article": "Artículo 6 A.- Pleno acceso a la justicia",
@@ -1472,7 +1477,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 344.- Artículo 6"
   },
   {
     "article": "Artículo 7 A.- Tutela jurisdiccional efectiva",
@@ -2027,7 +2033,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 345.- Artículo 7"
   },
   {
     "article": "Artículo 9 A.- Principio de inexcusabilidad",
@@ -2298,7 +2305,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 346.- Artículo 8"
   },
   {
     "article": "Artículo 10 A.- Ejecución de resoluciones",
@@ -2570,7 +2578,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 347.- Artículo 9"
   },
   {
     "article": "Artículo 11 A.- Motivación y lenguaje claro",
@@ -2718,7 +2727,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 348.- Artículo 10"
   },
   {
     "article": "Artículo 12 A.- Gratuidad",
@@ -3155,7 +3165,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 349.- Artículo 11"
   },
   {
     "article": "Artículo 15 A.- Responsabilidad",
@@ -3796,7 +3807,8 @@
         "content_snapshot": "Principio de Justicia Abierta. La función jurisdiccional se basa en los principios rectores de la Justicia Abierta, que se manifiesta en la transparencia, participación y colaboración, con el fin de garantizar el Estado de Derecho, promover la paz social y fortalecer la democracia.",
         "comment": "Se eliminó segundo inciso tras votación"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 351.- Artículo 13"
   },
   {
     "article": "Artículo 18 B.- Publicidad, Probidad y Transparencia de todos los actos del sistema de justicia",
@@ -3982,7 +3994,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 352.- Artículo 14"
   },
   {
     "article": "Artículo 21 A.- Perspectiva de Género",
@@ -4118,7 +4131,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 353.- Artículo 15"
   },
   {
     "article": "Artículo 22 A.- Pluralismo jurídico",
@@ -4481,7 +4495,8 @@
         "content_to_remove": "Artículo 1.- Funciones de los tribunales. (Texto original)",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 355.- Artículo 1"
   },
   {
     "article": "Artículo 25.- Bases orgánicas para la función jurisdiccional",
@@ -4553,7 +4568,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 356.- Artículo 2"
   },
   {
     "article": "Artículo 3",
@@ -4625,7 +4641,8 @@
     "action": "ADD",
     "content": "Artículo 3.- Cesación de juezas y jueces. Las juezas y jueces cesan en sus cargos por alcanzar los setenta años de edad, por renuncia, por constatarse una incapacidad legal sobreviniente o por remoción.",
     "content_to_remove": "",
-    "placement_instructions": "agregar un nuevo artículo 3"
+    "placement_instructions": "agregar un nuevo artículo 3",
+    "final_status": "Idéntico a 357.- Artículo 3"
   },
   {
     "article_uid": "C6_IND03-07_ART4",
@@ -4644,7 +4661,8 @@
     "action": "ADD",
     "content": "Artículo 3 A.- Fuero. Las juezas y los jueces no podrán ser acusados o privados de libertad, salvo el caso de delito flagrante, si la Corte de Apelaciones correspondiente no declara admisible uno o más capítulos de la acusación respectiva. La resolución que se pronuncie sobre la querella de capítulos será apelable para ante la Corte Suprema. Encontrándose firme la resolución que acoge la querella, el procedimiento penal continuará de acuerdo a las reglas generales y la jueza o el juez quedará suspendido del ejercicio de sus funciones.",
     "content_to_remove": "",
-    "placement_instructions": "agregar el siguiente artículo nuevo"
+    "placement_instructions": "agregar el siguiente artículo nuevo",
+    "final_status": "Idéntico a 358.- Artículo 4"
   },
   {
     "article": "Artículo 26.- Aplicación de la Constitución, los tratados internacionales y derecho indígena",
@@ -4751,7 +4769,8 @@
     "action": "ADD",
     "content": "Artículo 4.- Autonomía financiera. El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se destinarán en la Ley de Presupuestos del Estado los fondos necesarios para su adecuado funcionamiento.",
     "content_to_remove": "",
-    "placement_instructions": "agregar un nuevo artículo 4"
+    "placement_instructions": "agregar un nuevo artículo 4",
+    "final_status": "Idéntico a 359.- Artículo 5"
   },
   {
     "article": "Artículo 27.- Resoluciones judiciales",
@@ -4823,7 +4842,8 @@
     "action": "ADD",
     "content": "Artículo 5.- Publicidad. Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.",
     "content_to_remove": "",
-    "placement_instructions": "agregar un nuevo artículo 5"
+    "placement_instructions": "agregar un nuevo artículo 5",
+    "final_status": "Idéntico a 360.- Artículo 6"
   },
   {
     "article": "Artículo 28. Separación de funciones en el sistema judicial",
@@ -4884,7 +4904,8 @@
     "action": "ADD",
     "content": "Artículo 6.- Principio de proximidad e itinerancia. Los tribunales, con la finalidad de garantizar el acceso a la justicia y a la tutela judicial efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro de su territorio jurisdiccional.",
     "content_to_remove": "",
-    "placement_instructions": "agregar un nuevo artículo 6"
+    "placement_instructions": "agregar un nuevo artículo 6",
+    "final_status": "Idéntico a 361.- Artículo 7"
   },
   {
     "article": "Artículo 29.- Función Jurisdiccional",
@@ -4954,7 +4975,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 362.- Artículo 8"
   },
   {
     "article": "Artículo 29 A.- Órganos jurisdiccionales ordinarios",
@@ -5084,7 +5106,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 363.- Artículo 9"
   },
   {
     "article_uid": "C6_IND03-07_ART10",
@@ -5188,7 +5211,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 364.- Artículo 12"
   },
   {
     "article": "Artículo 30 A.- Funciones y composición",
@@ -5851,7 +5875,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 365.- Artículo 13"
   },
   {
     "article": "Artículo 34 A.- Los Tribunales de Apelaciones",
@@ -6032,7 +6057,8 @@
         "content_to_remove": "Artículo 15.- Tribunales de instancia. (Texto original)",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 366.- Artículo 14"
   },
   {
     "article": "Artículo 37 A.- De los Tribunales de Instancia",
@@ -6256,7 +6282,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 367.- Artículo 15"
   },
   {
     "article": "Artículo 41 A.- Tribunales administrativos",
@@ -6518,7 +6545,8 @@
     "action": "ADD",
     "content": "Artículo XX. Establecimientos penitenciarios. Sólo el Estado puede ejecutar el cumplimiento de penas y medidas privativas de libertad, a través de instituciones públicas especialmente establecidas para estos fines. La función establecida en este artículo no podrá ser ejercida por privados. Para la inserción, integración y reparación de las personas privadas de libertad, los establecimientos penitenciarios deben contar con espacios para el estudio, trabajo, deporte, las artes y culturas. En el caso de mujeres embarazadas y madres de lactantes, el Estado adoptará las medidas necesarias tales como infraestructura y equipamiento tanto en el régimen de control cerrado, abierto y post penitenciario.",
     "content_to_remove": "",
-    "placement_instructions": "entre los artículos 23 y 24 texto sistematizado"
+    "placement_instructions": "entre los artículos 23 y 24 texto sistematizado",
+    "final_status": "Idéntico a 368.- Artículo 16"
   },
   {
     "article_uid": "C6_X_ART24",
@@ -6547,7 +6575,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 369.- Artículo 17"
   },
   {
     "article": "Artículo 45.- Tribunales de ejecución de penas",
@@ -6704,7 +6733,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 371.- Artículo 19"
   },
   {
     "article": "Artículo 46 A.- Centros de justicia comunitaria",
@@ -6960,7 +6990,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 372.- Artículo 20"
   },
   {
     "article": "Artículo 48.- Enfoque de género",
@@ -7010,7 +7041,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 373.- Artículo 21"
   },
   {
     "article": "Artículo 48 A.- Enfoque de género",
@@ -7091,7 +7123,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 374.- Artículo 22"
   },
   {
     "article_uid": "C6_IND04-01-1_ART24BIS",
@@ -7906,7 +7939,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 375.- Artículo 26"
   },
   {
     "article": "Artículo 43",
@@ -8562,7 +8596,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 377.- Artículo 28"
   },
   {
     "article": "Artículo 66 A.- Funciones",
@@ -8880,7 +8915,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 378.- Artículo 29"
   },
   {
     "article": "Artículo 67 A.- Composición y duración del cargo",
@@ -9452,7 +9488,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 379.- Artículo 30"
   },
   {
     "article": "Artículo 69 A.- Funcionamiento",
@@ -9578,7 +9615,7 @@
         "article": "Artículo 31",
         "timestamp": "03-07",
         "step": "Indicación",
-        "content_snapshot": "Inhabilidades e incompatibilidades. Las y los consejeros no podrán ejercer otra función o empleo, sea o no remunerado, con exclusión de las actividades académicas. Tampoco podrán concursar para ser designados en cargos judiciales hasta transcurrido un año desde que cesen en sus funciones. La ley podrá establecer otras incompatibilidades en el ejercicio del cargo.\n Las y los consejeros indicados en las letras a y b del artículo [Artículo XX. Composición del Consejo de la Justicia] se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.",
+        "content_snapshot": "Inhabilidades e incompatibilidades. Las y los consejeros no podrán ejercer otra función o empleo, sea o no remunerado, con exclusión de las actividades académicas. Tampoco podrán concursar para ser designados en cargos judiciales hasta transcurrido un año desde que cesen en sus funciones. La ley podrá establecer otras incompatibilidades en el ejercicio del cargo.\n Las y los consejeros indicados en las letras a y b del artículo sobre Composición del Consejo de la Justicia se entenderán suspendidos del ejercicio de su función mientras dure su cometido en el Consejo.",
         "number": "537",
         "authors_matched": [
           "Daza, Mauricio",
@@ -9595,7 +9632,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 380.- Artículo 31"
   },
   {
     "article": "Artículo 70 A.- Incompatibilidades",
@@ -9985,7 +10023,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 381.- Artículo 32"
   },
   {
     "article": "Artículo 73 A.- Cesación en el cargo",
@@ -10189,7 +10228,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 382.- Artículo 33"
   },
   {
     "article": "Artículo 74 B.- Nombramientos",
@@ -10380,7 +10420,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 383.- Artículo 34"
   },
   {
     "article": "Artículo 77 A.- Responsabilidad disciplinaria",
