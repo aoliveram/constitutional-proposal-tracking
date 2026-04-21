@@ -47,8 +47,73 @@
         "content": "Artículo 1. Derecho a participar y beneficiarse de los conocimientos. Toda persona, individual o colectivamente, tiene derecho a participar libremente de la creación, desarrollo, conservación e innovación de los diversos sistemas de conocimientos y a la transferencia de sus aplicaciones, así como a gozar de sus beneficios.\nEl Estado reconoce el derecho de los pueblos y naciones indígenas preexistentes a controlar, preservar, revitalizar, desarrollar y transmitir los conocimientos tradicionales y saberes ancestrales y debe, en conjunto con ellos, adoptar medidas eficaces para garantizar su ejercicio.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a participar y beneficiarse de los conocimientos. Toda persona, individual o colectivamente, tiene derecho a participar libremente de la creación, desarrollo, conservación e innovación de los diversos sistemas de conocimientos y a la transferencia de sus aplicaciones, así como a gozar de sus beneficios.\nAsimismo, la Constitución garantiza la libertad de investigación.",
+        "number": "2",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Asimismo, la Constitución garantiza la libertad de investigación.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a participar y beneficiarse de los conocimientos. Toda persona, individual o colectivamente, tiene derecho a participar libremente de la creación, desarrollo, conservación e innovación de los diversos sistemas de conocimientos y a la transferencia de sus aplicaciones, así como a gozar de sus beneficios.\n El Estado reconoce el derecho de los pueblos y naciones indígenas preservar, revitalizar, desarrollar y transmitir los conocimientos tradicionales y saberes ancestrales y debe, en conjunto con ellos, adoptar medidas eficaces para garantizar su ejercicio.\n Asimismo, la Constitución garantiza la libertad de investigación.",
+        "number": "3",
+        "authors_matched": [
+          "Caiguan, Alexis"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El Estado reconoce el derecho de los pueblos y naciones indígenas preservar, revitalizar, desarrollar y transmitir los conocimientos tradicionales y saberes ancestrales y debe, en conjunto con ellos, adoptar medidas eficaces para garantizar su ejercicio.",
+        "content_to_remove": "",
+        "placement_instructions": "entre el primero y el segundo"
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a participar y beneficiarse de los conocimientos. Toda persona, individual o colectivamente, tiene derecho a participar libremente de la creación, desarrollo, conservación e innovación de los diversos sistemas de conocimientos y a la transferencia de sus aplicaciones, así como a gozar de sus beneficios.\n El Estado reconoce el derecho de los pueblos y naciones indígenas preservar, revitalizar, desarrollar y transmitir los conocimientos tradicionales y saberes ancestrales y debe, en conjunto con ellos, adoptar medidas eficaces para garantizar su ejercicio.\n Asimismo, la Constitución garantiza la libertad de investigación.\n La creación de conocimientos estará orientada a su democratización y a la búsqueda del bien común.",
+        "number": "4",
+        "authors_matched": [
+          "Caamaño, Francisco"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "La creación de conocimientos estará orientada a su democratización y a la búsqueda del bien común.",
+        "content_to_remove": "",
+        "placement_instructions": "como nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Similar a 475.- Artículo 1"
+  },
+  {
+    "article_uid": "C7_IND04-19_ARTN",
+    "timestamp": "04-19",
+    "article": "Artículo Nuevo",
+    "text": "Acceso a los Conocimientos. El Estado promueve el acceso igualitario a los conocimientos, por lo que preferentemente utilizará y promoverá el uso de recursos y herramientas de libre acceso y distribución; así como aquellas que permitan la innovación por medio de su modificación.",
+    "number": "5",
+    "authors_matched": [
+      "Caamaño, Francisco"
+    ],
+    "target_article": 1,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo. Acceso a los Conocimientos. El Estado promueve el acceso igualitario a los conocimientos, por lo que preferentemente utilizará y promoverá el uso de recursos y herramientas de libre acceso y distribución; así como aquellas que permitan la innovación por medio de su modificación",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
   },
   {
     "article_uid": "C7-GEN-CH01-ART01.1",
@@ -98,8 +163,59 @@
         "content": "Artículo 2. Deberes del Estado. El Estado reconoce los diversos sistemas de conocimientos, comprendiendo ciencias, artes, humanidades, saberes ancestrales, territoriales y populares y conocimientos estéticos, entre otros. Además, se promueve su creación, desarrollo y conservación en diferentes contextos culturales, sociales y territoriales.\nEl Estado fomenta el acceso abierto e intercambio de conocimientos y el derecho a beneficiarse de ellos, respetando la protección de los intereses morales y materiales de sus autores, la propiedad intelectual indígena y los saberes ancestrales. Corresponderá a la ley establecer las condiciones y restricciones sobre esta materia.\nEl Estado reconoce que la comunicación de los sistemas de conocimientos es un medio fundamental para su desarrollo, promoviendo las condiciones para su divulgación y difusión.\nEl Estado considera las mejores evidencias científicas, complementadas con los sistemas de conocimientos, para sustentar la toma de decisiones informadas, especialmente en la formulación de normas jurídicas, planes, proyectos y políticas públicas.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Deberes del Estado. El Estado reconoce y fomenta el desarrollo de los diversos sistemas de conocimientos en el país, considerando sus diferentes contextos culturales, sociales y territoriales.\n Asimismo, fomenta su acceso equitativo y abierto, lo que comprende el intercambio y comunicación de conocimientos a la sociedad de la forma más amplia posible, con pleno respeto a los derechos establecidos en esta Constitución.\n Los órganos del Estado considerarán, cuando corresponda, a los avances científicos y tecnológicos disponibles, complementados con otros sistemas de conocimientos, en la toma de decisiones, especialmente en la formulación de normas jurídicas y políticas públicas.",
+        "number": "7",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2. Deberes del Estado. El Estado reconoce y fomenta el desarrollo de los diversos sistemas de conocimientos en el país, considerando sus diferentes contextos culturales, sociales y territoriales. Asimismo, fomenta su acceso equitativo y abierto, lo que comprende el intercambio y comunicación de conocimientos a la sociedad de la forma más amplia posible, con pleno respeto a los derechos establecidos en esta Constitución. Los órganos del Estado considerarán, cuando corresponda, a los avances científicos y tecnológicos disponibles, complementados con otros sistemas de conocimientos, en la toma de decisiones, especialmente en la formulación de normas jurídicas y políticas públicas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Deberes del Estado. El Estado reconoce y fomenta el desarrollo de los diversos sistemas de conocimientos en el país, considerando sus diferentes contextos culturales, sociales y territoriales.\n Asimismo, fomenta su acceso equitativo y abierto, lo que comprende el intercambio y comunicación de conocimientos a la sociedad de la forma más amplia posible, con pleno respeto a los derechos establecidos en esta Constitución.\n Los órganos del Estado considerarán, cuando corresponda, a los avances científicos y tecnológicos disponibles, complementados con otros sistemas de conocimientos, en la toma de decisiones, especialmente en la formulación de normas jurídicas y políticas públicas.\n El Estado considerará especialmente los sistemas de conocimiento, las manifestaciones de las ciencias, tecnologías y saberes milenarios de los pueblos y naciones indígenas, a fin que contribuyan al desarrollo del país.",
+        "number": "9",
+        "authors_matched": [
+          "Jimenez, Luis"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El Estado considerará especialmente los sistemas de conocimiento, las manifestaciones de las ciencias, tecnologías y saberes milenarios de los pueblos y naciones indígenas, a fin que contribuyan al desarrollo del país.",
+        "content_to_remove": "",
+        "placement_instructions": "para agregar un nuevo inciso"
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Deberes del Estado. El Estado reconoce y fomenta el desarrollo de los diversos sistemas de conocimientos en el país, considerando sus diferentes contextos culturales, sociales y territoriales.\n Asimismo, fomenta su acceso equitativo y abierto, lo que comprende el intercambio y comunicación de conocimientos a la sociedad de la forma más amplia posible, con pleno respeto a los derechos establecidos en esta Constitución.\n Los órganos del Estado considerarán, cuando corresponda, a los avances científicos y tecnológicos disponibles, complementados con otros sistemas de conocimientos, en la toma de decisiones, especialmente en la formulación de normas jurídicas y políticas públicas.\n El Estado considerará especialmente los sistemas de conocimiento, las manifestaciones de las ciencias, tecnologías y saberes milenarios de los pueblos y naciones indígenas, a fin que contribuyan al desarrollo del país.\n El Estado promoverá en todas sus etapas, un sistema educativo integral donde se fomenten interdisciplinariamente el pensamiento crítico y las habilidades basadas en la capacidad creadora del ser humano a través de las diversas áreas del conocimiento.",
+        "number": "10",
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El Estado promoverá en todas sus etapas, un sistema educativo integral donde se fomenten interdisciplinariamente el pensamiento crítico y las habilidades basadas en la capacidad creadora del ser humano a través de las diversas áreas del conocimiento.",
+        "content_to_remove": "",
+        "placement_instructions": "para agregar un nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Similar a 476.- Artículo 2"
   },
   {
     "article_uid": "C7-GEN-CH01-ART01.2",
@@ -817,6 +933,22 @@
         "content": "Artículo 5. Límites al derecho a los conocimientos y la libertad de investigación. El ejercicio del derecho a participar y beneficiarse de los conocimientos y la libertad de investigación tienen como límite el respeto a los principios de la bioética, además de otros principios y derechos establecidos en esta Constitución y tratados e instrumentos del derecho internacional de los Derechos Humanos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 3",
+        "step": "Indicación",
+        "content_snapshot": "Límites al derecho a participar y beneficiarse de los conocimientos y la libertad de investigación. El ejercicio del derecho a participar y beneficiarse de los conocimientos y de la libertad de investigación tiene como límite los derechos de las personas y la naturaleza, además de los principios establecidos en esta Constitución, con especial consideración de los principios de la bioética.",
+        "number": "12",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 3. Límites al derecho a participar y beneficiarse de los conocimientos y la libertad de investigación. El ejercicio del derecho a participar y beneficiarse de los conocimientos y de la libertad de investigación tiene como límite los derechos de las personas y la naturaleza, además de los principios establecidos en esta Constitución, con especial consideración de los principios de la bioética.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -1046,6 +1178,23 @@
     ]
   },
   {
+    "article_uid": "C7_IND04-19_ART5",
+    "timestamp": "04-19",
+    "article": "Artículo 5",
+    "text": "De la asimilación forzada. Se prohíbe la asimilación forzada o destrucción de las culturas de los pueblos y naciones indígenas.",
+    "number": "17",
+    "authors_matched": [
+      "Caiguan, Alexis"
+    ],
+    "target_article": 5,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo X. De la asimilación forzada. Se prohíbe la asimilación forzada o destrucción de las culturas de los pueblos y naciones indígenas.",
+    "content_to_remove": "",
+    "placement_instructions": "a continuación del artículo 5 y antes del 6",
+    "final_status": "Idéntico a 477.- Artículo Nuevo"
+  },
+  {
     "article_uid": "C7-GEN-CH04-ART01",
     "timestamp": "02-19",
     "chapter": "Derechos de Autor",
@@ -1136,12 +1285,45 @@
         ],
         "target_article": 1,
         "target_scope": "TOTAL",
-        "action": "DELETE",
-        "content": "",
+        "action": "SUBSTITUTE",
+        "content": "Derecho a beneficiarse de los intereses morales y materiales. Todas las personas, individual y colectivamente, tienen derecho a beneficiarse de la protección de los intereses morales y materiales sobre las creaciones o producciones culturales, científicas, artísticas y otras relativas a los conocimientos en general, de las que sean autoras o intérpretes.\n Estos derechos comprenden el aprovechamiento y el uso de la obra o interpretación, por un tiempo que no será inferior al de la vida del titular, así como el reconocimiento a la creación, divulgación e integridad de éstas, conforme a lo que establezca la ley.\n El derecho material de autores o intérpretes estará sujeto a las disposiciones del derecho de propiedad establecidas por esta Constitución, en cuanto a sus garantías, limitaciones y función social, debiendo la ley velar tanto por su protección con la de los demás derechos culturales, el resguardo de los saberes ancestrales y el goce del beneficio de los conocimientos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de autor. La Constitución asegura a todas las personas la protección de los derechos de autor sobre sus obras intelectuales, científicas y artísticas, comprendiendo los derechos morales y patrimoniales sobre ellas, en conformidad y por el tiempo que señale la ley, que no será inferior a la vida del autor.\n Asimismo, la Constitución asegura la protección a los derechos de intérpretes o ejecutantes sobre sus interpretaciones o ejecuciones, de conformidad a la ley.\n Las excepciones y limitaciones a estos derechos serán establecidas por la ley y velarán por el ejercicio de los derechos culturales, el goce de los beneficios de los conocimientos y demás derechos fundamentales.\n El Estado adoptará las medidas necesarias para el fortalecimiento y divulgación del dominio público.",
+        "number": "18",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 6. Derechos de autor. La Constitución asegura a todas las personas la protección de los derechos de autor sobre sus obras intelectuales, científicas y artísticas, comprendiendo los derechos morales y patrimoniales sobre ellas, en conformidad y por el tiempo que señale la ley, que no será inferior a la vida del autor. Asimismo, la Constitución asegura la protección a los derechos de intérpretes o ejecutantes sobre sus interpretaciones o ejecuciones, de conformidad a la ley. Las excepciones y limitaciones a estos derechos serán establecidas por la ley y velarán por el ejercicio de los derechos culturales, el goce de los beneficios de los conocimientos y demás derechos fundamentales. El Estado adoptará las medidas necesarias para el fortalecimiento y divulgación del dominio público",
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 478.- Artículo 6"
+  },
+  {
+    "article_uid": "C7_IND04-19_ART6C",
+    "timestamp": "04-19",
+    "article": "Artículo 6 C",
+    "text": "Propiedad Industrial. La Constitución asegura la protección de los diversos títulos de protección de propiedad industrial. La ley regulará los derechos que se confieren a su titular, su duración y las limitaciones derivadas de su función social.",
+    "number": "31",
+    "authors_matched": [
+      "Valenzuela, Paulina"
+    ],
+    "target_article": 6,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 6C. Propiedad Industrial. La Constitución asegura la protección de los diversos títulos de protección de propiedad industrial. La ley regulará los derechos que se confieren a su titular, su duración y las limitaciones derivadas de su función social.",
+    "content_to_remove": "",
+    "placement_instructions": "como nuevo artículo 6C"
   },
   {
     "article_uid": "C7-GEN-CH04-ART01.2",
@@ -1790,17 +1972,7 @@
     "sources": [
       "17-7"
     ],
-    "authors": [
-      "Aguilera, Tiare",
-      "Catrileo, Rosa",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Jimenez, Luis",
-      "Loncon, Elisa",
-      "Mamani, Isabella",
-      "Millabur, Adolfo",
-      "Tirado, Fernando"
-    ],
+    "authors": [],
     "history": [
       {
         "timestamp": "03-19",
@@ -1846,17 +2018,7 @@
     "sources": [
       "17-7"
     ],
-    "authors": [
-      "Aguilera, Tiare",
-      "Catrileo, Rosa",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Jimenez, Luis",
-      "Loncon, Elisa",
-      "Mamani, Isabella",
-      "Millabur, Adolfo",
-      "Tirado, Fernando"
-    ],
+    "authors": [],
     "history": [
       {
         "timestamp": "03-19",
@@ -3398,7 +3560,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 479.- Artículo 8"
   },
   {
     "article_uid": "C7-GEN-CH07-ART16",
@@ -3749,7 +3912,9 @@
         "content_to_remove": "",
         "placement_instructions": "inciso final"
       }
-    ]
+    ],
+    "comment": "Solo se considera el inciso 1 en el borrador final",
+    "final_status": "Idéntico a 480.- Artículo 9"
   },
   {
     "article_uid": "C7-GEN-CH08-ART01.1",
@@ -3841,9 +4006,25 @@
         "content": "Artículo 2.- Derecho a la seguridad informática. La Constitución asegura la protección, promoción y respeto del derecho a la seguridad informática de las personas, individual y colectivamente. El Estado y los particulares deberán adoptar las medidas que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la seguridad informática. Todas las personas, individual y colectivamente, tienen el derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.\n Toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, como el cifrado o la encriptación. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este derecho",
+        "number": "41",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 10. Derecho a la seguridad informática. Todas las personas, individual y colectivamente, tienen el derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley. Toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, como el cifrado o la encriptación. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este derecho",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado"
+    "final_status": "Similar a 481.- Artículo 10"
   },
   {
     "article_uid": "C7-GEN-CH08-ART02",
@@ -4876,6 +5057,22 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 1.- Reconocimiento de la memoria. La Constitución reconoce las memorias como patrimonio de los pueblos y sus culturas. El ejercicio social de la memoria es pilar fundamental para la construcción de culturas de paz.",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Reconocimiento de la memoria. La Constitución reconoce la memoria como patrimonio cultural, material e inmaterial, siendo su ejercicio social un pilar fundamental para la construcción democrática del país.",
+        "number": "45",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 14.- Reconocimiento de la memoria. La Constitución reconoce la memoria como patrimonio cultural, material e inmaterial, siendo su ejercicio social un pilar fundamental para la construcción democrática del país.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -4939,8 +5136,74 @@
         "content": "las memorias",
         "content_to_remove": "la memoria",
         "placement_instructions": "cada vez que se utiliza en el artículo"
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 15",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "47",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C7_IND04-19_ARTN2",
+    "timestamp": "04-19",
+    "article": "Artículo Nuevo",
+    "text": "De la asimilación forzada. Se prohíbe la asimilación forzada o la destrucción de las culturas de los pueblos y naciones indígenas.",
+    "number": "53",
+    "authors_matched": [
+      "Videla, Carolina"
+    ],
+    "target_article": 17,
+    "target_scope": "INCISO 2",
+    "action": "SUBSTITUTE",
+    "content": "Artículo nuevo.- De la asimilación forzada. Se prohíbe la asimilación forzada o la destrucción de las culturas de los pueblos y naciones indígenas.",
+    "content_to_remove": "",
+    "placement_instructions": ""
+  },
+  {
+    "article_uid": "C7_IND04-19_ARTN3",
+    "timestamp": "04-19",
+    "article": "Artículo Nuevo",
+    "text": "La Constitución reconoce los derechos culturales del Pueblo Tribal Afrodescendiente chileno, y asegura su ejercicio, desarrollo, promoción, conservación y protección, con pleno respeto a los instrumentos internacionales pertinentes.",
+    "number": "54",
+    "authors_matched": [
+      "Videla, Carolina"
+    ],
+    "target_article": 17,
+    "target_scope": "INCISO 4",
+    "action": "SUBSTITUTE",
+    "content": "Artículo nuevo. La Constitución reconoce los derechos culturales del Pueblo Tribal Afrodescendiente chileno, y asegura su ejercicio, desarrollo, promoción, conservación y protección, con pleno respeto a los instrumentos internacionales pertinentes.",
+    "content_to_remove": "",
+    "placement_instructions": "",
+    "final_status": "Idéntico a 483.- Artículo Nuevo"
+  },
+  {
+    "article_uid": "C7_IND04-19_ARTN4",
+    "timestamp": "04-19",
+    "article": "Artículo 18",
+    "text": "Los pueblos y naciones indígenas tienen derecho colectivo sobre su patrimonio cultural, material e inmaterial, y su administración de conformidad con sus instituciones propias. El Estado facilitará el acceso a los patrimonios indígenas y debe, en conjunto con ellos, adoptar las medidas eficaces para su conservación.",
+    "number": "55",
+    "authors_matched": [
+      "Videla, Carolina"
+    ],
+    "target_article": 18,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo. Los pueblos y naciones indígenas tienen derecho colectivo sobre su patrimonio cultural, material e inmaterial, y su administración de conformidad con sus instituciones propias. El Estado facilitará el acceso a los patrimonios indígenas y debe, en conjunto con ellos, adoptar las medidas eficaces para su conservación.",
+    "content_to_remove": "",
+    "placement_instructions": "artículo nuevo previo al artículo 18"
   },
   {
     "article_uid": "C7_IND03-19_CH11_ART3",
@@ -4955,7 +5218,8 @@
     "target_scope": "TOTAL",
     "action": "ADD",
     "content": "Artículo 3.- Deber del Estado. Es deber del Estado preservar la memoria y garantizar el acceso a los archivos y documentos, en sus distintos soportes y contenidos. Los sitios de memoria y memoriales serán objeto de especial protección, asegurando su preservación y sostenibilidad.",
-    "placement_instructions": "artículo nuevo"
+    "placement_instructions": "artículo nuevo",
+    "final_status": "Idéntico a 484.- Artículo 16"
   },
   {
     "article_uid": "C7_IND03-19_CH12_ART1",
@@ -4986,7 +5250,7 @@
         "timestamp": "03-19",
         "article": "Artículo 1",
         "step": "Indicación",
-        "content_snapshot": "Patrimonios naturales y culturales. El Estado reconoce y protege los patrimonios naturales y culturales, materiales e inmateriales, y garantiza su conservación, revitalización, aumento, salvaguardia y transmisión a las generaciones futuras, cualquiera sea el régimen jurídico y titularidad de dichos bienes. Se prohíbe la asimilación o destrucción de las culturas de los pueblos y naciones indígenas preexistentes. En estas materias, la ley establecerá los medios que aseguren la participación de todas las personas, individual y colectivamente, así como el consentimiento previo, libre e informado de los pueblos y naciones indígenas preexistentes. Asimismo, se deberán generar medidas eficaces de prevención, restitución, reparación y sanción.\n Esta Constitución garantiza la participación del pueblo tribal afrodescendiente en el desarrollo y promoción de sus culturas, su conservación y protección, y se aplicará con pleno respeto a los instrumentos internacionales pertinentes para su consentimiento libre, previo e informado.",
+        "content_snapshot": "Patrimonios naturales y culturales. El Estado reconoce y protege los patrimonios naturales y culturales, materiales e inmateriales, y garantiza su conservación, revitalización, aumento, salvaguardia y transmisión a las generaciones futuras, cualquiera sea el régimen jurídico y titularidad de dichos bienes.\n Se prohíbe la asimilación o destrucción de las culturas de los pueblos y naciones indígenas preexistentes. En estas materias, la ley establecerá los medios que aseguren la participación de todas las personas, individual y colectivamente, así como el consentimiento previo, libre e informado de los pueblos y naciones indígenas preexistentes. Asimismo, se deberán generar medidas eficaces de prevención, restitución, reparación y sanción.\n Esta Constitución garantiza la participación del pueblo tribal afrodescendiente en el desarrollo y promoción de sus culturas, su conservación y protección, y se aplicará con pleno respeto a los instrumentos internacionales pertinentes para su consentimiento libre, previo e informado.",
         "number": 442,
         "authors_matched": [
           "Videla, Carolina"
@@ -4998,16 +5262,8 @@
         "placement_instructions": "como nuevo inciso final"
       }
     ],
-    "authors": [
-      "Arancibia, Jorge",
-      "Arrau, Martin",
-      "Cretton, Eduardo",
-      "Cubillos, Marcela",
-      "Moreno, Alfredo",
-      "Neumann, Ricardo",
-      "Ossandon, Manuel",
-      "Rebolledo, Barbara"
-    ]
+    "comment": "Solo se considera el inciso 1 en el borrador final",
+    "final_status": "Idéntico a 485.- Artículo 17"
   },
   {
     "article_uid": "C7_IND03-19_CH12_ART2",
@@ -5033,25 +5289,23 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 2. Patrimonio y propiedad intelectual indígena. Los pueblos y naciones indígenas preexistentes tienen derecho a la propiedad, posesión, mantención, revitalización y desarrollo de su patrimonio cultural, material e inmaterial, entre otros, incluyendo sus conocimientos y expresiones tradicionales, los recursos genéticos y humanos, y a la propiedad intelectual colectiva sobre estos. Ello comprende las epistemologías y cosmovisiones, las lenguas, las ciencias y tecnologías, las artes visuales e interpretativas, los sitios y elementos sagrados, los objetos culturales y restos humanos, las medicinas tradicionales, las semillas ancestrales, los diseños, la herencia cultural y memorias, entre otros que permiten su continuidad colectiva y la de sus miembros, y su transmisión a las generaciones futuras. Estos derechos colectivos y sus elementos son inviolables, inembargables, intransferibles e imprescriptibles, respetando su derecho e instituciones propias.",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Patrimonio y propiedad intelectual indígena. El Estado reconoce los derechos de los pueblos indígenas sobre sus conocimientos tradicionales, expresiones culturales tradicionales, las manifestaciones de sus ciencias, tecnologías y culturas y de propiedad intelectual sobre ellos, conforme a lo establecido en esta Constitución.",
+        "number": "57",
+        "authors_matched": [
+          "Caiguan, Alexis"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 18. Patrimonio y propiedad intelectual indígena. El Estado reconoce los derechos de los pueblos indígenas sobre sus conocimientos tradicionales, expresiones culturales tradicionales, las manifestaciones de sus ciencias, tecnologías y culturas y de propiedad intelectual sobre ellos, conforme a lo establecido en esta Constitución.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ],
-    "authors": [
-      "Ampuero, Adriana",
-      "Antilef, Victorino",
-      "Bacian, Wilfredo",
-      "Baradit, Jorge",
-      "Caiguan, Alexis",
-      "Chinga, Eric",
-      "Dorador, Cristina",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Pinto, Malucha",
-      "Vargas, Margarita",
-      "Videla, Carolina",
-      "Woldarsky, Manuel"
     ]
   },
   {
@@ -5172,25 +5426,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Ampuero, Adriana",
-      "Antilef, Victorino",
-      "Bacian, Wilfredo",
-      "Baradit, Jorge",
-      "Caiguan, Alexis",
-      "Chinga, Eric",
-      "Dorador, Cristina",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Pinto, Malucha",
-      "Vargas, Margarita",
-      "Videla, Carolina",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART5",
@@ -5217,25 +5453,6 @@
         "content": "Artículo 5. Patrimonio paleontológico y arqueológico. El Estado deberá proteger el patrimonio paleontológico y arqueológico. El patrimonio bioantropológico y cultural de los pueblos será protegido por el Estado. En el caso del patrimonio de los pueblos y naciones indígenas preexistentes, dicha protección se hará con su consentimiento previo, libre e informado.",
         "placement_instructions": ""
       }
-    ],
-    "authors": [
-      "Achurra, Ignacio",
-      "Baradit, Jorge",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Cancino, Adriana",
-      "Castillo, Maria Trinidad",
-      "Cruz, Andres",
-      "Dominguez, Gaspar",
-      "Dorador, Cristina",
-      "Fuchslocher, Javier",
-      "Reyes, Maria Ramona",
-      "Royo, Manuela",
-      "Vargas, Margarita",
-      "Vargas, Mario",
-      "Vidal, Rossana",
-      "Videla, Carolina",
-      "Vilches, Carolina"
     ]
   },
   {
@@ -5264,18 +5481,7 @@
         "placement_instructions": ""
       }
     ],
-    "authors": [
-      "Abarca, Damaris",
-      "Achurra, Ignacio",
-      "Bassa, Jaime",
-      "Caamano, Francisco",
-      "Dorador, Cristina",
-      "Pinto, Malucha",
-      "Roa, Giovanna",
-      "Schonhaut, Constanza",
-      "Urrutia, Tatiana",
-      "Viera, Christian"
-    ]
+    "final_status": "Idéntico a 486.- Artículo 20"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART7",
@@ -5320,20 +5526,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Caiguan, Alexis",
-      "Dorador, Cristina",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Vargas, Margarita",
-      "Vergara, Lisette"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART8",
@@ -5359,8 +5552,25 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 3. Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos consagrados en esta Constitución y las leyes, así como los derechos de los pueblos y naciones indígenas preexistentes.",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 21",
+        "step": "Indicación",
+        "content_snapshot": "Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos de los pueblos y naciones indígenas preexistentes, así como los demás consagrados en esta Constitución y las leyes.",
+        "number": "61",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 21.- Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos de los pueblos y naciones indígenas preexistentes, así como los demás consagrados en esta Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 465.- Artículo 13"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART9",
@@ -5370,25 +5580,6 @@
     "authors_matched": [],
     "sources": [
       "187-7"
-    ],
-    "authors": [
-      "Achurra, Ignacio",
-      "Baradit, Jorge",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Cancino, Adriana",
-      "Castillo, Maria Trinidad",
-      "Cruz, Andres",
-      "Dominguez, Gaspar",
-      "Dorador, Cristina",
-      "Fuchslocher, Javier",
-      "Reyes, Maria Ramona",
-      "Royo, Manuela",
-      "Vargas, Margarita",
-      "Vargas, Mario",
-      "Vidal, Rossana",
-      "Videla, Carolina",
-      "Vilches, Carolina"
     ]
   },
   {
@@ -5434,26 +5625,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Achurra, Ignacio",
-      "Baradit, Jorge",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Cancino, Adriana",
-      "Castillo, Maria Trinidad",
-      "Cruz, Andres",
-      "Dominguez, Gaspar",
-      "Dorador, Cristina",
-      "Fuchslocher, Javier",
-      "Reyes, Maria Ramona",
-      "Royo, Manuela",
-      "Vargas, Margarita",
-      "Vargas, Mario",
-      "Vidal, Rossana",
-      "Videla, Carolina",
-      "Vilches, Carolina"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART11",
@@ -5498,22 +5670,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Bacian, Wilfredo",
-      "Caamano, Francisco",
-      "Chinga, Eric",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Grandon, Paola",
-      "Labrana, Elsa",
-      "Llanquileo, Natividad",
-      "Madriaga, Tania",
-      "Perez, Alejandra",
-      "Rivera, Maria Magdalena",
-      "Vergara, Lisette",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART12",
@@ -5558,23 +5715,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Arellano, Marco",
-      "Bacian, Wilfredo",
-      "Chinga, Eric",
-      "Daza, Mauricio",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Gutierrez, Hugo",
-      "Labrana, Elsa",
-      "Llanquileo, Natividad",
-      "Madriaga, Tania",
-      "Perez, Alejandra",
-      "Vergara, Lisette",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART13",
@@ -5619,26 +5760,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Achurra, Ignacio",
-      "Baradit, Jorge",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Cancino, Adriana",
-      "Castillo, Maria Trinidad",
-      "Cruz, Andres",
-      "Dominguez, Gaspar",
-      "Dorador, Cristina",
-      "Fuchslocher, Javier",
-      "Reyes, Maria Ramona",
-      "Royo, Manuela",
-      "Vargas, Margarita",
-      "Vargas, Mario",
-      "Vidal, Rossana",
-      "Videla, Carolina",
-      "Vilches, Carolina"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART14",
@@ -5683,19 +5805,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Abarca, Damaris",
-      "Achurra, Ignacio",
-      "Bassa, Jaime",
-      "Caamano, Francisco",
-      "Dorador, Cristina",
-      "Pinto, Malucha",
-      "Roa, Giovanna",
-      "Schonhaut, Constanza",
-      "Urrutia, Tatiana",
-      "Viera, Christian"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART15",
@@ -5740,20 +5850,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Caamano, Francisco",
-      "Chinga, Eric",
-      "Flores, Alejandra",
-      "Godoy, Isabel",
-      "Gutierrez, Hugo",
-      "Mella, Jeniffer",
-      "Olivares, Ivanna",
-      "Rivera, Maria Magdalena",
-      "Vargas, Margarita",
-      "Videla, Carolina",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART16",
@@ -5798,20 +5895,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Caamano, Francisco",
-      "Chinga, Eric",
-      "Flores, Alejandra",
-      "Godoy, Isabel",
-      "Gutierrez, Hugo",
-      "Mella, Jeniffer",
-      "Olivares, Ivanna",
-      "Rivera, Maria Magdalena",
-      "Vargas, Margarita",
-      "Videla, Carolina",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART17",
@@ -5856,18 +5940,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Aguilera, Tiare",
-      "Catrileo, Rosa",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Jimenez, Luis",
-      "Loncon, Elisa",
-      "Mamani, Isabella",
-      "Millabur, Adolfo",
-      "Tirado, Fernando"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART18",
@@ -5912,27 +5985,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Abarca, Jorge",
-      "Achurra, Ignacio",
-      "Aguilera, Tiare",
-      "Ampuero, Adriana",
-      "Calvo, Carlos",
-      "Dominguez, Gaspar",
-      "Jimenez, Luis",
-      "Jofre, Alvaro",
-      "Martin, Juan Jose",
-      "Pinto, Malucha",
-      "Sepulveda, Carolina",
-      "Squella, Agustin",
-      "Tepper, Maria Angelica",
-      "Valenzuela, Paulina",
-      "Vega, Roberto",
-      "Veloso, Paulina",
-      "Videla, Carolina",
-      "Zarate, Camila"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART19",
@@ -5977,25 +6030,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Alvarez, Julio",
-      "Atria, Fernando",
-      "Baradit, Jorge",
-      "Bassa, Jaime",
-      "Castillo, Maria Trinidad",
-      "Cruz, Andres",
-      "Fernandez, Patricio",
-      "Gomez, Claudio",
-      "Hurtado, Maximiliano",
-      "Laibe, Tomas",
-      "Montero, Ricardo",
-      "Munoz, Pedro",
-      "Namor, Guillermo",
-      "Politzer, Patricia",
-      "Schonhaut, Constanza",
-      "Valenzuela, Cesar"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART20",
@@ -6040,18 +6075,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Aguilera, Tiare",
-      "Catrileo, Rosa",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Jimenez, Luis",
-      "Loncon, Elisa",
-      "Mamani, Isabella",
-      "Millabur, Adolfo",
-      "Tirado, Fernando"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART21",
@@ -6096,20 +6120,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Caiguan, Alexis",
-      "Dorador, Cristina",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Vargas, Margarita",
-      "Vergara, Lisette"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART22",
@@ -6154,23 +6165,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Arellano, Marco",
-      "Bacian, Wilfredo",
-      "Chinga, Eric",
-      "Daza, Mauricio",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Gutierrez, Hugo",
-      "Labrana, Elsa",
-      "Llanquileo, Natividad",
-      "Madriaga, Tania",
-      "Perez, Alejandra",
-      "Vergara, Lisette",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART23",
@@ -6215,20 +6210,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Caiguan, Alexis",
-      "Dorador, Cristina",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Vargas, Margarita",
-      "Vergara, Lisette"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART24",
@@ -6255,22 +6237,6 @@
         "content": "Artículo 6: Tesoro Humano Vivo. El Estado reconocerá la calidad de Tesoro Humano Vivo de aquellas comunidades, grupos y personas, que sean custodios del patrimonio de un determinado pueblo, indígenas o no, de acuerdo a los requisitos que regule la ley.",
         "placement_instructions": ""
       }
-    ],
-    "authors": [
-      "Antilef, Victorino",
-      "Arellano, Marco",
-      "Bacian, Wilfredo",
-      "Chinga, Eric",
-      "Daza, Mauricio",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Gutierrez, Hugo",
-      "Labrana, Elsa",
-      "Llanquileo, Natividad",
-      "Madriaga, Tania",
-      "Perez, Alejandra",
-      "Vergara, Lisette",
-      "Woldarsky, Manuel"
     ]
   },
   {
@@ -6316,26 +6282,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Achurra, Ignacio",
-      "Baradit, Jorge",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Cancino, Adriana",
-      "Castillo, Maria Trinidad",
-      "Cruz, Andres",
-      "Dominguez, Gaspar",
-      "Dorador, Cristina",
-      "Fuchslocher, Javier",
-      "Reyes, Maria Ramona",
-      "Royo, Manuela",
-      "Vargas, Margarita",
-      "Vargas, Mario",
-      "Vidal, Rossana",
-      "Videla, Carolina",
-      "Vilches, Carolina"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART26",
@@ -6380,20 +6327,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Caiguan, Alexis",
-      "Dorador, Cristina",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Vargas, Margarita",
-      "Vergara, Lisette"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART27",
@@ -6438,20 +6372,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Caiguan, Alexis",
-      "Dorador, Cristina",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Vargas, Margarita",
-      "Vergara, Lisette"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ARTX",
@@ -6511,24 +6432,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Arauna, Francisca",
-      "Barraza, Marcos",
-      "Bravo, Daniel",
-      "Caamano, Francisco",
-      "Carrillo, Alondra",
-      "Flores, Alejandra",
-      "Giustinianovich, Elisa",
-      "Hoppe, Vanessa",
-      "Meneses, Janis",
-      "Miranda, Valentina",
-      "Nunez, Nicolas",
-      "Quinteros, Maria Elisa",
-      "Sepulveda, Barbara",
-      "Videla, Carolina",
-      "Villena, Ingrid"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART29",
@@ -6573,23 +6477,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Antilef, Victorino",
-      "Arellano, Marco",
-      "Bacian, Wilfredo",
-      "Chinga, Eric",
-      "Daza, Mauricio",
-      "Godoy, Isabel",
-      "Grandon, Giovanna",
-      "Gutierrez, Hugo",
-      "Labrana, Elsa",
-      "Llanquileo, Natividad",
-      "Madriaga, Tania",
-      "Perez, Alejandra",
-      "Vergara, Lisette",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART30",
@@ -6635,33 +6523,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Abarca, Damaris",
-      "Achurra, Ignacio",
-      "Ampuero, Adriana",
-      "Antilef, Victorino",
-      "Bacian, Wilfredo",
-      "Baradit, Jorge",
-      "Bassa, Jaime",
-      "Caamano, Francisco",
-      "Caiguan, Alexis",
-      "Chinga, Eric",
-      "Dorador, Cristina",
-      "Grandon, Giovanna",
-      "Linconao, Francisca",
-      "Llanquileo, Natividad",
-      "Olivares, Ivanna",
-      "Perez, Alejandra",
-      "Pinto, Malucha",
-      "Roa, Giovanna",
-      "Schonhaut, Constanza",
-      "Urrutia, Tatiana",
-      "Vargas, Margarita",
-      "Videla, Carolina",
-      "Viera, Christian",
-      "Woldarsky, Manuel"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART31",
@@ -6689,27 +6551,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Abarca, Jorge",
-      "Achurra, Ignacio",
-      "Aguilera, Tiare",
-      "Ampuero, Adriana",
-      "Calvo, Carlos",
-      "Dominguez, Gaspar",
-      "Jimenez, Luis",
-      "Jofre, Alvaro",
-      "Martin, Juan Jose",
-      "Pinto, Malucha",
-      "Sepulveda, Carolina",
-      "Squella, Agustin",
-      "Tepper, Maria Angelica",
-      "Valenzuela, Paulina",
-      "Vega, Roberto",
-      "Veloso, Paulina",
-      "Videla, Carolina",
-      "Zarate, Camila"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART32",
@@ -6735,18 +6577,23 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 7. Protección del patrimonio biocultural. El Estado protegerá el patrimonio biocultural del país a través de la declaración de reservas patrimoniales, las que constituirán a lo menos un 30% de los territorios de los ecosistemas declarados como representativos. Estas no admitirán actividad industrial alguna, podrán coincidir espacialmente con otras áreas protegidas y serán gestionadas por el Estado, en conjunto con las comunidades locales y con especial atención de Los derechos de los pueblos y naciones preexistentes, cuando corresponda, y se regularán, en lo demás, por lo que establezca esta Constitución y la ley. El Estado reconoce como representativos los siguientes ecosistemas: el mar, el desierto, los salares, las zonas costeras, la alta montaña, los valles transversales, el secano costero, el bosque esclerófilo, el bosque andino patagónico, la estepa patagónica, los archipiélagos, las turberas, la tundra magallánica y otros que determine la ley.",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "Protección del patrimonio biocultural. El Estado, a través de sus regiones autónomas, protege y conserva el patrimonio biocultural del país mediante la declaración de reservas patrimoniales. Éstas contribuyen a las metas de preservación de la biodiversidad, estableciendo la limitación de actividades comerciales y productivas para preservar su integridad ecosistémica, cuando corresponda.\n Las reservas patrimoniales serán gestionadas con la colaboración de las comunidades locales e indígenas, en la forma establecida en esta Constitución. La ley deberá contemplar a los variados ecosistemas del país, tales como salares, humedales, bosques nativos, entre otros, y podrán coincidir espacialmente con otras áreas protegidas.\n La regulación de otras categorías de protección distintas a las establecidas en este artículo, además de otras acciones de preservación, conservación y restauración del patrimonio biocultural, serán establecidas por la ley, incluyendo la creación de un Servicio de Biodiversidad y Áreas Protegidas.",
+        "number": "67",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 24. Protección del patrimonio biocultural. El Estado, a través de sus regiones autónomas, protege y conserva el patrimonio biocultural del país mediante la declaración de reservas patrimoniales. Éstas contribuyen a las metas de preservación de la biodiversidad, estableciendo la limitación de actividades comerciales y productivas para preservar su integridad ecosistémica, cuando corresponda. Las reservas patrimoniales serán gestionadas con la colaboración de las comunidades locales e indígenas, en la forma establecida en esta Constitución. La ley deberá contemplar a los variados ecosistemas del país, tales como salares, humedales, bosques nativos, entre otros, y podrán coincidir espacialmente con otras áreas protegidas. La regulación de otras categorías de protección distintas a las establecidas en este artículo, además de otras acciones de preservación, conservación y restauración del patrimonio biocultural, serán establecidas por la ley, incluyendo la creación de un Servicio de Biodiversidad y Áreas Protegidas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ],
-    "authors": [
-      "Caamano, Francisco",
-      "Caiguan, Alexis",
-      "Dorador, Cristina",
-      "Flores, Alejandra",
-      "Hoppe, Vanessa",
-      "Labbe, Bastian",
-      "Meneses, Janis",
-      "Royo, Manuela",
-      "Vidal, Rossana"
     ]
   },
   {
@@ -6773,23 +6620,23 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 8: Reconocimiento de la artesanía. El Estado reconoce la artesanía como patrimonio cultural inmaterial, su función social y el aporte al desarrollo productivo del país. Los artesanos y artesanas podrán ser reconocidos dentro de la categoría de Tesoros Humanos Vivos por su aporte a la transmisión de oficios, la preservación y divulgación de saberes y herencias culturales de los territorios, según lo establezca la ley. Es deber del Estado proteger, fomentar y garantizar la actividad creativa y productiva de las artesanas y artesanos en todo ámbito de su desarrollo. En el caso de las creaciones de los pueblos y naciones indígenas preexistentes, representativas de sus saberes ancestrales, serán valoradas por su aporte tecnológico y artístico como patrimonio inmaterial.",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-19",
+        "article": "Artículo 25",
+        "step": "Indicación",
+        "content_snapshot": "De la artesanía. Se reconoce la artesanía como patrimonio cultural. Es deber del Estado garantizar, proteger y fomentar la actividad creativa y productiva de las artesanas y artesanos.\n Se prohíbe el uso del concepto de artesanía en productos industriales.",
+        "number": "70",
+        "authors_matched": [
+          "Videla, Carolina"
+        ],
+        "target_article": 25,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 25. De la artesanía. Se reconoce la artesanía como patrimonio cultural. Es deber del Estado garantizar, proteger y fomentar la actividad creativa y productiva de las artesanas y artesanos. Se prohíbe el uso del concepto de artesanía en productos industriales.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ],
-    "authors": [
-      "Andrade, Cristobal",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Gallardo, Bessy",
-      "Godoy, Isabel",
-      "Gonzalez, Dayana",
-      "Gutierrez, Hugo",
-      "Miranda, Valentina",
-      "Nunez, Nicolas",
-      "Pinto, Malucha",
-      "Rivera, Maria Magdalena",
-      "Royo, Manuela",
-      "Sepulveda, Barbara",
-      "Videla, Carolina"
     ]
   },
   {
@@ -6835,23 +6682,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Andrade, Cristobal",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Gallardo, Bessy",
-      "Godoy, Isabel",
-      "Gonzalez, Dayana",
-      "Gutierrez, Hugo",
-      "Miranda, Valentina",
-      "Nunez, Nicolas",
-      "Pinto, Malucha",
-      "Rivera, Maria Magdalena",
-      "Royo, Manuela",
-      "Sepulveda, Barbara",
-      "Videla, Carolina"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART35",
@@ -6896,17 +6727,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Caiguan, Alexis",
-      "Calvo, Carlos",
-      "Cancino, Adriana",
-      "Godoy, Isabel",
-      "Jimenez, Luis",
-      "Reyes, Maria Ramona",
-      "Vargas, Margarita",
-      "Videla, Carolina"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article_uid": "C7_IND03-19_CH13_ART36",
@@ -6951,18 +6772,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "Eliminado",
-    "authors": [
-      "Aguilera, Tiare",
-      "Catrileo, Rosa",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Jimenez, Luis",
-      "Loncon, Elisa",
-      "Mamani, Isabella",
-      "Millabur, Adolfo",
-      "Tirado, Fernando"
-    ]
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 1",
@@ -7054,7 +6864,8 @@
         "content": "Artículo 1.- Derecho a la comunicación social. Toda persona, individual o colectivamente, tiene derecho a producir información y a participar equitativamente en la comunicación social. Se reconoce el derecho a fundar y mantener medios de comunicación e información.",
         "content_to_remove": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 458.- Artículo 1"
   },
   {
     "article": "Artículo 1.2",
@@ -7135,7 +6946,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 459.- Artículo 2"
   },
   {
     "article": "Artículo 1.3",
@@ -7285,7 +7097,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Similar a 461.- Artículo 4"
   },
   {
     "article": "Artículo 2.2",
@@ -7338,7 +7151,7 @@
   },
   {
     "article": "Artículo 2.3",
-    "text": "Los pueblos y naciones originarias tienen derecho a establecer sus propios medios de comunicación en sus lenguas. El Estado garantizará las condiciones para establecer medios de comunicación, creación y difusión de contenidos propios, proveyendo los medios y recursos para el ejercicio de este derecho. (ICI N° 146-7 Artículo X inciso primero). Tienen también derecho a que se les comunique la información relevante relativa a la vida pública y la actividad del Estado en su propia lengua, de manera veraz y oportuna. Es deber del Estado dar acceso a la información y promover su producción y difusión en sus propias lenguas. (ICI N° 146-7 Artículo X inciso segundo).",
+    "text": "Los pueblos y naciones originarias tienen derecho a establecer sus propios medios de comunicación en sus lenguas. El Estado garantizará las condiciones para establecer medios de comunicación, creación y difusión de contenidos propios, proveyendo los medios y recursos para el ejercicio de este derecho. (ICI N° 146-7 Artículo X inciso primero). Tienen también derecho a que se les comunique la información relevante relativa a la vida pública y la actividad del Estado en su propia lengua, de manera veraz y oportuna. Es deber del Estado dar ación y promover su producción y difusión en sus propias lenguas. (ICI N° 146-7 Artículo X inciso segundo).",
     "sources": [
       "146-7"
     ],
@@ -7554,7 +7367,8 @@
         "content": "Artículo 3.- Concentración de la propiedad de medios. El Estado impedirá la concentración de la propiedad de los medios de comunicación e información. En ningún caso se podrá establecer el monopolio estatal sobre ellos. Corresponderá a la ley el resguardo de este precepto.",
         "content_to_remove": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 460.- Artículo 3"
   },
   {
     "article_uid": "C7_IND02-19_CH1_ART5",
@@ -8080,7 +7894,8 @@
         "content_to_remove": "",
         "placement_instructions": "al final, luego del punto que pasa a ser una coma"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 462.- Artículo 8"
   },
   {
     "article": "Artículo 5",
@@ -8539,7 +8354,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Similar a 463.- Artículo 9"
   },
   {
     "article_uid": "C7_IND04-02_CH13_ART9BIS",
@@ -9003,6 +8819,22 @@
     ]
   },
   {
+    "article_uid": "C7_IND04-19_ART9",
+    "timestamp": "04-19",
+    "article": "Artículo 9",
+    "text": "Ética Digital. El Estado garantiza la Ética Digital en el desarrollo e implementación de los procesos digitales, especialmente en el tratamiento de datos mediante sistemas automatizados, de acuerdo a lo que determine la ley.",
+    "number": "39",
+    "authors_matched": [
+      "Videla, Carolina"
+    ],
+    "target_article": 9,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo Nuevo. Ética Digital. El Estado garantiza la Ética Digital en el desarrollo e implementación de los procesos digitales, especialmente en el tratamiento de datos mediante sistemas automatizados, de acuerdo a lo que determine la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "nuevo artículo"
+  },
+  {
     "article_uid": "C7_IND04-02_CH13_ART10BIS",
     "timestamp": "04-02",
     "article": "Artículo 10 bis",
@@ -9297,7 +9129,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 464.- Artículo 12"
   },
   {
     "article": "Artículo 3.1",
@@ -10234,7 +10067,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Similar a 466.- Artículo 18"
   },
   {
     "article": "Art 1.2",
@@ -10373,7 +10207,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 467.- Artículo 19"
   },
   {
     "article": "Art 2.1",
@@ -10428,7 +10263,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Idéntico a 468.- Artículo 20"
   },
   {
     "article": "Art 2.2",
@@ -10483,7 +10319,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Idéntico a 469.- Artículo 21"
   },
   {
     "article": "Artículo 2.3",
@@ -10684,7 +10521,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Idéntico a 470.- Artículo 22"
   },
   {
     "article": "Artículo 1",
@@ -10741,7 +10579,7 @@
         "timestamp": "03-08-2",
         "article": "Artículo 23",
         "step": "Indicación",
-        "content_snapshot": "Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promotion, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.\n El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
+        "content_snapshot": "Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promoción, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.\n El Estado promueve que el acceso a las tecnologías de información y comunicación en las plataformas o medios digitales y el uso del espacio digital sea libre de toda forma de violencia y agresiones. Es deber del Estado entregar educación y el acompañamiento adecuado para el ejercicio de este derecho.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
         "number": 14,
         "authors_matched": [
           "Pinto, Malucha"
@@ -10749,7 +10587,7 @@
         "target_article": 23,
         "target_scope": "INCISO 1",
         "action": "SUBSTITUTE",
-        "content": "Artículo 23.- Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promotion, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas",
+        "content": "Artículo 23.- Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promoción, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas",
         "content_to_remove": "",
         "placement_instructions": ""
       },
@@ -10757,7 +10595,7 @@
         "timestamp": "03-08-2",
         "article": "Artículo 23",
         "step": "Indicación",
-        "content_snapshot": "Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promotion, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
+        "content_snapshot": "Todas las personas tienen el derecho a participar de un espacio digital libre de violencia. El Estado desarrollará acciones de prevención, promoción, reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes y disidencias sexogenéricas.\n Las obligaciones, condiciones y límites en esta materia serán determinados por la ley.",
         "number": 15,
         "authors_matched": [
           "Pinto, Malucha"
@@ -10843,7 +10681,8 @@
         "content": "Artículo 24.- Derecho al ocio. Todas las personas tienen derecho al descanso, al ocio y a disfrutar el tiempo libre.",
         "content_to_remove": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 472.- Artículo 24"
   },
   {
     "article": "Artículo 1.2",
@@ -11029,7 +10868,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 473.- Artículo 26"
   },
   {
     "article": "ARTÍCULO XX2",
@@ -11146,24 +10986,7 @@
     "sources": [
       "638-7"
     ],
-    "authors": [
-      "Achurra, Ignacio",
-      "Arellano, Marco",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Calvo, Carlos",
-      "De la Maza, Bernardo",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Hoppe, Vanessa",
-      "Loncon, Elisa",
-      "Neumann, Ricardo",
-      "Pinto, Malucha",
-      "Vallejos, Loreto",
-      "Vargas, Margarita",
-      "Vidal, Rossana",
-      "Videla, Carolina"
-    ],
+    "authors": [],
     "article_uid": "C7_GEN2_CH6_ARTX",
     "timestamp": "02-17",
     "history": [
@@ -11232,7 +11055,8 @@
         "content_to_remove": null,
         "placement_instructions": null
       }
-    ]
+    ],
+    "final_status": "Idéntico a 474.- Artículo 28"
   },
   {
     "article": "ARTÍCULO XX",
@@ -11240,24 +11064,7 @@
     "sources": [
       "638-7"
     ],
-    "authors": [
-      "Achurra, Ignacio",
-      "Arellano, Marco",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Calvo, Carlos",
-      "De la Maza, Bernardo",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Hoppe, Vanessa",
-      "Loncon, Elisa",
-      "Neumann, Ricardo",
-      "Pinto, Malucha",
-      "Vallejos, Loreto",
-      "Vargas, Margarita",
-      "Vidal, Rossana",
-      "Videla, Carolina"
-    ],
+    "authors": [],
     "article_uid": "C7_GEN2_CH6_ARTXX",
     "timestamp": "02-17"
   },
@@ -11267,24 +11074,7 @@
     "sources": [
       "638-7"
     ],
-    "authors": [
-      "Achurra, Ignacio",
-      "Arellano, Marco",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Calvo, Carlos",
-      "De la Maza, Bernardo",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Hoppe, Vanessa",
-      "Loncon, Elisa",
-      "Neumann, Ricardo",
-      "Pinto, Malucha",
-      "Vallejos, Loreto",
-      "Vargas, Margarita",
-      "Vidal, Rossana",
-      "Videla, Carolina"
-    ],
+    "authors": [],
     "article_uid": "C7_GEN2_CH6_ARTXXX2",
     "timestamp": "02-17"
   },
@@ -11294,24 +11084,7 @@
     "sources": [
       "638-7"
     ],
-    "authors": [
-      "Achurra, Ignacio",
-      "Arellano, Marco",
-      "Barraza, Marcos",
-      "Caamano, Francisco",
-      "Calvo, Carlos",
-      "De la Maza, Bernardo",
-      "Galleguillos, Felix",
-      "Gonzalez, Lidia",
-      "Hoppe, Vanessa",
-      "Loncon, Elisa",
-      "Neumann, Ricardo",
-      "Pinto, Malucha",
-      "Vallejos, Loreto",
-      "Vargas, Margarita",
-      "Vidal, Rossana",
-      "Videla, Carolina"
-    ],
+    "authors": [],
     "article_uid": "C7_GEN2_CH6_ARTXXX2",
     "timestamp": "02-17",
     "history": [
@@ -11400,8 +11173,25 @@
         "content": "Artículo 1.- Infraestructura y gestión de redes y servicios de conectividad. La infraestructura de telecomunicaciones es de interés público, independientemente de su régimen patrimonial.\n Las autoridades locales junto a la sociedad civil podrán gestionar de forma compartida y democrática las redes y servicios de conectividad. Una ley determinará su desarrollo e implementación.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Infraestructura y gestión de redes y servicios de conectividad. La infraestructura de telecomunicaciones es de interés público, independientemente de su régimen patrimonial.\n Las autoridades pertinentes junto a la comunidad local podrán gestionar de forma compartida las redes y servicios de conectividad. Su desarrollo e implementación estará determinado por ley.",
+        "number": 1,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Las autoridades pertinentes junto a la comunidad local podrán gestionar de forma compartida las redes y servicios de conectividad. Su desarrollo e implementación estará determinado por ley",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 487.- Artículo 1"
   },
   {
     "article": "Artículo 2",
@@ -11440,8 +11230,25 @@
         "content": "Artículo 2. Espectro radioeléctrico. El espectro radioeléctrico es un bien común de carácter inapropiable, inalienable e imprescriptible. Es deber del Estado planificar, gestionar, asignar y controlar su uso en todo el territorio, de acuerdo al interés general. La ley establecerá la utilización y aprovechamiento del espectro radioeléctrico de manera participativa, bajo los criterios de equidad, racionalidad, eficacia, eficiencia, transparencia y descentralización.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Espectro radioeléctrico. El espectro radioeléctrico es un bien común natural de carácter inapropiable. Es deber del Estado planificar, gestionar y asignar su uso en todo el territorio, de acuerdo al interés general.\n El Estado debe evitar la concentración en la distribución del uso del espectro radioeléctrico.\n Corresponderá a la ley determinar la utilización y aprovechamiento del espectro radioeléctrico.",
+        "number": 4,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 2. Espectro radioeléctrico. El espectro radioeléctrico es un bien común natural de carácter inapropiable. Es deber del Estado planificar, gestionar y asignar su uso en todo el territorio, de acuerdo al interés general. El Estado debe evitar la concentración en la distribución del uso del espectro radioeléctrico. Corresponderá a la ley determinar la utilización y aprovechamiento del espectro radioeléctrico.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 488.- Artículo 2"
   },
   {
     "article": "Artículo 3",
@@ -11477,6 +11284,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 3.- Comunes Digitales. El Estado reconoce que los Comunes Digitales constituyen un conjunto de bienes comunes intangibles de interés general, basados en datos, información y conocimiento, sujetos a libre uso y gestión compartida. Una ley determinará la forma de su protección y desarrollo, bajo los principios de reciprocidad y confianza.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 3",
+        "step": "Indicación",
+        "content_snapshot": "De los Comunes Digitales. El Estado reconoce los Comunes Digitales como un conjunto de bienes intangibles de interés general, basados en datos, información y conocimientos, sujetos a libre uso y gestión compartida.\n Una ley determinará su desarrollo, promoción y protección, bajo los principios de reciprocidad y confianza.",
+        "number": 12,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 3. De los Comunes Digitales. El Estado reconoce los Comunes Digitales como un conjunto de bienes intangibles de interés general, basados en datos, información y conocimientos, sujetos a libre uso y gestión compartida. Una ley determinará su desarrollo, promoción y protección, bajo los principios de reciprocidad y confianza.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -11515,6 +11338,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 4.-Consejo Nacional de Comunicaciones. Existirá un órgano de carácter autónomo y técnico, encargado de proteger y promover el derecho a la conectividad y la comunicación social en sus diversos soportes tecnológicos. Asimismo, velará por la transparencia y libre competencia de un mercado pluralista de las telecomunicaciones y el sector audiovisual, junto con la distribución y uso equitativo del espectro radioeléctrico. Dicho órgano tendrá personalidad jurídica y patrimonio propio, y contará con potestades normativas, fiscalizadoras, sancionatorias y consultivas. Su funcionamiento se basa en los principios de convergencia tecnológica, pluralismo mediático e interculturalidad. La ley regulará su organización, competencias, funcionamiento y composición, la que estará orientada por criterios de idoneidad e interdisciplinariedad, garantizando su independencia respecto de los agentes regulados. Además, contemplará mecanismos de participación ciudadana, junto a la protección y promoción de los derechos de las audiencias.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 4",
+        "step": "Indicación",
+        "content_snapshot": "Consejo Nacional de Comunicaciones. Habrá un Consejo Nacional de Comunicaciones, autónomo, con personalidad jurídica y patrimonio propio, encargado de proteger y promover el derecho a la comunicación social, la libertad de prensa, el pluralismo de los medios de comunicación y la diversidad de información, en los distintos soportes tecnológicos existentes.\n La ley señalará la organización y demás funciones y atribuciones de dicho Consejo. Su composición estará orientada por criterios técnicos y de idoneidad.",
+        "number": 13,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 4.- Consejo Nacional de Comunicaciones. Habrá un Consejo Nacional de Comunicaciones, autónomo, con personalidad jurídica y patrimonio propio, encargado de proteger y promover el derecho a la comunicación social, la libertad de prensa, el pluralismo de los medios de comunicación y la diversidad de información, en los distintos soportes tecnológicos existentes. La ley señalará la organización y demás funciones y atribuciones de dicho Consejo. Su composición estará orientada por criterios técnicos y de idoneidad",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -11623,8 +11462,25 @@
         "content": "Artículo 6.- Medios de comunicación públicos. Existirán medios de comunicación públicos en distintos soportes tecnológicos, que respondan a las necesidades informativas, educativas, culturales y de entretenimiento de los diversos grupos de la población. Los medios de comunicación públicos serán independientes, pluralistas, interculturales y descentralizados, debiendo funcionar de manera coordinada bajo estándares de calidad, universalidad, continuidad y transparencia. Dichos medios se constituirán como empresas autónomas del Estado, con presupuesto permanente, personalidad jurídica de derecho público y patrimonio propio. La ley regulará su organización y composición, la que estará orientada por criterios técnicos y de idoneidad, además de contemplar mecanismos de participación ciudadana.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "Medios de comunicación públicos. Existirán medios de comunicación públicos en distintos soportes tecnológicos, que respondan a las necesidades informativas, educativas, culturales y de entretenimiento de los diversos grupos de la población.\n Estos medios de comunicación serán pluralistas, descentralizados, y estarán coordinados entre sí. Asimismo, gozarán de independencia respecto del gobierno y contarán con financiamiento público para su funcionamiento.\n La ley regulará su organización y la composición de sus directorios, la que estará orientada por criterios de idoneidad y técnicos.",
+        "number": 18,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO 2-3",
+        "action": "SUBSTITUTE",
+        "content": "Estos medios de comunicación serán pluralistas, descentralizados, y estarán coordinados entre sí. Asimismo, gozarán de independencia respecto del gobierno y contarán con financiamiento público para su funcionamiento. La ley regulará su organización y la composición de sus directorios, la que estará orientada por criterios de idoneidad y técnicos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 489.- Artículo 5"
   },
   {
     "article": "Artículo 7",
@@ -11648,6 +11504,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 7.- Sistema Nacional de Medios Públicos y Comunitarios. Se creará un Sistema Nacional de Medios Públicos y Comunitarios para asesorar y coordinar los diversos medios de comunicación, que promoverá y fortalecerá los medios regionales, locales, comunitarios e indígenas. Este sistema será organizado de forma descentralizada y garantizará su libre acceso a todas las personas y comunidades. La ley regulará lo relativo a su organización, estructura, competencias y funcionamiento.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "De los Medios de Comunicación Comunitarios. Habrá un Sistema Nacional de Medios de Comunicación Comunitarios, que estará constituido por Consejos Regionales conformados por representantes de los medios comunitarios y por autoridades vinculadas a las culturas, comunicaciones y educación. Estos Consejos se encargarán de promover el desarrollo y fortalecimiento de los medios comunitarios de cada región, así como la valoración de los elementos identitarios, en todos sus soportes tecnológicos.\n La ley regulará lo relativo a su organización, estructura, competencias y funcionamiento.",
+        "number": 24,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 6,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 6. De los Medios de Comunicación Comunitarios. Habrá un Sistema Nacional de Medios de Comunicación Comunitarios, que estará constituido por Consejos Regionales conformados por representantes de los medios comunitarios y por autoridades vinculadas a las culturas, comunicaciones y educación. Estos Consejos se encargarán de promover el desarrollo y fortalecimiento de los medios comunitarios de cada región, así como la valoración de los elementos identitarios, en todos sus soportes tecnológicos. La ley regulará lo relativo a su organización, estructura, competencias y funcionamiento.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -11864,8 +11736,25 @@
         "content": "Artículo 11.- Consejo Nacional de Bioética. El Consejo Nacional de Bioética será un órgano independiente, técnico, de carácter consultivo, pluralista y transdisciplinario, que tendrá, entre sus funciones, asesorar a los organismos del Estado en los asuntos bioéticos que puedan afectar a la vida humana, animal, la naturaleza y la biodiversidad, recomendando la dictación, modificación y supresión de normas que regulen dichas materias. La ley regulará la composición, funciones, organización y demás aspectos de este órgano.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 7",
+        "step": "Indicación",
+        "content_snapshot": "Consejo Nacional de Bioética. El Consejo Nacional de Bioética será un órgano independiente, técnico, de carácter consultivo, pluralista y transdisciplinario, que tendrá, entre sus funciones, asesorar a los organismos del Estado en los asuntos bioéticos que puedan afectar a la vida humana, animal, la naturaleza y la biodiversidad, recomendando la dictación, modificación y supresión de normas que regulen dichas materias.\n La ley regulará la composición, funciones, organización y demás aspectos de este órgano.",
+        "number": 25,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 7.- Consejo Nacional de Bioética. El Consejo Nacional de Bioética será un órgano independiente, técnico, de carácter consultivo, pluralista y transdisciplinario, que tendrá, entre sus funciones, asesorar a los organismos del Estado en los asuntos bioéticos que puedan afectar a la vida humana, animal, la naturaleza y la biodiversidad, recomendando la dictación, modificación y supresión de normas que regulen dichas materias. La ley regulará la composición, funciones, organización y demás aspectos de este órgano.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 490.- Artículo 7"
   },
   {
     "article": "Artículo 12",
@@ -12202,8 +12091,43 @@
         "content": "Artículo 16.- El Estado distribuirá el financiamiento para la investigación, creación, producción, difusión y exhibición de las expresiones culturales y artísticas de forma descentralizada con los enfoques de equidad e interculturalidad.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 26,
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 27,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 8,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 17",
@@ -12318,8 +12242,25 @@
         "content": "Artículo 18. Organo de prevención e investigación en salid y medioambiente. Habrá una entidad autónoma, colegiada, con personalidad jurídica, patrimonio propio, con sede en cada una de las regiones del país, con el propósito de prevenir y controlar riesgos sanitarios y medio ambientales. Para ello, se encargará de la investigación transdisciplinaria e independiente, que resguarde la calidad de vida de la población, su bienestar y el equilibrio ecosistémico de todos los territorios del país; además, de la detección y el monitoreo permanente de los riesgos medioambientales y sanitarios que afecten la salud de sus comunidades y ecosistemas. Su financiamiento, composición, organización y atribuciones será establecido en la forma que determine la ley.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "Rol del Estado en el desarrollo de la Investigación. Es deber del Estado estimular, promover y fortalecer el desarrollo de la investigación científica y tecnológica en todas las áreas del conocimiento, contribuyendo así al enriquecimiento sociocultural del país y al mejoramiento de las condiciones de vida de sus habitantes.\n El Estado generará las condiciones necesarias para el desarrollo de la investigación científica transdisciplinaria en materias relevantes para el resguardo de la calidad de vida de la población y el equilibrio ecosistémico, además del monitoreo permanente de los riesgos medioambientales y sanitarios que afecten la salud de las comunidades y ecosistemas del país, realizándose, en ambos casos, de forma independiente y descentralizada.\n La creación y coordinación de entidades que cumplan los objetivos establecidos en el inciso anterior, su colaboración con centros de investigación públicos y privados con pertinencia territorial, además de sus características, funcionamiento y otros aspectos serán determinados por ley.",
+        "number": 31,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 9,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 9.- Rol del Estado en el desarrollo de la Investigación. Es deber del Estado estimular, promover y fortalecer el desarrollo de la investigación científica y tecnológica en todas las áreas del conocimiento, contribuyendo así al enriquecimiento sociocultural del país y al mejoramiento de las condiciones de vida de sus habitantes. El Estado generará las condiciones necesarias para el desarrollo de la investigación científica transdisciplinaria en materias relevantes para el resguardo de la calidad de vida de la población y el equilibrio ecosistémico, además del monitoreo permanente de los riesgos medioambientales y sanitarios que afecten la salud de las comunidades y ecosistemas del país, realizándose, en ambos casos, de forma independiente y descentralizada. La creación y coordinación de entidades que cumplan los objetivos establecidos en el inciso anterior, su colaboración con centros de investigación públicos y privados con pertinencia territorial, además de sus características, funcionamiento y otros aspectos serán determinados por ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 491.- Artículo 9"
   },
   {
     "article": "Artículo 19",
@@ -12363,6 +12304,22 @@
         "content": "Artículo 19.- Institucionalidad en Sistemas de Conocimientos. La institucionalidad en sistemas de conocimientos e innovación dirige las políticas públicas que garantizan el derecho a participar y beneficiarse de los conocimientos, además de proponer las mejores evidencias disponibles y pertinentes. Esta institucionalidad se rige por los principios de justicia epistémica, reducción de desigualdades, integridad en la investigación, descentralización y acceso abierto a los conocimientos, y tendrá un carácter integrado con otros actores u organismos relevantes en torno a ella.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "De las entidades para el desarrollo de las ciencias, tecnología, conocimientos e innovación. Las entidades que dirigen las políticas públicas relacionadas al desarrollo de las ciencias, tecnología, conocimiento e innovación tendrán un carácter integrado con otros actores u organismos para promover el desarrollo de los diversos sistemas de conocimiento, según lo establece esta Constitución y la ley, además de fomentar su acceso abierto a la sociedad, con el objeto de utilizar los avances científicos y tecnológicos disponibles para la reducción de las desigualdades.",
+        "number": 33,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 10. De las entidades para el desarrollo de las ciencias, tecnología, conocimientos e innovación. Las entidades que dirigen las políticas públicas relacionadas al desarrollo de las ciencias, tecnología, conocimiento e innovación tendrán un carácter integrado con otros actores u organismos para promover el desarrollo de los diversos sistemas de conocimiento, según lo establece esta Constitución y la ley, además de fomentar su acceso abierto a la sociedad, con el objeto de utilizar los avances científicos y tecnológicos disponibles para la reducción de las desigualdades.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -12399,8 +12356,58 @@
         "content": "Artículo 20.- Agencia de Protección de Datos y Seguridad Informática. Existirá un órgano autónomo, independiente y con personalidad jurídica que velará por la promoción y protección efectiva de los derechos a la autodeterminación informativa, protección de datos personales y a la seguridad informática, con facultades de investigar, normar, fiscalizar y sancionar respecto de entidades públicas y privadas, el que contará con las atribuciones y funciones que determine la ley.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "Agencia Nacional de Protección de Datos. Existirá un órgano autónomo que velará por la promoción y protección de los datos personales, con facultades de investigar, normar, fiscalizar y sancionar respecto de entidades públicas y privadas, el que contará con las atribuciones, composición, funciones que determine la ley.",
+        "number": 35,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 11,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 11.- Agencia Nacional de Protección de Datos. Existirá un órgano autónomo que velará por la promoción y protección de los datos personales, con facultades de investigar, normar, fiscalizar y sancionar respecto de entidades públicas y privadas, el que contará con las atribuciones, composición, funciones que determine la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 492.- Artículo 11"
+  },
+  {
+    "article_uid": "C7_IND04-19_ART12",
+    "timestamp": "04-28",
+    "article": "Artículo 11",
+    "text": "Agencia Nacional de Seguridad Informática. Una ley creará un organismo que velará por la promoción y protección efectiva de la seguridad informática con las atribuciones que ésta misma indique.",
+    "number": 36,
+    "authors_matched": [
+      "Valenzuela, Paulina"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo.- Agencia Nacional de Seguridad Informática. Una ley creará un organismo que velará por la promoción y protección efectiva de la seguridad informática con las atribuciones que ésta misma indique.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar un Artículo nuevo"
+  },
+  {
+    "article_uid": "C7_IND04-19_ARTN11",
+    "timestamp": "04-19",
+    "article": "Artículo 11",
+    "text": "El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.´\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
+    "number": "43",
+    "authors_matched": [
+      "Videla, Carolina"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "SUBSTITUTE",
+    "content": "Artículo 11.- El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.´\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
+    "content_to_remove": "",
+    "placement_instructions": "",
+    "final_status": "Similar a 482.- Artículo 11"
   },
   {
     "article": "Artículo 21",
@@ -12497,8 +12504,25 @@
         "content": "Artículo 22.- Las instituciones de educación superior del Estado tienen el rol de contribuir al desarrollo de los sistemas de conocimientos de forma descentralizada a través de la docencia, la investigación y la vinculación bidireccional con el medio. Es deber del Estado garantizar, reconocer y proteger tanto la libertad de cátedra y académica, sin distinción alguna.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 37,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 12,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 23",
@@ -12535,6 +12559,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 23.- Educación en los sistemas de conocimientos. La educación es connatural a la vida, es parte de ella y surge a partir de la curiosidad que estimula la creación de relaciones inéditas, holísticas y sinérgicas, que se complejizan ampliamente, permitiendo comprender cómo opera la naturaleza, la sociedad y la cultura. El derecho a la educación considerará este principio rector.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 13",
+        "step": "Indicación",
+        "content_snapshot": "Principio de educación en los sistemas de conocimientos. La educación es connatural a la vida, surge a partir de la curiosidad y favorece la creación de relaciones que permiten la comprensión e interrelación con la naturaleza y la sociedad, contribuyendo al desarrollo de los diversos sistemas de conocimientos.",
+        "number": 41,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 13,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 13. Principio de educación en los sistemas de conocimientos. La educación es connatural a la vida, surge a partir de la curiosidad y favorece la creación de relaciones que permiten la comprensión e interrelación con la naturaleza y la sociedad, contribuyendo al desarrollo de los diversos sistemas de conocimientos.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -12577,6 +12617,38 @@
         "content": "Artículo 24.- Interculturalidad en la educación. El Estado asegura una educación intercultural en sus múltiples dimensiones, propendiendo al aprendizaje mutuo entre culturas a través de la incorporación y transmisión de valores, saberes y lenguas de los pueblos y naciones indígenas preexistentes. La ley establecerá la institucionalidad necesaria y régimen aplicable a las y los educadores tradicionales.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Interculturalidad en la educación. El Estado asegura una educación intercultural en sus múltiples dimensiones, favoreciendo el aprendizaje recíproco entre culturas. La ley establecerá la institucionalidad necesaria y régimen aplicable a las personas que la impartan.",
+        "number": 43,
+        "authors_matched": [
+          "Caiguan, Alexis"
+        ],
+        "target_article": 14,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 14. Interculturalidad en la educación. El Estado asegura una educación intercultural en sus múltiples dimensiones, favoreciendo el aprendizaje recíproco entre culturas. La ley establecerá la institucionalidad necesaria y régimen aplicable a las personas que la impartan.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Interculturalidad en la educación. El Estado asegura una educación intercultural en sus múltiples dimensiones, favoreciendo el aprendizaje recíproco entre culturas. La ley establecerá la institucionalidad necesaria y régimen aplicable a las personas que la impartan.\n El Estado, reconociendo la interculturalidad existente, establecerá un sistema de registro de los educadores tradicionales facultándolos para poder ejercer su labor en la educación formal.",
+        "number": 44,
+        "authors_matched": [
+          "Botto, Miguel Angel"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El Estado, reconociendo la interculturalidad existente, establecerá un sistema de registro de los educadores tradicionales facultándolos para poder ejercer su labor en la educación formal.",
+        "content_to_remove": "",
+        "placement_instructions": "agregar un nuevo inciso siguiente"
       }
     ]
   },
@@ -12594,7 +12666,8 @@
     "action": "ADD",
     "content": "Patrimonio Lingüístico. El Estado reconoce el carácter patrimonial constituido por las diferentes lenguas indígenas del territorio nacional, las que serán objeto de revitalización y protección, especialmente aquellas que tienen el carácter de vulnerables.",
     "content_to_remove": "",
-    "placement_instructions": "después del Artículo 24, un nuevo artículo"
+    "placement_instructions": "después del Artículo 24, un nuevo artículo",
+    "final_status": "Idéntico a 493.- Artículo 15"
   },
   {
     "article": "Artículo 25",
@@ -12709,6 +12782,22 @@
         "content": "El Estado garantiza la educación artística y su promoción en distintos espacios, comunitarios o culturales, de acuerdo a los principios de diversidad y pertinencia territorial.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 16",
+        "step": "Indicación",
+        "content_snapshot": "El Estado reconoce la educación artística como aporte sustancial al desarrollo integral de las personas y garantiza su promoción en los diversos espacios de la sociedad, de acuerdo a los principios de diversidad y pertinencia territorial.",
+        "number": 47,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 16,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 16.- El Estado reconoce la educación artística como aporte sustancial al desarrollo integral de las personas y garantiza su promoción en los diversos espacios de la sociedad, de acuerdo a los principios de diversidad y pertinencia territorial.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -12812,8 +12901,57 @@
         "content": "Sobre el libro y la lectura. El Estado fomenta el acceso y goce de la lectura a través de planes, políticas públicas y programas. Asimismo, incentivará la creación y fortalecimiento de bibliotecas públicas y comunitarias. La ley dispondrá la creación de una editorial estatal. La producción y comercialización de libros en cualquier formato estará exenta del impuesto al valor agregado en todas sus etapas.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 17",
+        "step": "Indicación",
+        "content_snapshot": "Sobre el libro y la lectura. El Estado fomenta el acceso y goce de la lectura a través de planes, políticas públicas y programas. Asimismo, incentivará la creación y fortalecimiento de bibliotecas públicas y comunitarias.\n El Estado promoverá la creación y producción editorial local.\n La producción y comercialización de libros en cualquier formato estará exenta del impuesto al valor agregado en todas sus etapas.",
+        "number": 51,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 17,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "El Estado promoverá la creación y producción editorial local.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 17",
+        "step": "Indicación",
+        "content_snapshot": "Sobre el libro y la lectura. El Estado fomenta el acceso y goce de la lectura a través de planes, políticas públicas y programas. Asimismo, incentivará la creación y fortalecimiento de bibliotecas públicas y comunitarias.\n El Estado promoverá la creación y producción editorial local.\n La comercialización de libros en cualquier formato estará exenta del impuesto al valor agregado.",
+        "number": 53,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 17,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "La comercialización de libros en cualquier formato estará exenta del impuesto al valor agregado.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 17",
+        "step": "Indicación",
+        "content_snapshot": "Sobre el libro y la lectura. El Estado fomenta el acceso y goce de la lectura a través de planes, políticas públicas y programas. Asimismo, incentivará la creación y fortalecimiento de bibliotecas públicas y comunitarias.\n Lo anterior se realizará mediante acciones que garanticen el acceso al libro en sus diferentes formatos.\n El Estado promoverá la creación y producción editorial local.\n La comercialización de libros en cualquier formato estará exenta del impuesto al valor agregado.",
+        "number": 54,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 17,
+        "target_scope": "INCISO 2",
+        "action": "ADD",
+        "content": "Lo anterior se realizará mediante acciones que garanticen el acceso al libro en sus diferentes formatos",
+        "content_to_remove": "",
+        "placement_instructions": "agregar un nuevo inciso segundo al Artículo 17"
       }
-    ]
+    ],
+    "final_status": "Similar a 494.- Artículo 17"
   },
   {
     "article": "Artículo 29",
@@ -12839,8 +12977,59 @@
         "content": "El Estado fomenta y desarrolla los procesos educativos con pertinencia local mediante laboratorios naturales, que incorporan elementos territoriales, ambientales y culturales, junto a la participación equitativa de las comunidades.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 55,
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 56,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 18,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article_uid": "C7_IND04-19_ARTN19",
+    "timestamp": "04-28",
+    "article": "Artículo 19",
+    "text": "El Estado reconoce los derechos laborales y de seguridad social a las y los trabajadores de las culturas, artes, patrimonios e investigación, en sus distintas modalidades y circunstancias específicas.",
+    "number": 61,
+    "authors_matched": [
+      "Valenzuela, Paulina"
+    ],
+    "target_article": 19,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo.- El Estado reconoce los derechos laborales y de seguridad social a las y los trabajadores de las culturas, artes, patrimonios e investigación, en sus distintas modalidades y circunstancias específicas.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar a continuación del Artículo 19 por el siguiente artículo nuevo"
   },
   {
     "article": "Artículo 30",
@@ -13653,7 +13842,7 @@
         "timestamp": "04-09-2",
         "article": "Artículo 42",
         "step": "Indicación",
-        "content_snapshot": "l Estado permitirá el libre tránsito de las personas indígenas en su territorio ancestral, para que puedan continuar con sus prácticas nómadas, de acuerdo a su cultura.",
+        "content_snapshot": "El Estado permitirá el libre tránsito de las personas indígenas en su territorio ancestral, para que puedan continuar con sus prácticas nómadas, de acuerdo a su cultura.",
         "number": "172",
         "authors_matched": [
           "Pinto, Malucha"
@@ -13838,6 +14027,22 @@
     ]
   },
   {
+    "article_uid": "C7_IND04-19_ARTN21",
+    "timestamp": "04-28",
+    "article": "Artículo 21",
+    "text": "Estrategias de Innovación frente a los cambios globales. El Estado debe promover el avance de la innovación y los conocimientos para la reducción de las desigualdades, generando estrategias transversales y colaborativas para enfrentar la crisis climática y ecológica.\n La ley establecerá medidas y acciones que permitan el desarrollo científico y tecnológico para la prevención, mitigación y adaptación ante las causas y efectos de la crisis climática y ecológica.",
+    "number": 67,
+    "authors_matched": [
+      "Valenzuela, Paulina"
+    ],
+    "target_article": 21,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo nuevo.- Estrategias de Innovación frente a los cambios globales. El Estado debe promover el avance de la innovación y los conocimientos para la reducción de las desigualdades, generando estrategias transversales y colaborativas para enfrentar la crisis climática y ecológica. La ley establecerá medidas y acciones que permitan el desarrollo científico y tecnológico para la prevención, mitigación y adaptación ante las causas y efectos de la crisis climática y ecológica.",
+    "content_to_remove": "",
+    "placement_instructions": "agregar luego del Artículo 21 un nuevo Artículo"
+  },
+  {
     "article": "Artículo 46",
     "text": "El Estado debe promover la investigación, desarrollo e innovación para enfrentar la Crisis Climática y Ecológica, impulsar un desarrollo económico-social en especial atención a los derechos de la Naturaleza y los Derechos Humanos, en consideración de las generaciones futuras (ICC 856-7 Artículo X1). El Estado debe fomentar la participación comunitaria en la creación de políticas públicas y programas para la investigación, desarrollo, innovación ante los efectos de la Crisis Climática y Ecológica. Esta planificación se desarrollará en conjunto a municipios, gobiernos regionales, centros de investigación e innovación y Universidades (ICC 856-7 Artículo X2). El Estado debe fomentar la creación y uso de tecnologías para la neutralidad climática, la sostenibilidad de los bienes naturales y los límites de la biosfera, así como para organismos públicos y las externalidades negativas de los procesos productivos de la industria (ICC 856-7 Artículo X3). El Estado generará una Estrategia Nacional de Innovación de manera transversal entre los ministerios, instituciones públicas, educativas y las comunidades para fomentar el desarrollo científico y tecnológico, como también la coproducción, transferencia y difusión de conocimientos y el desarrollo de bienes públicos y comunitarios con enfoque a la superación de la Crisis Climática y Ecológica. (ICC 856-7 Artículo X4, inciso primero). La ley dispondrá la creación de fondos de manera descentralizada para contribuir al desarrollo de la creatividad social, del intercambio de conocimientos y saberes locales, populares y ancestrales, en pleno respeto a la autodeterminación de los pueblos y naciones preexistentes al Estado. Así como para el diseño de estrategias, programas y proyectos que solucionen las problemáticas locales y la resiliencia ante la Crisis Climática y Ecológica (ICC 856-7 Artículo X4, inciso segundo). La educación en todos sus niveles tiene como objetivo la promoción y fomento sociocultural, de innovación científica y tecnológica, la resiliencia ante la Crisis Climática y Ecológica, además del respeto a los derechos humanos, la protección del ambiente y los derechos de la Naturaleza y el Buen Vivir (ICC 856-7 Artículo X5).",
     "sources": [
@@ -13964,8 +14169,25 @@
         "content": "Innovación en el Estado. Es deber del Estado utilizar los mejores avances de las ciencias, tecnología, conocimientos e innovación para promover la mejora continua de los servicios públicos. Una ley determinará el desarrollo de la innovación constante del sector público en colaboración con sus funcionarios y la sociedad civil, de forma eficiente y transparente.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 22",
+        "step": "Indicación",
+        "content_snapshot": "Innovación en el Estado. Es deber del Estado utilizar los mejores avances de las ciencias, tecnología, conocimientos e innovación para promover la mejora continua de los servicios públicos.\n Todo proceso de innovación en la adaptabilidad y mejora continua de los servicios públicos, considerará la participación de funcionarios como de los usuarios y beneficiarios, según lo establezca la ley.",
+        "number": 69,
+        "authors_matched": [
+          "Caamaño, Francisco"
+        ],
+        "target_article": 22,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Todo proceso de innovación en la adaptabilidad y mejora continua de los servicios públicos, considerará la participación de funcionarios como de los usuarios y beneficiarios, según lo establezca la ley",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 495.- Artículo 22"
   },
   {
     "article": "Artículo 49",
@@ -14065,8 +14287,25 @@
         "content": "Protección de las personas en sus relaciones de consumo. Las personas usuarias de bienes y servicios tienen derecho a la protección de su salud, seguridad e intereses económicos, a una información adecuada, veraz y oportuna, a la libertad de elección, a condiciones de trato equitativo y digno, a la reparación e indemnización oportuna e íntegra de los daños, así como a los demás derechos que establezca la ley en materias de consumo. Se garantizará la protección y defensa de esos derechos mediante procedimientos eficaces para la prevención y solución de los conflictos y en los marcos regulatorios de los servicios públicos. El Estado promoverá la educación e información de las personas usuarias de bienes y servicios, fomentará su asociatividad y preverá su participación en los organismos reguladores y en los asuntos que puedan afectarlas.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 23",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de los consumidores. Toda persona tiene derechos, individual y colectivamente, en su condición de consumidor. Para ello el Estado protegerá, mediante procedimientos eficaces, sus derechos a la libre elección, a la información veraz, a no ser discriminados, a la seguridad, a la protección de la salud y el medio ambiente, a la reparación e indemnización adecuada y a la educación para el consumo responsable.",
+        "number": 72,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 23,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 23. Derechos de los consumidores. Toda persona tiene derechos, individual y colectivamente, en su condición de consumidor. Para ello el Estado protegerá, mediante procedimientos eficaces, sus derechos a la libre elección, a la información veraz, a no ser discriminados, a la seguridad, a la protección de la salud y el medio ambiente, a la reparación e indemnización adecuada y a la educación para el consumo responsable.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 496.- Artículo 23"
   },
   {
     "article": "Artículo 51",
@@ -14151,6 +14390,22 @@
         "content": "El Estado asegurará a todas las personas neurodivergentes el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones, a lo largo de su vida. Además, desarrollará un sistema transversal de apoyos, eliminando las brechas que obstaculicen el goce de su vida plena, estableciendo los ajustes razonables a través de mecanismos especializados y situados para el ejercicio de sus derechos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "Es deber del Estado desarrollar un sistema transversal de apoyos que establezca ajustes razonables y mecanismos especializados que permitan eliminar las barreras estructurales que impiden el ejercicio de sus derechos.",
+        "number": 77,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 24,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 24.- Es deber del Estado desarrollar un sistema transversal de apoyos que establezca ajustes razonables y mecanismos especializados que permitan eliminar las barreras estructurales que impiden el ejercicio de sus derechos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -14192,7 +14447,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 497.- Artículo 25"
   },
   {
     "article": "Artículo 54",
@@ -14226,6 +14482,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Derecho al Turismo. Todas las personas tienen derecho al turismo, al descanso, al disfrute del tiempo libre y a las vacaciones periódicas pagadas, por su incidencia en la salud física, psicológica y social, la integración social, el fortalecimiento comunitario y la participación ciudadana. Es deber del Estado y de los gobiernos locales regular las actividades e infraestructura turística en coordinación y colaboración con las comunidades, en respeto a la Naturaleza, los Patrimonios y los contextos socioculturales de cada territorio.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "Resguardo y promoción del turismo. Todas las personas tienen derecho a gozar y participar del turismo. El Estado en coordinación con los Gobiernos regionales y locales deberá fomentar el turismo, así como resguardar los sitios y áreas de interés turístico.",
+        "number": 83,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 26,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 26. Resguardo y promoción del turismo. Todas las personas tienen derecho a gozar y participar del turismo. El Estado en coordinación con los Gobiernos regionales y locales deberá fomentar el turismo, así como resguardar los sitios y áreas de interés turístico.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -14281,6 +14553,22 @@
         "content": "Derecho a la identidad de origen.",
         "content_to_remove": "",
         "placement_instructions": "siguiente epígrafe"
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "Identidad filiatoria. Toda persona tiene derecho a conocer quiénes son sus progenitores, accediendo a la información necesaria para ello.",
+        "number": 85,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 27,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 27. Identidad filiatoria. Toda persona tiene derecho a conocer quiénes son sus progenitores, accediendo a la información necesaria para ello.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -14422,7 +14710,28 @@
       "Zarate, Camila"
     ],
     "article_uid": "C7_GEN3_ART58",
-    "timestamp": "04-09-1"
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 87,
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Letelier, Margarita",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "article": "Artículo 59",
@@ -14484,8 +14793,41 @@
         "content": "Derecho a la muerte digna. Todas las personas tienen derecho a una muerte digna. La Constitución asegura el derecho de las personas a tomar decisiones libres y autónomas sobre su vida, sus cuidados y tratamientos, con pleno respeto a su cultura, creencias y espiritualidad. El Estado garantiza el acceso a los cuidados paliativos a todas las personas portadoras de enfermedades crónicas avanzadas, progresivas y limitantes de la vida, en especial a grupos vulnerables y en riesgo social. La ley regulará las condiciones para el acceso a las prestaciones sanitarias multidisciplinarias y el ejercicio de este derecho, de acuerdo a lo establecido en los tratados internacionales del Derecho Internacional de los Derechos Humanos ratificados por Chile y que se encuentren vigentes.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 29",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la muerte digna. Todas las personas tienen derecho a una muerte digna.\n La Constitución asegura el derecho a las personas a tomar decisiones libres e informadas sobre sus cuidados y tratamientos al final de su vida.\n El Estado garantiza el acceso a los cuidados paliativos a todas las personas portadoras de enfermedades crónicas avanzadas, progresivas y limitantes de la vida, en especial a grupos vulnerables y en riesgo social.\n La ley regulará las condiciones para el acceso a las prestaciones sanitarias multidisciplinarias y el ejercicio de este derecho, de acuerdo a lo establecido en los tratados internacionales del Derecho Internacional de los Derechos Humanos ratificados por Chile y que se encuentren vigentes.",
+        "number": 90,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 29,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "La Constitución asegura el derecho a las personas a tomar decisiones libres e informadas sobre sus cuidados y tratamientos al final de su vida.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 29",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la muerte digna. Todas las personas tienen derecho a una muerte digna.\n La Constitución asegura el derecho a las personas a tomar decisiones libres e informadas sobre sus cuidados y tratamientos al final de su vida.\n El Estado garantiza el acceso a los cuidados paliativos a todas las personas portadoras de enfermedades crónicas avanzadas, progresivas y limitantes de la vida, en especial a grupos vulnerables y en riesgo social.\n La ley regulará las condiciones para garantizar el ejercicio de este derecho, incluyendo el acceso a la información y el acompañamiento adecuado.",
+        "number": 93,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 29,
+        "target_scope": "INCISO 4",
+        "action": "SUBSTITUTE",
+        "content": "La ley regulará las condiciones para garantizar el ejercicio de este derecho, incluyendo el acceso a la información y el acompañamiento adecuado.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 498.- Artículo 29"
   },
   {
     "article": "Artículo 61",
@@ -14582,6 +14924,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Derecho a la energía. Todas las personas tienen derecho a la energía limpia y segura. Su generación, transmisión y distribución se realizará de forma eficiente, eficaz y asegurando la disponibilidad, calidad y el respeto de los derechos consagrados en esta Constitución. El Estado debe promover el uso de energías limpias y seguras, resilientes, que contribuyan a la satisfacción del derecho humano de acceso a la energía y a la autonomía energética de las personas y comunidades. La ley establecerá la provisión y asequibilidad de servicios energéticos limpios, seguros, de alta calidad y disponibilidad para toda la población.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-28",
+        "article": "Artículo 30",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de Acceso a la energía. Toda persona tiene derecho al acceso a energía suficiente y asequible para usos mínimos personales y domésticos. La ley establecerá las características de estos usos mínimos y las condiciones que aseguren la continuidad, eficiencia y sostenibilidad de los servicios energéticos, en consideración a diversos contextos sociales, culturales y territoriales.",
+        "number": 100,
+        "authors_matched": [
+          "Valenzuela, Paulina"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 30.- Derecho de Acceso a la energía. Toda persona tiene derecho al acceso a energía suficiente y asequible para usos mínimos personales y domésticos. La ley establecerá las características de estos usos mínimos y las condiciones que aseguren la continuidad, eficiencia y sostenibilidad de los servicios energéticos, en consideración a diversos contextos sociales, culturales y territoriales.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
