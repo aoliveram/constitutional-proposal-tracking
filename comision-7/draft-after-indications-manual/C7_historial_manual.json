@@ -13412,5 +13412,403 @@
       }
     ],
     "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 50",
+    "text": "Los consumidores y usuarios de bienes y servicios tienen derecho, en la relación de consumo, a la protección de su salud, seguridad e intereses económicos, a una información adecuada y veraz, a la libertad de elección, y a condiciones de trato equitativo y digno (ICC N° 621-4 Artículo XX1, inciso primero). Las autoridades proveerán a la protección de esos derechos, a la educación para el consumo, a la defensa de la competencia contra toda forma de distorsión de los mercados, al control de los monopolios naturales y legales, al de la calidad y eficiencia de los servicios públicos, y a la constitución de asociaciones de consumidores y de usuarios. La legislación establecerá procedimientos eficaces para la prevención y solución de conflictos, y los marcos regulatorios de los servicios públicos de competencia nacional, previendo la necesaria participación de las asociaciones de consumidores y usuarios en los organismos reguladores y público. (ICC N° 621-4 Artículo XX1, inciso segundo).",
+    "sources": [
+      "621-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART50",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 50",
+        "step": "Indicación",
+        "content_snapshot": "Protección de las personas en sus relaciones de consumo. Las personas usuarias de bienes y servicios tienen derecho a la protección de su salud, seguridad e intereses económicos, a una información adecuada, veraz y oportuna, a la libertad de elección, a condiciones de trato equitativo y digno, a la reparación e indemnización oportuna e íntegra de los daños, así como a los demás derechos que establezca la ley en materias de consumo.\n Se garantizará la protección y defensa de esos derechos mediante procedimientos eficaces para la prevención y solución de los conflictos y en los marcos regulatorios de los servicios públicos.\n El Estado promoverá la educación e información de las personas usuarias de bienes y servicios, fomentará su asociatividad y preverá su participación en los organismos reguladores y en los asuntos que puedan afectarlas.",
+        "number": "192",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 50,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Protección de las personas en sus relaciones de consumo. Las personas usuarias de bienes y servicios tienen derecho a la protección de su salud, seguridad e intereses económicos, a una información adecuada, veraz y oportuna, a la libertad de elección, a condiciones de trato equitativo y digno, a la reparación e indemnización oportuna e íntegra de los daños, así como a los demás derechos que establezca la ley en materias de consumo. Se garantizará la protección y defensa de esos derechos mediante procedimientos eficaces para la prevención y solución de los conflictos y en los marcos regulatorios de los servicios públicos. El Estado promoverá la educación e información de las personas usuarias de bienes y servicios, fomentará su asociatividad y preverá su participación en los organismos reguladores y en los asuntos que puedan afectarlas.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 51",
+    "text": "El Estado reconoce a los niños, niñas y adolescentes como personas, iguales en dignidad y derechos, sin distinción de sexo, raza o nacionalidad, sujetas a todas las garantías constitucionales y legales y las consagradas en los Tratados Internacionales ratificados por Chile que les sean aplicables, sin excepción de ninguna especie. (ICC N° 840-4 Artículo XX1, inciso primero). La protección de los derechos del niño, será una prioridad para la familia, el Estado y la sociedad. Todos ellos tienen la obligación de asistir y proteger al niño, niña y adolescente para garantizar su desarrollo armónico e integral, como también el ejercicio pleno de sus derechos. (ICC N° 840-4 Artículo XX1, inciso segundo). El Estado, junto con la familia y la sociedad, promoverán el desarrollo pleno y equilibrado de los niños, niñas y adolescentes, creando las condiciones para el ejercicio de sus derechos políticos, económicos, sociales y culturales, y fomentará la creación y participación en las organizaciones especialmente creadas para ellos y establecidas para esos efectos. (ICC N° 840-4 Artículo XX6).",
+    "sources": [
+      "840-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART51",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 51",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "194",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 51,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 52",
+    "text": "El Estado asegurará el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones, con especial atención a infancias y adolescencias. Además, garantizará el desarrollo de un modelo transversal de apoyos, eliminando las brechas que obstaculicen el goce de su vida plena, estableciendo los ajustes razonables a través de mecanismos especializados y situados para el ejercicio de sus derechos. (ICC N° 566-4 Artículo XX1, inciso segundo).",
+    "sources": [
+      "566-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART52",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 52",
+        "step": "Indicación",
+        "content_snapshot": "El Estado asegurará a todas las personas neurodivergentes el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones, a lo largo de su vida. Además, desarrollará un sistema transversal de apoyos, eliminando las brechas que obstaculicen el goce de su vida plena, estableciendo los ajustes razonables a través de mecanismos especializados y situados para el ejercicio de sus derechos.",
+        "number": "197",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 52,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "El Estado asegurará a todas las personas neurodivergentes el trato digno y su inclusión en todos los espacios sociales y políticos en igualdad de condiciones, a lo largo de su vida. Además, desarrollará un sistema transversal de apoyos, eliminando las brechas que obstaculicen el goce de su vida plena, estableciendo los ajustes razonables a través de mecanismos especializados y situados para el ejercicio de sus derechos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 53",
+    "text": "El derecho de acceso a la información pública de los órganos del Estado en la forma y condiciones que establezca la Constitución y la ley. (ICI 215 Artículo 20).",
+    "sources": [
+      "215"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART53",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 53",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de Acceso a la información. Las personas, individual y colectivamente, tienen derecho al acceso abierto a la información pública, en poder del Estado y financiada con fondos públicos, según lo establezca la ley.\n Es deber del Estado promover la publicación y utilización de la información pública, de manera oportuna, periódica, proactiva, legible y en formatos abiertos.",
+        "number": "199",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 53,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Derecho de Acceso a la información. Las personas, individual y colectivamente, tienen derecho al acceso abierto a la información pública, en poder del Estado y financiada con fondos públicos, según lo establezca la ley. Es deber del Estado promover la publicación y utilización de la información pública, de manera oportuna, periódica, proactiva, legible y en formatos abiertos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 54",
+    "text": "Se reconoce el derecho al turismo como forma de garantizar el descanso, el disfrute del tiempo libre y las vacaciones periódicas pagadas, el derecho a experimentar la cultura de las comunidades, gozar de las artes y el derecho a circular libremente, por lo que el Estado promoverá activamente su desarrollo integral y de calidad basándose en y salvaguardando a la Naturaleza, los bienes comunes, los patrimonios y los contextos socioculturales de cada territorio. (ICC N°426-4, Artículo X1) El Estado garantiza el derecho al turismo a todas las personas y comunidades dentro del territorio, sin discriminación y de forma descentralizada, desconcentrada, asociativa, sostenible, accesible, equitativa y segura, siendo responsable de la conservación de la Naturaleza, los bienes comunes, los patrimonios, y la promoción y educación de los conocimientos y aplicaciones que surjan de su fortalecimiento, buscando la articulación de las economías comunitarias, locales y territoriales. (ICC N°426-4, Artículo X2) Toda persona natural y jurídica dentro del territorio, de forma individual o colectiva, tiene el deber de conservar la integridad y valoración de los bienes comunes, los patrimonios y los contextos socioculturales de cada territorio durante el ejercicio de este derecho, que deberá realizarse en estricto cumplimiento con los derechos indígenas y naciones preexistentes reconocidos en la presente constitución y en las leyes. (ICC N°426-4, Artículo X3) Los gobiernos regionales y comunales son competentes para planificar, ordenar, fomentar y regular las actividades e infraestructura turística en el ámbito de su territorio, en coordinación y colaboración con las comunidades y las políticas internacionales, nacionales y sectoriales. Asimismo, con la nueva institucionalidad establecida en esta Constitución. (ICC N°426-4, Artículo X4).",
+    "sources": [
+      "426-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART54",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 54",
+        "step": "Indicación",
+        "content_snapshot": "Derecho al Turismo. Todas las personas tienen derecho al turismo, al descanso, al disfrute del tiempo libre y a las vacaciones periódicas pagadas, por su incidencia en la salud física, psicológica y social, la integración social, el fortalecimiento comunitario y la participación ciudadana.\n Es deber del Estado y de los gobiernos locales regular las actividades e infraestructura turística en coordinación y colaboración con las comunidades, en respeto a la Naturaleza, los Patrimonios y los contextos socioculturales de cada territorio.",
+        "number": "200",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 54,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Derecho al Turismo. Todas las personas tienen derecho al turismo, al descanso, al disfrute del tiempo libre y a las vacaciones periódicas pagadas, por su incidencia en la salud física, psicológica y social, la integración social, el fortalecimiento comunitario y la participación ciudadana. Es deber del Estado y de los gobiernos locales regular las actividades e infraestructura turística en coordinación y colaboración con las comunidades, en respeto a la Naturaleza, los Patrimonios y los contextos socioculturales de cada territorio.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 55",
+    "text": "Toda persona tiene derecho a la identidad de origen y biológica, accediendo a información sobre su progenitora y progenitor, incluyendo antecedentes médicos y el Estado debe llevar adelante las medidas necesarias para consagrar este derecho. (ICC N° 878-4 Artículo XX).",
+    "sources": [
+      "878-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART55",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 55",
+        "step": "Indicación",
+        "content_snapshot": "Toda persona tiene derecho a la identidad de origen y biológica, accediendo a información sobre su progenitora y progenitor, el Estado debe llevar adelante las medidas necesarias para consagrar este derecho. (ICC N° 878-4 Artículo XX).",
+        "number": "202",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 55,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "incluyendo antecedentes médicos y",
+        "placement_instructions": "suprimir frase"
+      },
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 55",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la identidad de origen. Toda persona tiene derecho a la identidad de origen y biológica, accediendo a información sobre su progenitora y progenitor, el Estado debe llevar adelante las medidas necesarias para consagrar este derecho. (ICC N° 878-4 Artículo XX).",
+        "number": "203",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 55,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Derecho a la identidad de origen.",
+        "content_to_remove": "",
+        "placement_instructions": "siguiente epígrafe"
+      }
+    ]
+  },
+  {
+    "article": "Artículo 56",
+    "text": "El Estado garantizará el registro, protección, organización, descripción, restauración, recuperación, revitalización, enriquecimiento, promoción, acceso y difusión de su patrimonio cultural, de acuerdo con las leyes vigentes. (ICC N° 804-4 Artículo 1). Son parte del patrimonio cultural tangible e intangible relevante para la memoria e identidad de las personas y colectivos, y objeto de salvaguarda del Estado, entre otros, los documentos, objetos y colecciones contenidas en archivos, bibliotecas y museos que tengan valor histórico, artístico, arqueológico, etnográfico o paleontológico. (ICC N° 804-4 Artículo 2). Los bienes culturales patrimoniales del Estado, incluyendo documentos de archivo, serán inalienables, inembargables e imprescriptibles. (ICC N° 804-4 Artículo 3). Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ocupe recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. (ICC N° 804-4 Artículo 4). Los ciudadanos y las ciudadanas tienen derecho a ser informados e informadas oportuna y verazmente por la Administración Pública sobre el estado de las actuaciones en que estén directamente interesados e interesadas y a conocer las resoluciones definitivas que se adopten sobre el particular. (ICC N° 804-4 Artículo 5). Asimismo, los ciudadanos y las ciudadanas tienen acceso a los archivos y registros administrativos, sin perjuicio de los límites aceptables dentro de una sociedad democrática en materias relativas a seguridad interior y exterior, a investigación criminal y a la intimidad de la vida privada, de conformidad con las leyes vigentes. (ICC N° 804-4 Artículo 6). La estipulación de la protección y garantía del derecho de las personas al resguardo de sus datos de carácter personal y a tener la posibilidad de conocer, actualizar y rectificar las informaciones que sobre ellas se haya recabado en sistemas de información de entidades públicas y privadas. (ICC N° 804-4 Artículo 7). Con la finalidad de consagrar el derecho a la identidad cultural, el Estado debe garantizar el resguardo de los archivos tanto de la administración del Estado como los generados por las personas, comunidades y pueblos originarios. (ICC N° 804-4 Artículo 8). Una vez concluido el mandato de la Convención, sus representantes denunciarán este conjunto de documentos (digitales y físicos) al Consejo de Monumentos Nacionales (Ley 17.288) para recibir protección del Estado a través de su declaratoria como Monumento Nacional en calidad de Monumento Histórico. Además, se dispondrá su entrega íntegra al Archivo Nacional del Servicio Nacional del Patrimonio Cultural, para su preservación y acceso permanente, sin perjuicio de las transferencias parciales que la Unidad de Gestión Documental y Archivo determine transferir anticipadamente hacia el Archivo Electrónico del Archivo Nacional para su preservación y acceso. (ICC N° 804-4 Artículo 9).",
+    "sources": [
+      "804-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART56",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "204",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "205",
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 57",
+    "text": "El Estado reconoce los derechos lingüísticos de las Primeras Naciones. (ICI N° 270-4, articulo X1) Es deber del Estado garantizar la protección, conservación y revitalización de la variante lingüística huilliche Tse Süngun. (ICI N° 270-4, articulo X2)",
+    "sources": [
+      "270-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART57",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "206",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 57,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "207",
+        "authors_matched": [
+          "Neumann, Ricardo",
+          "Tepper, Maria Angelica"
+        ],
+        "target_article": 57,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 58",
+    "text": "Todas las personas y los colectivos podrán ejercer el derecho a la resistencia en los siguientes casos. (ICC N° 299-4, Artículo XX, inciso primero). 1) Para oponerse a acciones u omisiones de los poderes públicos o de las personas naturales o jurídicas no estatales que vulneren o puedan vulnerar sus derechos constitucionales. (ICC N° 299-4, Artículo XX, numeral 1 del inciso primero). 2) Para oponerse a acciones u omisiones de los poderes públicos, de las personas naturales, jurídicas o de colectivos que eliminen o restrinja el derecho a organizarse libremente e incidir activamente en las actividades públicas. (ICC N° 299-4, Artículo XX, numeral 2 del inciso primero). 3) Para demandar el reconocimiento de nuevos derechos o de nuevos titulares de derechos que, por su situación de desventaja o su padecimiento de opresión e injusticia estructural, requieran protección jurídica urgente. (ICC N° 299-4, Artículo XX, numeral 3 del inciso primero). 4) Para defender el orden constitucional que sostiene a los derechos, cuando este se encontrare amenazado por causa de acciones u omisiones de los poderes públicos y/o de personas naturales o jurídicas no estatales. (ICC N° 299- 4, Artículo XX, numeral 4 del inciso primero). 5) Para oponerse a cualquier intento de usurpación ilegítima de funciones públicas, cuando esta se haya realizado por medios violentos y/o mediante infracciones a la Constitución o las leyes. (ICC N° 299-4, Artículo XX, numeral 5 del inciso primero).",
+    "sources": [
+      "299-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART58",
+    "timestamp": "04-09-1"
+  },
+  {
+    "article": "Artículo 59",
+    "text": "Derecho a la desobediencia civil. Toda persona tendrá derecho a la desobediencia civil contra una autoridad que estuviere incumpliendo con lo establecido en esta Constitución o estuviere vulnerando los derechos humanos reconocidos en esta Constitución o en el Derecho Internacional de los Derechos Humanos, sin cumplir con lo establecido en la ley, o hubiere usurpado las funciones públicas. Todo acto que realice quien hubiere usurpado el poder serán nulos y originarán las responsabilidades y sanciones que determine la ley. (ICC N°304-4 Artículo x6).",
+    "sources": [
+      "304-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART59",
+    "timestamp": "04-09-1"
+  },
+  {
+    "article": "Artículo 60",
+    "text": "Derecho al buen morir. La Constitución asegura el derecho a una muerte digna, en condiciones de igualdad y sin discriminación. (ICC N° 273 inciso primero). En particular, se reconoce el derecho de las personas a tomar decisiones libres y autónomas sobre su vida, sus cuidados y tratamientos, sin violencia ni coerción alguna, debiendo el Estado garantizar el acceso a la información y medios materiales para ello. La ley regulará las condiciones y el acceso a este derecho. (ICC N° 273 inciso primero).",
+    "sources": [
+      "273"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART60",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 60",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la muerte digna. Todas las personas tienen derecho a una muerte digna.\n La Constitución asegura el derecho de las personas a tomar decisiones libres y autónomas sobre su vida, sus cuidados y tratamientos, con pleno respeto a su cultura, creencias y espiritualidad.\n El Estado garantiza el acceso a los cuidados paliativos a todas las personas portadoras de enfermedades crónicas avanzadas, progresivas y limitantes de la vida, en especial a grupos vulnerables y en riesgo social.\n La ley regulará las condiciones para el acceso a las prestaciones sanitarias multidisciplinarias y el ejercicio de este derecho, de acuerdo a lo establecido en los tratados internacionales del Derecho Internacional de los Derechos Humanos ratificados por Chile y que se encuentren vigentes.",
+        "number": "211",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 60,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Derecho a la muerte digna. Todas las personas tienen derecho a una muerte digna. La Constitución asegura el derecho de las personas a tomar decisiones libres y autónomas sobre su vida, sus cuidados y tratamientos, con pleno respeto a su cultura, creencias y espiritualidad. El Estado garantiza el acceso a los cuidados paliativos a todas las personas portadoras de enfermedades crónicas avanzadas, progresivas y limitantes de la vida, en especial a grupos vulnerables y en riesgo social. La ley regulará las condiciones para el acceso a las prestaciones sanitarias multidisciplinarias y el ejercicio de este derecho, de acuerdo a lo establecido en los tratados internacionales del Derecho Internacional de los Derechos Humanos ratificados por Chile y que se encuentren vigentes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
+  },
+  {
+    "article": "Artículo 61",
+    "text": "La Constitución garantiza el derecho a la muerte digna mediante el acceso a los cuidados paliativos de toda persona portadora de enfermedades crónicas avanzadas, progresivas y limitantes de la vida. (ICC N°986, artículo X) La Ley protege el derecho a tener acceso a los cuidados paliativos, proporcionados a través de servicios de salud integrados y centrados en la persona, con equipos multidisciplinarios que presten especial atención a las necesidades y preferencias de cada persona. (ICC N°986, artículo XX) Se establece que cada Servicio de Salud disponga de una red de atención continuada paliativa: hospitalaria, ambulatoria y domiciliaria. (ICC N°986, artículo XXX) La ley asegura el acceso a un ambiente seguro donde cada persona pueda recibir los cuidados paliativos en el fin de la vida con pleno respeto de su cultura y creencias en cada región del país, con especial acceso a grupos vulnerables y en riesgo social. (ICC N°986, artículo XXXX).",
+    "sources": [
+      "986"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART61",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 61",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "224",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 61",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "225",
+        "authors_matched": [
+          "Botto, Miguel Angel"
+        ],
+        "target_article": 61,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
+  },
+  {
+    "article": "Artículo 62",
+    "text": "La Constitución asegura a todas las personas el derecho al acceso económico y físico a energía limpia y segura, para la protección de la salud, la conservación y preparación de alimentos, la higiene y el confort térmico, el acceso a la educación, y la inclusión social, entre otros. El derecho a la energía es un derecho esencial y condición necesaria para el ejercicio de los demás derechos y garantías fundamentales. (ICC N° 375-4 inciso primero Artículo 29 ). El Estado deberá garantizar el acceso equitativo y no discriminatorio a energía segura y no contaminante a la población para satisfacer las actividades domésticas y de subsistencia. El legislador deberá asegurar la provisión y asequibilidad de servicios energéticos limpios, seguros y de alta calidad a toda la población (ICC N° 375-4 inciso segundo Artículo 29).",
+    "sources": [
+      "375-4"
+    ],
+    "authors": [],
+    "article_uid": "C7_GEN3_ART62",
+    "timestamp": "04-09-1",
+    "history": [
+      {
+        "timestamp": "04-09-2",
+        "article": "Artículo 62",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la energía. Todas las personas tienen derecho a la energía limpia y segura. Su generación, transmisión y distribución se realizará de forma eficiente, eficaz y asegurando la disponibilidad, calidad y el respeto de los derechos consagrados en esta Constitución.\n El Estado debe promover el uso de energías limpias y seguras, resilientes, que contribuyan a la satisfacción del derecho humano de acceso a la energía y a la autonomía energética de las personas y comunidades.\n La ley establecerá la provisión y asequibilidad de servicios energéticos limpios, seguros, de alta calidad y disponibilidad para toda la población.",
+        "number": "230",
+        "authors_matched": [
+          "Pinto, Malucha"
+        ],
+        "target_article": 62,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Derecho a la energía. Todas las personas tienen derecho a la energía limpia y segura. Su generación, transmisión y distribución se realizará de forma eficiente, eficaz y asegurando la disponibilidad, calidad y el respeto de los derechos consagrados en esta Constitución. El Estado debe promover el uso de energías limpias y seguras, resilientes, que contribuyan a la satisfacción del derecho humano de acceso a la energía y a la autonomía energética de las personas y comunidades. La ley establecerá la provisión y asequibilidad de servicios energéticos limpios, seguros, de alta calidad y disponibilidad para toda la población.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ]
   }
 ]
