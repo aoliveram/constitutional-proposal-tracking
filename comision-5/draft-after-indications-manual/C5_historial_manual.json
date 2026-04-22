@@ -1451,7 +1451,7 @@
         "timestamp": "04-09-2",
         "step": "Indicación",
         "article": "Artículo 19",
-        "content_snapshot": "Acceso responsable a la Naturaleza. Se reconoce a todas las personas el derecho de acceso responsable y universal a las montañas, riberas de ríos, mar, playas, lagos, lagunas y humedales, entre otros que defina la ley. Este derecho se ejercerá respetando los derechos de la Naturaleza y de los pueblos indígenas. La ley regulará el ejercicio de este derecho, las obligaciones de los propietarios aledaños y el régimen de responsabilidad aplicable, entre otros.",
+        "content_snapshot": "Acceso responsable a la Naturaleza. Se reconoce a todas las personas el derecho de acceso responsable y universal a las montañas, riberas de ríos, mar, playas, lagos, lagunas y humedales, entre otros que defina la ley.\n Este derecho se ejercerá respetando los derechos de la Naturaleza y de los pueblos indígenas.\n La ley regulará el ejercicio de este derecho, las obligaciones de los propietarios aledaños y el régimen de responsabilidad aplicable, entre otros.",
         "number": 18,
         "authors": [
           "Vilches, Carolina"
@@ -1463,8 +1463,8 @@
         "placement_instructions": ""
       }
     ],
-    "comment": "El borrador menciona explícitamente que el inciso segundo se reemplaza por el tercero, si se elimina el inciso 2 original el texto es idéntico",
-    "final_status": "Idéntico* a 303.- Artículo 19"
+    "comment": "El borrador no contempla explícitamente el inciso 2",
+    "final_status": "Idéntico a 304.- Artículo 19"
   },
   {
     "article_uid": "C5-GEN-CH07-ART22",
@@ -1646,7 +1646,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "idéntio a 304.- Artículo 20"
+    "final_status": "idéntico a 304.- Artículo 20"
   },
   {
     "article_uid": "C5-GEN-CH10-ART26",
@@ -4829,7 +4829,8 @@
       "Vilches, Carolina",
       "Woldarsky, Manuel",
       "Zarate, Camila"
-    ]
+    ],
+    "final_status": "idéntico a 309.- Artículo 1"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART2",
@@ -5364,7 +5365,6 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "similar a 313.- Artículo 5",
     "authors": [
       "Alvarez, Julio",
       "Castillo, Maria Trinidad",
@@ -7476,7 +7476,7 @@
         "placement_instructions": ""
       }
     ],
-    "final_status": "similar a 319.- Artículo 14"
+    "final_status": "similar a 320.- Artículo 15"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART51",
@@ -11676,7 +11676,8 @@
       "Vergara, Lisette",
       "Woldarsky, Manuel",
       "Zarate, Camila"
-    ]
+    ],
+    "final_status": "similar a 313.- Artículo 5"
   },
   {
     "article_uid": "C5-GEN2-CH1-ART161",
