@@ -1,0 +1,79 @@
+---
+title: "Reporte de Trazabilidad: Comisión 5"
+author: Análisis Automático
+date: \today
+geometry: margin=2cm
+---
+
+# Introducción
+
+Este documento presenta un análisis cuantitativo de la trazabilidad de las iniciativas en la **Comisión 5**. El objetivo de este reporte es entender el nivel de supervivencia de las propuestas originales después del proceso de indicaciones, mostrando qué proporción logró formar parte del borrador final.
+
+# Resumen Analítico
+
+En esta comisión, se analizaron un total de **419 propuestas** vinculadas al borrador. El destino de estas propuestas se desglosa de la siguiente manera:
+
+- **36 propuestas** (8.6%) lograron sobrevivir hasta el borrador final, contribuyendo a la redacción de **36 artículos únicos**.
+- De las que sobrevivieron, **26** se mantuvieron idénticas o con cambios mínimos, mientras que **10** fueron catalogadas como similares, implicando fusiones o modificaciones sustanciales.
+- **383 propuestas** fueron eliminadas explícitamente durante el proceso.
+- **0 propuestas** no se encuentran en el borrador final (sin destino o rastro evidente).
+
+Este grado de síntesis refleja cómo el debate y las votaciones condensaron 36 iniciativas en solo 36 artículos constitucionales finales.
+
+# Tablas de Datos
+
+A continuación se presentan las métricas extraídas directamente del flujo de trabajo, seguidas de la matriz de trazabilidad que conecta cada artículo final con sus propuestas originales (identificadas por su ID de `source`).
+
+## TABLA 1: RESUMEN GENERAL
+
+| Métrica | Cantidad |
+| :--- | :--- |
+| Total de Artículos Únicos en el Borrador Final | 36 |
+| Total de Propuestas 'Idéntico' | 26 |
+| Total de Propuestas 'Similar' | 10 |
+| Total de Propuestas 'No encontrado' | 0 |
+| Total de Propuestas 'Eliminado' | 383 |
+
+
+## TABLA 2: MATRIZ DE TRAZABILIDAD (SOURCES POR ARTICULO FINAL)
+
+| Artículo Final Destino | Idéntico (Sources) | Similar (Sources) | No encontrado (Sources) |
+| :--- | :--- | :--- | :--- |
+| **296.- Artículo 1** | 951-5 | - | - |
+| **297.- Artículo 4** | ICI 82-5 | - | - |
+| **298.- Artículo 9** | IPC 73-5 | - | - |
+| **299.- Artículo 12 A** | C5-IND04-09-2-CH01-ART12A | - | - |
+| **300.- Artículo 12 B** | C5-IND04-09-2-CH01-ART12B | - | - |
+| **301.- Artículo 12 C** | C5-IND04-09-2-CH01-ART12C | - | - |
+| **302.- Artículo 12 D** | C5-IND04-09-2-CH01-ART12D | - | - |
+| **304.- Artículo 19** | 1009-5 | - | - |
+| **304.- Artículo 20** | 708-5 | - | - |
+| **305.- Artículo 23** | - | 786-5 | - |
+| **307.- Artículo 26** | 787-5 | - | - |
+| **308.- Artículo 33** | 788-5 | - | - |
+| **309.- Artículo 1** | 954-5 | - | - |
+| **310.- Artículo 2** | 954-5 | - | - |
+| **311.- Artículo 3** | 954-5 | - | - |
+| **312.- Artículo 4** | 954-5 | - | - |
+| **313.- Artículo 5** | - | 647-5 | - |
+| **316.- Artículo 12** | - | 819-5 | - |
+| **317.- Artículo Nuevo** | - | C5-IND05-04-CH1-ARTNUEVO | - |
+| **318.- Artículo 13** | 983-3 | - | - |
+| **319.- Artículo 14** | 163-5 | - | - |
+| **320.- Artículo 15** | - | C5-IND04-09-CH1-ARTN1 | - |
+| **321.- Artículo 17** | 639-5 | - | - |
+| **323.- Artículo 21** | - | 516-4 | - |
+| **324.- Artículo 22** | 430-5 | - | - |
+| **325.- Artículo 23** | 430-5 | - | - |
+| **326.- Artículo 24** | - | 430-5 | - |
+| **328.- Artículo 25** | - | 527-5 | - |
+| **330.- Artículo 30** | - | 10-5 | - |
+| **331.- Artículo 32** | 820-5 | - | - |
+| **332.- Artículo 34** | 332-5 | - | - |
+| **334.- Artículo 43** | 454-5 | - | - |
+| **335.- Artículo 47** | 867-5 | - | - |
+| **336.- Artículo 48** | 740-5 | - | - |
+| **337.- Artículo 49** | 1012-5 | - | - |
+| **338.- Artículo 51** | - | 417-4 | - |
+
+
