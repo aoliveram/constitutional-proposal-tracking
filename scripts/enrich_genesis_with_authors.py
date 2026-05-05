@@ -4,7 +4,7 @@ import re
 import glob
 
 # Configuration: Target only the requested commissions
-TARGET_COMMISSIONS = [1, 3, 5, 6, 7]
+TARGET_COMMISSIONS = [1, 3, 4, 5, 6, 7]
 SUBMITTED_INITIATIVES_DIR = "submitted_initiatives"
 
 def normalize_id(id_string):
@@ -96,7 +96,11 @@ def process_json_file(filepath, authors_map, is_manual=False):
         # Only add authors if the entry doesn't have them or they are empty
         # For manual history, we ONLY touch the root entries, NOT the "history" list
         if not entry.get("authors"):
+            # Check 'sources' or 'icc_id'
             sources = entry.get("sources", [])
+            if not sources and entry.get("icc_id"):
+                sources = [entry.get("icc_id")]
+            
             if isinstance(sources, str):
                 sources = [sources]
             
