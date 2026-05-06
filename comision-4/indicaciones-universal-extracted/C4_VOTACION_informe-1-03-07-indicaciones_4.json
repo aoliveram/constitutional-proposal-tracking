@@ -1,1379 +1,1863 @@
-[
-  {
-    "number": 276,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 22,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 284,
-    "authors_matched": [
-      "Delgado, Aurora"
-    ],
-    "target_article": 23,
-    "target_scope": "TOTAL",
-    "action": "SUBSTITUTE",
-    "content": "Artículo 23.- Educación sexual integral. Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.\nEs deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes."
-  },
-  {
-    "number": 302,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Cancino, Adriana"
-    ],
-    "target_article": 24,
-    "target_scope": "INCISO 1",
-    "action": "ADD",
-    "content": "naturales y jurídicas",
-    "placement_instructions": "en el inciso primero, luego de la palabra \"personas\""
-  },
-  {
-    "number": 306,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 24,
-    "target_scope": "INCISO 1",
-    "action": "ADD",
-    "content": ", exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.",
-    "placement_instructions": "en el primer inciso, luego de la frase \"toda clase de bienes.\""
-  },
-  {
-    "number": 307,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Montealegre, Katerine",
-      "Henriquez, Natalia",
-      "Cancino, Adriana"
-    ],
-    "target_article": 24,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley."
-  },
-  {
-    "number": 323,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 24,
-    "target_scope": "INCISO 3",
-    "action": "ADD",
-    "content": "públicos o",
-    "placement_instructions": "en el inciso tercero luego de la palabra \"servicios\""
-  },
-  {
-    "number": 323,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 24,
-    "target_scope": "INCISO 3",
-    "action": "ADD",
-    "content": ", uso y aprovechamiento",
-    "placement_instructions": "luego de la palabra \"explotación\""
-  },
-  {
-    "number": 336,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Labbe, Bastian"
-    ],
-    "target_article": 24,
-    "target_scope": "INCISO",
-    "action": "ADD",
-    "content": "La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
-    "placement_instructions": "nuevo inciso cuarto al artículo 24"
-  },
-  {
-    "number": 343,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 25,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "intereses morales y"
-  },
-  {
-    "number": 361,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 26,
-    "target_scope": "INCISO 1",
-    "action": "ADD",
-    "content": "declarado por el legislador.",
-    "placement_instructions": "en el inciso primero, luego de la palabra \"general\""
-  },
-  {
-    "number": 364,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 26,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "La",
-    "content_to_remove": "Esta"
-  },
-  {
-    "number": 365,
-    "authors_matched": [
-      "Fuchslocher, Javier"
-    ],
-    "target_article": 26,
-    "target_scope": "INCISO",
-    "action": "ADD",
-    "content": "El pago tendrá lugar de forma previa al acto de toma de posesión material del bien expropiado, salvo acuerdo en contrario.",
-    "placement_instructions": "al artículo 26 como inciso segundo"
-  },
-  {
-    "number": 370,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 26,
-    "target_scope": "INCISO 2",
-    "action": "ADD",
-    "content": "y del monto",
-    "placement_instructions": "en el inciso segundo, luego de la palabra \"expropiatorio\""
-  },
-  {
-    "number": 382,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "bienes comunes naturales y espacios sagrados que actual o tradicionalmente",
-    "content_to_remove": "bienes naturales que tradicionalmente"
-  },
-  {
-    "number": 385,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "que constituyen la base espiritual y material de su identidad individual y colectiva, la condición para la reproducción de su cultura, desarrollo y plan de vida, y la garantía del derecho colectivo a su continuidad histórica",
-    "content_to_remove": "directa o indirectamente, incluyendo también las aguas superficiales, subterráneas y marítimas que han sido la base de la subsistencia de dichos pueblos"
-  },
-  {
-    "number": 392,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "INCISO 3",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 396,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "INCISO 4",
-    "action": "SUBSTITUTE",
-    "content": "Los pueblos y naciones indígenas tienen derecho a la administración de sus territorios, que comprenden sus bienes naturales comunes que estos contienen. El Estado, a través de acciones afirmativas y sistemáticas, debe velar por la protección de los bienes comunes naturales presentes en las tierras y territorios indígenas. La ley determinará las sanciones, la reparación y/o la compensación de cualquier daño ocasionado, por proyectos de inversión o de otra naturaleza en perjuicio de los bienes comunes naturales que sean parte del territorio."
-  },
-  {
-    "number": 402,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "El territorio indígena comprende también",
-    "content_to_remove": "La protección de la propiedad indígena también comprende"
-  },
-  {
-    "number": 403,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "en sus más diversas manifestaciones, el que incluye sus costumbres y lenguas, sus artes y rituales, sus conocimientos y usos relacionados con la naturaleza, el derecho consuetudinario, su vestimenta, filosofía y valores, entre otros."
-  },
-  {
-    "number": 406,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Mamani, Isabella"
-    ],
-    "target_article": 27,
-    "target_scope": "INCISO 6",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 411,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 28,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Del despojo, desposesión y restitución territorial de los Pueblos y Naciones Indígenas",
-    "content_to_remove": "Del despojo y desposesión territorial de los Pueblos y Naciones Indígenas."
-  },
-  {
-    "number": 412,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 28,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "de Chile"
-  },
-  {
-    "number": 414,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 28,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "que han sufrido"
-  },
-  {
-    "number": 415,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 28,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "del sistema jurídico nacional",
-    "content_to_remove": "de las reglas jurídicas"
-  },
-  {
-    "number": 418,
-    "authors_matched": [
-      "Mamani, Isabella"
-    ],
-    "target_article": 28,
-    "target_scope": "INCISO 2",
-    "action": "SUBSTITUTE",
-    "content": "Los pueblos y naciones indígenas tienen derecho a la recuperación, restitución, reconstitución y reclamación de las tierras y territorios que tradicionalmente han ocupado, ya sea que se encuentren en manos de terceros o particulares o el fisco. Es deber del Estado adoptar medidas de no repetición y a generar, en conjunto con los pueblos y naciones indígenas, todos los mecanismos adecuados y oportunos para restituir las tierras y territorios, incluyendo la expropiación. En aquellos casos en que no sea posible, deberá reparar íntegramente"
-  },
-  {
-    "number": 422,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Mamani, Isabella"
-    ],
-    "target_article": 29,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 433,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Cancino, Adriana"
-    ],
-    "target_article": 30,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 458,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Montealegre, Katerine",
-      "Cancino, Adriana"
-    ],
-    "target_article": 31,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 483,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 35,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 484,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 36,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 490,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 37,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Imprescriptibilidad y prohibición de la amnistía",
-    "content_to_remove": "Imprescriptibilidad, prohibición de la amnistía y deberes de investigación."
-  },
-  {
-    "number": 490,
-    "authors_matched": [
-      "Woldarsky, Manuel"
-    ],
-    "target_article": 37,
-    "target_scope": "WORDING",
-    "action": "ADD",
-    "content": "el genocidio y el crimen de agresión",
-    "placement_instructions": "en la frase \"los crímenes de guerra, los delitos de lesa humanidad, la desaparición forzada y la tortura\""
-  },
-  {
-    "number": 491,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 37,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "el Estado adoptará todas las medidas para impedir la impunidad de estos hechos"
-  },
-  {
-    "number": 492,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 38,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 495,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 39,
-    "target_scope": "INCISO 1",
-    "action": "ADD",
-    "content": "Deberes de prevención, investigación y sanción.",
-    "placement_instructions": "al comienzo del inciso el epígrafe"
-  },
-  {
-    "number": 496,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 39,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 37. Tales crímenes deberán ser investigados de oficio",
-    "content_to_remove": "Es deber del Estado investigar tales crímenes de oficio"
-  },
-  {
-    "number": 497,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 39,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "en conformidad",
-    "content_to_remove": "de acuerdo"
-  },
-  {
-    "number": 498,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 39,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "tratados internacionales ratificados y vigentes en Chile",
-    "content_to_remove": "tratados internacionales sobre Derechos Humanos suscritos y ratificados por Chile"
-  },
-  {
-    "number": 509,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Valenzuela, Cesar"
-    ],
-    "target_article": 40,
-    "target_scope": "INCISO 2",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 513,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 41,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 516,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 42,
-    "target_scope": "TOTAL",
-    "action": "ADD",
-    "content": "Artículo XX. Derecho al acceso a la justicia y a la tutela judicial efectiva. Toda persona tiene derecho a la efectiva protección de sus derechos y a que el Estado le garantice la igualdad de acceso a la justicia. El Estado deberá disponer diversos mecanismos que favorezcan una respuesta accesible, oportuna y eficaz que resulte apropiada a las circunstancias concretas.\nToda persona tiene derecho a una tutela judicial efectiva y a la resolución de sus conflictos jurídicos a través de un procedimiento adecuado a sus fines. Al legislador le corresponderá establecer estos, así como las medidas necesarias para asegurar el cumplimiento efectivo y oportuno de toda resolución judicial.",
-    "placement_instructions": "previo al artículo 42"
-  },
-  {
-    "number": 520,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 42,
-    "target_scope": "INCISO 1",
-    "action": "SUBSTITUTE",
-    "content": "Derecho al debido proceso. Toda persona tendrá derecho a un proceso razonable y justo, ante un tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, con igualdad de condiciones y enfoque interseccional, en todos los asuntos en los que se determinen sus derechos y obligaciones de cualquier naturaleza. El proceso sólo podrá ser regulado por ley."
-  },
-  {
-    "number": 527,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 42,
-    "target_scope": "INCISO 2",
-    "action": "SUBSTITUTE",
-    "content": "Toda persona tendrá derecho a la defensa en la forma que la ley señale, sin que ninguna autoridad o individuo pueda impedirlo, restringirlo o perturbarlo. En el ejercicio de este derecho se deberá garantizar la comunicación libre y privada."
-  },
-  {
-    "number": 529,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 42,
-    "target_scope": "INCISO",
-    "action": "ADD",
-    "content": "El proceso y sus resoluciones serán públicos, salvo las excepciones expresamente establecidas por ley, debiendo concluir en un plazo razonable y sin dilaciones indebidas. Toda resolución emanada de un tribunal deberá ser fundada, con excepción de aquellas que se pronuncien sobre cuestiones de mero trámite.",
-    "placement_instructions": "intercalar un nuevo inciso tercero del artículo 42"
-  },
-  {
-    "number": 531,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 42,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "y promoverá el uso de mecanismos colaborativos y adecuados para la resolución de los conflictos jurídicos en conformidad a su naturaleza.",
-    "placement_instructions": "al actual inciso final del artículo 42 luego de \"en los procedimientos administrativos\""
-  },
-  {
-    "number": 532,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 42,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 533,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 43,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 536,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 44,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 543,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 45,
-    "target_scope": "WORDING",
-    "action": "ADD",
-    "content": "en plena igualdad,",
-    "placement_instructions": "al artículo 45, luego de \"tiene derecho\""
-  },
-  {
-    "number": 546,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 45,
-    "target_scope": "INCISO 2",
-    "action": "SUBSTITUTE",
-    "content": "A) Toda persona se presume inocente mientras no se pruebe su culpabilidad conforme a la ley. No se podrá presumir de derecho la responsabilidad penal."
-  },
-  {
-    "number": 551,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 46,
-    "target_scope": "INCISO 1",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 555,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 46,
-    "target_scope": "INCISO 2",
-    "action": "SUBSTITUTE",
-    "content": "I) La información sobre sanciones penales sólo podrá ser tratada por un organismo público, dentro de la órbita de sus competencias. Esta información sólo podrá ser comunicada a otro organismo público que la requiera, dentro de la órbita de sus competencias."
-  },
-  {
-    "number": 559,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 47,
-    "target_scope": "TOTAL",
-    "action": "SUBSTITUTE",
-    "content": "B) A ser informada sin demora, en una lengua o idioma que comprenda y en forma detallada, de sus derechos, de la naturaleza y causas de la investigación seguida contra ella y de la acusación formulada en su contra."
-  },
-  {
-    "number": 564,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 48,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 568,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 49,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 569,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 49,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 573,
-    "authors_matched": [
-      "Vergara, Lisette",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 50,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "si carecieren de los medios suficientes para pagarlos"
-  },
-  {
-    "number": 575,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 51,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 578,
-    "authors_matched": [
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 52,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 584,
-    "authors_matched": [
-      "Castro, Claudia"
-    ],
-    "target_article": 53,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 595,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 55,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 596,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 56,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 606,
-    "authors_matched": [
-      "Castro, Claudia"
-    ],
-    "target_article": 57,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 607,
-    "authors_matched": [
-      "Rebolledo, Barbara"
-    ],
-    "target_article": 58,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 613,
-    "authors_matched": [
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 59,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 619,
-    "authors_matched": [
-      "Castro, Claudia"
-    ],
-    "target_article": 60,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 622,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 61,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 625,
-    "authors_matched": [
-      "Castro, Claudia"
-    ],
-    "target_article": 62,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 626,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 63,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 630,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 64,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 635,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 65,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 636,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 66,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 638,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Meneses, Janis"
-    ],
-    "target_article": 67,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 644,
-    "authors_matched": [
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 68,
-    "target_scope": "TOTAL",
-    "action": "SUBSTITUTE",
-    "content": "Está prohibido cualquier método de investigación o de interrogación que vulnere o coarte la libertad para declarar del imputado o investigado."
-  },
-  {
-    "number": 647,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 69,
-    "target_scope": "INCISO 1",
-    "action": "ADD",
-    "content": "ni sometido a una medida de seguridad",
-    "placement_instructions": "en el inciso primero luego de la expresión \"nadie será penado\""
-  },
-  {
-    "number": 649,
-    "authors_matched": [
-      "Castro, Claudia"
-    ],
-    "target_article": 69,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
-    "placement_instructions": "un nuevo inciso final"
-  },
-  {
-    "number": 650,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 70,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 658,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 72,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 660,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 73,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 663,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 74,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 664,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 75,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 665,
-    "authors_matched": [
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 76,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 673,
-    "authors_matched": [
-      "Fernandez, Patricio"
-    ],
-    "target_article": 77,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Derecho a reunirse y manifestarse pacíficamente",
-    "content_to_remove": "El derecho a reunirse pacíficamente sin permiso previo"
-  },
-  {
-    "number": 675,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 77,
-    "target_scope": "WORDING",
-    "action": "ADD",
-    "content": "Todas las personas tienen derecho a reunirse y manifestarse sin permiso previo.",
-    "placement_instructions": "luego del epígrafe"
-  },
-  {
-    "number": 676,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 77,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Las reuniones en",
-    "content_to_remove": "Las reuniones que impliquen la ocupación de"
-  },
-  {
-    "number": 679,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 77,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "nacionales"
-  },
-  {
-    "number": 680,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 77,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "acceso",
-    "content_to_remove": "uso"
-  },
-  {
-    "number": 681,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 77,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "y en el contexto de una sociedad democrática en interés de la seguridad o del orden público, o para proteger la salud pública, o los derechos o libertades de los demás."
-  },
-  {
-    "number": 685,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 77,
-    "target_scope": "INCISO",
-    "action": "ADD",
-    "content": "En cualquier caso, el uso de la fuerza pública deberá siempre respetar los estándares que se desprenden tanto de esta Constitución y la ley.",
-    "placement_instructions": "el siguiente inciso"
-  },
-  {
-    "number": 690,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 78,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Todas las personas naturales o jurídicas tienen derecho a asociarse",
-    "content_to_remove": "La Constitución asegura el derecho de asociación"
-  },
-  {
-    "number": 694,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 78,
-    "target_scope": "INCISO 3",
-    "action": "SUBSTITUTE",
-    "content": "Para gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley."
-  },
-  {
-    "number": 699,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 78,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "fuerzas armadas.",
-    "content_to_remove": "otros organismos encargados de hacer cumplir la ley."
-  },
-  {
-    "number": 709,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 78,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.",
-    "placement_instructions": "como inciso final"
-  },
-  {
-    "number": 718,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "de nacionalidad"
-  },
-  {
-    "number": 719,
-    "authors_matched": [
-      "Celedon, Roberto"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "los asuntos públicos y el devenir del país",
-    "content_to_remove": "los asuntos públicos del país, con su devenir y el de sus familias"
-  },
-  {
-    "number": 721,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "de conformidad a esta Constitución y al derecho internacional de los derechos humanos"
-  },
-  {
-    "number": 726,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Se garantiza",
-    "content_to_remove": "El Estado tiene el deber de adoptar las medidas necesarias para garantizar"
-  },
-  {
-    "number": 727,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "de sus descendientes",
-    "content_to_remove": "descendientes de chilenos"
-  },
-  {
-    "number": 731,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Se garantiza",
-    "content_to_remove": "La Constitución garantiza a las personas chilenas residentes en el extranjero"
-  },
-  {
-    "number": 735,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa"
-    ],
-    "target_article": 80,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "y a ser elegidas en cargos de elección popular"
-  },
-  {
-    "number": 736,
-    "authors_matched": [
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Serey, Mariela",
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 81,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 740,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Serey, Mariela",
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 82,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 745,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "Derechos de las personas frente a la administración del Estado",
-    "content_to_remove": "Derecho a la buena administración pública"
-  },
-  {
-    "number": 746,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "las instituciones y órganos del Estado",
-    "content_to_remove": "los órganos administrativos del Estado"
-  },
-  {
-    "number": 747,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "INCISO 1",
-    "action": "ADD",
-    "content": "de acuerdo con los principios de receptividad, eficacia y eficiencia",
-    "placement_instructions": "en el inciso primero luego de la palabra \"equitativamente\""
-  },
-  {
-    "number": 748,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "INCISO",
-    "action": "SUBSTITUTE",
-    "content": "A recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad, calidad y uso de las tecnologías de la información y la comunicación"
-  },
-  {
-    "number": 749,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "en el procedimiento, con consideración a la confidencialidad y la protección de datos personales",
-    "content_to_remove": "antes de la finalización del"
-  },
-  {
-    "number": 750,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "",
-    "content_to_remove": "que habrán de facilitarle a todas las personas el ejercicio de sus derechos y el cumplimiento de sus obligaciones"
-  },
-  {
-    "number": 751,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "WORDING",
-    "action": "MODIFY_PHRASE",
-    "content": "que correspondan",
-    "content_to_remove": "que establezcan la Constitución y las leyes"
-  },
-  {
-    "number": 752,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "INCISO",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 754,
-    "authors_matched": [
-      "Meneses, Janis"
-    ],
-    "target_article": 83,
-    "target_scope": "INCISO",
-    "action": "ADD",
-    "content": "El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente",
-    "placement_instructions": "el siguiente numeral"
-  },
-  {
-    "number": 755,
-    "authors_matched": [
-      "Fuchslocher, Javier"
-    ],
-    "target_article": 83,
-    "target_scope": "INCISO FINAL",
-    "action": "ADD",
-    "content": "Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
-    "placement_instructions": "el siguiente inciso final"
-  },
-  {
-    "number": 756,
-    "authors_matched": [
-      "Serey, Mariela",
-      "Meneses, Janis"
-    ],
-    "target_article": 84,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 758,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Cantuarias, Rocio",
-      "Marinovic, Teresa",
-      "Serey, Mariela",
-      "Meneses, Janis",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 85,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 762,
-    "authors_matched": [
-      "Castro, Claudia"
-    ],
-    "target_article": 86,
-    "target_scope": "WORDING",
-    "action": "ADD",
-    "content": "en sus derechos",
-    "placement_instructions": "después de la palabra \"lesionada\""
-  },
-  {
-    "number": 766,
-    "authors_matched": [
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 87,
-    "target_scope": "TOTAL",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 776,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 88,
-    "target_scope": "INCISO 1",
-    "action": "SUBSTITUTE",
-    "content": "La Constitución asegura el derecho a presentar peticiones ante la autoridad, en su propia lengua."
-  },
-  {
-    "number": 784,
-    "authors_matched": [
-      "Cancino, Adriana"
-    ],
-    "target_article": 88,
-    "target_scope": "INCISO 2",
-    "action": "SUBSTITUTE",
-    "content": "La autoridad estará obligada a responder por escrito en la misma lengua de la petición; oportunamente, en los plazos y formas que determine la ley."
-  },
-  {
-    "number": 787,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Cancino, Adriana"
-    ],
-    "target_article": 88,
-    "target_scope": "INCISO 3",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 470,
-    "authors_matched": [
-      "Moreno, Alfredo",
-      "Montealegre, Katerine",
-      "Rebolledo, Barbara",
-      "Ossandon, Manuel"
-    ],
-    "target_article": 2,
-    "target_scope": "TOTAL TRANSITORIO",
-    "action": "DELETE",
-    "content": ""
-  },
-  {
-    "number": 499,
-    "authors_matched": [
-      "Castro, Claudia",
-      "Meneses, Janis"
-    ],
-    "target_article": 3,
-    "target_scope": "TOTAL TRANSITORIO",
-    "action": "DELETE",
-    "content": ""
-  }
-]
+    [
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 22",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 276,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 23",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 284,
+        "authors_matched": [
+          "Delgado, Aurora"
+        ],
+        "target_article": 23,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 23.- Educación sexual integral. Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.\nEs deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 302,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Cancino, Adriana"
+        ],
+        "target_article": 24,
+        "target_scope": "INCISO 1",
+        "action": "ADD",
+        "content": "naturales y jurídicas",
+        "placement_instructions": "en el inciso primero, luego de la palabra \"personas\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 306,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 24,
+        "target_scope": "INCISO 1",
+        "action": "ADD",
+        "content": ", exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.",
+        "placement_instructions": "en el primer inciso, luego de la frase \"toda clase de bienes.\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 307,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Montealegre, Katerine",
+          "Henriquez, Natalia",
+          "Cancino, Adriana"
+        ],
+        "target_article": 24,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 323,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 24,
+        "target_scope": "INCISO 3",
+        "action": "ADD",
+        "content": "públicos o",
+        "placement_instructions": "en el inciso tercero luego de la palabra \"servicios\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 323,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 24,
+        "target_scope": "INCISO 3",
+        "action": "ADD",
+        "content": ", uso y aprovechamiento",
+        "placement_instructions": "luego de la palabra \"explotación\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 24",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 336,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Labbe, Bastian"
+        ],
+        "target_article": 24,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
+        "placement_instructions": "nuevo inciso cuarto al artículo 24"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 25",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 343,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 25,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "intereses morales y"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 361,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO 1",
+        "action": "ADD",
+        "content": "declarado por el legislador.",
+        "placement_instructions": "en el inciso primero, luego de la palabra \"general\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 364,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 26,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "La",
+        "content_to_remove": "Esta"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 365,
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El pago tendrá lugar de forma previa al acto de toma de posesión material del bien expropiado, salvo acuerdo en contrario.",
+        "placement_instructions": "al artículo 26 como inciso segundo"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 26",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 370,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 26,
+        "target_scope": "INCISO 2",
+        "action": "ADD",
+        "content": "y del monto",
+        "placement_instructions": "en el inciso segundo, luego de la palabra \"expropiatorio\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 382,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "bienes comunes naturales y espacios sagrados que actual o tradicionalmente",
+        "content_to_remove": "bienes naturales que tradicionalmente"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 385,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "que constituyen la base espiritual y material de su identidad individual y colectiva, la condición para la reproducción de su cultura, desarrollo y plan de vida, y la garantía del derecho colectivo a su continuidad histórica",
+        "content_to_remove": "directa o indirectamente, incluyendo también las aguas superficiales, subterráneas y marítimas que han sido la base de la subsistencia de dichos pueblos"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 392,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 396,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "INCISO 4",
+        "action": "SUBSTITUTE",
+        "content": "Los pueblos y naciones indígenas tienen derecho a la administración de sus territorios, que comprenden sus bienes naturales comunes que estos contienen. El Estado, a través de acciones afirmativas y sistemáticas, debe velar por la protección de los bienes comunes naturales presentes en las tierras y territorios indígenas. La ley determinará las sanciones, la reparación y/o la compensación de cualquier daño ocasionado, por proyectos de inversión o de otra naturaleza en perjuicio de los bienes comunes naturales que sean parte del territorio."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 402,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "El territorio indígena comprende también",
+        "content_to_remove": "La protección de la propiedad indígena también comprende"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 403,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "en sus más diversas manifestaciones, el que incluye sus costumbres y lenguas, sus artes y rituales, sus conocimientos y usos relacionados con la naturaleza, el derecho consuetudinario, su vestimenta, filosofía y valores, entre otros."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 27",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 406,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Mamani, Isabella"
+        ],
+        "target_article": 27,
+        "target_scope": "INCISO 6",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 411,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 28,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Del despojo, desposesión y restitución territorial de los Pueblos y Naciones Indígenas",
+        "content_to_remove": "Del despojo y desposesión territorial de los Pueblos y Naciones Indígenas."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 412,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 28,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "de Chile"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 414,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 28,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "que han sufrido"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 415,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 28,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "del sistema jurídico nacional",
+        "content_to_remove": "de las reglas jurídicas"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 418,
+        "authors_matched": [
+          "Mamani, Isabella"
+        ],
+        "target_article": 28,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Los pueblos y naciones indígenas tienen derecho a la recuperación, restitución, reconstitución y reclamación de las tierras y territorios que tradicionalmente han ocupado, ya sea que se encuentren en manos de terceros o particulares o el fisco. Es deber del Estado adoptar medidas de no repetición y a generar, en conjunto con los pueblos y naciones indígenas, todos los mecanismos adecuados y oportunos para restituir las tierras y territorios, incluyendo la expropiación. En aquellos casos en que no sea posible, deberá reparar íntegramente"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 29",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 422,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Mamani, Isabella"
+        ],
+        "target_article": 29,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 30",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 433,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Cancino, Adriana"
+        ],
+        "target_article": 30,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 31",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 458,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Montealegre, Katerine",
+          "Cancino, Adriana"
+        ],
+        "target_article": 31,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 35",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 483,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 35,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 36",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 484,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 36,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 37",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 490,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 37,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Imprescriptibilidad y prohibición de la amnistía",
+        "content_to_remove": "Imprescriptibilidad, prohibición de la amnistía y deberes de investigación."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 37",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 490,
+        "authors_matched": [
+          "Woldarsky, Manuel"
+        ],
+        "target_article": 37,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "el genocidio y el crimen de agresión",
+        "placement_instructions": "en la frase \"los crímenes de guerra, los delitos de lesa humanidad, la desaparición forzada y la tortura\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 37",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 491,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 37,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "el Estado adoptará todas las medidas para impedir la impunidad de estos hechos"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 38",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 492,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 38,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 495,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 39,
+        "target_scope": "INCISO 1",
+        "action": "ADD",
+        "content": "Deberes de prevención, investigación y sanción.",
+        "placement_instructions": "al comienzo del inciso el epígrafe"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 496,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 39,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 37. Tales crímenes deberán ser investigados de oficio",
+        "content_to_remove": "Es deber del Estado investigar tales crímenes de oficio"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 497,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 39,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "en conformidad",
+        "content_to_remove": "de acuerdo"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 39",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 498,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 39,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "tratados internacionales ratificados y vigentes en Chile",
+        "content_to_remove": "tratados internacionales sobre Derechos Humanos suscritos y ratificados por Chile"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 40",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 509,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Valenzuela, Cesar"
+        ],
+        "target_article": 40,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 41",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 513,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 41,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 516,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 42,
+        "target_scope": "TOTAL",
+        "action": "ADD",
+        "content": "Artículo XX. Derecho al acceso a la justicia y a la tutela judicial efectiva. Toda persona tiene derecho a la efectiva protección de sus derechos y a que el Estado le garantice la igualdad de acceso a la justicia. El Estado deberá disponer diversos mecanismos que favorezcan una respuesta accesible, oportuna y eficaz que resulte apropiada a las circunstancias concretas.\nToda persona tiene derecho a una tutela judicial efectiva y a la resolución de sus conflictos jurídicos a través de un procedimiento adecuado a sus fines. Al legislador le corresponderá establecer estos, así como las medidas necesarias para asegurar el cumplimiento efectivo y oportuno de toda resolución judicial.",
+        "placement_instructions": "previo al artículo 42"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 520,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 42,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Derecho al debido proceso. Toda persona tendrá derecho a un proceso razonable y justo, ante un tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, con igualdad de condiciones y enfoque interseccional, en todos los asuntos en los que se determinen sus derechos y obligaciones de cualquier naturaleza. El proceso sólo podrá ser regulado por ley."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 527,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 42,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Toda persona tendrá derecho a la defensa en la forma que la ley señale, sin que ninguna autoridad o individuo pueda impedirlo, restringirlo o perturbarlo. En el ejercicio de este derecho se deberá garantizar la comunicación libre y privada."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 529,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 42,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El proceso y sus resoluciones serán públicos, salvo las excepciones expresamente establecidas por ley, debiendo concluir en un plazo razonable y sin dilaciones indebidas. Toda resolución emanada de un tribunal deberá ser fundada, con excepción de aquellas que se pronuncien sobre cuestiones de mero trámite.",
+        "placement_instructions": "intercalar un nuevo inciso tercero del artículo 42"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 531,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 42,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "y promoverá el uso de mecanismos colaborativos y adecuados para la resolución de los conflictos jurídicos en conformidad a su naturaleza.",
+        "placement_instructions": "al actual inciso final del artículo 42 luego de \"en los procedimientos administrativos\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 42",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 532,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 42,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 43",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 533,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 43,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 44",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 536,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 44,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 543,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 45,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "en plena igualdad,",
+        "placement_instructions": "al artículo 45, luego de \"tiene derecho\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 546,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 45,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "A) Toda persona se presume inocente mientras no se pruebe su culpabilidad conforme a la ley. No se podrá presumir de derecho la responsabilidad penal."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 46",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 551,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 46,
+        "target_scope": "INCISO 1",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 46",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 555,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 46,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "I) La información sobre sanciones penales sólo podrá ser tratada por un organismo público, dentro de la órbita de sus competencias. Esta información sólo podrá ser comunicada a otro organismo público que la requiera, dentro de la órbita de sus competencias."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 47",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 559,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 47,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "B) A ser informada sin demora, en una lengua o idioma que comprenda y en forma detallada, de sus derechos, de la naturaleza y causas de la investigación seguida contra ella y de la acusación formulada en su contra."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 564,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 49",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 568,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 49,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 49",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 569,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 49,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 50",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 573,
+        "authors_matched": [
+          "Vergara, Lisette",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 50,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "si carecieren de los medios suficientes para pagarlos"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 51",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 575,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 51,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 52",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 578,
+        "authors_matched": [
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 52,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 53",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 584,
+        "authors_matched": [
+          "Castro, Claudia"
+        ],
+        "target_article": 53,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 55",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 595,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 55,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 56",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 596,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 56,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 57",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 606,
+        "authors_matched": [
+          "Castro, Claudia"
+        ],
+        "target_article": 57,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 58",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 607,
+        "authors_matched": [
+          "Rebolledo, Barbara"
+        ],
+        "target_article": 58,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 59",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 613,
+        "authors_matched": [
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 59,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 60",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 619,
+        "authors_matched": [
+          "Castro, Claudia"
+        ],
+        "target_article": 60,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 61",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 622,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 61,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 62",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 625,
+        "authors_matched": [
+          "Castro, Claudia"
+        ],
+        "target_article": 62,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 63",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 626,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 63,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 64",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 630,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 64,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 65",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 635,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 65,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 66",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 636,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 66,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 67",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 638,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Meneses, Janis"
+        ],
+        "target_article": 67,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 68",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 644,
+        "authors_matched": [
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 68,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Está prohibido cualquier método de investigación o de interrogación que vulnere o coarte la libertad para declarar del imputado o investigado."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 69",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 647,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 69,
+        "target_scope": "INCISO 1",
+        "action": "ADD",
+        "content": "ni sometido a una medida de seguridad",
+        "placement_instructions": "en el inciso primero luego de la expresión \"nadie será penado\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 69",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 649,
+        "authors_matched": [
+          "Castro, Claudia"
+        ],
+        "target_article": 69,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "La Constitución reconoce los derechos contenidos en este artículo a todas las personas jurídicas sin distinción, en todos aquellos casos en que sean aplicables.",
+        "placement_instructions": "un nuevo inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 70",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 650,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 70,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 72",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 658,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 72,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 73",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 660,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 73,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 74",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 663,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 74,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 75",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 664,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 75,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 76",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 665,
+        "authors_matched": [
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 76,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 673,
+        "authors_matched": [
+          "Fernandez, Patricio"
+        ],
+        "target_article": 77,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Derecho a reunirse y manifestarse pacíficamente",
+        "content_to_remove": "El derecho a reunirse pacíficamente sin permiso previo"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 675,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 77,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "Todas las personas tienen derecho a reunirse y manifestarse sin permiso previo.",
+        "placement_instructions": "luego del epígrafe"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 676,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 77,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Las reuniones en",
+        "content_to_remove": "Las reuniones que impliquen la ocupación de"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 679,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 77,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "nacionales"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 680,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 77,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "acceso",
+        "content_to_remove": "uso"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 681,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 77,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "y en el contexto de una sociedad democrática en interés de la seguridad o del orden público, o para proteger la salud pública, o los derechos o libertades de los demás."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 77",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 685,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 77,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "En cualquier caso, el uso de la fuerza pública deberá siempre respetar los estándares que se desprenden tanto de esta Constitución y la ley.",
+        "placement_instructions": "el siguiente inciso"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 78",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 690,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 78,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Todas las personas naturales o jurídicas tienen derecho a asociarse",
+        "content_to_remove": "La Constitución asegura el derecho de asociación"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 78",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 694,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 78,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "Para gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 78",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 699,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 78,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "fuerzas armadas.",
+        "content_to_remove": "otros organismos encargados de hacer cumplir la ley."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 78",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 709,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 78,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.",
+        "placement_instructions": "como inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 718,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "de nacionalidad"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 719,
+        "authors_matched": [
+          "Celedon, Roberto"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "los asuntos públicos y el devenir del país",
+        "content_to_remove": "los asuntos públicos del país, con su devenir y el de sus familias"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 721,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "de conformidad a esta Constitución y al derecho internacional de los derechos humanos"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 726,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Se garantiza",
+        "content_to_remove": "El Estado tiene el deber de adoptar las medidas necesarias para garantizar"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 727,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "de sus descendientes",
+        "content_to_remove": "descendientes de chilenos"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 731,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Se garantiza",
+        "content_to_remove": "La Constitución garantiza a las personas chilenas residentes en el extranjero"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 80",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 735,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa"
+        ],
+        "target_article": 80,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "y a ser elegidas en cargos de elección popular"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 81",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 736,
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Serey, Mariela",
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 81,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 82",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 740,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Serey, Mariela",
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 82,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 745,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Derechos de las personas frente a la administración del Estado",
+        "content_to_remove": "Derecho a la buena administración pública"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 746,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "las instituciones y órganos del Estado",
+        "content_to_remove": "los órganos administrativos del Estado"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 747,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "INCISO 1",
+        "action": "ADD",
+        "content": "de acuerdo con los principios de receptividad, eficacia y eficiencia",
+        "placement_instructions": "en el inciso primero luego de la palabra \"equitativamente\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 748,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "A recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad, calidad y uso de las tecnologías de la información y la comunicación"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 749,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "en el procedimiento, con consideración a la confidencialidad y la protección de datos personales",
+        "content_to_remove": "antes de la finalización del"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 750,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "",
+        "content_to_remove": "que habrán de facilitarle a todas las personas el ejercicio de sus derechos y el cumplimiento de sus obligaciones"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 751,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "que correspondan",
+        "content_to_remove": "que establezcan la Constitución y las leyes"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 752,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "INCISO",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 754,
+        "authors_matched": [
+          "Meneses, Janis"
+        ],
+        "target_article": 83,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente",
+        "placement_instructions": "el siguiente numeral"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 83",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 755,
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 83,
+        "target_scope": "INCISO FINAL",
+        "action": "ADD",
+        "content": "Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "placement_instructions": "el siguiente inciso final"
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 84",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 756,
+        "authors_matched": [
+          "Serey, Mariela",
+          "Meneses, Janis"
+        ],
+        "target_article": 84,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 85",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 758,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Cantuarias, Rocio",
+          "Marinovic, Teresa",
+          "Serey, Mariela",
+          "Meneses, Janis",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 85,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 86",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 762,
+        "authors_matched": [
+          "Castro, Claudia"
+        ],
+        "target_article": 86,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "en sus derechos",
+        "placement_instructions": "después de la palabra \"lesionada\""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 87",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 766,
+        "authors_matched": [
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 87,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 88",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 776,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 88,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "La Constitución asegura el derecho a presentar peticiones ante la autoridad, en su propia lengua."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 88",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 784,
+        "authors_matched": [
+          "Cancino, Adriana"
+        ],
+        "target_article": 88,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "La autoridad estará obligada a responder por escrito en la misma lengua de la petición; oportunamente, en los plazos y formas que determine la ley."
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 88",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 787,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Cancino, Adriana"
+        ],
+        "target_article": 88,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 470,
+        "authors_matched": [
+          "Moreno, Alfredo",
+          "Montealegre, Katerine",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 2,
+        "target_scope": "TOTAL TRANSITORIO",
+        "action": "DELETE",
+        "content": ""
+      },
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 3",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": 499,
+        "authors_matched": [
+          "Castro, Claudia",
+          "Meneses, Janis"
+        ],
+        "target_article": 3,
+        "target_scope": "TOTAL TRANSITORIO",
+        "action": "DELETE",
+        "content": ""
+      }
+    ]

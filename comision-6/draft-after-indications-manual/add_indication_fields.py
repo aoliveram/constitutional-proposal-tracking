@@ -40,5 +40,5 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         target_file = sys.argv[1]
     else:
-        target_file = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-4\indicaciones-universal-extracted\C4_VOTACION_informe-1-03-07-indicaciones_1.json'
+        target_file = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-4\indicaciones-universal-extracted\C4_VOTACION_informe-1-03-07-indicaciones_4.json'
     process_file(target_file)
