@@ -17,13 +17,15 @@ PDF_DIR = os.path.join(COM4_DIR, "PDFs")
 
 # Files to process
 PDF_FILES = [
-    "C4_COMPLEX_informe-1-03-07-votacion-general_1.pdf",
-    "C4_COMPLEX_informe-1-03-07-votacion-general_2.pdf",
-    "C4_COMPLEX_informe-1-03-07-votacion-general_3.pdf",
-    "C4_COMPLEX_informe-1-03-07-votacion-general_4.pdf"
+    "C4_COMPLEX_informe-3-04-08-votacion-general_1.pdf",
+    "C4_COMPLEX_informe-3-04-08-votacion-general_2.pdf",
+    "C4_COMPLEX_informe-3-04-08-votacion-general_3.pdf",
+    "C4_COMPLEX_informe-3-04-08-votacion-general_4.pdf",
+    "C4_COMPLEX_informe-3-04-08-votacion-general_5.pdf",
+    "C4_COMPLEX_informe-3-04-08-votacion-general_6.pdf"
 ]
 
-OUTPUT_FILE = os.path.join(COM4_DIR, "genesis-extracted", "C4_GENESIS_votacion-general.json")
+OUTPUT_FILE = os.path.join(COM4_DIR, "genesis-extracted", "C4_GENESIS_votacion-general-bloque3.json")
 
 def extract_approved_iccs(pdf_filename):
     pdf_path = os.path.join(PDF_DIR, pdf_filename)
