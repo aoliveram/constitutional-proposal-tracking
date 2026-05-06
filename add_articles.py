@@ -1,6 +1,6 @@
 import json
 
-file_path = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\draft-after-indications-manual\C2_historial_manual.json'
+file_path = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-4\draft-after-indications-manual\C4_historial_manual.json'
 
 try:
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -8,8 +8,8 @@ try:
     
     for i in range(53, 359):
         new_article = {
-            "article_uid": f"C2_GEN_ART{i}",
-            "timestamp": "02-16",
+            "article_uid": f"C4_GEN_ART{i}",
+            "timestamp": "03-07-1",
             "article": f"Artículo {i}",
             "text": " ",
             "sources": [

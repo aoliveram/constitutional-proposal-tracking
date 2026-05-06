@@ -3,7 +3,7 @@ import re
 import traceback
 import unicodedata
 
-file_path = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\draft-after-indications-manual\C2_historial_manual.json'
+file_path = r'C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-4\draft-after-indications-manual\C4_historial_manual.json'
 
 def normalize_text(s):
     if not isinstance(s, str):
@@ -34,7 +34,7 @@ def parse_article_uid(title):
     )
     if article_match:
         identifier = clean_identifier(article_match.group(1))
-        return f"C2_GEN_ART{identifier}"
+        return f"C4_GEN_ART{identifier}"
 
     # Acepta transitorias
     trans_match = re.match(
@@ -44,7 +44,7 @@ def parse_article_uid(title):
     )
     if trans_match:
         identifier = clean_identifier(trans_match.group(1))
-        return f"C2_GEN_ART_TRANS_{identifier}"
+        return f"C4_GEN_ART_TRANS_{identifier}"
 
     return None
 
@@ -62,7 +62,7 @@ def process():
                 else:
                     print(f"Warning: could not parse article_uid from {repr(title)}")
 
-            item['timestamp'] = "02-16"
+            item['timestamp'] = "03-07-1"
 
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
