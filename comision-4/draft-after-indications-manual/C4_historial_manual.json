@@ -33,6 +33,59 @@
         "content": "Artículo X.- Titularidad de los derechos. Las personas naturales son titulares de derechos fundamentales. Los derechos podrán ser ejercidos y exigidos individual o colectivamente. Los Pueblos y Naciones Indígenas son titulares de derechos fundamentales colectivos. La titularidad establecida en los incisos anteriores comprende los derechos consagrados en esta Constitución, en los tratados internacionales de derechos humanos ratificados y vigentes en Chile y la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas. La naturaleza será titular de los derechos que le sean aplicables y los que reconozca la Constitución y las leyes. Las personas jurídicas sólo serán titulares de los derechos que la Constitución consagre expresamente.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "Titularidad de los derechos. Las personas naturales son titulares de derechos fundamentales. Los derechos podrán ser ejercidos y exigidos individual o colectivamente. Los Pueblos y Naciones Indígenas son titulares de derechos fundamentales colectivos. La naturaleza será titular de los derechos que le sean aplicables y los que reconozca la Constitución y las leyes. Las personas jurídicas sólo serán titulares de los derechos que la Constitución consagre expresamente.",
+        "number": "74",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 6,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "Titularidad de los derechos. Las personas naturales son titulares de derechos fundamentales. Los derechos podrán ser ejercidos y exigidos individual o colectivamente.\n Los Pueblos y Naciones Indígenas son titulares de derechos fundamentales colectivos.\n La Naturaleza será titular de los derechos reconocidos en esta Constitución que le sean aplicables.\n Las personas jurídicas sólo serán titulares de los derechos que la Constitución consagre expresamente.",
+        "number": "82",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 6,
+        "target_scope": "INCISO 4",
+        "action": "SUBSTITUTE",
+        "content": "La Naturaleza será titular de los derechos reconocidos en esta Constitución que le sean aplicables.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 6",
+        "step": "Indicación",
+        "content_snapshot": "Titularidad de los derechos. Las personas naturales son titulares de derechos fundamentales. Los derechos podrán ser ejercidos y exigidos individual o colectivamente.\n Los Pueblos y Naciones Indígenas son titulares de derechos fundamentales colectivos.\n La Naturaleza será titular de los derechos reconocidos en esta Constitución que le sean aplicables.\n Las personas jurídicas sólo serán titulares de los derechos fundamentales que la Constitución consagre expresamente.",
+        "number": "86",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 6,
+        "target_scope": "INCISO 5",
+        "action": "SUBSTITUTE",
+        "content": "Las personas jurídicas sólo serán titulares de los derechos fundamentales que la Constitución consagre expresamente.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -269,6 +322,81 @@
         "content": "Artículo X.- Límites de los derechos fundamentales. Las limitaciones a los derechos fundamentales podrán ser establecidas únicamente en virtud de una ley de carácter general, en la que se consideren medidas idóneas, necesarias y proporcionadas en una sociedad democrática. Se deberá tener, además, especial consideración por el respeto a la identidad e integridad cultural del individuo o pueblo y nación de indígena al que pertenece. En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "45",
+        "authors_matched": [
+          "Celedon, Roberto",
+          "Labrana, Elsa"
+        ],
+        "target_article": 5,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "Regulación y limitación de los derechos fundamentales.",
+        "content_to_remove": "Límites de los derechos fundamentales.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.\n Se deberá tener, además, especial consideración por el respeto a la identidad e integridad cultural del individuo o pueblo y nación de indígena al que pertenece.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
+        "number": "48",
+        "authors_matched": [
+          "Orellana, Matias"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
+        "number": "53",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Moreno, Alfredo",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.",
+        "number": "55",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 5,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -495,6 +623,77 @@
         "content": "Toda persona, institución, grupo deberá respetar los derechos fundamentales, según lo establecido en esta Constitución y las leyes.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Cláusula de obligaciones generales y sujetos obligados. El Estado debe respetar, proteger, garantizar y promover la plena satisfacción y ejercicio de los derechos fundamentales, así como adoptar las medidas necesarias para eliminar todos los obstáculos que pudieran limitar o entorpecer su realización.\n Las empresas deberán respetar los derechos fundamentales y prevenir, mitigar y reparar toda vulneración a estos que sea consecuencia de sus actos u omisiones.\n Toda persona, institución, grupo deberá respetar los derechos fundamentales, según lo establecido en esta Constitución y las leyes.",
+        "number": "9",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Cláusula de obligaciones generales y sujetos obligados. El Estado debe respetar, proteger, garantizar y promover la plena satisfacción y ejercicio de los derechos fundamentales, así como adoptar las medidas necesarias para eliminar todos los obstáculos que pudieran limitar o entorpecer su realización.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Cláusula de obligaciones generales y sujetos obligados. El Estado debe respetar, proteger, garantizar y promover la plena satisfacción y ejercicio de los derechos fundamentales, así como adoptar las medidas necesarias para eliminar todos los obstáculos que pudieran limitar o entorpecer su realización.\n Toda persona, institución, grupo deberá respetar los derechos fundamentales, según lo establecido en esta Constitución y las leyes.",
+        "number": "16",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Moreno, Alfredo",
+          "Harboe, Felipe",
+          "Rebolledo, Barbara",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Cláusula de obligaciones generales y sujetos obligados. El Estado debe respetar, proteger, garantizar y promover la plena satisfacción y ejercicio de los derechos fundamentales, así como adoptar las medidas necesarias para eliminar todos los obstáculos que pudieran limitar o entorpecer su realización.\n Toda persona, institución, asociación o grupo deberá respetar los derechos fundamentales, conforme a la Constitución y las leyes.",
+        "number": "19",
+        "authors_matched": [
+          "Henriquez, Natalia"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "Toda persona, institución, asociación o grupo deberá respetar los derechos fundamentales, conforme a la Constitución y las leyes.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 2",
+        "step": "Indicación",
+        "content_snapshot": "Cláusula de obligaciones generales y sujetos obligados. El Estado debe respetar, proteger, garantizar y promover la plena satisfacción y ejercicio de los derechos fundamentales, así como adoptar las medidas necesarias para eliminar todos los obstáculos que pudieran limitar o entorpecer su realización.\n Toda persona, institución, asociación o grupo deberá respetar los derechos fundamentales, conforme a la Constitución y las leyes.\n Asimismo, el Estado tiene el deber reforzado de protección respecto de los derechos de las personas o grupos que merezcan una especial consideración.",
+        "number": "23",
+        "authors_matched": [
+          "Grandon, Giovanna"
+        ],
+        "target_article": 2,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Asimismo, el Estado tiene el deber reforzado de protección respecto de los derechos de las personas o grupos que merezcan una especial consideración.",
+        "content_to_remove": "",
+        "placement_instructions": "Para añadir un nuevo inciso al artículo 2"
       }
     ]
   },
@@ -569,6 +768,22 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo X.- Financiamiento de los derechos fundamentales. El financiamiento de las prestaciones estatales vinculadas al ejercicio de los derechos fundamentales propenderá a la progresividad. \nEl Estado y sus órganos garantizan que el presupuesto público destinará el máximo de recursos disponibles para asegurar la satisfacción universal de los derechos fundamentales.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 4",
+        "step": "Indicación",
+        "content_snapshot": "Financiamiento de los derechos fundamentales. El financiamiento de las prestaciones estatales vinculadas al ejercicio de los derechos fundamentales propenderá a la progresividad.\n El Estado destinará el máximo de recursos disponibles para asegurar la satisfacción universal de los derechos fundamentales.",
+        "number": "30",
+        "authors_matched": [
+          "Abarca, Damaris"
+        ],
+        "target_article": 4,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 4 (10).- Financiamiento de los derechos fundamentales. El financiamiento de las prestaciones estatales vinculadas al ejercicio de los derechos fundamentales propenderá a la progresividad. El Estado destinará el máximo de recursos disponibles para asegurar la satisfacción universal de los derechos fundamentales.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -784,6 +999,22 @@
         "content": "Estas entidades y grupos podrán organizarse como personas jurídicas, con arreglo a la ley, respetando los derechos y deberes que esta Constitución establece. Las personas jurídicas con fines religiosos no podrán perseguir fines de lucro y sus bienes deberán gestionarse de forma transparente y de acuerdo a los otros principios que la ley establezca.",
         "content_to_remove": "",
         "placement_instructions": "inciso final"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 7",
+        "step": "Indicación",
+        "content_snapshot": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia, de religión y cosmovisión; este derecho incluye la libertad de profesar y cambiar de religión o creencias. Ninguna religión, ni creencia es la oficial del Estado, sin perjuicio de su reconocimiento y libre ejercicio en el espacio público o privado, mediante el culto, la celebración de los ritos, las prácticas espirituales y la enseñanza. Podrán erigir templos, dependencias y lugares para el culto; mantener, proteger y acceder a los lugares sagrados y aquellos de relevancia espiritual, rescatar y preservar los objetos de culto o que tengan un significado sagrado. El Estado reconoce la espiritualidad como elemento esencial del ser humano. Las agrupaciones religiosas y espirituales podrán organizarse como personas jurídicas de conformidad a la ley. Respetando los derechos, deberes y principios que esta Constitución establece. Éstas no podrán perseguir fines de lucro y sus bienes deberán gestionarse de forma transparente de acuerdo con lo que establezca la ley.",
+        "number": "94",
+        "authors_matched": [
+          "Andrade, Cristobal"
+        ],
+        "target_article": 7,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Toda persona tiene derecho a la libertad de pensamiento, de conciencia, de religión y cosmovisión; este derecho incluye la libertad de profesar y cambiar de religión o creencias. Ninguna religión, ni creencia es la oficial del Estado, sin perjuicio de su reconocimiento y libre ejercicio en el espacio público o privado, mediante el culto, la celebración de los ritos, las prácticas espirituales y la enseñanza. Podrán erigir templos, dependencias y lugares para el culto; mantener, proteger y acceder a los lugares sagrados y aquellos de relevancia espiritual, rescatar y preservar los objetos de culto o que tengan un significado sagrado. El Estado reconoce la espiritualidad como elemento esencial del ser humano. Las agrupaciones religiosas y espirituales podrán organizarse como personas jurídicas de conformidad a la ley. Respetando los derechos, deberes y principios que esta Constitución establece. Éstas no podrán perseguir fines de lucro y sus bienes deberán gestionarse de forma transparente de acuerdo con lo que establezca la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -1307,7 +1538,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 6",
         "step": "Indicación",
-        "content_snapshot": "Derecho a la libertad de expresión. Toda persona tiene derecho a la libertad de emitir opinión y de informar en cualquier forma y por cualquier medio, así como a disponer de información veraz, plural e imparcial, y fundar medios de comunicación. Este derecho no estará sujeto a censura previa sino únicamente a las responsabilidades ulteriores que determine la ley.\n Estará prohibida la propaganda en favor de la guerra; el discurso xenófobo o apología de odio racial, religioso, sexual, de género o de cualquier otra índole, que constituya incitación a la violencia, la discriminación o la hostilidad, lo cual deberá ser regulado por la ley.\n Los medios de comunicación tienen la responsabilidad social de contribuir y asegurar la pluralidad de opiniones e informaciones. Para ello, el Estado deberá adoptar medidas que contribuyan y aseguren la pluralidad de voces y opiniones, sin que pueda intervenir sobre dichos medios de comunicación.\n Toda persona natural o jurídica afectada por informaciones inexactas o agraviantes emitidas en su perjuicio por algún medio de comunicación, tiene derecho a que su declaración o rectificación sea gratuitamente difundida por el medio en que esa información hubiera sido emitida, en las condiciones que la ley determine. En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.",
+        "content_snapshot": "Derecho a la libertad de expresión. Toda persona tiene derecho a la libertad de emitir opinión y de informar en cualquier forma y por cualquier medio, así como a disponer de información veraz, plural e imparcial, y fundar medios de comunicación. Este derecho no estará sujeto a censura previa sino únicamente a las responsabilidades ulteriores que determine la ley.\n Estará prohibida la propaganda en favor de la guerra; el discurso xenófobo o apología de odio racial, religioso, sexual, de género o de cualquier otra índole, que constituya incitación a la violencia, la discriminación o la hostilidad, lo cual deberá ser regulado por la ley.\n Los medios de comunicación tienen la responsabilidad social de contribuir y asegurar la pluralidad de opiniones e informaciones. Para ello, el Estado deberá adoptar medidas que contribuyan y aseguren la pluralidad de voces y opiniones, sin que pueda intervenir sobre dichos medios de comunicación.\n Toda persona natural o jurídica afectada por informaciones inexactas o agraviantes emitidas en su perjuicio por algún medio de comunicación, tiene derecho a que su declaración o rectificación sea gratuitamente difundida por el medio en que esa información hubiera sido emitida, en las condiciones que la ley determine. En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.\n Además, estará prohibida por ley la negación o justificación de las violaciones graves, masivas y sistemáticas a los derechos humanos.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
         "number": "104",
         "authors_matched": [
           "Janis Meneses"
@@ -1318,6 +1549,170 @@
         "content": "En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.",
         "content_to_remove": "",
         "placement_instructions": "al final del inciso tercero"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n Estará prohibida la propaganda en favor de la guerra; el discurso xenófobo o apología de odio racial, religioso, sexual, de género o de cualquier otra índole, que constituya incitación a la violencia, la discriminación o la hostilidad, lo cual deberá ser regulado por la ley.\n Los medios de comunicación tienen la responsabilidad social de contribuir y asegurar la pluralidad de opiniones e informaciones. Para ello, el Estado deberá adoptar medidas que contribuyan y aseguren la pluralidad de voces y opiniones, sin que pueda intervenir sobre dichos medios de comunicación.\n Toda persona natural o jurídica afectada por informaciones inexactas o agraviantes emitidas en su perjuicio por algún medio de comunicación, tiene derecho a que su declaración o rectificación sea gratuitamente difundida por el medio en que esa información hubiera sido emitida, en las condiciones que la ley determine. En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.\n Además, estará prohibida por ley la negación o justificación de las violaciones graves, masivas y sistemáticas a los derechos humanos.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
+        "number": "141",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n Estará prohibida la propaganda en favor de la guerra; el discurso xenófobo o apología de odio racial, religioso, sexual, de género o de cualquier otra índole, que constituya incitación a la violencia, la discriminación o la hostilidad, lo cual deberá ser regulado por la ley.\n Los medios de comunicación tienen la responsabilidad social de contribuir y asegurar la pluralidad de opiniones e informaciones. Para ello, el Estado deberá adoptar medidas que contribuyan y aseguren la pluralidad de voces y opiniones, sin que pueda intervenir sobre dichos medios de comunicación.\n Toda persona natural o jurídica afectada por informaciones inexactas o agraviantes emitidas en su perjuicio por algún medio de comunicación, tiene derecho a que su declaración o rectificación sea gratuitamente difundida por el medio en que esa información hubiera sido emitida, en las condiciones que la ley determine. En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.\n Además, estará prohibida por ley la negación o justificación de las violaciones graves, masivas y sistemáticas a los derechos humanos.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
+        "number": "147",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.",
+        "content_to_remove": "",
+        "placement_instructions": "Agréguese como nuevo inciso segundo"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n Los medios de comunicación tienen la responsabilidad social de contribuir y asegurar la pluralidad de opiniones e informaciones. Para ello, el Estado deberá adoptar medidas que contribuyan y aseguren la pluralidad de voces y opiniones, sin que pueda intervenir sobre dichos medios de comunicación.\n Toda persona natural o jurídica afectada por informaciones inexactas o agraviantes emitidas en su perjuicio por algún medio de comunicación, tiene derecho a que su declaración o rectificación sea gratuitamente difundida por el medio en que esa información hubiera sido emitida, en las condiciones que la ley determine. En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.\n Además, estará prohibida por ley la negación o justificación de las violaciones graves, masivas y sistemáticas a los derechos humanos.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
+        "number": "148",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Moreno, Alfredo",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Fuchslocher, Javier",
+          "Labrana, Elsa",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n La ley adoptará las medidas necesarias para asegurar el pluralismo en los medios de comunicación.\n Toda persona natural o jurídica afectada por informaciones inexactas o agraviantes emitidas en su perjuicio por algún medio de comunicación, tiene derecho a que su declaración o rectificación sea gratuitamente difundida por el medio en que esa información hubiera sido emitida, en las condiciones que la ley determine. En ningún caso la rectificación o la respuesta eximirán de las otras responsabilidades legales en que se hubiese incurrido.\n Además, estará prohibida por ley la negación o justificación de las violaciones graves, masivas y sistemáticas a los derechos humanos.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
+        "number": "156",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "La ley adoptará las medidas necesarias para asegurar el pluralismo en los medios de comunicación.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n La ley adoptará las medidas necesarias para asegurar el pluralismo en los medios de comunicación.\n Además, estará prohibida por ley la negación o justificación de las violaciones graves, masivas y sistemáticas a los derechos humanos.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
+        "number": "158",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Fuchslocher, Javier",
+          "Henriquez, Natalia",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 4",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n La ley adoptará las medidas necesarias para asegurar el pluralismo en los medios de comunicación.\n El Estado, en conjunto con los pueblos y naciones indígenas a través de sus instituciones, velará y promoverá la presencia de la diversidad cultural indígena en los medios de comunicación públicos y privados, en sus respectivas lenguas. Asimismo, adoptará medidas eficaces para garantizar el establecimiento de medios de comunicación indígenas propios.",
+        "number": "160",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Moreno, Alfredo",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Celedon, Roberto",
+          "Labrana, Elsa",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 5",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n La ley adoptará las medidas necesarias para asegurar el pluralismo en los medios de comunicación.",
+        "number": "162",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Moreno, Alfredo",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Fuchslocher, Javier",
+          "Henriquez, Natalia",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 6",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n La ley adoptará las medidas necesarias para asegurar el pluralismo en los medios de comunicación.\n El Estado deberá tomar todas las medidas destinadas a eliminar el discurso xenófobo; la apología de odio racial, religioso, sexual o de género. La ley podrá establecer las responsabilidades por las infracciones a este artículo.",
+        "number": "166",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Meneses, Janis"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El Estado deberá tomar todas las medidas destinadas a eliminar el discurso xenófobo; la apología de odio racial, religioso, sexual o de género. La ley podrá establecer las responsabilidades por las infracciones a este artículo.",
+        "content_to_remove": "",
+        "placement_instructions": "Para añadir un nuevo inciso al artículo 8"
       }
     ]
   },
@@ -1338,7 +1733,29 @@
       "Vergara, Lisette"
     ],
     "timestamp": "03-07-1",
-    "article_uid": "C4_GEN_ART32"
+    "article_uid": "C4_GEN_ART32",
+    "history": [
+      {
+        "timestamp": "03-07-2",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "126",
+        "authors_matched": [
+          "Rocio Cantuarias",
+          "Teresa Marinovic",
+          "Barbara Rebolledo",
+          "Manuel Ossandon"
+        ],
+        "target_article": 10,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      }
+    ],
+    "final_status": "Eliminado"
   },
   {
     "icc_id": "303",
@@ -1367,26 +1784,54 @@
     "article_uid": "C4_GEN_ART33",
     "history": [
       {
-        "timestamp": "03-07-2",
-        "article": "Artículo 10",
+        "timestamp": "03-24",
+        "article": "Artículo 9",
         "step": "Indicación",
-        "content_snapshot": "",
-        "number": "126",
+        "content_snapshot": "El derecho a vivir en entornos seguros y libres de violencia. Es deber del Estado proteger en forma equitativa el ejercicio de este derecho a todas las personas, a través de una política de prevención de la violencia y el delito que considerará especialmente las condiciones materiales, ambientales, sociales y el fortalecimiento comunitario de los territorios.\n Las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social de los condenados, serán desarrollados por los organismos públicos que señale esta Constitución y la ley, en forma coordinada y con irrestricto respeto a los derechos humanos.",
+        "number": "176",
         "authors_matched": [
-          "Rocio Cantuarias",
-          "Teresa Marinovic",
-          "Barbara Rebolledo",
-          "Manuel Ossandon"
+          "Delgado, Aurora"
         ],
-        "target_article": 10,
-        "target_scope": "TOTAL",
-        "action": "DELETE",
-        "content": "",
+        "target_article": 9,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "El derecho a vivir en entornos seguros y libres de violencia. Es deber del Estado proteger en forma equitativa el ejercicio de este derecho a todas las personas, a través de una política de prevención de la violencia y el delito que considerará especialmente las condiciones materiales, ambientales, sociales y el fortalecimiento comunitario de los territorios.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "El derecho a vivir en entornos seguros y libres de violencia. Es deber del Estado proteger en forma equitativa el ejercicio de este derecho a todas las personas, a través de una política de prevención de la violencia y el delito que considerará especialmente las condiciones materiales, ambientales, sociales y el fortalecimiento comunitario de los territorios.\n Las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social de las personas condenadas, serán desarrolladas por los organismos públicos que señale esta Constitución y la ley, en forma coordinada y con irrestricto respeto a los derechos humanos.",
+        "number": "184",
+        "authors_matched": [
+          "Delgado, Aurora"
+        ],
+        "target_article": 9,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social de las personas condenadas, serán desarrolladas por los organismos públicos que señale esta Constitución y la ley, en forma coordinada y con irrestricto respeto a los derechos humanos.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 9",
+        "step": "Indicación",
+        "content_snapshot": "El derecho a vivir en entornos seguros y libres de violencia. Es deber del Estado proteger en forma equitativa el ejercicio de este derecho a todas las personas, a través de una política de prevención de la violencia y el delito que considerará especialmente las condiciones materiales, ambientales, sociales y el fortalecimiento comunitario de los territorios.\n Las acciones de prevención, persecución y sanción de los delitos, así como la reinserción social de las personas condenadas, serán desarrolladas por los organismos públicos que señale esta Constitución y la ley, en forma coordinada y con irrestricto respeto a los derechos humanos.\n La sociedad en su conjunto será corresponsable en la generación de entornos seguros y libres de violencia con énfasis en los factores protectores de la comunidad.",
+        "number": "188",
+        "authors_matched": [
+          "Labrana, Elsa"
+        ],
+        "target_article": 9,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "La sociedad en su conjunto será corresponsable en la generación de entornos seguros y libres de violencia con énfasis en los factores protectores de la comunidad.",
+        "content_to_remove": "",
+        "placement_instructions": "Para agregar el siguiente inciso al artículo 9"
       }
-    ],
-    "final_status": "Eliminado"
+    ]
   },
   {
     "icc_id": "271",
@@ -1706,8 +2151,98 @@
         "action": "ADD",
         "content": "Se prohíbe todo desplazamiento forzado provocado por acción u omisión del Estado. Las personas y comunidades víctimas de desplazamiento forzado tendrán derecho a la verdad, justicia y reparación integral.\nAsimismo, tendrán derecho a recibir protección y asistencia humanitaria preferente y especializada, que asegure el acceso a alimentos, alojamiento, vivienda y servicios médicos; a retornar a su hogar de forma voluntaria, segura y digna, recibiendo asistencia para la recuperación de sus propiedades y posesiones de las que hayan sido despojadas; y a la restauración, conservación y reunificación de la unidad familiar y la vida en comunidad.",
         "placement_instructions": "a continuación"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la libertad ambulatoria. Toda persona tiene derecho a trasladarse, residir y permanecer en cualquier lugar del territorio nacional, así como a entrar y salir de éste. La ley regulará el ejercicio de este derecho.\n Nadie podrá ser arbitrariamente privado del derecho a entrar en su propio país ni a salir libremente de él.\n Se prohíbe todo desplazamiento forzado provocado por acción u omisión del Estado. Las personas y comunidades víctimas de desplazamiento forzado tendrán derecho a la verdad, justicia y reparación integral.\nAsimismo, tendrán derecho a recibir protección y asistencia humanitaria preferente y especializada, que asegure el acceso a alimentos, alojamiento, vivienda y servicios médicos; a retornar a su hogar de forma voluntaria, segura y digna, recibiendo asistencia para la recuperación de sus propiedades y posesiones de las que hayan sido despojadas; y a la restauración, conservación y reunificación de la unidad familiar y la vida en comunidad.",
+        "number": "196",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 11,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Derecho a la libertad ambulatoria. Toda persona tiene derecho a trasladarse, residir y permanecer en cualquier lugar del territorio nacional, así como a entrar y salir de éste. La ley regulará el ejercicio de este derecho.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la libertad ambulatoria. Toda persona tiene derecho a trasladarse, residir y permanecer en cualquier lugar del territorio nacional, así como a entrar y salir de éste. La ley regulará el ejercicio de este derecho.\n Se prohíbe todo desplazamiento forzado provocado por acción u omisión del Estado. Las personas y comunidades víctimas de desplazamiento forzado tendrán derecho a la verdad, justicia y reparación integral.\nAsimismo, tendrán derecho a recibir protección y asistencia humanitaria preferente y especializada, que asegure el acceso a alimentos, alojamiento, vivienda y servicios médicos; a retornar a su hogar de forma voluntaria, segura y digna, recibiendo asistencia para la recuperación de sus propiedades y posesiones de las que hayan sido despojadas; y a la restauración, conservación y reunificación de la unidad familiar y la vida en comunidad.",
+        "number": "201",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 11,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la libertad ambulatoria. Toda persona tiene derecho a trasladarse, residir y permanecer en cualquier lugar del territorio nacional, así como a entrar y salir de éste. La ley regulará el ejercicio de este derecho.\nAsimismo, tendrán derecho a recibir protección y asistencia humanitaria preferente y especializada, que asegure el acceso a alimentos, alojamiento, vivienda y servicios médicos; a retornar a su hogar de forma voluntaria, segura y digna, recibiendo asistencia para la recuperación de sus propiedades y posesiones de las que hayan sido despojadas; y a la restauración, conservación y reunificación de la unidad familiar y la vida en comunidad.",
+        "number": "202",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Fuchslocher, Javier",
+          "Henriquez, Natalia"
+        ],
+        "target_article": 11,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 11",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la libertad ambulatoria. Toda persona tiene derecho a trasladarse, residir y permanecer en cualquier lugar del territorio nacional, así como a entrar y salir de éste. La ley regulará el ejercicio de este derecho.",
+        "number": "205",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Fuchslocher, Javier",
+          "Henriquez, Natalia"
+        ],
+        "target_article": 11,
+        "target_scope": "INCISO 4",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
+  },
+  {
+    "timestamp": "03-24",
+    "article": "Artículo Nuevo",
+    "article_uid": "C4_IND03-24_ART_NUEVO",
+    "text": "Prohibición de desplazamiento forzado. Ninguna persona será sometida a desplazamiento forzado dentro del territorio nacional, salvo en las excepciones que establezca la ley.\n Las comunidades afectadas tendrán derecho a la verdad, justicia y reparación, de conformidad a lo establecido en la ley.",
+    "number": "213",
+    "authors_matched": [
+      "Cancino, Adriana"
+    ],
+    "target_article": 11,
+    "target_scope": "TOTAL",
+    "action": "ADD",
+    "content": "Artículo 12.- Prohibición de desplazamiento forzado. Ninguna persona será sometida a desplazamiento forzado dentro del territorio nacional, salvo en las excepciones que establezca la ley. Las comunidades afectadas tendrán derecho a la verdad, justicia y reparación, de conformidad a lo establecido en la ley.",
+    "content_to_remove": "",
+    "placement_instructions": "Agréguese un nuevo artículo a continuación del artículo 11"
   },
   {
     "icc_id": "487",
@@ -1955,6 +2490,118 @@
         "action": "ADD",
         "content": "La actividad económica del Estado estará siempre sujeta a criterios de control, transparencia y probidad, los que determinará la ley.",
         "placement_instructions": "un nuevo inciso (sexto si es el caso)"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza. \nEl contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.\n Las prácticas de colusión entre empresas y abusos de posición monopólica, así como de concentraciones empresariales que afecten o puedan afectar el funcionamiento eficiente, justo y leal de los mercados y el bienestar de las y los consumidores y usuarios y usuarias, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables y su obligación de reparación integral.\n La libertad de emprender y desarrollar actividades económicas implica también reconocer las formas y prácticas productivas que desarrollen los pueblos y naciones indígenas de acuerdo a su propio modo de entender el desarrollo, considerando sus prioridades y necesidades. Sin perjuicio de lo anterior, el ejercicio de esta libertad siempre deberá respetar, proteger y salvaguardar la identidad cultural de dichos pueblos, sus manifestaciones identitarias, patrimonio material e inmaterial y todo cuanto ponga en riesgo su existencia y continuidad como pueblos indígenas.\n La actividad económica del Estado estará siempre sujeta a criterios de control, transparencia y probidad, los que determinará la ley.",
+        "number": "240",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Meneses, Janis"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 14 (18).- Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza. \nEl contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.\n Las leyes que lo regulen deberán promover el desarrollo de las empresas de menor tamaño.\n Las prácticas de colusión entre empresas y abusos de posición monopólica, así como de concentraciones empresariales que afecten o puedan afectar el funcionamiento eficiente, justo y leal de los mercados y el bienestar de las y los consumidores y usuarios y usuarias, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables y su obligación de reparación integral.\n La libertad de emprender y desarrollar actividades económicas implica también reconocer las formas y prácticas productivas que desarrollen los pueblos y naciones indígenas de acuerdo a su propio modo de entender el desarrollo, considerando sus prioridades y necesidades. Sin perjuicio de lo anterior, el ejercicio de esta libertad siempre deberá respetar, proteger y salvaguardar la identidad cultural de dichos pueblos, sus manifestaciones identitarias, patrimonio material e inmaterial y todo cuanto ponga en riesgo su existencia y continuidad como pueblos indígenas.\n La actividad económica del Estado estará siempre sujeta a criterios de control, transparencia y probidad, los que determinará la ley.",
+        "number": "270",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Las leyes que lo regulen deberán promover el desarrollo de las empresas de menor tamaño.",
+        "content_to_remove": "",
+        "placement_instructions": "agréguese a continuación del inciso segundo el siguiente inciso"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza. \nEl contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.\n Las leyes que lo regulen deberán promover el desarrollo de las empresas de menor tamaño.\n La libertad de emprender y desarrollar actividades económicas implica también reconocer las formas y prácticas productivas que desarrollen los pueblos y naciones indígenas de acuerdo a su propio modo de entender el desarrollo, considerando sus prioridades y necesidades. Sin perjuicio de lo anterior, el ejercicio de esta libertad siempre deberá respetar, proteger y salvaguardar la identidad cultural de dichos pueblos, sus manifestaciones identitarias, patrimonio material e inmaterial y todo cuanto ponga en riesgo su existencia y continuidad como pueblos indígenas.\n La actividad económica del Estado estará siempre sujeta a criterios de control, transparencia y probidad, los que determinará la ley.",
+        "number": "257",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza. \nEl contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.\n Las leyes que lo regulen deberán promover el desarrollo de las empresas de menor tamaño.\n La actividad económica del Estado estará siempre sujeta a criterios de control, transparencia y probidad, los que determinará la ley.",
+        "number": "259",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara",
+          "Fuchslocher, Javier",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO 4",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza. \nEl contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.\n Las leyes que lo regulen deberán promover el desarrollo de las empresas de menor tamaño.",
+        "number": "261",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Celedon, Roberto",
+          "Labrana, Elsa",
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO 5",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 14",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de emprender y desarrollar actividades económicas. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar actividades económicas. Su ejercicio deberá ser compatible con los derechos consagrados en esta Constitución y con la protección de la naturaleza. \nEl contenido y los límites de este derecho serán determinados por las leyes que regulen su ejercicio las que deberán promover el desarrollo de las empresas de menor tamaño y asegurarán la protección de los consumidores.\n Las leyes que lo regulen deberán promover el desarrollo de las empresas de menor tamaño.\n Las prácticas de colusión entre empresas y abusos de posición monopólica, así como las concentraciones empresariales que afecten el funcionamiento eficiente, justo y leal de los mercados, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables.",
+        "number": "273",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Meneses, Janis"
+        ],
+        "target_article": 14,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Las prácticas de colusión entre empresas y abusos de posición monopólica, así como las concentraciones empresariales que afecten el funcionamiento eficiente, justo y leal de los mercados, se entenderán como conductas contrarias al interés social. La ley establecerá las sanciones a los responsables.",
+        "content_to_remove": "",
+        "placement_instructions": "Para añadir un nuevo inciso al artículo 14"
       }
     ]
   },
@@ -2002,6 +2649,24 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "La inviolabilidad del hogar, de los demás espacios donde la persona desarrolle su vida privada y de toda comunicación privada, ya sea física o digital. El hogar y demás espacios familiares solo podrán allanarse, y las comunicaciones y documentos privados interceptarse, abrirse o registrarse en los casos que la Constitución o las leyes lo establezcan expresamente.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 15",
+        "step": "Indicación",
+        "content_snapshot": "La protección, promoción y respeto del derecho a la privacidad de las personas, sus familias y comunidades. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio del derecho a la privacidad salvo en los casos y formas que determine la ley.\n Los recintos privados son inviolables. La entrada, registro o allanamiento sólo se podrán realizar con orden judicial previa dictada en los casos específicos y en la forma que determine la ley, salvo las hipótesis de flagrancia.\n Toda forma de documentación y comunicación privada es inviolable, incluyendo sus metadatos. La interceptación, captura, apertura, registro o revisión sólo se podrá realizar con orden judicial previa dictada en la forma y para los casos específicos que determine la ley.",
+        "number": "284",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Rebolledo, Barbara"
+        ],
+        "target_article": 15,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "La protección, promoción y respeto del derecho a la privacidad de las personas, sus familias y comunidades. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio del derecho a la privacidad salvo en los casos y formas que determine la ley. Los recintos privados son inviolables. La entrada, registro o allanamiento sólo se podrán realizar con orden judicial previa dictada en los casos específicos y en la forma que determine la ley, salvo las hipótesis de flagrancia. Toda forma de documentación y comunicación privada es inviolable, incluyendo sus metadatos. La interceptación, captura, apertura, registro o revisión sólo se podrá realizar con orden judicial previa dictada en la forma y para los casos específicos que determine la ley.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
@@ -2226,7 +2891,7 @@
   },
   {
     "icc_id": "293",
-    "text": "Art. X. Derecho de propiedad.\nLa Constitución asegura a todas las personas el derecho de propiedad en todas sus especies y sobre toda clase de bienes. Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.”",
+    "text": "Art. X. Derecho de propiedad.\nLa Constitución asegura a todas las personas el derecho de propiedad en todas sus especies y sobre toda clase de bienes. Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.”",
     "voting_result": "Sometido a votación se aprobó (23 votos a favor, 10 en contra, sin abstenciones).",
     "authors": [
       "Abarca, Damaris",
@@ -2249,7 +2914,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 24",
         "step": "Indicación",
-        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes. Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes. Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
         "number": 302,
         "authors_matched": [
           "Castro, Claudia",
@@ -2265,7 +2930,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 24",
         "step": "Indicación",
-        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables. Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables. Los bienes incorporales sólo estarán amparados por este derecho cuando lo determine expresamente la ley.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
         "number": 306,
         "authors_matched": [
           "Cancino, Adriana"
@@ -2280,7 +2945,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 24",
         "step": "Indicación",
-        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
         "number": 307,
         "authors_matched": [
           "Moreno, Alfredo",
@@ -2298,7 +2963,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 24",
         "step": "Indicación",
-        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
         "number": 323,
         "authors_matched": [
           "Cancino, Adriana"
@@ -2313,7 +2978,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 24",
         "step": "Indicación",
-        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
         "number": 323,
         "authors_matched": [
           "Cancino, Adriana"
@@ -2328,7 +2993,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 24",
         "step": "Indicación",
-        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n(dos incisos, en sección ‘expropiación’)\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
+        "content_snapshot": "Derecho de propiedad. La Constitución asegura a todas las personas naturales y jurídicas el derecho de propiedad en todas sus especies y sobre toda clase de bienes, exceptuándose los que la naturaleza ha hecho comunes a todas las personas y aquellos que la Constitución o la ley declare inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\n Los títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
         "number": 336,
         "authors_matched": [
           "Meneses, Janis",
@@ -2339,6 +3004,109 @@
         "action": "ADD",
         "content": "La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
         "placement_instructions": "nuevo inciso cuarto al artículo 24"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.\nCorresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
+        "number": "304",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 18,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 18 (24).- Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables. Corresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, sus límites y los deberes que emanan de ella; conforme a su función social y ecológica.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.\nLos títulos administrativos que habiliten la prestación de servicios públicos o de interés general o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
+        "number": "317",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 18,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.\nLos títulos administrativos que habiliten la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n La función social y ecológica de la propiedad comprende los intereses generales del Estado, la utilidad y la salubridad públicas, la conservación del medio ambiente, los derechos de la naturaleza, y el mejoramiento de las condiciones de vida del común de los habitantes.",
+        "number": "325",
+        "authors_matched": [
+          "Serey, Mariela"
+        ],
+        "target_article": 18,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "Los títulos administrativos que habiliten la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.\nLos títulos administrativos que habiliten la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.",
+        "number": "329",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 18,
+        "target_scope": "INCISO 4",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.\nLos títulos administrativos que habiliten la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas.",
+        "number": "342",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 18,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas.",
+        "content_to_remove": "",
+        "placement_instructions": "Para agregar al artículo 18 un inciso"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 18",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de propiedad. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha hecho comunes a todas las personas y los que la Constitución o la ley declaren inapropiables.\nLos títulos administrativos que habiliten la prestación de servicios públicos o la explotación, uso y aprovechamiento de bienes comunes no quedarán amparados por este derecho y se someterán al estatuto que defina la ley, la cual deberá cautelar el interés social y el equilibrio ecológico.\n El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas.\n Corresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, límites y deberes, conforme con su función social y ecológica.",
+        "number": "349",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Meneses, Janis"
+        ],
+        "target_article": 18,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Corresponderá a la ley determinar el modo de adquirir la propiedad, su contenido, límites y deberes, conforme con su función social y ecológica.",
+        "content_to_remove": "",
+        "placement_instructions": "Para añadir un nuevo inciso al artículo 18"
       }
     ]
   },
@@ -2422,6 +3190,54 @@
         "action": "ADD",
         "content": "y del monto",
         "placement_instructions": "en el inciso segundo, luego de la palabra \"expropiatorio\""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.\n El pago tendrá lugar de forma previa al acto de toma de posesión material del bien expropiado, salvo acuerdo en contrario.\n La persona propietaria podrá reclamar de la legalidad del acto expropiatorio y del monto ante los tribunales que determine la ley.",
+        "number": "383",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 20.- Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.\n La ley determinará los criterios para definir el justo monto del pago, su forma y oportunidad, debiendo considerar tanto el interés público como el del titular.\n La persona propietaria podrá reclamar de la legalidad del acto expropiatorio y del monto ante los tribunales que determine la ley.",
+        "number": "390",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "La ley determinará los criterios para definir el justo monto del pago, su forma y oportunidad, debiendo considerar tanto el interés público como el del titular.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.\n La ley determinará los criterios para definir el justo monto del pago, su forma y oportunidad, debiendo considerar tanto el interés público como el del titular.\n La persona expropiada podrá reclamar de la legalidad del acto expropiatorio y de su monto ante los tribunales que determine la ley.",
+        "number": "395",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "La persona expropiada podrá reclamar de la legalidad del acto expropiatorio y de su monto ante los tribunales que determine la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -2549,6 +3365,23 @@
         "target_scope": "INCISO 6",
         "action": "DELETE",
         "content": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 21",
+        "step": "Indicación",
+        "content_snapshot": "Derecho colectivo indígena a sus tierras y territorios.\n Los pueblos y naciones indígenas reconocidas por esta Constitución y las leyes tienen derecho colectivo a las tierras y territorios que tradicionalmente han poseído, ocupado, utilizado o adquirido. El Estado reconoce su especial relación con éstos, protegiendo y garantizando su ejercicio.\n El Estado reconoce y garantiza la propiedad y posesión de las tierras indígenas, garantizando su demarcación y titulación.\n Los pueblos y naciones indígenas tienen derecho a usar y administrar los territorios indígenas y recursos naturales que tradicionalmente han utilizado u ocupado, en conformidad con la ley.\n Asimismo, los pueblos y naciones indígenas tienen el derecho a la reparación de las tierras, territorios y recursos que les hayan sido confiscados, tomados, ocupados, utilizados, transferidos o dañados, sin su consentimiento.\n La restitución constituirá el mecanismo preferente de reparación, que será considerada siempre de utilidad pública y social, de conformidad a esta Constitución y la ley.\n El ejercicio de los anteriores derechos tendrá como límites los derechos de la naturaleza y la función ecológica de la propiedad.",
+        "number": "415",
+        "authors_matched": [
+          "Celedon, Roberto",
+          "Labrana, Elsa"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 21. Derecho colectivo indígena a sus tierras y territorios.\n Los pueblos y naciones indígenas reconocidas por esta Constitución y las leyes tienen derecho colectivo a las tierras y territorios que tradicionalmente han poseído, ocupado, utilizado o adquirido. El Estado reconoce su especial relación con éstos, protegiendo y garantizando su ejercicio.\n El Estado reconoce y garantiza la propiedad y posesión de las tierras indígenas, garantizando su demarcación y titulación.\n Los pueblos y naciones indígenas tienen derecho a usar y administrar los territorios indígenas y recursos naturales que tradicionalmente han utilizado u ocupado, en conformidad con la ley.\n Asimismo, los pueblos y naciones indígenas tienen el derecho a la reparación de las tierras, territorios y recursos que les hayan sido confiscados, tomados, ocupados, utilizados, transferidos o dañados, sin su consentimiento.\n La restitución constituirá el mecanismo preferente de reparación, que será considerada siempre de utilidad pública y social, de conformidad a esta Constitución y la ley.\n El ejercicio de los anteriores derechos tendrá como límites los derechos de la naturaleza y la función ecológica de la propiedad.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -2642,8 +3475,30 @@
         "target_scope": "INCISO 2",
         "action": "SUBSTITUTE",
         "content": "Los pueblos y naciones indígenas tienen derecho a la recuperación, restitución, reconstitución y reclamación de las tierras y territorios que tradicionalmente han ocupado, ya sea que se encuentren en manos de terceros o particulares o el fisco. Es deber del Estado adoptar medidas de no repetición y a generar, en conjunto con los pueblos y naciones indígenas, todos los mecanismos adecuados y oportunos para restituir las tierras y territorios, incluyendo la expropiación. En aquellos casos en que no sea posible, deberá reparar íntegramente"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 22",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "425",
+        "authors_matched": [
+          "Cantuarias, Rocio",
+          "Harboe, Felipe",
+          "Llanquileo, Natividad",
+          "Mamani, Isabella",
+          "Rebolledo, Barbara",
+          "Ossandon, Manuel"
+        ],
+        "target_article": 22,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "icc_id": "853",
@@ -2823,8 +3678,30 @@
         "action": "MODIFY_PHRASE",
         "content": "",
         "content_to_remove": "intereses morales y"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 19",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "362",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Meneses, Janis",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Fuchslocher, Javier",
+          "Labrana, Elsa"
+        ],
+        "target_article": 19,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "icc_id": "273",
@@ -3010,6 +3887,22 @@
         "target_scope": "INCISO 2",
         "action": "DELETE",
         "content": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la honra. Toda persona tiene derecho a que se respete su honra.\n Nadie podrá ser objeto de ataques ilegales en contra de ella.",
+        "number": "438",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 28,
+        "target_scope": "INCISO 2",
+        "action": "ADD",
+        "content": "Nadie podrá ser objeto de ataques ilegales en contra de ella.",
+        "content_to_remove": "",
+        "placement_instructions": "Agréguese como inciso segundo"
       }
     ]
   },
@@ -3323,6 +4216,38 @@
         "action": "ADD",
         "content": "En cualquier caso, el uso de la fuerza pública deberá siempre respetar los estándares que se desprenden tanto de esta Constitución y la ley.",
         "placement_instructions": "el siguiente inciso"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 44",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a reunirse y manifestarse pacíficamente. Todas las personas tienen derecho a reunirse y manifestarse en lugares privados y públicos, sin permiso previo.\n En cualquier caso, el uso de la fuerza pública deberá siempre respetar los estándares que se desprenden tanto de esta Constitución y la ley.",
+        "number": "462",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 44,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Derecho a reunirse y manifestarse pacíficamente. Todas las personas tienen derecho a reunirse y manifestarse en lugares privados y públicos, sin permiso previo.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 44",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a reunirse y manifestarse pacíficamente. Todas las personas tienen derecho a reunirse y manifestarse en lugares privados y públicos, sin permiso previo.\n Las reuniones en lugares de acceso público sólo podrán restringirse en conformidad a la ley.",
+        "number": "467",
+        "authors_matched": [
+          "Fuchslocher, Javier"
+        ],
+        "target_article": 44,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Las reuniones en lugares de acceso público sólo podrán restringirse en conformidad a la ley.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -3802,6 +4727,102 @@
         "action": "ADD",
         "content": "Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
         "placement_instructions": "el siguiente inciso final"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.\nEste derecho incluye en particular:\n1. A recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad, calidad y uso de las tecnologías de la información y la comunicación.\n2. El derecho a formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes, argumentos y pruebas en el procedimiento, con consideración a la confidencialidad y la protección de datos personales procedimiento.\n3. El derecho a ser tratado con respeto y deferencia por las autoridades y funcionarios.\n4. El derecho a una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos administrativos y las acciones judiciales que correspondan.\n 5. El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente.\n Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "number": "476",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 48,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.\nEste derecho incluye en particular:\n1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.\n2. El derecho a formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes, argumentos y pruebas en el procedimiento, con consideración a la confidencialidad y la protección de datos personales procedimiento.\n3. El derecho a ser tratado con respeto y deferencia por las autoridades y funcionarios.\n4. El derecho a una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos administrativos y las acciones judiciales que correspondan.\n 5. El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente.\n Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "number": "479",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 48,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.",
+        "content_to_remove": "",
+        "placement_instructions": "Sustitúyase el numeral 1"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.\nEste derecho incluye en particular:\n1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.\n2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.\n3. El derecho a ser tratado con respeto y deferencia por las autoridades y funcionarios.\n4. El derecho a una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos administrativos y las acciones judiciales que correspondan.\n 5. El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente.\n Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "number": "481",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 48,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.",
+        "content_to_remove": "",
+        "placement_instructions": "Sustitúyase el numeral 2"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.\nEste derecho incluye en particular:\n1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.\n2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.\n3. Ser tratado con respeto y deferencia por las autoridades y funcionarios.\n4. El derecho a una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos administrativos y las acciones judiciales que correspondan.\n 5. El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente.\n Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "number": "483",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 48,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "3. Ser tratado con respeto y deferencia por las autoridades y funcionarios.",
+        "content_to_remove": "",
+        "placement_instructions": "Sustitúyase el numeral 3"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.\nEste derecho incluye en particular:\n1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.\n2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.\n3. Ser tratado con respeto y deferencia por las autoridades y funcionarios.\n4. Obtener una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos y las acciones correspondientes.\n 5. El derecho de toda persona a ser oída, especialmente antes de que se tome en contra suya una medida individual que le afecte desfavorablemente.\n Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "number": "485",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 48,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "4. Obtener una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos y las acciones correspondientes.",
+        "content_to_remove": "",
+        "placement_instructions": "Sustitúyase el numeral 4"
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas frente a la Administración del Estado. Toda persona, natural o jurídica, tiene derecho a que la Administración del Estado trate sus asuntos de manera objetiva y eficiente, resolviéndolos oportunamente.\nEste derecho incluye en particular:\n1. Recibir servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad.\n2. Formular peticiones a la autoridad, solicitar audiencia, tener acceso al expediente y aportar antecedentes en el procedimiento, con consideración a la confidencialidad y la protección de datos personales.\n3. Ser tratado con respeto y deferencia por las autoridades y funcionarios.\n4. Obtener una decisión administrativa debidamente fundada y a impugnar las resoluciones mediante los recursos y las acciones correspondientes.\n 5. Ser oída, especialmente antes de que se tome en contra suya una medida que le afecte desfavorablemente.\n Las obligaciones y derechos que establece este artículo serán aplicables respecto de todos los órganos del Estado, conforme a sus características, y podrán ser ejercidos en la forma que establezca la ley.",
+        "number": "487",
+        "authors_matched": [
+          "Dominguez, Gaspar"
+        ],
+        "target_article": 48,
+        "target_scope": "INCISO",
+        "action": "SUBSTITUTE",
+        "content": "5. Ser oída, especialmente antes de que se tome en contra suya una medida que le afecte desfavorablemente.",
+        "content_to_remove": "",
+        "placement_instructions": "Sustitúyase el numeral 5"
       }
     ]
   },
@@ -3844,8 +4865,32 @@
         "action": "ADD",
         "content": "en sus derechos",
         "placement_instructions": "después de la palabra \"lesionada\""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 49",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "489",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Labbe, Bastian",
+          "Meneses, Janis",
+          "Miranda, Valentina",
+          "Videla, Carolina",
+          "Fernandez, Patricio",
+          "Henriquez, Natalia"
+        ],
+        "target_article": 49,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "icc_id": "266",
@@ -3946,6 +4991,23 @@
         "target_scope": "INCISO 3",
         "action": "DELETE",
         "content": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 50",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de petición. Toda persona tiene derecho a presentar peticiones, exposiciones o reclamaciones ante cualquier autoridad del Estado.\n La ley regulará los plazos y la forma en que la autoridad deberá dar respuesta a lo solicitado, además de la manera en que se garantizará el principio de plurilingüismo en el ejercicio de este derecho.",
+        "number": "496",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 50,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Derecho de petición. Toda persona tiene derecho a presentar peticiones, exposiciones o reclamaciones ante cualquier autoridad del Estado. La ley regulará los plazos y la forma en que la autoridad deberá dar respuesta a lo solicitado, además de la manera en que se garantizará el principio de plurilingüismo en el ejercicio de este derecho.",
+        "content_to_remove": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -3970,6 +5032,38 @@
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
         "content": "Artículo 15.- Derecho a la identidad. Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su identidad, en todas sus dimensiones y manifestaciones, incluyendo la nacionalidad, etnia, cultura, edad, características sexuales, identidades y expresiones de género, y orientaciones sexoafectivas, entre otras. El Estado deberá garantizar y remover los obstáculos para el reconocimiento de este derecho, de acuerdo a los estándares internacionales de los derechos humanos, a través de las herramientas, acciones judiciales y administrativas adecuadas y pertinentes, entre ellas, el otorgamiento de documentos de identidad e inscripción registral.",
+        "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la identidad. Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su identidad, en todas sus dimensiones y manifestaciones, incluyendo las características sexuales, identidades y expresiones de género, nombre y orientaciones sexoafectivas.\n El Estado deberá garantizar y remover los obstáculos para el reconocimiento de este derecho, de acuerdo a los estándares internacionales de los derechos humanos, a través de las herramientas, acciones judiciales y administrativas adecuadas y pertinentes, entre ellas, el otorgamiento de documentos de identidad e inscripción registral.",
+        "number": "219",
+        "authors_matched": [
+          "Miranda, Valentina"
+        ],
+        "target_article": 12,
+        "target_scope": "WORDING",
+        "action": "MODIFY_PHRASE",
+        "content": "las características sexuales, identidades y expresiones de género, nombre y orientaciones sexoafectivas",
+        "content_to_remove": "la nacionalidad, etnia, cultura, edad, características sexuales, identidades y expresiones de género, y orientaciones sexoafectivas, entre otras",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "03-24",
+        "article": "Artículo 12",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la identidad. Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su identidad, en todas sus dimensiones y manifestaciones, incluyendo las características sexuales, identidades y expresiones de género, nombre y orientaciones sexoafectivas.\n El Estado garantizará el pleno ejercicio de este derecho a través de acciones afirmativas, procedimientos y leyes correspondientes.",
+        "number": "225",
+        "authors_matched": [
+          "Miranda, Valentina"
+        ],
+        "target_article": 12,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "El Estado garantizará el pleno ejercicio de este derecho a través de acciones afirmativas, procedimientos y leyes correspondientes.",
         "content_to_remove": "",
         "placement_instructions": ""
       }
