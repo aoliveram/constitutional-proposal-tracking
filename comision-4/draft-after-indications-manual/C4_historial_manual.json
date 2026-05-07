@@ -87,7 +87,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 242.- Artículo 5"
   },
   {
     "icc_id": "16",
@@ -293,7 +294,8 @@
         "content": "El pleno ejercicio de estos derechos es esencial para la vida digna de las personas y los pueblos, la democracia, la paz y el equilibrio de la Naturaleza.",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 238.- Artículo 1"
   },
   {
     "icc_id": "11",
@@ -841,7 +843,8 @@
         "content_to_remove": "",
         "placement_instructions": "Para añadir un nuevo inciso al artículo 2"
       }
-    ]
+    ],
+    "final_status": "Similar a 239.- Artículo 2"
   },
   {
     "icc_id": "20-4",
@@ -949,7 +952,8 @@
         "content_to_remove": "universal",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 241.- Artículo 4"
   },
   {
     "icc_id": "11-4",
@@ -984,7 +988,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 240.- Artículo 3"
   },
   {
     "icc_id": "11-4",
@@ -1178,7 +1183,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 243.- Artículo 7"
   },
   {
     "icc_id": "258",
@@ -1895,7 +1901,8 @@
         "content": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 244.- Artículo 8"
   },
   {
     "icc_id": "244",
@@ -2012,7 +2019,8 @@
         "content_to_remove": "",
         "placement_instructions": "Para agregar el siguiente inciso al artículo 9"
       }
-    ]
+    ],
+    "final_status": "Similar a 245.- Artículo 9"
   },
   {
     "icc_id": "271",
@@ -2324,7 +2332,8 @@
         "content": "No existirá la detención por deudas, salvo en caso de incumplimiento de deberes alimentarios.",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 246.- Artículo 10"
   },
   {
     "icc_id": "279",
@@ -2511,7 +2520,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 247.- Artículo 11"
   },
   {
     "timestamp": "03-24",
@@ -2527,7 +2537,8 @@
     "action": "ADD",
     "content": "Artículo 12.- Prohibición de desplazamiento forzado. Ninguna persona será sometida a desplazamiento forzado dentro del territorio nacional, salvo en las excepciones que establezca la ley. Las comunidades afectadas tendrán derecho a la verdad, justicia y reparación, de conformidad a lo establecido en la ley.",
     "content_to_remove": "",
-    "placement_instructions": "Agréguese un nuevo artículo a continuación del artículo 11"
+    "placement_instructions": "Agréguese un nuevo artículo a continuación del artículo 11",
+    "final_status": "Similar a 248.- Artículo 11 bis"
   },
   {
     "icc_id": "487",
@@ -2672,7 +2683,8 @@
         "content": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 250.- Artículo 13"
   },
   {
     "icc_id": "486",
@@ -2922,7 +2934,8 @@
         "content_to_remove": "",
         "placement_instructions": "Para añadir un nuevo inciso al artículo 14"
       }
-    ]
+    ],
+    "final_status": "Similar a 251.- Artículo 14"
   },
   {
     "icc_id": "274",
@@ -2989,7 +3002,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 252.- Artículo 15"
   },
   {
     "icc_id": "IPC N°01",
@@ -3044,7 +3058,8 @@
         "content": "La ley regulará el ejercicio de estos derechos.",
         "placement_instructions": "luego del punto final, que pasa a ser punto seguido"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 253.- Artículo 16"
   },
   {
     "icc_id": "IPC N°01",
@@ -3232,7 +3247,8 @@
         "content": "Es deber del Estado garantizar el ejercicio pleno de este derecho desde la primera infancia y durante el curso de la vida a través de políticas públicas con pertinencia cultural y basadas en evidencia científica.",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 254.- Artículo 17"
   },
   {
     "icc_id": "376",
@@ -3478,7 +3494,8 @@
         "content_to_remove": "",
         "placement_instructions": "Para añadir un nuevo inciso al artículo 18"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 255.- Artículo 18"
   },
   {
     "icc_id": "293",
@@ -3654,7 +3671,8 @@
         "content": "Cualquiera sea la causa invocada para llevar a cabo la expropiación siempre deberá estar debidamente fundada.",
         "placement_instructions": "nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 256.- Artículo 20"
   },
   {
     "icc_id": "264",
@@ -3820,7 +3838,8 @@
         "content": "Artículo 21. Derecho a las tierras, territorios y recursos. El Estado reconoce y garantiza conforme a la Constitución, el derecho de los pueblos y naciones indígenas a sus tierras, territorios y recursos. La propiedad de las tierras indígenas goza de especial protección. El Estado establecerá instrumentos jurídicos eficaces para su catastro, regularización, demarcación, titulación, reparación y restitución. La restitución constituye un mecanismo preferente de reparación, de utilidad pública e interés general. Conforme a la constitución y la ley, los pueblos y naciones indígenas tienen derecho a utilizar los recursos que tradicionalmente han usado u ocupado, que se encuentran en sus territorios y sean indispensables para su existencia colectiva.",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 257.- Artículo 21"
   },
   {
     "icc_id": "853",
@@ -4162,11 +4181,12 @@
       "Valenzuela, Cesar"
     ],
     "timestamp": "03-07-1",
-    "article_uid": "C4_GEN_ART59"
+    "article_uid": "C4_GEN_ART59",
+    "final_status": "Idéntico a 258.- Artículo 23"
   },
   {
     "icc_id": "273",
-    "text": "“Derecho a la integridad personal\nArtículo XX. Derecho a la integridad personal. Toda persona tiene derecho a la integridad física, psicosocial, sexual y afectiva. Ninguna persona podrá ser sometida a torturas, ni penas o tratos crueles, inhumanos o degradantes”",
+    "text": "Derecho a la integridad personal\nArtículo XX. Derecho a la integridad personal. Toda persona tiene derecho a la integridad física, psicosocial, sexual y afectiva. Ninguna persona podrá ser sometida a torturas, ni penas o tratos crueles, inhumanos o degradantes.",
     "voting_result": "Sometido a votación el segundo artículo se aprobó (21 votos a favor y 7 en contra, sin abstenciones).",
     "authors": [
       "Baranda, Benito",
@@ -4186,7 +4206,8 @@
       "Valenzuela, Cesar"
     ],
     "timestamp": "03-07-1",
-    "article_uid": "C4_GEN_ART60"
+    "article_uid": "C4_GEN_ART60",
+    "final_status": "Idéntico a 259.- Artículo 24"
   },
   {
     "icc_id": "451",
@@ -4211,7 +4232,8 @@
       "Woldarsky, Manuel"
     ],
     "timestamp": "03-07-1",
-    "article_uid": "C4_GEN_ART61"
+    "article_uid": "C4_GEN_ART61",
+    "final_status": "Idéntico a 260.- Artículo 25"
   },
   {
     "icc_id": "666",
@@ -4283,7 +4305,8 @@
         "content": "",
         "content_to_remove": "el Estado adoptará todas las medidas para impedir la impunidad de estos hechos"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 261.- Artículo 26"
   },
   {
     "icc_id": "251",
@@ -4703,7 +4726,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 263.- Artículo 44"
   },
   {
     "icc_id": "291",
@@ -4857,7 +4881,8 @@
         "content": "Las personas y asociaciones que se dedican a la protección y defensa de los derechos humanos y de la naturaleza contarán con especial protección del Estado para garantizar el cumplimiento de sus fines.",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 264.- Artículo 45"
   },
   {
     "icc_id": "422",
@@ -4875,7 +4900,8 @@
       "Squella, Agustin"
     ],
     "timestamp": "03-07-1",
-    "article_uid": "C4_GEN_ART69"
+    "article_uid": "C4_GEN_ART69",
+    "final_status": "Idéntico a 265.- Artículo 46"
   },
   {
     "icc_id": "247",
@@ -5045,7 +5071,8 @@
         "content": "En caso de crisis humanitaria y demás situaciones que determine la ley, el Estado asegurará la reunificación familiar y el retorno voluntario al territorio nacional.",
         "placement_instructions": "como nuevo inciso final"
       }
-    ]
+    ],
+    "final_status": "Similar a 266.- Artículo 47"
   },
   {
     "icc_id": "244",
@@ -5597,7 +5624,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 267.- Artículo 50"
   },
   {
     "icc_id": "41",
@@ -5655,7 +5683,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 249.- Artículo 12"
   },
   {
     "icc_id": "451",
@@ -5846,7 +5875,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 39",
         "step": "Indicación",
-        "content_snapshot": "Deberes de prevención, investigación y sanción. Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 37. Tales crímenes deberán ser investigados de oficio, con la debida diligencia, seriedad, rapidez, independencia, imparcialidad y en conformidad con los estándares establecidos en los tratados internacionales ratificados y vigentes en Chile.",
+        "content_snapshot": "Deberes de prevención, investigación y sanción. Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad de los hechos establecidos en el artículo 26. Tales crímenes deberán ser investigados de oficio, con la debida diligencia, seriedad, rapidez, independencia, imparcialidad y en conformidad con los estándares establecidos en los tratados internacionales ratificados y vigentes en Chile.",
         "number": 498,
         "authors_matched": [
           "Meneses, Janis"
@@ -5857,7 +5886,8 @@
         "content": "tratados internacionales ratificados y vigentes en Chile",
         "content_to_remove": "tratados internacionales sobre Derechos Humanos suscritos y ratificados por Chile"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 262.- Artículo 27"
   },
   {
     "icc_id": "272",
@@ -7106,7 +7136,8 @@
         "content_to_remove": "",
         "placement_instructions": "en el inciso tercero entre las palabras “a” y “niños”"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 275.- Artículo 10"
   },
   {
     "icc_id": "682-4",
@@ -7261,7 +7292,8 @@
         "content_to_remove": "",
         "placement_instructions": "nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 277.- Artículo 12"
   },
   {
     "icc_id": "674",
@@ -7392,7 +7424,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 280.- Artículo 15"
   },
   {
     "icc_id": "IPC N°50",
@@ -7685,7 +7718,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 290.- Artículo 22"
   },
   {
     "icc_id": "278",
@@ -7927,7 +7961,8 @@
         "content_to_remove": "",
         "placement_instructions": "añadir un nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 291.- Artículo 23"
   },
   {
     "icc_id": "726-4",
@@ -8041,7 +8076,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 292.- Artículo 24"
   },
   {
     "icc_id": "654-4",
@@ -8096,7 +8132,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 293.- Artículo 25"
   },
   {
     "icc_id": "954-5",
@@ -8290,7 +8327,8 @@
         "content_to_remove": "inciso cuarto",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 294.- Artículo 26"
   },
   {
     "icc_id": "1023",
@@ -8418,7 +8456,8 @@
         "content_to_remove": "",
         "placement_instructions": "añadir un nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 295.- Artículo 27"
   },
   {
     "timestamp": "05-05",
@@ -8580,7 +8619,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 268.- Artículo 1"
   },
   {
     "icc_id": [
@@ -8616,7 +8656,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 269.- Artículo 2"
   },
   {
     "icc_id": [
@@ -8719,7 +8760,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 270.- Artículo 3"
   },
   {
     "icc_id": "16",
@@ -8968,7 +9010,8 @@
         "content_to_remove": "",
         "placement_instructions": "nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Similar a 271.- Artículo 4"
   },
   {
     "icc_id": "16",
@@ -9346,7 +9389,8 @@
         "content_to_remove": "",
         "placement_instructions": "nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Similar a 272.- Artículo 7"
   },
   {
     "icc_id": "28-4",
@@ -9644,7 +9688,8 @@
         "content_to_remove": "",
         "placement_instructions": "nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Similar a 273.- Artículo 8"
   },
   {
     "icc_id": "682-4",
@@ -9677,7 +9722,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 274.- Artículo 9"
   },
   {
     "icc_id": "32",
@@ -9774,7 +9820,7 @@
         "timestamp": "05-05",
         "article": "Artículo 11",
         "step": "Indicación",
-        "content_snapshot": "Reconocimiento del trabajo doméstico y de cuidados.\nArtículo x. El Estado reconoce que los trabajos domésticos y de cuidados son trabajos socialmente necesarios e indispensables para la sostenibilidad de la vida y el desarrollo de la sociedad, que son una actividad económica que contribuye a las cuentas nacionales y que deben ser considerados en la formulación y ejecución de las políticas públicas.\n El Estado promoverá la corresponsabilidad social y de género e implementará mecanismos para la redistribución del trabajo doméstico y de cuidados.",
+        "content_snapshot": "Reconocimiento del trabajo doméstico y de cuidados.\n El Estado reconoce que los trabajos domésticos y de cuidados son trabajos socialmente necesarios e indispensables para la sostenibilidad de la vida y el desarrollo de la sociedad, que son una actividad económica que contribuye a las cuentas nacionales y que deben ser considerados en la formulación y ejecución de las políticas públicas.\n El Estado promoverá la corresponsabilidad social y de género e implementará mecanismos para la redistribución del trabajo doméstico y de cuidados.",
         "number": 93,
         "authors_matched": [
           "Abarca, Damaris"
@@ -9786,7 +9832,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 276.- Artículo 11"
   },
   {
     "icc_id": "38-4",
@@ -10154,7 +10201,8 @@
         "content_to_remove": "",
         "placement_instructions": "inciso final"
       }
-    ]
+    ],
+    "final_status": "Similar a 279.- Artículo 14"
   },
   {
     "icc_id": "39-4",
@@ -10264,7 +10312,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 281.- Artículo 16"
   },
   {
     "icc_id": "IPC N°15",
@@ -10417,7 +10466,8 @@
         "content_to_remove": "",
         "placement_instructions": "nuevo inciso final"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 282.- Artículo 17"
   },
   {
     "icc_id": "IPC N°15",
@@ -10458,7 +10508,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Idéntico a 283.- Artículo 18"
   },
   {
     "icc_id": "IPC N°15",
@@ -10554,7 +10605,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 284.- Artículo 19"
   },
   {
     "icc_id": "IPC N°15",
@@ -10602,7 +10654,8 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 285.- Artículo 20"
   },
   {
     "timestamp": "05-05",
@@ -10618,7 +10671,8 @@
     "action": "ADD",
     "content": "El ingreso, permanencia y promoción de quienes estudien en la educación superior se regirá por los principios de equidad e inclusión, con especial atención a los grupos históricamente excluidos, excluyendo cualquier tipo de discriminación arbitraria. Los estudios de educación superior, conducentes a títulos y grados académicos iniciales, serán gratuitos en las instituciones públicas y en aquellas privadas que determine la ley.",
     "content_to_remove": "",
-    "placement_instructions": "añadir un nuevo artículo"
+    "placement_instructions": "añadir un nuevo artículo",
+    "final_status": "Idéntico a 286.- Artículo 20 bis"
   },
   {
     "timestamp": "05-05",
@@ -10651,7 +10705,8 @@
     "action": "ADD",
     "content": "El Sistema de Educación Superior estará conformado por las Universidades, Institutos Profesionales, Centros de Formación Técnica, escuelas de formación de las Fuerzas Armadas y Seguridad, además de las Academias creadas o reconocidas por el Estado. Estas instituciones se regirán por los principios de la educación y considerarán las necesidades locales, regionales y nacionales. Tendrán prohibida toda forma de lucro. Las instituciones de educación superior tienen la misión de enseñar, producir y socializar el conocimiento. La Constitución protege la libertad de cátedra, la investigación y la libre discusión de las ideas de los académicos y las académicas de las universidades creadas o reconocidas por ley. La formación tendrá un enfoque coherente con los fines y principios de la Educación. Las instituciones de educación superior del Estado forman parte del Sistema de Educación Pública y su financiamiento se sujetará a lo dispuesto por esta Constitución, debiendo garantizar el cumplimiento íntegro de sus funciones de docencia, investigación y colaboración con la sociedad. El Estado velará por el acceso a la educación superior de todas las personas que cumplan los requisitos establecidos por la ley.",
     "content_to_remove": "",
-    "placement_instructions": "añadir un nuevo artículo"
+    "placement_instructions": "añadir un nuevo artículo",
+    "final_status": "Idéntico a 287.- Artículo 20 quater"
   },
   {
     "timestamp": "05-05",
@@ -10667,7 +10722,8 @@
     "action": "ADD",
     "content": "El Estado deberá garantizar y promover el acceso a la educación intercultural plurilingüe en todos sus niveles. Los programas educativos y el currículum incluirán la cultura, conocimientos, tecnologías y cosmovisiones de los pueblos. La Constitución reconoce la autonomía de los pueblos originarios para desarrollar sus propios establecimientos e instituciones de conformidad a sus costumbres y cultura, respetando los fines y principios de la educación, y dentro de los marcos del Sistema Nacional de Educación establecidos por la ley.",
     "content_to_remove": "",
-    "placement_instructions": "añadir un nuevo artículo"
+    "placement_instructions": "añadir un nuevo artículo",
+    "final_status": "Similar a 288.- Artículo 20 quinquies"
   },
   {
     "icc_id": "345-4",
@@ -10764,7 +10820,8 @@
         "content_to_remove": "",
         "placement_instructions": "agregar un nuevo inciso"
       }
-    ]
+    ],
+    "final_status": "Idéntico a 289.- Artículo 21"
   },
   {
     "icc_id": "345-4",
@@ -11454,6 +11511,7 @@
         "content_to_remove": "",
         "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Similar a 278.- Artículo 13"
   }
 ]
