@@ -161,6 +161,137 @@
         "content": "Artículo X.- Objeto y fin. Los derechos fundamentales son universales, inalienables, indivisibles e interdependientes entre sí. Comprenden los derechos de la naturaleza, realidad íntimamente ligada al desarrollo de la vida, de las comunidades, de las naciones y de los pueblos como de las futuras generaciones. La protección, promoción y satisfacción de los derechos humanos es un fin primordial del Estado y de la sociedad. \nEl pleno ejercicio de estos derechos es condición necesaria para asegurar la paz, la democracia, la vida digna y el pleno desarrollo de las personas y de los pueblos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Sobre los Derechos Fundamentales. Los derechos fundamentales son universales, inalienables, indivisibles e interdependientes entre sí. Comprenden los derechos de la naturaleza, realidad íntimamente ligada al desarrollo de la vida, de las comunidades, de las naciones y de los pueblos como de las futuras generaciones. La protección, promoción y satisfacción de los derechos humanos es un fin primordial del Estado y de la sociedad. \nEl pleno ejercicio de estos derechos es condición necesaria para asegurar la paz, la democracia, la vida digna y el pleno desarrollo de las personas y de los pueblos.",
+        "number": "6",
+        "authors_matched": [
+          "Urrutia, Tatiana",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio",
+          "Fuchslocher, Javier",
+          "Gonzalez, Dayana",
+          "Gonzalez, Lidia",
+          "Grandon, Paola",
+          "Henriquez, Natalia",
+          "Labbe, Bastian",
+          "Labrana, Elsa",
+          "Linconao, Francisca",
+          "Mamani, Isabella",
+          "Meneses, Janis",
+          "Miranda, Valentina",
+          "Orellana, Matias",
+          "Rivera, Maria Magdalena",
+          "Serey, Mariela",
+          "Tirado, Fernando",
+          "Valenzuela, Cesar"
+        ],
+        "target_article": 1,
+        "target_scope": "WORDING",
+        "action": "SUBSTITUTE",
+        "content": "Sobre los Derechos Fundamentales.",
+        "content_to_remove": "Objeto y fin.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Sobre los Derechos Fundamentales. Los derechos fundamentales son inherentes a la persona humana, universales, inalienables, indivisibles e interdependientes entre sí. Comprenden los derechos de la naturaleza, realidad íntimamente ligada al desarrollo de la vida, de las comunidades, de las naciones y de los pueblos como de las futuras generaciones. La protección, promoción y satisfacción de los derechos humanos es un fin primordial del Estado y de la sociedad. \nEl pleno ejercicio de estos derechos es condición necesaria para asegurar la paz, la democracia, la vida digna y el pleno desarrollo de las personas y de los pueblos.",
+        "number": "8",
+        "authors_matched": [
+          "Fernandez, Patricio"
+        ],
+        "target_article": 1,
+        "target_scope": "WORDING",
+        "action": "ADD",
+        "content": "inherentes a la persona humana,",
+        "placement_instructions": "en el inciso primero luego de la frase “los derechos fundamentales son”"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Sobre los Derechos Fundamentales. Los derechos fundamentales son inherentes a la persona humana, universales, inalienables, indivisibles e interdependientes. \nEl pleno ejercicio de estos derechos es condición necesaria para asegurar la paz, la democracia, la vida digna y el pleno desarrollo de las personas y de los pueblos.",
+        "number": "10",
+        "authors_matched": [
+          "Urrutia, Tatiana",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio",
+          "Fuchslocher, Javier",
+          "Gonzalez, Dayana",
+          "Gonzalez, Lidia",
+          "Grandon, Paola",
+          "Henriquez, Natalia",
+          "Labbe, Bastian",
+          "Labrana, Elsa",
+          "Linconao, Francisca",
+          "Mamani, Isabella",
+          "Meneses, Janis",
+          "Miranda, Valentina",
+          "Orellana, Matias",
+          "Rivera, Maria Magdalena",
+          "Serey, Mariela",
+          "Tirado, Fernando",
+          "Valenzuela, Cesar"
+        ],
+        "target_article": 1,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "desde la expresión “entre sí” hasta la expresión “de la sociedad”, ambas inclusive",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 1",
+        "step": "Indicación",
+        "content_snapshot": "Sobre los Derechos Fundamentales. Los derechos fundamentales son inherentes a la persona humana, universales, inalienables, indivisibles e interdependientes.\n El pleno ejercicio de estos derechos es esencial para la vida digna de las personas y los pueblos, la democracia, la paz y el equilibrio de la Naturaleza.",
+        "number": "14",
+        "authors_matched": [
+          "Urrutia, Tatiana",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio",
+          "Fuchslocher, Javier",
+          "Gonzalez, Dayana",
+          "Gonzalez, Lidia",
+          "Grandon, Paola",
+          "Henriquez, Natalia",
+          "Labbe, Bastian",
+          "Labrana, Elsa",
+          "Linconao, Francisca",
+          "Mamani, Isabella",
+          "Meneses, Janis",
+          "Miranda, Valentina",
+          "Orellana, Matias",
+          "Rivera, Maria Magdalena",
+          "Serey, Mariela",
+          "Tirado, Fernando",
+          "Valenzuela, Cesar"
+        ],
+        "target_article": 1,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "El pleno ejercicio de estos derechos es esencial para la vida digna de las personas y los pueblos, la democracia, la paz y el equilibrio de la Naturaleza.",
+        "placement_instructions": ""
       }
     ]
   },
@@ -327,7 +458,7 @@
         "timestamp": "03-24",
         "article": "Artículo 5",
         "step": "Indicación",
-        "content_snapshot": "",
+        "content_snapshot": "Regulación y limitación de los derechos fundamentales. Las limitaciones a los derechos fundamentales podrán ser establecidas únicamente en virtud de una ley de carácter general, en la que se consideren medidas idóneas, necesarias y proporcionadas en una sociedad democrática.\n Se deberá tener, además, especial consideración por el respeto a la identidad e integridad cultural del individuo o pueblo y nación de indígena al que pertenece.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
         "number": "45",
         "authors_matched": [
           "Celedon, Roberto",
@@ -344,7 +475,7 @@
         "timestamp": "03-24",
         "article": "Artículo 5",
         "step": "Indicación",
-        "content_snapshot": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.\n Se deberá tener, además, especial consideración por el respeto a la identidad e integridad cultural del individuo o pueblo y nación de indígena al que pertenece.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
+        "content_snapshot": "Regulación y limitación de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.\n Se deberá tener, además, especial consideración por el respeto a la identidad e integridad cultural del individuo o pueblo y nación de indígena al que pertenece.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
         "number": "48",
         "authors_matched": [
           "Orellana, Matias"
@@ -352,7 +483,7 @@
         "target_article": 5,
         "target_scope": "INCISO 1",
         "action": "SUBSTITUTE",
-        "content": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.",
+        "content": "En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.",
         "content_to_remove": "",
         "placement_instructions": ""
       },
@@ -360,7 +491,7 @@
         "timestamp": "03-24",
         "article": "Artículo 5",
         "step": "Indicación",
-        "content_snapshot": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
+        "content_snapshot": "Regulación y limitación de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.\n En todo caso, deberán arbitrarse las medidas o mecanismos necesarios para mitigar, corregir o restituir los efectos de estas limitaciones.",
         "number": "53",
         "authors_matched": [
           "Cantuarias, Rocio",
@@ -382,7 +513,7 @@
         "timestamp": "03-24",
         "article": "Artículo 5",
         "step": "Indicación",
-        "content_snapshot": "Límites de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.",
+        "content_snapshot": "Regulación y limitación de los derechos fundamentales. En virtud de una ley se podrá regular el ejercicio de los derechos fundamentales, para hacerlos compatibles entre sí o con otros fines amparados por la Constitución.",
         "number": "55",
         "authors_matched": [
           "Harboe, Felipe",
@@ -396,6 +527,21 @@
         "action": "DELETE",
         "content": "",
         "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 5",
+        "step": "Indicación",
+        "content_snapshot": "Limitación de los derechos fundamentales. Sólo en virtud de la Constitución y la ley se podrá limitar el ejercicio de los derechos fundamentales.",
+        "number": "45",
+        "authors_matched": [
+          "Labbe, Bastian"
+        ],
+        "target_article": 5,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 5. Limitación de los derechos fundamentales. Sólo en virtud de la Constitución y la ley se podrá limitar el ejercicio de los derechos fundamentales.",
         "placement_instructions": ""
       }
     ]
@@ -785,6 +931,22 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 4 (10).- Financiamiento de los derechos fundamentales. El financiamiento de las prestaciones estatales vinculadas al ejercicio de los derechos fundamentales propenderá a la progresividad. El Estado destinará el máximo de recursos disponibles para asegurar la satisfacción universal de los derechos fundamentales.",
         "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 4",
+        "step": "Indicación",
+        "content_snapshot": "Financiamiento de los derechos fundamentales. El financiamiento de las prestaciones estatales vinculadas al ejercicio de los derechos fundamentales propenderá a la progresividad.\n El Estado destinará el máximo de recursos disponibles para asegurar la satisfacción de los derechos fundamentales.",
+        "number": "31",
+        "authors_matched": [
+          "Marinovic, Teresa"
+        ],
+        "target_article": 4,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "universal",
         "placement_instructions": ""
       }
     ]
@@ -1713,6 +1875,25 @@
         "content": "El Estado deberá tomar todas las medidas destinadas a eliminar el discurso xenófobo; la apología de odio racial, religioso, sexual o de género. La ley podrá establecer las responsabilidades por las infracciones a este artículo.",
         "content_to_remove": "",
         "placement_instructions": "Para añadir un nuevo inciso al artículo 8"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 8",
+        "step": "Indicación",
+        "content_snapshot": "Libertad de expresión. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y opinión, en cualquier forma y por cualquier medio. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole.\n No existirá censura previa sino únicamente las responsabilidades ulteriores que determine la ley.\n El Estado deberá tomar todas las medidas destinadas a eliminar el discurso xenófobo; la apología de odio racial, religioso, sexual o de género. La ley podrá establecer las responsabilidades por las infracciones a este artículo.",
+        "number": "58",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Delgado, Aurora",
+          "Castro, Claudia",
+          "Bravo, Daniel",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 8,
+        "target_scope": "INCISO 3",
+        "action": "DELETE",
+        "content": "",
+        "placement_instructions": ""
       }
     ]
   },
@@ -2038,6 +2219,110 @@
         "action": "ADD",
         "content": "Las disposiciones legales que autorizan la restricción de la libertad o de otros derechos del imputado o del ejercicio de alguna de sus facultades serán interpretadas restrictivamente y no se podrán aplicar por analogía.",
         "placement_instructions": "como inciso final"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.\n Ninguna persona puede ser arrestada o detenida sino por orden judicial, salvo que fuera sorprendida en delito flagrante.\n Si la autoridad judicial hiciere arrestar o detener a alguna persona, se deberá conducir inmediatamente al arrestado o detenido ante el juez competente.\n Ninguna persona puede ser arrestado o detenido, sujeto a prisión preventiva o preso o privado de libertad, sino en su domicilio o en los lugares públicos destinados a este objeto. Los encargados de dichos lugares no podrán recibir en ellas a ninguna persona en calidad de arrestado o detenido, imputado o preso, sin dejar constancia del ingreso o de la orden emanada de autoridad competente, en un registro que será público. Toda persona cuya privación de libertad haya sido declarada ilegal o arbitraria por el tribunal será puesta de inmediato en libertad, salvo cuando se formalice la investigación.\n La libertad del imputado será la regla general. La prisión preventiva será excepcional y sólo podrá decretarse en caso de que el juez la considere razonada y fundadamente como necesaria para los fines del proceso. Con todo, esta medida será siempre temporal y proporcional, debiendo la ley regular los casos de procedencia y requisitos.\n Ninguna persona será detenido por deudas. Este principio no limita los mandatos de autoridad judicial competente dictados por incumplimientos de deberes alimentarios.\n Las disposiciones legales que autorizan la restricción de la libertad o de otros derechos del imputado o del ejercicio de alguna de sus facultades serán interpretadas restrictivamente y no se podrán aplicar por analogía.",
+        "number": "81",
+        "authors_matched": [
+          "Tirado, Fernando",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 10,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Ninguna persona puede ser arrestada o detenida sino por orden judicial, salvo que fuera sorprendida en delito flagrante.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.\n Ninguna persona puede ser arrestada o detenida sino por orden judicial, salvo que fuera sorprendida en delito flagrante.\n La persona arrestada o detenida deberá ser puesta a disposición del tribunal competente en un plazo máximo de veinticuatro horas. Se le deberán informar de manera inmediata y comprensible sus derechos y los motivos de la privación de su libertad. Además, tendrá derecho a comunicarse con su abogado o quien estime pertinente.\n Ninguna persona puede ser arrestado o detenido, sujeto a prisión preventiva o preso o privado de libertad, sino en su domicilio o en los lugares públicos destinados a este objeto. Los encargados de dichos lugares no podrán recibir en ellas a ninguna persona en calidad de arrestado o detenido, imputado o preso, sin dejar constancia del ingreso o de la orden emanada de autoridad competente, en un registro que será público. Toda persona cuya privación de libertad haya sido declarada ilegal o arbitraria por el tribunal será puesta de inmediato en libertad, salvo cuando se formalice la investigación.\n La libertad del imputado será la regla general. La prisión preventiva será excepcional y sólo podrá decretarse en caso de que el juez la considere razonada y fundadamente como necesaria para los fines del proceso. Con todo, esta medida será siempre temporal y proporcional, debiendo la ley regular los casos de procedencia y requisitos.\n Ninguna persona será detenido por deudas. Este principio no limita los mandatos de autoridad judicial competente dictados por incumplimientos de deberes alimentarios.\n Las disposiciones legales que autorizan la restricción de la libertad o de otros derechos del imputado o del ejercicio de alguna de sus facultades serán interpretadas restrictivamente y no se podrán aplicar por analogía.",
+        "number": "84",
+        "authors_matched": [
+          "Tirado, Fernando",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 10,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "La persona arrestada o detenida deberá ser puesta a disposición del tribunal competente en un plazo máximo de veinticuatro horas. Se le deberán informar de manera inmediata y comprensible sus derechos y los motivos de la privación de su libertad. Además, tendrá derecho a comunicarse con su abogado o quien estime pertinente.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.\n Ninguna persona puede ser arrestada o detenida sino por orden judicial, salvo que fuera sorprendida en delito flagrante.\n La persona arrestada o detenida deberá ser puesta a disposición del tribunal competente en un plazo máximo de veinticuatro horas. Se le deberán informar de manera inmediata y comprensible sus derechos y los motivos de la privación de su libertad. Además, tendrá derecho a comunicarse con su abogado o quien estime pertinente.\n Ninguna persona puede ser arrestada o detenida, sujeta a prisión preventiva o presa, sino en su domicilio o en los lugares públicos destinados a este objeto. Su ingreso deberá constar en un registro público.\n La libertad del imputado será la regla general. La prisión preventiva será excepcional y sólo podrá decretarse en caso de que el juez la considere razonada y fundadamente como necesaria para los fines del proceso. Con todo, esta medida será siempre temporal y proporcional, debiendo la ley regular los casos de procedencia y requisitos.\n Ninguna persona será detenido por deudas. Este principio no limita los mandatos de autoridad judicial competente dictados por incumplimientos de deberes alimentarios.\n Las disposiciones legales que autorizan la restricción de la libertad o de otros derechos del imputado o del ejercicio de alguna de sus facultades serán interpretadas restrictivamente y no se podrán aplicar por analogía.",
+        "number": "88",
+        "authors_matched": [
+          "Urrutia, Tatiana",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio",
+          "Fuchslocher, Javier",
+          "Gonzalez, Dayana",
+          "Gonzalez, Lidia",
+          "Grandon, Paola",
+          "Henriquez, Natalia",
+          "Labbe, Bastian",
+          "Labrana, Elsa",
+          "Linconao, Francisca",
+          "Mamani, Isabella",
+          "Meneses, Janis",
+          "Miranda, Valentina",
+          "Orellana, Matias",
+          "Rivera, Maria Magdalena",
+          "Serey, Mariela",
+          "Tirado, Fernando",
+          "Valenzuela, Cesar"
+        ],
+        "target_article": 10,
+        "target_scope": "INCISO 4",
+        "action": "SUBSTITUTE",
+        "content": "Ninguna persona puede ser arrestada o detenida, sujeta a prisión preventiva o presa, sino en su domicilio o en los lugares públicos destinados a este objeto. Su ingreso deberá constar en un registro público.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 10",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privado de su libertad arbitrariamente ni ésta ser restringida sino en los casos y en la forma determinados por la Constitución y las leyes.\n Ninguna persona puede ser arrestada o detenida sino por orden judicial, salvo que fuera sorprendida en delito flagrante.\n La persona arrestada o detenida deberá ser puesta a disposición del tribunal competente en un plazo máximo de veinticuatro horas. Se le deberán informar de manera inmediata y comprensible sus derechos y los motivos de la privación de su libertad. Además, tendrá derecho a comunicarse con su abogado o quien estime pertinente.\n Ninguna persona puede ser arrestada o detenida, sujeta a prisión preventiva o presa, sino en su domicilio o en los lugares públicos destinados a este objeto. Su ingreso deberá constar en un registro público.\n La libertad del imputado será la regla general. La prisión preventiva será excepcional y sólo podrá decretarse en caso de que el juez la considere razonada y fundadamente como necesaria para los fines del proceso. Con todo, esta medida será siempre temporal y proporcional, debiendo la ley regular los casos de procedencia y requisitos.\n No existirá la detención por deudas, salvo en caso de incumplimiento de deberes alimentarios.\n Las disposiciones legales que autorizan la restricción de la libertad o de otros derechos del imputado o del ejercicio de alguna de sus facultades serán interpretadas restrictivamente y no se podrán aplicar por analogía.",
+        "number": "91",
+        "authors_matched": [
+          "Tirado, Fernando",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 10,
+        "target_scope": "INCISO 6",
+        "action": "SUBSTITUTE",
+        "content": "No existirá la detención por deudas, salvo en caso de incumplimiento de deberes alimentarios.",
+        "placement_instructions": ""
       }
     ]
   },
@@ -2351,6 +2636,40 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 17.- Derecho a la autonomía y a la libre determinación. Toda persona tiene derecho a la libertad, entendida como la libre determinación de su personalidad, de sus proyectos de vida, de su identidad y la autonomía sobre su cuerpo. El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.",
         "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 13",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la autonomía y al libre desarrollo de la personalidad. Toda persona tiene derecho a su autonomía personal, al libre desarrollo de la personalidad, identidad y de sus proyectos de vida.\n El Estado deberá garantizar este derecho, sin discriminación, con enfoque de género, derechos humanos, inclusión y pertinencia cultural, eliminando todos los obstáculos que dificulten el ejercicio de este derecho y promoviendo acciones positivas para asegurar su pleno desarrollo.",
+        "number": "101",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Celedon, Roberto"
+        ],
+        "target_article": 13,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Derecho a la autonomía y al libre desarrollo de la personalidad. Toda persona tiene derecho a su autonomía personal, al libre desarrollo de la personalidad, identidad y de sus proyectos de vida.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 13",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a la autonomía y al libre desarrollo de la personalidad. Toda persona tiene derecho a su autonomía personal, al libre desarrollo de la personalidad, identidad y de sus proyectos de vida.",
+        "number": "103",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Labrana, Elsa"
+        ],
+        "target_article": 13,
+        "target_scope": "INCISO 2",
+        "action": "DELETE",
+        "content": "",
         "placement_instructions": ""
       }
     ]
@@ -2694,6 +3013,36 @@
         "content": "Artículo 20.- Todas las personas son titulares de derechos sexuales y derechos reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción. El Estado garantiza el ejercicio de los derechos sexuales y reproductivos sin discriminación, con enfoque de género, inclusión y pertinencia cultural, así como el acceso a la información, educación, salud, y a los servicios y prestaciones requeridos para ello, asegurando a todas las mujeres y personas con capacidad de gestar, las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos. Asimismo, garantiza su ejercicio libre de violencias y de interferencias por parte de terceros, ya sean individuos o instituciones. El Estado reconoce y garantiza el derecho de las personas a beneficiarse del progreso científico para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 16",
+        "step": "Indicación",
+        "content_snapshot": "Todas las personas son titulares de derechos sexuales y derechos reproductivos. Estos comprenden, entre otros, el derecho a decidir de forma libre, autónoma e informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la reproducción, el placer y la anticoncepción.\n El Estado garantiza el ejercicio de los derechos sexuales y reproductivos sin discriminación, con enfoque de género, inclusión y pertinencia cultural, así como el acceso a la información, educación, salud, y a los servicios y prestaciones requeridos para ello, asegurando a todas las mujeres y personas con capacidad de gestar, las condiciones para un embarazo, una interrupción voluntaria del embarazo, parto y maternidad voluntarios y protegidos. Asimismo, garantiza su ejercicio libre de violencias y de interferencias por parte de terceros, ya sean individuos o instituciones.\n El Estado reconoce y garantiza el derecho de las personas a beneficiarse del progreso científico para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos. La ley regulará el ejercicio de estos derechos.",
+        "number": "113",
+        "authors_matched": [
+          "Pustilnick, Tammy",
+          "Sepulveda, Barbara",
+          "Reyes, Maria Ramona",
+          "Hoppe, Vanessa",
+          "Royo, Manuela",
+          "Schonhaut, Constanza",
+          "Arauna, Francisca",
+          "Delgado, Aurora",
+          "Politzer, Patricia",
+          "Vallejos, Loreto",
+          "Pinto, Malucha",
+          "Videla, Carolina",
+          "Catrileo, Rosa",
+          "Aguilera, Tiare",
+          "Grandon, Giovanna",
+          "Labrana, Elsa"
+        ],
+        "target_article": 16,
+        "target_scope": "INCISO 3",
+        "action": "ADD",
+        "content": "La ley regulará el ejercicio de estos derechos.",
+        "placement_instructions": "luego del punto final, que pasa a ser punto seguido"
       }
     ]
   },
@@ -2860,6 +3209,27 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 23.- Educación sexual integral. Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el desarrollo del consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual. Es deber del Estado asegurar el ejercicio pleno de este derecho a través de una política única de Educación Sexual Integral, de carácter laico, desde la primera infancia y durante el curso de la vida, con pertinencia cultural y basada en la evidencia científica afianzada, incorporada de forma transversal y específica en las políticas públicas de educación, salud y otras pertinentes.",
         "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 17",
+        "step": "Indicación",
+        "content_snapshot": "Educación sexual integral. Todas las personas tienen derecho a recibir una Educación Sexual Integral, que promueva el disfrute pleno y libre de la sexualidad, enfocada en el placer; la responsabilidad sexo-afectiva; la autonomía, el autocuidado y el desarrollo del consentimiento; el reconocimiento de las diversas identidades y expresiones del género y la sexualidad; que erradique los estereotipos de género y prevenga la violencia de género y sexual.\n Es deber del Estado garantizar el ejercicio pleno de este derecho desde la primera infancia y durante el curso de la vida a través de políticas públicas con pertinencia cultural y basadas en evidencia científica.",
+        "number": "119",
+        "authors_matched": [
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 17,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "Es deber del Estado garantizar el ejercicio pleno de este derecho desde la primera infancia y durante el curso de la vida a través de políticas públicas con pertinencia cultural y basadas en evidencia científica.",
         "placement_instructions": ""
       }
     ]
@@ -3238,6 +3608,51 @@
         "content": "La persona expropiada podrá reclamar de la legalidad del acto expropiatorio y de su monto ante los tribunales que determine la ley.",
         "content_to_remove": "",
         "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.\n El propietario siempre tendrá derecho a que se le indemnice por el justo precio del bien expropiado.\n La persona expropiada podrá reclamar de la legalidad del acto expropiatorio y de su monto ante los tribunales que determine la ley.",
+        "number": "137",
+        "authors_matched": [
+          "Fernandez, Patricio"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO 2",
+        "action": "SUBSTITUTE",
+        "content": "El propietario siempre tendrá derecho a que se le indemnice por el justo precio del bien expropiado.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.\n El propietario siempre tendrá derecho a que se le indemnice por el justo precio del bien expropiado.\n El pago deberá efectuarse de forma previa a la toma de posesión material del bien expropiado y la persona expropiada siempre podrá reclamar de la legalidad del acto expropiatorio, así como del monto y modalidad de pago ante los tribunales que determine la ley.",
+        "number": "142",
+        "authors_matched": [
+          "Delgado, Aurora"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO 3",
+        "action": "SUBSTITUTE",
+        "content": "El pago deberá efectuarse de forma previa a la toma de posesión material del bien expropiado y la persona expropiada siempre podrá reclamar de la legalidad del acto expropiatorio, así como del monto y modalidad de pago ante los tribunales que determine la ley.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 20",
+        "step": "Indicación",
+        "content_snapshot": "Ninguna persona puede ser privada de su propiedad, sino en virtud de una ley que autorice la expropiación por causa de utilidad pública o interés general declarado por el legislador.\n El propietario siempre tendrá derecho a que se le indemnice por el justo precio del bien expropiado.\n El pago deberá efectuarse de forma previa a la toma de posesión material del bien expropiado y la persona expropiada siempre podrá reclamar de la legalidad del acto expropiatorio, así como del monto y modalidad de pago ante los tribunales que determine la ley.\n Cualquiera sea la causa invocada para llevar a cabo la expropiación siempre deberá estar debidamente fundada.",
+        "number": "154",
+        "authors_matched": [
+          "Harboe, Felipe"
+        ],
+        "target_article": 20,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Cualquiera sea la causa invocada para llevar a cabo la expropiación siempre deberá estar debidamente fundada.",
+        "placement_instructions": "nuevo inciso"
       }
     ]
   },
@@ -3381,6 +3796,28 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 21. Derecho colectivo indígena a sus tierras y territorios.\n Los pueblos y naciones indígenas reconocidas por esta Constitución y las leyes tienen derecho colectivo a las tierras y territorios que tradicionalmente han poseído, ocupado, utilizado o adquirido. El Estado reconoce su especial relación con éstos, protegiendo y garantizando su ejercicio.\n El Estado reconoce y garantiza la propiedad y posesión de las tierras indígenas, garantizando su demarcación y titulación.\n Los pueblos y naciones indígenas tienen derecho a usar y administrar los territorios indígenas y recursos naturales que tradicionalmente han utilizado u ocupado, en conformidad con la ley.\n Asimismo, los pueblos y naciones indígenas tienen el derecho a la reparación de las tierras, territorios y recursos que les hayan sido confiscados, tomados, ocupados, utilizados, transferidos o dañados, sin su consentimiento.\n La restitución constituirá el mecanismo preferente de reparación, que será considerada siempre de utilidad pública y social, de conformidad a esta Constitución y la ley.\n El ejercicio de los anteriores derechos tendrá como límites los derechos de la naturaleza y la función ecológica de la propiedad.",
         "content_to_remove": "",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 21",
+        "step": "Indicación",
+        "content_snapshot": "Derecho a las tierras, territorios y recursos. El Estado reconoce y garantiza conforme a la Constitución, el derecho de los pueblos y naciones indígenas a sus tierras, territorios y recursos.\n La propiedad de las tierras indígenas goza de especial protección. El Estado establecerá instrumentos jurídicos eficaces para su catastro, regularización, demarcación, titulación, reparación y restitución.\n La restitución constituye un mecanismo preferente de reparación, de utilidad pública e interés general.\n Conforme a la constitución y la ley, los pueblos y naciones indígenas tienen derecho a utilizar los recursos que tradicionalmente han usado u ocupado, que se encuentran en sus territorios y sean indispensables para su existencia colectiva.",
+        "number": "176",
+        "authors_matched": [
+          "Linconao, Francisca",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 21,
+        "target_scope": "TOTAL",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 21. Derecho a las tierras, territorios y recursos. El Estado reconoce y garantiza conforme a la Constitución, el derecho de los pueblos y naciones indígenas a sus tierras, territorios y recursos. La propiedad de las tierras indígenas goza de especial protección. El Estado establecerá instrumentos jurídicos eficaces para su catastro, regularización, demarcación, titulación, reparación y restitución. La restitución constituye un mecanismo preferente de reparación, de utilidad pública e interés general. Conforme a la constitución y la ley, los pueblos y naciones indígenas tienen derecho a utilizar los recursos que tradicionalmente han usado u ocupado, que se encuentran en sus territorios y sean indispensables para su existencia colectiva.",
         "placement_instructions": ""
       }
     ]
@@ -3903,8 +4340,25 @@
         "content": "Nadie podrá ser objeto de ataques ilegales en contra de ella.",
         "content_to_remove": "",
         "placement_instructions": "Agréguese como inciso segundo"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 28",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "177",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 28,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "icc_id": "251",
@@ -4289,7 +4743,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 78",
         "step": "Indicación",
-        "content_snapshot": "Derecho de asociación. Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nLas asociaciones gozarán de personalidad jurídica si se constituyen conforme a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y otros organismos encargados de hacer cumplir la ley.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.",
+        "content_snapshot": "Derecho de asociación. Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y otros organismos encargados de hacer cumplir la ley.\nLos colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.",
         "number": 694,
         "authors_matched": [
           "Castro, Claudia",
@@ -4305,7 +4759,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 78",
         "step": "Indicación",
-        "content_snapshot": "Derecho de asociación. Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nLas asociaciones gozarán de personalidad jurídica si se constituyen conforme a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.",
+        "content_snapshot": "Derecho de asociación. Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nLos colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.",
         "number": 699,
         "authors_matched": [
           "Meneses, Janis"
@@ -4320,7 +4774,7 @@
         "timestamp": "03-07-2",
         "article": "Artículo 78",
         "step": "Indicación",
-        "content_snapshot": "Derecho de asociación. Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nLas asociaciones gozarán de personalidad jurídica si se constituyen conforme a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\n El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.",
+        "content_snapshot": "Derecho de asociación. Todas las personas naturales o jurídicas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nLos colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.\n El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.",
         "number": 709,
         "authors_matched": [
           "Meneses, Janis"
@@ -4330,6 +4784,78 @@
         "action": "ADD",
         "content": "El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.",
         "placement_instructions": "como inciso final"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de asociación. Todas las personas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nLos colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.\n El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.",
+        "number": "185",
+        "authors_matched": [
+          "Labbe, Bastian",
+          "Meneses, Janis"
+        ],
+        "target_article": 45,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Artículo 45. Derecho de asociación. Todas las personas tienen derecho a asociarse, sin permiso previo.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de asociación. Todas las personas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\nEl ejercicio de este derecho sólo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales. La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nLos colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.\n El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.\n Se prohíben las asociaciones paramilitares y aquellas que atenten contra el orden constitucional.",
+        "number": "192",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis"
+        ],
+        "target_article": 45,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "Se prohíben las asociaciones paramilitares y aquellas que atenten contra el orden constitucional.",
+        "placement_instructions": "a continuación de la norma aprobada en particular por el pleno"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de asociación. Todas las personas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\n La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nLos colectivos y organizaciones sociales que se dedican a la protección del ejercicio de los derechos fundamentales y de la naturaleza contribuyen en el cumplimiento del deber principal del Estado respecto de la garantía y protección de dichos derechos. Sus integrantes y dirigentes cuentan con especial protección constitucional para garantizar el cumplimiento de sus objetivos.\n El Estado reconoce, promueve y protege las formas tradicionales de organización de los pueblos indígenas, instituciones y autoridades propias, respetando la autonomía y las dinámicas internas y no impuestas por la autoridad, siendo resultado de la voluntad colectiva y el derecho propio de las comunidades y pueblos indígenas.\n Se prohíben las asociaciones paramilitares y aquellas que atenten contra el orden constitucional.",
+        "number": "196",
+        "authors_matched": [
+          "Harboe, Felipe",
+          "Barcelo, Luis",
+          "Urrutia, Tatiana"
+        ],
+        "target_article": 45,
+        "target_scope": "WORDING",
+        "action": "DELETE",
+        "content": "",
+        "content_to_remove": "El ejercicio de este derecho solo podrá estar sujeto a regulaciones previstas por la ley para el resguardo de los derechos fundamentales.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 45",
+        "step": "Indicación",
+        "content_snapshot": "Derecho de asociación. Todas las personas tienen derecho a asociarse, sin permiso previo.\nEl derecho de asociación comprende la protección de la autonomía de las asociaciones para el cumplimiento de sus fines específicos y el establecimiento de su regulación interna, organización y demás elementos definitorios.\nPara gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.\n La ley podrá imponer restricciones específicas al ejercicio de este derecho respecto de las policías y fuerzas armadas.\nLas personas y asociaciones que se dedican a la protección y defensa de los derechos humanos y de la naturaleza contarán con especial protección del Estado para garantizar el cumplimiento de sus fines.",
+        "number": "199",
+        "authors_matched": [
+          "Henriquez, Natalia",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 45,
+        "target_scope": "INCISO 5",
+        "action": "SUBSTITUTE",
+        "content": "Las personas y asociaciones que se dedican a la protección y defensa de los derechos humanos y de la naturaleza contarán con especial protección del Estado para garantizar el cumplimiento de sus fines.",
+        "placement_instructions": ""
       }
     ]
   },
@@ -4474,6 +5000,50 @@
         "action": "MODIFY_PHRASE",
         "content": "",
         "content_to_remove": "y a ser elegidas en cargos de elección popular"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 47",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas chilenas en el exterior. Las personas chilenas que se encuentren en el exterior forman parte de la comunidad política del país.\nSe garantiza la reunificación familiar y el retorno voluntario y seguro al territorio chileno, con enfoque de derechos humanos, de las personas chilenas y de sus descendientes en el extranjero.\n Se garantiza el derecho a votar en las elecciones de carácter nacional, presidenciales, parlamentarias, plebiscitos y consultas, de conformidad a esta Constitución y las leyes.",
+        "number": "210",
+        "authors_matched": [
+          "Urrutia, Tatiana",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 47,
+        "target_scope": "INCISO 1",
+        "action": "SUBSTITUTE",
+        "content": "Derechos de las personas chilenas en el exterior. Las personas chilenas que se encuentren en el exterior forman parte de la comunidad política del país.",
+        "placement_instructions": ""
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 47",
+        "step": "Indicación",
+        "content_snapshot": "Derechos de las personas chilenas en el exterior. Las personas chilenas que se encuentren en el exterior forman parte de la comunidad política del país.\nSe garantiza la reunificación familiar y el retorno voluntario y seguro al territorio chileno, con enfoque de derechos humanos, de las personas chilenas y de sus descendientes en el extranjero.\n Se garantiza el derecho a votar en las elecciones de carácter nacional, presidenciales, parlamentarias, plebiscitos y consultas, de conformidad a esta Constitución y las leyes.\n En caso de crisis humanitaria y demás situaciones que determine la ley, el Estado asegurará la reunificación familiar y el retorno voluntario al territorio nacional.",
+        "number": "214",
+        "authors_matched": [
+          "Urrutia, Tatiana",
+          "Abarca, Damaris",
+          "Baranda, Benito",
+          "Cancino, Adriana",
+          "Celedon, Roberto",
+          "Delgado, Aurora",
+          "Dominguez, Gaspar",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 47,
+        "target_scope": "INCISO",
+        "action": "ADD",
+        "content": "En caso de crisis humanitaria y demás situaciones que determine la ley, el Estado asegurará la reunificación familiar y el retorno voluntario al territorio nacional.",
+        "placement_instructions": "como nuevo inciso final"
       }
     ]
   },
@@ -4823,8 +5393,26 @@
         "content": "5. Ser oída, especialmente antes de que se tome en contra suya una medida que le afecte desfavorablemente.",
         "content_to_remove": "",
         "placement_instructions": "Sustitúyase el numeral 5"
+      },
+      {
+        "timestamp": "04-25",
+        "article": "Artículo 48",
+        "step": "Indicación",
+        "content_snapshot": "",
+        "number": "215",
+        "authors_matched": [
+          "Meneses, Janis",
+          "Bravo, Daniel",
+          "Fernandez, Patricio"
+        ],
+        "target_article": 48,
+        "target_scope": "TOTAL",
+        "action": "DELETE",
+        "content": "",
+        "placement_instructions": ""
       }
-    ]
+    ],
+    "final_status": "Eliminado"
   },
   {
     "icc_id": "251",
