@@ -35,7 +35,7 @@ def extract_voting(pdf_path, commission_id, members_list):
         raise ValueError("API Key not found.")
         
     genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel('gemini-3-flash-preview')
+    model = genai.GenerativeModel('gemini-3-pro-preview')
     
     # 1. Check Profile
     profile = COMMISSION_MAP.get(commission_id, {})
@@ -88,7 +88,11 @@ def main():
     print(f"Loaded {len(members)} convention members.")
     
     found_files = []
+    target_com = os.environ.get("TARGET_COM")
     for i in range(1, 8):
+        if target_com and str(i) != target_com:
+            continue
+            
         pdf_dir = os.path.join(BASE_DIR, f"comision-{i}", "PDFs")
         if not os.path.exists(pdf_dir): continue
         

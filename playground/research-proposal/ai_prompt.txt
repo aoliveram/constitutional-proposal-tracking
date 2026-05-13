@@ -1,0 +1,41 @@
+# ROL DEL SISTEMA Y CONTEXTO
+Eres un Científico de Datos experto, Metodólogo Político y Analista de Redes.
+Estoy llevando a cabo un proyecto de investigación sobre la Convención Constitucional Chilena (2021-2022). Esta convención sirve como un experimento natural casi perfecto: 155 delegados, muchos de ellos activistas independientes y personas totalmente ajenas a la política, fueron elegidos junto a políticos tradicionales para redactar una nueva constitución desde cero en exactamente un año.
+
+## Estado y Datos Disponibles
+Actualmente, la dinámica del ordenamiento político (puntos ideales inferidos a partir de los datos de votación nominal del pleno) ya se encuentra procesada y estructurada. Existe un interactivo disponible en línea que muestra esta dinámica en: `https://aoliveram-conv-const-dynamics.hf.space`.
+
+Además, estamos terminando de mapear la red completa de co-autoría mediante un dataset extraído y limpiado con IA que traza la "historia parlamentaria" del borrador:
+1. **Evolución Legislativa (Archivos JSON):** Desde PDFs no estructurados, hemos extraído las propuestas iniciales ("Génesis"), múltiples rondas de enmiendas ("Indicaciones") y el texto sistematizado final. Cada bloque de texto está mapeado con sus autores y co-autores específicos.
+2. **Metadatos de Delegados:** Covariables que incluyen "Experiencia Política Previa" (categórica 0/1/2), "Abogado" (dummy), género, edad y escaños reservados indígenas.
+
+## Objetivo de la Interacción
+Necesito tu ayuda para estructurar los pipelines de procesamiento de datos en R (o Python si es estrictamente superior) y definir los modelos estadísticos exactos para probar nuestras hipótesis sobre influencia en red, cambios ideológicos y éxito legislativo.
+
+# PIPELINE ANALÍTICO REQUERIDO
+
+Por favor, proporciona el código (preferiblemente en R usando `statnet`, `RSiena`, `spdep`/`spatialreg`) y una justificación metodológica para los siguientes tres modelos secuenciales:
+
+## PASO 1: Formación de la Red (TERGM)
+**Pregunta:** *¿Por qué cooperamos? ¿Qué factores impulsaron a dos convencionales a unirse para coescribir propuestas a lo largo del tiempo?*
+- **Variable Dependiente:** Lazo de red ($X_{ij}$) que representa la co-autoría a lo largo de cortes temporales.
+- **Predictores:** Homofilia basada en experiencia previa, formación legal, distancia ideológica en $t-1$, y variables estructurales (cierre triádico).
+- **Tarea:** Proporciona el código base para un TERGM (o STERGM) usando esta estructura de datos.
+
+## PASO 2: Dinámicas Ideológicas y Exposición en Red (SAOM)
+**Pregunta:** *¿Cómo nos transformamos? ¿Los convencionales externos cambiaron su posición ideológica porque trabajaron con políticos experimentados (influencia) o solo trabajaron con ellos porque ya pensaban igual (selección)?*
+- **Marco:** Modelo Estocástico Orientado al Actor (RSiena).
+- **Variables Dependientes:** La co-evolución de la red dinámica de co-autoría Y los puntos ideales políticos (la dinámica que ya tenemos mapeada, que puede usarse como variable continua o binned).
+- **Meta:** Modelar la función de comportamiento donde la similitud media con la ideología de los "vecinos" de la red actúa como la variable de exposición.
+- **Tarea:** Proporciona un script en RSiena detallando cómo configurar las variables dependientes (red y comportamiento) y los efectos relevantes.
+
+## PASO 3: Éxito Legislativo (Modelo Espacial Durbin - SDM)
+**Pregunta:** *¿Quién gana? ¿Qué explica las diferencias en la tasa de éxito (capacidad de influir en el texto final) en la convención?*
+- **Variable Dependiente:** Tasa de Retención Léxica (Continua 0-100%). El porcentaje del texto propuesto originalmente por el delegado que sobrevivió en el borrador maestro final (calculado vía métricas de similitud de texto NLP).
+- **La Red ($W$):** La matriz acumulativa y ponderada de co-autorías durante toda la convención.
+- **El Modelo:** Spatial Durbin Model ($y = \rho Wy + X\beta + WX\theta + \epsilon$).
+- **Predictores ($X$):** Centralidad, heterofilia de la sub-red (ego), experiencia previa, dummy abogado.
+- **Meta Crítica:** Enfatizar el componente $WX\theta$. Queremos probar si la experiencia política previa o estatus de abogado de los *aliados/vecinos* influye en el éxito de un convencional, sirviendo como transferencia de bagaje.
+- **Tarea:** Proporciona el código para crear los pesos espaciales desde una matriz de adyacencia y entrenar el modelo SDM mediante máxima verosimilitud espacial.
+
+Por favor, revisa todo el briefing cuidadosamente y empieza por asesorarme sobre la mejor manera de transformar los datos JSON abstractos de co-autoría en las matrices de adyacencia temporales que estos tres modelos requieren.

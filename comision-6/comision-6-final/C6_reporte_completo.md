@@ -1,0 +1,159 @@
+---
+title: "Reporte de Trazabilidad: Comisión 6"
+author: Análisis Automático
+date: \today
+geometry: margin=2cm
+---
+
+# Introducción
+
+Este documento presenta un análisis cuantitativo de la trazabilidad de las iniciativas en la **Comisión 6**. El objetivo de este reporte es entender el nivel de supervivencia de las propuestas originales después del proceso de indicaciones, mostrando qué proporción logró formar parte del borrador final.
+
+# Resumen Analítico
+
+En esta comisión, se analizaron un total de **453 propuestas** vinculadas al borrador. El destino de estas propuestas se desglosa de la siguiente manera:
+
+- **116 propuestas** (25.6%) lograron sobrevivir hasta el borrador final, contribuyendo a la redacción de **116 artículos únicos**.
+- De las que sobrevivieron, **97** se mantuvieron idénticas o con cambios mínimos, mientras que **19** fueron catalogadas como similares, implicando fusiones o modificaciones sustanciales.
+- **337 propuestas** fueron eliminadas explícitamente durante el proceso.
+- **0 propuestas** no se encuentran en el borrador final (sin destino o rastro evidente).
+
+Este grado de síntesis refleja cómo el debate y las votaciones condensaron 116 iniciativas en solo 116 artículos constitucionales finales.
+
+# Tablas de Datos
+
+A continuación se presentan las métricas extraídas directamente del flujo de trabajo, seguidas de la matriz de trazabilidad que conecta cada artículo final con sus propuestas originales (identificadas por su ID de `source`).
+
+## TABLA 1: RESUMEN GENERAL
+
+| Métrica | Cantidad |
+| :--- | :--- |
+| Total de Artículos Únicos en el Borrador Final | 116 |
+| Total de Propuestas 'Idéntico' | 97 |
+| Total de Propuestas 'Similar' | 19 |
+| Total de Propuestas 'No encontrado' | 0 |
+| Total de Propuestas 'Eliminado' | 337 |
+
+
+## TABLA 2: MATRIZ DE TRAZABILIDAD (SOURCES POR ARTICULO FINAL)
+
+| Artículo Final Destino | Idéntico (Sources) | Similar (Sources) | No encontrado (Sources) |
+| :--- | :--- | :--- | :--- |
+| **339.- Artículo 1** | 41-6 | - | - |
+| **340.- Artículo 2** | 41-6 | - | - |
+| **341.- Artículo 3** | - | 41-6 | - |
+| **342.- Artículo 4** | 41-6 | - | - |
+| **343.- Artículo 5** | 41-6 | - | - |
+| **344.- Artículo 6** | 90-6 | - | - |
+| **345.- Artículo 7** | 41-6 | - | - |
+| **346.- Artículo 8** | 41-6 | - | - |
+| **347.- Artículo 9** | 41-6 | - | - |
+| **348.- Artículo 10** | 41-6 | - | - |
+| **349.- Artículo 11** | - | 41-6 | - |
+| **350.- Artículo 12** | - | 41-6 | - |
+| **351.- Artículo 13** | 90-6 | - | - |
+| **352.- Artículo 14** | 41-6 | - | - |
+| **353.- Artículo 15** | 41-6 | - | - |
+| **355.- Artículo 1** | - | 90-6 | - |
+| **356.- Artículo 2** | 41-6 | - | - |
+| **357.- Artículo 3** | C6_IND03-07_ART3 | - | - |
+| **358.- Artículo 4** | C6_IND03-07_ART4 | - | - |
+| **359.- Artículo 5** | C6_IND03-07_ART5 | - | - |
+| **360.- Artículo 6** | C6_IND03-07_ART6 | - | - |
+| **361.- Artículo 7** | C6_IND03-07_ART7 | - | - |
+| **362.- Artículo 8** | 88-6 | - | - |
+| **363.- Artículo 9** | C6_IND03-07_ART9 | - | - |
+| **364.- Artículo 12** | 88-6 | - | - |
+| **365.- Artículo 13** | - | 220-6 | - |
+| **366.- Artículo 14** | 220-6 | - | - |
+| **367.- Artículo 15** | 88-6 | - | - |
+| **368.- Artículo 16** | C6_IND03-07_ART16 | - | - |
+| **369.- Artículo 17** | C6_X_ART24 | - | - |
+| **371.- Artículo 19** | 90-6 | - | - |
+| **372.- Artículo 20** | 226-6 | - | - |
+| **373.- Artículo 21** | - | 242-6 | - |
+| **374.- Artículo 22** | C6_X_ART28B | - | - |
+| **375.- Artículo 26** | C6_X_ART42 | - | - |
+| **377.- Artículo 28** | 88-6 | - | - |
+| **378.- Artículo 29** | 88-6 | - | - |
+| **379.- Artículo 30** | 90-6 | - | - |
+| **380.- Artículo 31** | 88-6 | - | - |
+| **381.- Artículo 32** | 95-6 | - | - |
+| **382.- Artículo 33** | 95-6 | - | - |
+| **383.- Artículo 34** | 90-6 | - | - |
+| **384.- Artículo 1** | 457 | - | - |
+| **385.- Artículo 2** | C6_IND04-27_ART2 | - | - |
+| **386.- Artículo 3** | - | 560 | - |
+| **387.- Artículo 4** | 560 | - | - |
+| **388.- Artículo 5** | 560 | - | - |
+| **389.- Artículo 6** | 560 | - | - |
+| **390.- Artículo 7** | 909 | - | - |
+| **391.- Artículo 8** | 560 | - | - |
+| **392.- Artículo 10** | 560 | - | - |
+| **393.- Artículo 11** | 560 | - | - |
+| **394.- Artículo 12** | 560 | - | - |
+| **395.- Artículo 12 bis** | C6_IND05-08_ART12BIS | - | - |
+| **396.- Artículo 13** | 444 | - | - |
+| **397.- Artículo 13 bis** | C6_IND05-08_ART13BIS | - | - |
+| **398.- Artículo 13 ter** | C6_IND05-08_ART13TER | - | - |
+| **399.- Artículo 14** | C6_IND04-01-2_ART15 | - | - |
+| **400.- Artículo 16** | C6_IND04-01-2_ART16 | - | - |
+| **401.- Artículo 17** | C6_IND04-27_ART17 | - | - |
+| **402.- Artículo 18** | C6_IND04-27_ART18 | - | - |
+| **403.- Artículo 19** | 202 | - | - |
+| **404.- Artículo 20** | 431 | - | - |
+| **405.- Artículo 21** | - | 190 | - |
+| **406.- Artículo 22** | 559 | - | - |
+| **407.- Artículo 26** | 409 | - | - |
+| **408.- Artículo 27** | 409 | - | - |
+| **409.- Artículo 28** | 409 | - | - |
+| **410.- Artículo 29** | C6_IND04-27_ART29 | - | - |
+| **411.- Artículo 30** | 573 | - | - |
+| **412.- Artículo 31** | 573 | - | - |
+| **413.- Artículo 32** | 573 | - | - |
+| **414.- Artículo 35** | 954 | - | - |
+| **415.- Artículo 35 bis** | C6_IND05-08_ART35BIS | - | - |
+| **416.- Artículo 37** | 937 | - | - |
+| **417.- Artículo 38** | 717 | - | - |
+| **418.- Artículo 39** | 937 | - | - |
+| **419.- Artículo 40** | 937 | - | - |
+| **420.- Artículo 41** | 717 | - | - |
+| **421.- Artículo 42** | 937 | - | - |
+| **422.- Artículo 43** | 866 | - | - |
+| **423.- Artículo 44** | 936 | - | - |
+| **424.- Artículo 45** | 641 | - | - |
+| **425.- Artículo 46** | - | 558 | - |
+| **426.- Artículo 47** | 558 | - | - |
+| **427.- Artículo 48** | 641 | - | - |
+| **428.- Artículo 49** | 631 | - | - |
+| **429.- Artículo 50** | 558 | - | - |
+| **430.- Artículo 52** | - | 465 | - |
+| **431.- Artículo 53** | 465 | - | - |
+| **432.- Artículo 54** | 465 | - | - |
+| **433.- Artículo 55** | - | 579 | - |
+| **434.- Artículo 56** | - | 344 | - |
+| **435.- Artículo 62** | 902 | - | - |
+| **436.- Artículo 65** | 89 | - | - |
+| **437.- Artículo 66** | - | 472 | - |
+| **438.- Artículo 67** | 325 | - | - |
+| **439.- Artículo 68** | 472 | - | - |
+| **440.- Artículo 68 bis** | C6_IND05-08_ART68BIS | - | - |
+| **441.- Artículo 69** | - | 472 | - |
+| **442.- Artículo 71** | 472 | - | - |
+| **443.- Artículo 72** | 325 | - | - |
+| **444.- Artículo 73** | 817, 940 | - | - |
+| **445.- Artículo 74** | 802 | - | - |
+| **446.- Artículo 75** | 802 | - | - |
+| **447.- Artículo 76** | - | 425 | - |
+| **448.- Artículo 78** | 425 | - | - |
+| **449.- Artículo 79** | - | 425 | - |
+| **450.- Artículo 81** | 425 | - | - |
+| **451.- Artículo 82** | - | 467 | - |
+| **452.- Artículo 83** | 467 | - | - |
+| **453.- Artículo 85** | - | 611-4 | - |
+| **454.- Artículo 87** | - | 1031-4 | - |
+| **455.- Artículo 88** | 1031-4 | - | - |
+| **456.- Artículo 89** | 1031-4 | - | - |
+| **457.- Artículo 90** | C6_IND05-08_ARTN90 | - | - |
+
+
