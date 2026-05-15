@@ -1302,7 +1302,11 @@
                 "step": "Indicacion",
                 "content_snapshot": "El Congreso Plurinacional es el órgano deliberativo, paritario y plurinacional que representa a los pueblos reunidos y naciones reconocidas por esta Constitución y las leyes. El Congreso es de carácter unicameral y ejerce la potestad legislativa y las otras facultades encomendadas por la Constitución y las leyes. Corresponderá a la Cámara Territorial, en carácter de Cámara revisora, estudiar los proyectos de reforma constitucional, de leyes interpretativas de la constitución, de la ley anual de presupuesto, de ley sobre la división política y administrativa del país, de ley que afecten las competencias de las regiones, de ley sobre votaciones populares y el sistema electoral. A su vez, las que irroguen directamente gastos al Estado, las que impongan, supriman, reduzcan o condonen tributos de cualquier clase o naturaleza, establezcan exenciones o modifiquen las existentes, y determinen su forma, proporcionalidad o progresión, las que fijen las normas sobre enajenación de bienes del Estado o de las municipalidades y sobre su arrendamiento o concesión, las que fijen las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra, y las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él, las que creen nuevos servicios públicos o empleos rentados, sean fiscales, semifiscales, autónomos o de las empresas del Estado; suprimirlos y determinar sus funciones o atribuciones, las que digan relación con la administración financiera o presupuestaria del Estado, las que fijan, modifican, conceden, aumentan remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la Administración Pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos, las que establecen o modifican las normas sobre seguridad social o que incidan en ella, tanto del sector público como del sector privado y las que contraten o autoricen a contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas, de los gobiernos regionales o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos, haciendo referencia al artículo 29 del texto sistematizado.",
                 "number": 154,
-                "authors": [],
+                "authors": [
+                    "Cubillos, Marcela",
+                    "Hube, Constanza",
+                    "Zuniga, Luis Arturo"
+                ],
                 "target_scope": "INCISO 3",
                 "action": "SUBSTITUTE",
                 "content": "estudiar",
@@ -1315,7 +1319,11 @@
                 "step": "Indicacion",
                 "content_snapshot": "El Congreso Plurinacional es el órgano deliberativo, paritario y plurinacional que representa a los pueblos reunidos y naciones reconocidas por esta Constitución y las leyes. El Congreso es de carácter unicameral y ejerce la potestad legislativa y las otras facultades encomendadas por la Constitución y las leyes. Corresponderá a la Cámara Territorial estudiar los proyectos de reforma constitucional, de leyes interpretativas de la constitución, de la ley anual de presupuesto, de ley sobre la división política y administrativa del país, de ley que afecten las competencias de las regiones, de ley sobre votaciones populares y el sistema electoral. A su vez, las que irroguen directamente gastos al Estado, las que impongan, supriman, reduzcan o condonen tributos de cualquier clase o naturaleza, establezcan exenciones o modifiquen las existentes, y determinen su forma, proporcionalidad o progresión, las que fijen las normas sobre enajenación de bienes del Estado o de las municipalidades y sobre su arrendamiento o concesión, las que fijen las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra, y las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él, las que creen nuevos servicios públicos o empleos rentados, sean fiscales, semifiscales, autónomos o de las empresas del Estado; suprimirlos y determinar sus funciones o atribuciones, las que digan relación con la administración financiera o presupuestaria del Estado, las que fijan, modifican, conceden, aumentan remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la Administración Pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos, las que establecen o modifican las normas sobre seguridad social o que incidan en ella, tanto del sector público como del sector privado y las que contraten o autoricen a contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas, de los gobiernos regionales o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos, haciendo referencia al artículo 29 del texto sistematizado.",
                 "number": 154,
-                "authors": [],
+                "authors": [
+                    "Cubillos, Marcela",
+                    "Hube, Constanza",
+                    "Zuniga, Luis Arturo"
+                ],
                 "target_scope": "INCISO 3",
                 "action": "DELETE",
                 "content_to_remove": "en carácter de Cámara revisora",
@@ -7069,9 +7077,7 @@
         "titleuid": "C1-GEN-CH*",
         "title": "*******",
         "timestamp": "04-06",
-        "authors": [
-            ""
-        ],
+        "authors": [],
         "location": "Entre Artículo 61 y Artículo C1-GEN-CH*-ART01"
     },
     {
