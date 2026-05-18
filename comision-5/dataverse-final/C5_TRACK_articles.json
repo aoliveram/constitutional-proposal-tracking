@@ -1,6 +1,6 @@
 [
     {
-        "article_uid": "C5-GEN-CH01-ART01",
+        "article_uid": "C5_GEN_CH01_ART01",
         "timestamp": "03-01",
         "article": "Artículo 1",
         "text": "La actuación del Estado y de todas las personas estarán sujetas al principio de acción climática justa, el que establece el deber de transformar de manera progresiva, y sin retroceder nuestra forma de relacionarnos con el planeta, actuar de forma urgente, promoviendo la mitigación de la crisis climática y la adaptación a sus efectos, como una cuestión de seguridad nacional y global.",
@@ -58,7 +58,7 @@
         "final_status": "Idéntico a 296.- Artículo 1"
     },
     {
-        "article_uid": "C5-IND04-09-2-CH01-ART12A",
+        "article_uid": "C5_IND04_09_2_CH01_ART12A",
         "timestamp": "04-09-2",
         "step": "Indicación",
         "article": "Artículo 12 A",
@@ -75,7 +75,7 @@
         "final_status": "Idéntico a 299.- Artículo 12 A"
     },
     {
-        "article_uid": "C5-IND04-09-2-CH01-ART12B",
+        "article_uid": "C5_IND04_09_2_CH01_ART12B",
         "timestamp": "04-09-2",
         "step": "Indicación",
         "article": "Artículo 12 B",
@@ -92,7 +92,7 @@
         "final_status": "Idéntico a 300.- Artículo 12 B"
     },
     {
-        "article_uid": "C5-IND04-09-2-CH01-ART12C",
+        "article_uid": "C5_IND04_09_2_CH01_ART12C",
         "timestamp": "04-09-2",
         "step": "Indicación",
         "article": "Artículo 12 C",
@@ -109,7 +109,7 @@
         "final_status": "Idéntico a 301.- Artículo 12 C"
     },
     {
-        "article_uid": "C5-IND04-09-2-CH01-ART12D",
+        "article_uid": "C5_IND04_09_2_CH01_ART12D",
         "timestamp": "04-09-2",
         "step": "Indicación",
         "article": "Artículo 12 D",
@@ -127,7 +127,7 @@
         "final_status": "Idéntico a 302.- Artículo 12 D"
     },
     {
-        "article_uid": "C5-GEN-CH07-ART21",
+        "article_uid": "C5_GEN_CH07_ART21",
         "timestamp": "03-01",
         "article": "Artículo 21",
         "text": "Es deber del Estado garantizar el derecho de uso y acceso gratuito, eficaz, seguro y responsable con los ecosistemas, a las playas de mar, ríos, lagos y rutas ancestrales costeras, a través de vías de acceso y en los casos en que sea necesario, por la geografía del lugar y cuando las vías de acceso establecidas no sean funcionales o inexiste, deberá realizar las obras pertinentes.",
@@ -200,7 +200,7 @@
         "final_status": "Idéntico a 303.- Artículo 19"
     },
     {
-        "article_uid": "C5-GEN-CH10-ART25",
+        "article_uid": "C5_GEN_CH10_ART25",
         "timestamp": "03-01",
         "article": "Artículo 25",
         "text": "Es deber del Estado:\n 1. Fomentar y apoyar métodos y prácticas que tengan como objetivo gestionar, evitar y reducir la generación de residuos con el objeto de preservar la salud humana, de los ecosistemas y de la regeneración de suelos y Naturaleza.\n 2. Velar porque los productores de alimentos, bienes, productos y servicios sean responsables a lo largo del ciclo de vida de estos, de la gestión y la disposición final de sus residuos. Quién genere impactos ambientales serán responsables de estos.\n 3. Regular, apoyar y permitir a todo habitante de Chile el acceso a la gestión de sus residuos domiciliarios, orgánicos, aguas grises y aguas negras fomentando la gestión responsable y ambientalmente racional de residuos; diversificada y desconcentrada mediante economías circulares regenerativas con participación comunitaria y con pertinencia territorial. \n 4. Asegurar a la población la infraestructura necesaria para la gestión de sus residuos incluyendo sitios de disposición transitoria o final de todos los residuos en todas las comunas del país. \n 5. Elaborar políticas destinadas a la gestión de toda clase de residuos, actualizada de acuerdo a las tecnologías disponibles.",
@@ -257,7 +257,7 @@
         "final_status": "Idéntico a 304.- Artículo 20"
     },
     {
-        "article_uid": "C5-GEN-CH15-ART42",
+        "article_uid": "C5_GEN_CH15_ART42",
         "timestamp": "03-01",
         "article": "Artículo 42",
         "text": "La naturaleza o Pacha Mama, donde se reproduce y realiza la vida, tiene derecho al respeto integral de su existencia y al mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos.\n Esto incluye el derecho al respeto y protección de los ríos, los lagos, las fuentes acuíferas, las montañas, los bosques, el desierto, el clima, el mar, y la biodiversidad, flora y fauna que se encuentra en su seno.\n Toda persona, comunidad, pueblo o nacionalidad podrá exigir a la autoridad pública el cumplimiento de los derechos de la naturaleza a través de un recurso pronto, expeditivo. Para aplicar e interpretar estos derechos se observarán los principios establecidos en la Constitución, en lo que proceda.\n El Estado incentivará a las personas naturales y jurídicas, y a los colectivos, para que protejan la naturaleza, y promover el respeto a todos los elementos que forman un ecosistema.",
@@ -298,7 +298,7 @@
         "final_status": "Idéntico a 297.- Artículo 4"
     },
     {
-        "article_uid": "C5-GEN-CH18-ART47",
+        "article_uid": "C5_GEN_CH18_ART47",
         "article": "Artículo 47",
         "text": "La Naturaleza conformada por sus elementos, ecosistemas y biodiversidad, son titulares de derechos y sujetos de protección por parte del Estado.\n La Naturaleza y los elementos que la conforman tienen derecho a existir, a ser preservadas, a la protección, a ejercer y regenerar sus ciclos vitales y sus funciones ecológicas, a la restauración integral de su equilibrio ecológico y a ser representada.\n El Estado tiene el deber de promover, respetar, proteger y garantizar estos derechos en el ámbito de sus competencias.\n Toda persona natural o jurídica, tiene legitimación activa para representar a la Naturaleza, para exigir el respeto y cumplimiento de los derechos, ante instancias administrativas y judiciales. ",
         "sources": [
@@ -338,7 +338,7 @@
         "final_status": "Idéntico a 298.- Artículo 9"
     },
     {
-        "article_uid": "C5-GEN-CH22-ART60",
+        "article_uid": "C5_GEN_CH22_ART60",
         "timestamp": "03-01",
         "article": "Artículo 60",
         "text": "Los animales no humanos son reconocidos como sujetos de derecho. El Estado garantizará la protección y mayor respeto de todos los animales, en su calidad de individuos sintientes, y les reconoce los siguientes derechos: a vivir una vida libre de maltrato y al resguardo de su hábitat natural y a la no extinción de su especie. Los derechos de los animales consagrados en la constitución pueden ser ampliados conforme a la Ley.",
@@ -396,7 +396,7 @@
         "final_status": "Similar a 305.- Artículo 23"
     },
     {
-        "article_uid": "C5-GEN-CH34-ART73",
+        "article_uid": "C5_GEN_CH34_ART73",
         "timestamp": "03-01",
         "article": "Artículo 73",
         "text": "Son principios de la protección de la Naturaleza y las normas sobre sus elementos y componentes, los principios: biocéntrico, precautorio, no regresión, progresividad, preventivo, justicia ambiental y ecológica, solidaridad intra e intergeneracional, in dubio pro natura, responsabilidad, transparencia, rendición de cuentas y máxima publicidad.",
@@ -454,7 +454,7 @@
         "final_status": "Idéntico a 307.- Artículo 26"
     },
     {
-        "article_uid": "C5-GEN-CH54-ART93",
+        "article_uid": "C5_GEN_CH54_ART93",
         "timestamp": "03-01",
         "article": "Artículo 93",
         "text": " De la democracia ecológica y plurinacional. Las actuaciones públicas, su proceso de deliberación y toma de decisión a nivel territorial se guiará por el principio de democracia ecológica, el cual busca maximizar la realización y garantía de los derechos reconocidos por la Constitución, disponiendo de las herramientas necesarias para alcanzar el buen vivir, el reconocimiento del rol histórico de los pueblos originarios como guardianes del territorio y la Naturaleza y la redistribución del poder en la toma de decisiones sobre el territorio.\n La democracia ecológica se ejerce por las personas humanas, individual y colectivamente consideradas, por medio de los derechos de acceso a la participación pública en la toma de decisiones ambientales y sobre la Naturaleza, acceso a la información ambiental, acceso a la justicia y la protección a las y los defensores de la Naturaleza, los derechos humanos y las personas sintientes no humanos.\n Los pueblos y naciones preexistentes son los guardianes de la biodiversidad de sus territorios. A la vez, los territorios son el sustrato material del lenguaje, la cosmovisión, la medicina, los conocimientos botánicos, zoológicos, climáticos y alimentarios de los pueblos. La ruptura de los nexos con el territorio produce la destrucción cultural y étnica de los pueblos y naciones preexistentes",
@@ -512,7 +512,7 @@
         "final_status": "Idéntico a 308.- Artículo 33"
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART1",
+        "article_uid": "C5_GEN2_CH1_ART1",
         "timestamp": "03-26",
         "article": "Artículo 1",
         "text": "Naturaleza Jurídica de las Aguas. Las aguas, Fillke Ko, Champs, Puri, Yakú, Cima, Umanaka, Vai, son un elemento vivo de la Naturaleza, un ciclo dinámico, y un componente esencial para la generación, sustento y permanencia de la vida, la existencia de los pueblos y naciones indígenas preexistentes, el ejercicio de los derechos humanos y de la Naturaleza, la dignidad humana, así como para alcanzar el buen vivir.\nLas aguas, en todas sus fases, orígenes, cuerpos y estados, son bienes comunes naturales inapropiables, cuyo acceso y uso público debe asegurarse para las presentes y futuras generaciones humanas, no humanas, y para el equilibrio ecosistémico, sobre la base de principios de solidaridad, complementariedad, reciprocidad, equidad, interseccionalidad, responsabilidad y los demás principios establecidos en esta Constitución. Es deber del Estado y las personas la conservación, preservación, protección y restauración de las aguas y de su ciclo ecológico, el cual es indivisible y continuo.",
@@ -639,7 +639,7 @@
         "final_status": "Idéntico a 309.- Artículo 1"
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART2",
+        "article_uid": "C5_GEN2_CH1_ART2",
         "timestamp": "03-26",
         "article": "Artículo 2",
         "text": "Los usos prioritarios de las aguas, en orden de prelación, son:\n1. La salud y el equilibrio de los ecosistemas donde estas yacen y el derecho humano al agua y al saneamiento.\n2. Los usos ancestrales de los pueblos indígenas.\n3. El ejercicio de la soberanía alimentaria.\nLos demás usos que sean establecidos por cada Consejo Plurinacional de Cuenca.",
@@ -766,7 +766,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART3",
+        "article_uid": "C5_GEN2_CH1_ART3",
         "timestamp": "03-26",
         "article": "Artículo 3",
         "text": "De la autorización de uso de aguas. El Estado podrá autorizar el uso de las aguas conforme a la ley. Esta autorización será inapropiable, incomerciable, intransferible y otorgada por la autoridad a los particulares en calidad de custodios y obliga al titular a desarrollar la actividad que justifica su otorgamiento. La ley establecerá las condiciones de autorización, uso, obligaciones, limitaciones, tarifas, temporalidad, renovación, extinción y demás que sean pertinentes, de estas autorizaciones de uso.\nLas autorizaciones de uso de agua serán concedidas respetando las prioridades de uso establecidas en el artículo 2°, basándose en la distribución y disponibilidad material de las aguas en las cuencas hidrográficas, acuíferos y zonas costeras, considerando la variación estacional de los caudales durante cada año. No podrá usarse aguas sin esta autorización.\nToda persona podrá exigir que el uso para el cual fue otorgada la autorización sea efectivo, en la forma que regule la ley.\nEl Estado debe elaborar un Catastro Público que considere todos los usos autorizados de aguas, el que deberá cumplir con los estándares del derecho de acceso a la información ambiental.",
@@ -893,7 +893,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART4",
+        "article_uid": "C5_GEN2_CH1_ART4",
         "timestamp": "03-26",
         "article": "Artículo 4",
         "text": "Sistema de gobernanza de las aguas. El Estado es el garante de asegurar un sistema de gobernanza de las aguas a través de la gestión integrada de cuencas, cuya distribución de usos corresponderá a los Consejos Plurinacionales de Cuencas, sin perjuicio de las atribuciones de la Autoridad Nacional de las Aguas.",
@@ -1020,7 +1020,7 @@
         ]
     },
     {
-        "article_uid": "C5-IND05-04-CH1-ARTNUEVO",
+        "article_uid": "C5_IND05_04_CH1_ARTNUEVO",
         "timestamp": "05-04",
         "article": "Artículo Nuevo",
         "text": "Los bienes comunes naturales son elementos o componentes de la Naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras.",
@@ -1036,7 +1036,7 @@
         "final_status": "Similar a 317.- Artículo Nuevo"
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART49",
+        "article_uid": "C5_GEN2_CH1_ART49",
         "timestamp": "03-26",
         "article": "Artículo 49",
         "text": "Los suelos y los subsuelos deberán ser ordenados, destinados, protegidos y compatibilizados en cuanto a su uso actual y futuro, tomando especialmente en consideración los patrimonios indígenas, culturales, de valor arqueológico e histórico, la Naturaleza y bienes comunes que en ellos se encuentran, la integridad ecosistémica y las aguas. Es deber del Estado limitar el acaparamiento y la concentración de los suelos y las aguas según las disposiciones legales.\nSe considerará a las cuencas hidrográficas como unidades funcionales de gestión y gobernanza. Dichas unidades deberán conducir sus actuaciones siguiendo todos los criterios pertinentes para su labor y se entenderán como complementarias a las distintas unidades administrativas y políticas que las contengan o que atraviesen.",
@@ -1091,7 +1091,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART50",
+        "article_uid": "C5_GEN2_CH1_ART50",
         "timestamp": "03-26",
         "article": "Artículo 50",
         "text": "El Estado puede subordinar el ejercicio del derecho de propiedad a las demás garantías constitucionales expresadas en la presente Constitución. El derecho de las personas y de la naturaleza a un ambiente sano y ecológicamente equilibrado; el derecho humano al agua y el derecho a la vivienda no se subordinan al derecho de propiedad.\nEl Estado establece una clasificación única de tipos de usos de suelo que distingue los siguientes: zona residencial urbana, zona residencial semi urbana, zona residencial rural, zona industrial, zona de uso agrícola y ganadero, zona de uso forestal, zona de bosques nativos, zona de formaciones áridas o xerofíticas, área de protección de ecosistemas y patrimonios naturales, puertos y aeropuertos, y espacios públicos y/o comunitarios.\nLa propiedad sobre la superficie del suelo en Chile podrá ser pública, privada o mixta.\nLa propiedad pública podrá ser de administración nacional, regional o local. La propiedad pública local podrá ser de administración de los gobiernos locales o de administración comunitaria.\nLa propiedad mixta es aquella propiedad privada que contiene bienes comunes naturales inapropiables o bienes públicos.\nLa propiedad privada puede serlo de personas naturales o jurídicas. La propiedad privada puede ser unipersonal o colectiva. Dos o más personas naturales y/o jurídicas pueden ser titulares de una propiedad privada colectiva. La propiedad privada colectiva puede ser comunitaria, cooperativa o propiedad de pueblo originario.\nLas propiedades públicas, privadas o mixtas, unipersonales o colectivas, pueden destinarse a la conservación o a la regeneración ecológica.\nLa concentración abusiva y especulativa de la propiedad de suelos, infraestructuras, rubros productivos, organizaciones y/o empresas, por personas naturales o jurídicas, será sancionada bajo los parámetros establecidos por leyes específicas contra la monopolización y la colusión.",
@@ -1151,7 +1151,7 @@
         ]
     },
     {
-        "article_uid": "C5-IND04-09-CH1-ARTN1",
+        "article_uid": "C5_IND04_09_CH1_ARTN1",
         "timestamp": "04-09",
         "article": "Artículo 15",
         "step": "Indicación",
@@ -1185,7 +1185,7 @@
         "final_status": "Similar a 320.- Artículo 15"
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART97",
+        "article_uid": "C5_GEN2_CH1_ART97",
         "timestamp": "03-26",
         "article": "Artículo 97",
         "text": "La Constitución reconoce y valora el Mundo Rural, como un espacio territorial de vida, de hábitat, de producción, recolección y renovación de los bienes comunes de la tierra y de las aguas marítimas, lacustres y de los ríos y demás cuerpos de agua, con una amplia generación cultural, en que viven y se desenvuelve, una parte significativa de la población. Se reconoce su aporte en la generación y expresión cultural de los pueblos originarios y en el conjunto del país.",
@@ -1227,7 +1227,7 @@
         "final_status": "Idéntico a 321.- Artículo 17"
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART152",
+        "article_uid": "C5_GEN2_CH1_ART152",
         "timestamp": "03-26",
         "article": "Artículo 152",
         "text": "Territorio chileno antártico. El Estado ejerce soberanía sobre el territorio chileno antártico, incluyendo sus espacios marítimos y su plataforma continental, con pleno respeto a los compromisos internacionales sobre la materia y que se encuentren vigentes, especialmente aquellos pertenecientes al Sistema del Tratado Antártico.\nEl Territorio Chileno Antártico es un territorio especial y zona fronteriza en el cual Chile ejerce soberanía a través de la conservación, protección y cuidado de su medio ambiente, así como mediante el fomento de la actividad antártica, promoviendo su desarrollo científico, social, cultural, tecnológico y económico.\nEl Estado reconoce la vinculación histórica, cultural, geográfica y ambiental del Territorio Antártico Chileno con la Región de Magallanes y Antártica Chilena, obligándose a resguardarla, proyectarla e impulsarla. De la misma manera refuerza el valor de la ciencia como herramienta para, en la sociedad del conocimiento, promover la toma de decisiones informada y consciente de la influencia que Antártica puede tener en cualquier modelo de desarrollo.\nLa ley regulará la institucionalidad, el gobierno, la administración y las actividades que se realicen en el Territorio Chileno Antártico, garantizando su debido financiamiento.",
@@ -1283,7 +1283,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART160",
+        "article_uid": "C5_GEN2_CH1_ART160",
         "timestamp": "03-26",
         "article": "Artículo 160",
         "text": "El Estado tiene el deber de garantizar la plena conservación del océano, su litoral, suelo oceánico y otros ecosistemas marinos bajo su soberanía. Para esto desarrollará políticas públicas generales y locales, involucrando a comunidades de la zona, pueblos indígenas y expertos.",
@@ -1338,7 +1338,7 @@
         "final_status": "Similar a 314.- Artículo 5"
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART186",
+        "article_uid": "C5_GEN2_CH1_ART186",
         "timestamp": "03-26",
         "article": "Artículo 186",
         "text": "El Estado reconoce que la Energía se genera en base a Bienes Comunes Naturales y como tal, las actividades de Producción, Transporte, Distribución, Almacenamiento y Consumo de Energía deben sujetarse, a las condiciones de gestión, que de estos Bienes se establece en la presente Constitución. Sin perjuicio de lo anterior el Estado debe restringir el uso de Fuentes Fósiles y limitará el uso de las fuentes de agua para generación eléctrica de uso productivo e industrial de manera coherente con las definiciones del Bien Natural Común 'agua' que en esta Constitución se establece. ",
@@ -1397,7 +1397,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART198",
+        "article_uid": "C5_GEN2_CH1_ART198",
         "timestamp": "03-26",
         "article": "Artículo 198",
         "text": "Dominio público minero. Son bienes de dominio público de carácter absoluto, exclusivo, inalienables e imprescriptibles todas las sustancias minerales metálicas, no metálicas, y los depósitos de sustancias fósiles e hidrocarburos.\nCorresponderá a la ley determinar qué sustancias de aquellas mencionadas en el inciso primero, además de otras que pudieran descubrirse, serán objeto de concesiones, exceptuados el litio, los hidrocarburos líquidos, sólidos o gaseosos y aquellas sustancias situadas en zonas que la Constitución y la ley establezcan como de importancia para el interés nacional o la preservación de la Naturaleza.\nLas concesiones mineras se otorgarán de forma temporal, mediante un procedimiento administrativo transparente e informado a la ciudadanía y en los términos y condiciones que establezca la ley, con el fin de satisfacer el interés público y local que justifica su otorgamiento.\nSerá de competencia exclusiva de un órgano estatal la evaluación, otorgamiento, revisión, caducidad y extinción de las concesiones mineras, así como el seguimiento del cumplimiento de las concesiones otorgadas, tomando para ello los resguardos que sean necesarios. Las controversias que surjan de estas instancias darán derecho al afectado a reclamar ante los tribunales competentes.\nLa ley regulará las regalías u otro tipo de compensaciones patrimoniales que percibirá el Estado por la explotación de las sustancias minerales. Los montos recaudados se distribuirán para el Fisco y un aporte a los territorios en que la actividad se desarrolle, de manera de generar un impacto positivo permanente que permita a las actuales y futuras generaciones percibir los beneficios de dicha actividad, además de contribuir a la restauración de la Naturaleza.",
@@ -1450,7 +1450,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART199",
+        "article_uid": "C5_GEN2_CH1_ART199",
         "timestamp": "03-26",
         "article": "Artículo 199",
         "text": "Sustancias no concesibles. La exploración, prospección o explotación de los yacimientos que contengan sustancias no susceptibles de concesión, podrán ejecutarse directamente por el Estado o por sus empresas, con los requisitos y bajo las condiciones que la Constitución y la ley establezca, considerando altos estándares internacionales en cuidado del medioambiente, condiciones laborales, de seguridad, control y otros.",
@@ -1503,7 +1503,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART200",
+        "article_uid": "C5_GEN2_CH1_ART200",
         "timestamp": "03-26",
         "article": "Artículo 200",
         "text": "Los deberes del Estado y las zonas excluidas de la actividad minera. El Estado deberá asegurar la evaluación previa de los impactos que pueda generar el desarrollo de la actividad minera y su encadenamiento productivo durante todas las etapas de los proyectos, incluyendo la etapa de cierre. Será también deber del Estado resguardar, cuidar y proteger la Naturaleza y sus ciclos vitales basado en la capacidad de carga del ecosistema afectado, rigiéndose por los principios preventivo, precautorio y otros que la ley establezca. Asimismo, asegurará la participación de las comunidades, el respeto a las disposiciones de ordenamiento territorial y la integridad de los ecosistemas involucrados.\nAdemás, el Estado deberá garantizar la generación de información integrada y monitoreo respecto de la actividad minera y sus efectos.\nToda actividad minera debe restaurar los impactos y daños ambientales y sociales provenientes de la minería y su encadenamiento productivo que afecten a la población o sus generaciones futuras y la Naturaleza. Para ello, se deberán llevar a cabo acciones y medidas tendientes a la restauración y rehabilitación del área afectada.\nCorresponde al Estado impulsar y guiar la política de desarrollo de toda la actividad minera y su encadenamiento productivo, introduciendo criterios democráticos, socioecológicos y de equilibrio ecosistémico a la toma de decisiones, estimulando el impacto positivo en los territorios, la disminución de emisiones y residuos, la diversificación productiva de esta actividad y la generación de valor agregado, a través de la innovación y el conocimiento, velando por el interés público en los aportes que de la actividad se genere.\nQuedarán excluidas de toda actividad minera aquellas zonas que la Constitución y la ley defina como áreas protegidas, los glaciares, las turberas y pomponales, las zonas en que se interfiera con las aguas que dan nacimiento a una cuenca hidrográfica y aquellas en que la actividad requiera un traslado forzoso de la población.",
@@ -1571,7 +1571,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART201",
+        "article_uid": "C5_GEN2_CH1_ART201",
         "timestamp": "03-26",
         "article": "Artículo 201",
         "text": "Dominio público. El Estado tiene el dominio absoluto, exclusivo, inalienable, imprescriptible de todos los bienes públicos que sean establecidos por ley y, en particular, de las aguas y las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, explotación y el beneficio de dichas minas. ",
@@ -1627,7 +1627,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART233",
+        "article_uid": "C5_GEN2_CH1_ART233",
         "timestamp": "03-26",
         "article": "Artículo 233",
         "text": "El Estado reconoce a la atmósfera, dentro del espacio aéreo fijado por acuerdos internacionales sobre la materia, como un bien natural común, el cual comprende desde el aire que respiran sus habitantes hasta el cielo a través del cual ven el espacio. La protección y restauración de sus características naturales son objetivos de interés público y las tareas necesarias para su logro son deberes del Estado.\nTodas las personas y comunidades tienen derecho al disfrute de una atmósfera libre de cualquier tipo de contaminación, existente en cualquier parte del territorio nacional, que permita respirar aire puro y observar cielos oscuros. Toda persona, de forma individual o colectiva, tiene la obligación de que sus actos individuales o colectivos no contribuyan a establecer fuentes permanentes de contaminación atmosférica.\nLas obligaciones del Estado sobre la atmósfera cesan a la altura fijada por acuerdos internacionales sobre la materia. El Estado se esforzará por liderar esfuerzos internacionales que, en base a evidencia científica, regulen las acciones de los seres humanos con efectos en la atmósfera, buscando mejorar la calidad de vida de los seres humanos y la salud de los ecosistemas.\nUn estatuto especial regulará las obligaciones del Estado en relación a la protección y restauración de las características naturales de la atmósfera, de modo de garantizar la existencia de condiciones que, a largo plazo y través de las generaciones de seres humanos, favorezcan la supervivencia de la vida en la Tierra, a la vez que permitan una continuidad de la valoración patrimonial y del quehacer científico relacionados con la observación de los cielos y del espacio fuera de la Tierra.",
@@ -1687,7 +1687,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART236",
+        "article_uid": "C5_GEN2_CH1_ART236",
         "timestamp": "03-26",
         "article": "Artículo 236",
         "text": "Sobre la resolución de controversias en los Tratados de Inversiones. El Estado no podrá celebrar tratados o instrumentos internacionales en los que reconozca jurisdicción a instancias de arbitraje internacional, en controversias de índole comercial, entre el Estado e inversionistas extranjeros.\nSe exceptúan los tratados e instrumentos internacionales que contemplen mecanismos para la resolución de controversias entre Estados e inversionistas por órganos jurisdiccionales integrados por jueces permanentes designados por los países signatarios.",
@@ -1741,7 +1741,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART238",
+        "article_uid": "C5_GEN2_CH1_ART238",
         "timestamp": "03-26",
         "article": "Artículo 238",
         "text": "Los tratados internacionales de derechos humanos tienen supremacía jurídica respecto de otros tratados y preeminencia respecto de la legislación subconstitucional, y valor equivalente a los derechos establecidos por la constitución. El Estado de Chile es garante de la implementación adecuada de los compromisos internacionales de derechos humanos y aquellos que respeten los derechos de los pueblos, tales como el Convenio 169, la Declaración de los Derechos de los Campesinos de las Naciones Unidas y la Declaración de los Derechos de los Pueblos Indígenas, entre otros. ",
@@ -1797,7 +1797,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART247",
+        "article_uid": "C5_GEN2_CH1_ART247",
         "timestamp": "03-26",
         "article": "Artículo 247",
         "text": "La función social y ecológica de la propiedad, será limitación al derecho de propiedad. Se entenderá función social y ecológica de la propiedad, la protección al medio ambiente y a los derechos de la naturaleza, los intereses generales del Pueblo -tales como el desarrollo sustentable y sostenible, la prestación de servicios básicos, el desarrollo humano de las personas que habitan en el país, el buen vivir de toda la sociedad, el fortalecimiento de la democracia y la disminución de la desigualdad-, la seguridad nacional y la salubridad. Asimismo, se entenderá dentro de la función social y ecológica de la propiedad, aquellas determinen de manera autónoma y soberana las comunidades de pueblos originarios en sus territorios.",
@@ -1851,7 +1851,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART343",
+        "article_uid": "C5_GEN2_CH1_ART343",
         "timestamp": "03-26",
         "article": "Artículo 343",
         "text": "La Administración del Estado deberá velar por el cumplimiento, en todas sus actuaciones, de los principios de responsabilidad fiscal y sostenibilidad fiscal, particularmente en relación al gasto público y su financiamiento. El legislador creará sistemas de transparencia y control del gasto público a nivel nacional, regional y municipal, estableciendo mecanismos de responsabilidad y sanciones para quienes los vulneren.",
@@ -1906,7 +1906,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART344",
+        "article_uid": "C5_GEN2_CH1_ART344",
         "timestamp": "03-26",
         "article": "Artículo 344",
         "text": "El Estado garantizará a las personas el derecho a las ciudadanes sustentables, en equilibrio con las actividades que en ella se desarrollar, el Medio Ambiente y la Naturaleza. El ordenamiento territorial de las ciudades contemplará el equilibrio entre el desarrollo local, rural y urbano para resguardar este derecho.\nEl Estado planificará las ciudades y regulará su expansión bajo los principios de sustentabilidad, buen vivir, descentralización, perspectiva socioecológica, justicia social, accesibilidad universal, conectividad, y que respete la función social y ecológica de la propiedad.\nLa inversión pública se focalizará prioritamente en infraestructura y equipamiento en zonas rurales, periurbanas, vulnerables y segregadas, a fin de garantizar mayor igualdad en el acceso a los bienes y servicios públicos, así como a los beneficios generados por el desarrollo urbano sustentable.",
@@ -1966,7 +1966,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART345",
+        "article_uid": "C5_GEN2_CH1_ART345",
         "timestamp": "03-26",
         "article": "Artículo 345",
         "text": "De la responsabilidad fiscal. El Estado de Chile, a través de sus instituciones y organismos, deberá garantizar el equilibrio de los ingresos, gasto y recaudación responsables teniendo en consideración las fases de los ciclos económicos y las obligaciones contraídas. A través del diseño e implementación de políticas y reglas fiscales, se deberá transparentar el proceso de elaboración de programas económicos ante el congreso periódicamente en la forma que determine la ley.\n El gobierno central y regionales estarán autorizados, previo acuerdo del congreso, para emitir deuda pública, contraer crédito, o modificar los límites de déficit estructural, en caso de catástrofes, recesión económica o situaciones de emergencia extraordinaria y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado. La ley determinará el procedimiento y los requisitos para la autorización, la que deberá considerar quórum calificado para su aprobación.",
@@ -2023,7 +2023,7 @@
         ]
     },
     {
-        "article_uid": "C5-GEN2-CH1-ART347",
+        "article_uid": "C5_GEN2_CH1_ART347",
         "timestamp": "03-26",
         "article": "Artículo 347",
         "text": "Todas las personas tienen derecho a un medio ambiente sano y ecológicamente equilibrado, seguro, sostenible, limpio, así como a un sistema climático estable en armonía con la Naturaleza, que permita una vida digna, gozar de bienestar, salud y buen vivir. Este derecho se consagra en su dimensión tanto individual como colectiva.\n Es deber del Estado y de todas las personas respetar, proteger, conservar y preservar un medio ambiente sano, los ecosistemas, su diversidad biológica y genética, salvaguardando su capacidad de renovación y equilibrio ecológico para las presentes y futuras generaciones.",
