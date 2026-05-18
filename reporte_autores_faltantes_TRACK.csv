@@ -1,0 +1,568 @@
+file,context,uid,source_val
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART01,sources: ['193-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART02,sources: ['193-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART03,sources: ['193-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART04,sources: ['193-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART05,sources: ['193-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART06,sources: ['194-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART07,sources: ['209-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART08,sources: ['241-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART09,sources: ['241-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART10,sources: ['423-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART11,sources: ['933-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART12,sources: ['933-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART13,sources: ['933-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART14,sources: ['933-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART15,sources: ['933-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART16,sources: ['522-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART17,sources: ['754-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-1\dataverse-final\data\C1_TRACK_full.json,Raíz,C1_GEN_CH*_ART18,sources: ['239-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1C,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1D,sources: ['72-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1E,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART1F,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2A,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2B,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2C,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2D,sources: ['39-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2E,sources: ['80-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2F,sources: ['862-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2G,sources: ['Iniciativa Popular Indígena 19-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART2H,sources: ['538-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3D,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3E,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3F,sources: ['526-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3G,"sources: ['Iniciativas Populares Indígenas 21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART3H,sources: ['Iniciativa Popular Indígena 201-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4D,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4E,sources: ['72-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4F,sources: ['670-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4G,sources: ['Iniciativa Popular Indígena 63-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4H,sources: ['Iniciativa Popular Indígena 18-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4I,sources: ['Iniciativa Popular Indígena 96-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4J,sources: ['Iniciativa Popular Indígena 141-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4K,sources: ['Iniciativa Popular Indígena 201-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART4L,sources: ['Iniciativa Popular Indígena 201-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5D,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5E,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5F,sources: ['788-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5G,sources: ['788-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5H,sources: ['788-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5I,sources: ['788-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5J,sources: ['672-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART5K,sources: ['362-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6A,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6B,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6C,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6D,sources: ['683-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6E,"sources: ['Iniciativas Populares Indígenas 21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6F,sources: ['760-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6G,sources: ['760-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART6H,sources: ['683-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART7,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART7A,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART7B,sources: ['545-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART7C,sources: ['831-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART7D,sources: ['831-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART7E,sources: ['Iniciativa Popular 40-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART8,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART8A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART8B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART8C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART8D,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9A,sources: ['54-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9B,sources: ['55-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9C,sources: ['56-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9D,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9E,sources: ['72-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9F,"sources: ['123-2', '282-2']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9G,sources: ['672-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9H,sources: ['672-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9I,sources: ['672-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9J,sources: ['672-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9L,sources: ['672-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9M,sources: ['761-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9N,sources: ['809-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9Ñ,sources: ['858-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9O,sources: ['Iniciativa Popular 21-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9P,sources: ['Iniciativa Popular 51-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9Q,"sources: ['21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9R,"sources: ['Iniciativas Populares Indígenas 21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART9S,sources: ['Iniciativa Popular Indígena 10-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10D,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10E,sources: ['378-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10F,sources: ['526-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10G,sources: ['772-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10H,sources: ['772-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10I,sources: ['772-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10J,sources: ['922-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10K,sources: ['922-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10L,sources: ['922-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10M,sources: ['925-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10N,sources: ['Iniciativa Popular Indígena 68-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10Ñ,sources: ['Iniciativa Popular Indígena 68-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10O,sources: ['Iniciativa Popular Indígena 68-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10P,sources: ['Iniciativa Popular Indígena 107-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10Q,sources: ['Iniciativa Popular Indígena 116-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10R,sources: ['Iniciativa Popular Indígena 180-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10S,sources: ['Iniciativa Popular Indígena 241-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART10T,sources: ['Iniciativa Popular Indígena 201-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11,sources: ['9-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11A,sources: ['9-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11B,sources: ['72-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11C,sources: ['79-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11D,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11E,sources: ['926-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART11F,sources: ['Iniciativa Popular Indígena 18-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART12,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART12A,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART12B,sources: ['72-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART12C,sources: ['404-4']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART12D,sources: ['Iniciativa Popular Indígena 37-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART12E,sources: ['Iniciativa Popular Indígena 224-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART13,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART13A,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART13B,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART13C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART13D,sources: ['549-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART13E,sources: ['Iniciativa Popular 48-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14A,sources: ['40-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14B,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14C,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14D,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14E,sources: ['84-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART14F,sources: ['1015-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15A,sources: ['31-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15B,sources: ['32-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15C,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15D,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15E,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15F,sources: ['71-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART15G,sources: ['84-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART16,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART16A,"sources: ['Iniciativas Populares Indígenas 21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART17,sources: ['58-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART17A,sources: ['Iniciativa Popular Indígena 237-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART17B,sources: ['Iniciativa Popular 56-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18,sources: ['4-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18A,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18B,sources: ['7-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18C,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18D,sources: ['70-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18E,sources: ['762-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18F,"sources: ['Iniciativas Populares Indígenas 21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18G,"sources: ['Iniciativas Populares Indígenas 21-2', '56-3']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18H,sources: ['700-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18I,sources: ['670-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18J,sources: ['670-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART18K,sources: ['670-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART19,sources: ['59-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART20,sources: ['67-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART21,sources: ['72-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART22,sources: ['190-6']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART23,sources: ['60-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART24,sources: ['362-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART25,"sources: ['652', '587-2']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART26,"sources: ['652', '587-2']"
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART27,sources: ['814-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART28,sources: ['958-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART29,sources: ['987-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-2\dataverse-final\C2_TRACK_full.json,Raíz,C2_GEN_ART30,sources: ['995-2']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH15_ART42,sources: ['ICI 82-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH15_ART43,sources: ['ICI 82-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH15_ART44,sources: ['ICI 82-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH16_ART45,sources: ['ICI 12-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH17_ART46,sources: ['ICI 143-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH18_ART47,sources: ['IPC 73-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH17_ART48,sources: ['IPC 73-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH19_ART49,sources: ['ICI 118-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH23_ART61,sources: ['IPN 19-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH26_ART65,sources: ['IPN 6-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH33_ART72,sources: ['IPN 19-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH39_ART78,sources: ['IPC 73-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH40_ART79,sources: ['IPC 73-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH41_ART80,sources: ['IPC 73-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH42_ART81,sources: ['ICI 80-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH49_ART88,sources: ['IPC 21-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH50_ART89,sources: ['ICI 787-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN_CH62_ART101,sources: ['963-1']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART8,Artículo 8,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART9,Artículo 9,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART10,Artículo 10,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART11,Artículo 11,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART12,Artículo 12,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART13,Artículo 13,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART14,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART15,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART16,Artículo 16,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART17,Artículo 17,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART18,Artículo 18,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART19,Artículo 19,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART20,Artículo 20,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART21,Artículo 21,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART22,Artículo 22,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART23,Artículo 23,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART24,Artículo 24,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART25,Artículo 25,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART26,Artículo 26,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART27,Artículo 27,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART28,Artículo 28,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART29,Artículo 29,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART30,Artículo 30,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART31,Artículo 31,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART32,Artículo 32,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART33,Artículo 33,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART34,Artículo 34,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART35,Artículo 35,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART36,Artículo 36,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART37,Artículo 37,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART38,Artículo 38,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART39,Artículo 39,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART40,Artículo 40,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART42,Artículo 42,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART43,Artículo 43,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART44,Artículo 44,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART45,Artículo 45,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART46,Artículo 46,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART48,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART51,Artículo 51,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART52,Artículo 52,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART53,Artículo 53,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART54,Artículo 54,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART55,Artículo 55,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART56,Artículo 56,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART57,Artículo 57,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART58,Artículo 58,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART59,Artículo 59,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART60,Artículo 60,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART61,Artículo 61,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART62,Artículo 62,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART63,Artículo 63,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART64,Artículo 64,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART65,Artículo 65,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART66,Artículo 66,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART67,Artículo 67,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART68,Artículo 68,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART69,Artículo 69,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART70,Artículo 70,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART71,Artículo 71,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART72,Artículo 72,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART74,Artículo 74,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART75,Artículo 75,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART76,Artículo 76,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART77,Artículo 77,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART78,Artículo 78,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART79,Artículo 79,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART80,Artículo 80,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART81,Artículo 81,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART82,Artículo 82,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART83,Artículo 83,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART84,Artículo 84,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART85,Artículo 85,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART86,Artículo 86,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART87,Artículo 87,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART88,Artículo 88,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART89,Artículo 89,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART90,Artículo 90,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART91,Artículo 91,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART92,Artículo 92,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART93,Artículo 93,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART94,Artículo 94,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART95,Artículo 95,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART96,Artículo 96,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART97,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART98,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART99,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART100,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART101,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART101,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART102,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART102,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART103,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART103,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART104,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART104,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART105,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART105,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART106,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART106,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART107,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART107,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART108,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART108,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART109,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART109,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART110,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART110,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART111,sources: ['639-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART111,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART112,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART113,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART114,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART115,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART116,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART117,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART118,sources: ['250-4']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART118,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART119,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART120,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART121,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART122,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART123,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART124,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART125,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART126,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART127,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART128,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART129,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART130,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART131,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART132,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART133,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART134,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART135,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART135,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART136,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART136,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART137,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART137,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART138,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART138,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART139,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART139,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART140,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART140,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART141,sources: ['348-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART141,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART142,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART144,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART145,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART146,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART147,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART148,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART149,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART150,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART151,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART151bis,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART153,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART154,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART155,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART156,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART157,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART158,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART159,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART162,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART163,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART164,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART165,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART166,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART167,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART168,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART169,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART170,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART171,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART172,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART173,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART174,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART175,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART176,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART177,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART178,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART179,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART180,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART181,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART182,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART183,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART184,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART185,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART187,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART188,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART189,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART190,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART191,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART192,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART193,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART194,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART195,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART196,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART197,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART207,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART208,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART209,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART210,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART211,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART212,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART213,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART214,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART215,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART216,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART217,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART218,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART219,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART220,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART221,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART222,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART223,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART224,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART225,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART226,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART227,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART228,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART229,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART230,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART231,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART232,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART234,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART250,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART251,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART252,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART253,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART254,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART255,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART256,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART257,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART258,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART259,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART260,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART261,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART262,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART263,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART264,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART265,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART266,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART267,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART268,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART269,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART270,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART271,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART272,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART273,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART274,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART275,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART276,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART277,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART278,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART279,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART280,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART281,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART282,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART283,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART284,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART285,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART286,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART287,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART288,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART289,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART290,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART291,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART292,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART293,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART294,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART295,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART296,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART297,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART298,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART299,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART300,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART301,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART302,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART303,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART304,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART305,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART306,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART307,sources: ['777-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART307,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART308,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART309,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART310,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART311,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART312,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART313,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART314,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART315,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART316,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART317,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART318,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART319,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART320,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART321,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART322,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART323,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART324,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART326,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART327,sources: ['770-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART327,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,Raíz,C5_GEN2_CH1_ART328,sources: ['770-5']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART328,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART329,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART330,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART331,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART332,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART333,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART334,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART335,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART336,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART337,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART338,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART339,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART340,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART341,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART342,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART349,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART350,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART351,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART352,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART353,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART354,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART355,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART356,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART357,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-5\dataverse-final\C5_TRACK_full.json,history[0] de C5_GEN2_CH1_ART358,Desconocido,number: Sin número
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,history[1] de C6_GEN1_ART1,Artículo 1,number: 17
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_X_ART3,sources: ['']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART49,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART50,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART51,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART52,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART53,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART54,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART55,sources: ['816']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART61D,sources: ['IPN-04']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART62D,sources: ['IPN-04']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART63B,sources: ['IPN-04']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART64A,sources: ['IPN-04']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-6\dataverse-final\C6_TRACK_full.json,Raíz,C6_GEN3_ART65D,sources: ['IPN-04']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_IND03_19_CH13_ART2,sources: ['121-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_IND03_19_CH13_ART3,sources: ['121-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_IND03_19_CH13_ART8,sources: ['153-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN2_CH4_ART1_2,sources: ['203-07']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN2_CH6_ART1,sources: ['203-07']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN3_ART7,sources: ['956-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN3_ART8,sources: ['956-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN3_ART27,sources: ['956-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN3_ART29,sources: ['955-7']
+C:\Users\vicel\Proyectos\constitutional-proposal-tracking\comision-7\dataverse-final\C7_TRACK_full.json,Raíz,C7_GEN3_ART47,sources: ['496-7']
