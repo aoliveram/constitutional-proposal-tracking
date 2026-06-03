@@ -527,7 +527,8 @@
                     "Labbe, Bastian"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "18",
@@ -618,7 +619,8 @@
             "Saldana, Alvin"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART10"
+        "article_uid": "C4_GEN_ART10",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "13",
@@ -1235,7 +1237,8 @@
             "Vallejos, Loreto"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART20"
+        "article_uid": "C4_GEN_ART20",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "251",
@@ -1303,7 +1306,8 @@
             "Vargas, Mario"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART22"
+        "article_uid": "C4_GEN_ART22",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "251",
@@ -1328,7 +1332,8 @@
             "Vargas, Mario"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART23"
+        "article_uid": "C4_GEN_ART23",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "251",
@@ -1353,7 +1358,8 @@
             "Vargas, Mario"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART24"
+        "article_uid": "C4_GEN_ART24",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "251",
@@ -1378,7 +1384,8 @@
             "Vargas, Mario"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART25"
+        "article_uid": "C4_GEN_ART25",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "251",
@@ -1523,7 +1530,8 @@
             "Quinteros, Maria Elisa"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART29"
+        "article_uid": "C4_GEN_ART29",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "290",
@@ -2608,7 +2616,8 @@
             "Villena, Ingrid"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART39"
+        "article_uid": "C4_GEN_ART39",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "293",
@@ -2949,7 +2958,8 @@
         "text": "El Estado reconoce el derecho de las personas a beneficiarse del progreso científico y el acceso a la información, para ejercer de manera libre, autónoma y no discriminatoria, sus derechos sexuales y reproductivos.",
         "voting_result": "Sometido a votación del segundo inciso se aprobó (26 votos a favor, 7 votos en contra, sin abstenciones).",
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART43"
+        "article_uid": "C4_GEN_ART43",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "76 (45166)",
@@ -3064,7 +3074,8 @@
             "Villena, Ingrid"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART46"
+        "article_uid": "C4_GEN_ART46",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "376",
@@ -3152,7 +3163,8 @@
             "Vallejos, Loreto"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART48"
+        "article_uid": "C4_GEN_ART48",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "293",
@@ -3920,24 +3932,8 @@
             "Tirado, Fernando"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART56"
-    },
-    {
-        "icc_id": "853",
-        "text": "Artículo transitorio 2: “ARTÍCULO TRANSITORIO (2). A partir de la entrada en vigencia de la presente Constitución, el Estado tendrá un plazo máximo de dos años para constituir por vía legal e instalar el Tribunal Especial de Tierras, Territorios y Aguas Ancestrales”",
-        "voting_result": "Sometido a votación se aprobó (23 votos a favor y 10 en contra, sin abstenciones)",
-        "authors": [
-            "Aguilera, Tiare",
-            "Catrileo, Rosa",
-            "Galleguillos, Felix",
-            "Jimenez, Luis",
-            "Loncon, Elisa",
-            "Mamani, Isabella",
-            "Millabur, Adolfo",
-            "Tirado, Fernando"
-        ],
-        "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART57"
+        "article_uid": "C4_GEN_ART56",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "375",
@@ -4237,7 +4233,8 @@
             "Vargas, Mario"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART64"
+        "article_uid": "C4_GEN_ART64",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "272",
@@ -4338,7 +4335,8 @@
                     "Marinovic, Teresa"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -4386,7 +4384,8 @@
         "target_scope": "TOTAL",
         "action": "ADD",
         "content": "Artículo XX. Derecho al acceso a la justicia y a la tutela judicial efectiva. Toda persona tiene derecho a la efectiva protección de sus derechos y a que el Estado le garantice la igualdad de acceso a la justicia. El Estado deberá disponer diversos mecanismos que favorezcan una respuesta accesible, oportuna y eficaz que resulte apropiada a las circunstancias concretas.\nToda persona tiene derecho a una tutela judicial efectiva y a la resolución de sus conflictos jurídicos a través de un procedimiento adecuado a sus fines. Al legislador le corresponderá establecer estos, así como las medidas necesarias para asegurar el cumplimiento efectivo y oportuno de toda resolución judicial.",
-        "placement_instructions": "previo al artículo 42"
+        "placement_instructions": "previo al artículo 42",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "251",
@@ -5566,7 +5565,8 @@
             "Woldarsky, Manuel"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART80"
+        "article_uid": "C4_GEN_ART80",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "666",
@@ -5710,7 +5710,8 @@
                     "Castro, Claudia"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -5728,7 +5729,8 @@
             "Squella, Agustin"
         ],
         "timestamp": "03-07-1",
-        "article_uid": "C4_GEN_ART83"
+        "article_uid": "C4_GEN_ART83",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -5798,7 +5800,8 @@
                     "Castro, Claudia"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -5833,7 +5836,8 @@
                     "Ossandon, Manuel"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -5915,7 +5919,8 @@
                     "Meneses, Janis"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6021,7 +6026,8 @@
                     "Castro, Claudia"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6056,7 +6062,8 @@
                     "Marinovic, Teresa"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6090,7 +6097,8 @@
                     "Ossandon, Manuel"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6161,7 +6169,8 @@
                     "Marinovic, Teresa"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6195,7 +6204,8 @@
                     "Castro, Claudia"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6483,7 +6493,8 @@
                     "Marinovic, Teresa"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "514",
@@ -6578,7 +6589,8 @@
                     "Meneses, Janis"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "272",
@@ -6623,7 +6635,8 @@
                     "Meneses, Janis"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "272",
@@ -6731,7 +6744,8 @@
                     "Castro, Claudia"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "344",
@@ -6794,7 +6808,8 @@
             "Valenzuela, Paulina"
         ],
         "timestamp": "04-08-1",
-        "article_uid": "C4_GEN3_ART1"
+        "article_uid": "C4_GEN3_ART1",
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "355",
@@ -8159,7 +8174,8 @@
         "placement_instructions": "Para agregar un nuevo artículo",
         "authors": [
             "Dominguez, Gaspar"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "timestamp": "05-05",
@@ -8174,7 +8190,8 @@
         "placement_instructions": "Para agregar un nuevo artículo",
         "authors": [
             "Dominguez, Gaspar"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "icc_id": "458-4",
@@ -10273,7 +10290,8 @@
         "authors": [
             "Henriquez, Natalia",
             "Meneses, Janis"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "timestamp": "05-05",

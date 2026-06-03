@@ -20,7 +20,7 @@
         "content": "Artículo x1. - El poder soberano radica en el pueblo y su ejercicio se organiza y ejerce a través de la democracia representativa, participativa y comunitaria.",
         "content_to_remove": "",
         "placement_instructions": "nuevo artículo previo al artículo 1°",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH01_ART01",
@@ -197,7 +197,7 @@
                 "placement_instructions": ""
             }
         ],
-        "final_status": "Idéntico a 1.- Artículo 2°.-"
+        "final_status": "Idéntico a 1.- Artículo 2"
     },
     {
         "article_uid": "C1_GEN_CH01_ART02",
@@ -256,7 +256,7 @@
                 "placement_instructions": ""
             }
         ],
-        "final_status": "Similar a 3.- Artículo X.-"
+        "final_status": "Similar a 3.- Artículo X"
     },
     {
         "article_uid": "C1_GEN_CH01_ART03",
@@ -389,7 +389,7 @@
                 "article": "Artículo 4"
             }
         ],
-        "final_status": "Idéntico a 2.- Artículo 3°.-"
+        "final_status": "Idéntico a 2.- Artículo 3"
     },
     {
         "article_uid": "C1_GEN_CH01_ART04",
@@ -673,7 +673,7 @@
                 "article": "Artículo 5"
             }
         ],
-        "final_status": "Similar a 5.- Artículo 4°.-"
+        "final_status": "Similar a 5.- Artículo 4"
     },
     {
         "article_uid": "C1_GEN_CH02_ART06.A",
@@ -782,7 +782,7 @@
                 "article": "Artículo 5.A"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH02_ART06.B",
@@ -1052,7 +1052,7 @@
                 "article": "Artículo 6"
             }
         ],
-        "final_status": "Idéntico a 6.- Artículo 5°.-"
+        "final_status": "Idéntico a 6.- Artículo 5"
     },
     {
         "titleuid": "C1-GEN-CH03-TIT1",
@@ -1177,7 +1177,7 @@
                 "article": "Artículo 7"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH02_ART09",
@@ -1229,7 +1229,7 @@
                 "article": "Artículo 8"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-GEN-CH03-TIT1",
@@ -1421,7 +1421,7 @@
                 "article": "Artículo 9"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART11",
@@ -1458,7 +1458,7 @@
                 "article": "Artículo 10"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-IND04-30-2-CH03-TIT3",
@@ -1559,7 +1559,7 @@
                 "article": "Artículo 11"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART12.A",
@@ -1587,7 +1587,7 @@
         "content": "Art 12.A.- La calificación de las elecciones de diputadas y diputados y el conocimiento de las reclamaciones de nulidad que se interpongan contra ellas, corresponde al Tribunal Calificador de Elecciones.",
         "content_to_remove": "",
         "placement_instructions": "agrega un nuevo artículo 10A",
-        "final_status": "No se encuentra en el borrador final",
+        "final_status": "ART-FALLIDO",
         "history": [
             {
                 "timestamp": "04-01-2",
@@ -1695,7 +1695,7 @@
                 "article": "Artículo 12"
             }
         ],
-        "final_status": "Similar a 17.- Artículo 13°.-"
+        "final_status": "Similar a 17.- Artículo 13"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART13.A",
@@ -1839,7 +1839,7 @@
                 "article": "Artículo 13"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART15",
@@ -1924,7 +1924,7 @@
                 "article": "Artículo 14"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART16",
@@ -2021,7 +2021,7 @@
                 "article": "Artículo 15"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART17",
@@ -2058,7 +2058,7 @@
                 "article": "Artículo 16"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART18",
@@ -2186,7 +2186,7 @@
                 "article": "Artículo 17"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART19",
@@ -2234,7 +2234,7 @@
                 "article": "Artículo 18"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH31_ART20",
@@ -2391,7 +2391,7 @@
                 "article": "Artículo 20"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART20",
@@ -2409,7 +2409,7 @@
         "content": "Es atribución de la Cámara Territorial prestar o negar su consentimiento a los actos del Presidente de la República, en los casos en que la Constitución o la ley lo requieran. Si la Cámara Territorial no se pronunciare dentro de treinta días después de solicitada la urgencia por el Presidente de la República, se tendrá por otorgado su asentimiento.",
         "content_to_remove": "",
         "placement_instructions": "incorpora el siguiente artículo nuevo",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART22",
@@ -2434,7 +2434,7 @@
                 "article": "Artículo 21"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART23",
@@ -2459,7 +2459,7 @@
                 "article": "Artículo 22"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART24",
@@ -2478,7 +2478,7 @@
         "content": "En caso de existir una Cámara de Diputados y una Cámara Territorial, es atribución del Congreso aprobar o rechazar los tratados internacionales que le presentare el Presidente de la República antes de su ratificación. La aprobación de un tratado requerirá, en cada Cámara, de los quórum que corresponda, en conformidad a lo dispuesto en esta Constitución y se someterá, en lo pertinente, a los trámites de una ley.",
         "content_to_remove": "",
         "placement_instructions": "incorpora el siguiente artículo nuevo",
-        "final_status": "No se encuentra en el borrador final",
+        "final_status": "ART-FALLIDO",
         "history": [
             {
                 "timestamp": "04-01-2",
@@ -2764,7 +2764,7 @@
                 "article": "Artículo 24"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART22",
@@ -2853,7 +2853,7 @@
                 "article": "Artículo 25"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND_CH03_ART22.A",
@@ -2885,7 +2885,7 @@
                 "article": "Artículo 25.A"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART23",
@@ -2955,7 +2955,7 @@
                 "article": "Artículo 26"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART24",
@@ -2992,7 +2992,7 @@
                 "article": "Artículo 27"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART25",
@@ -3124,7 +3124,7 @@
                 "article": "Artículo 28"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART26",
@@ -3505,7 +3505,7 @@
         "content": "Tramitación de las leyes de acuerdo regional. Las leyes de acuerdo regional deberán ser aprobadas por el Consejo Territorial en el más breve plazo desde que fueren recibidas. De no entregar o negar su aprobación en el plazo establecido en la ley, se entenderá que el Consejo aprueba el proyecto y será remitido al Presidente para su aprobación. Este plazo no regirá en el caso de la tramitación de la ley de presupuesto anual. Si el Consejo Territorial negare su aprobación, podrá formular enmiendas que serán remitidas al Congreso Plurinacional. Si el Congreso Plurinacional no aprobare una o más enmiendas, el Vicepresidente o Vicepresidenta de la República deberá convocar a una Comisión Mixta integrada por igual número de miembros del Congreso Plurinacional y del Consejo Territorial para resolver las discrepancias. El número y forma de elección de sus integrantes será regulado por ley. La Comisión Mixta deberá informar dentro del plazo que fije la ley. En caso contrario, el proyecto originalmente despachado por el Congreso Plurinacional se entenderá aprobado. El proyecto modificado por la Comisión Mixta será despachado al Congreso Plurinacional, el que se pronunciará sobre las modificaciones propuestas por ésta. De rechazar las modificaciones realizadas por la Comisión Mixta, el Congreso Plurinacional podrá insistir en el proyecto original con el voto favorable de la mayoría de sus miembros en ejercicio.",
         "content_to_remove": "",
         "placement_instructions": "incorpora los siguientes artículos 31 bis y 31 ter",
-        "final_status": "No se encuentra en el borrador final",
+        "final_status": "ART-FALLIDO",
         "history": [
             {
                 "timestamp": "04-01-2",
@@ -3537,7 +3537,7 @@
         "content": "Artículo 31 ter. Ley del Congreso Plurinacional y del Consejo Territorial. Una ley regulará el procedimiento de tramitación de las leyes. La ley deberá establecer los mecanismos de deliberación y decisión por el Congreso Plurinacional y deberá asegurar la participación y promover la deliberación popular durante su tramitación de acuerdo a lo establecido en esta Constitución.",
         "content_to_remove": "",
         "placement_instructions": "incorpora los siguientes artículos 31 bis y 31 ter",
-        "final_status": "No se encuentra en el borrador final",
+        "final_status": "ART-FALLIDO",
         "history": [
             {
                 "timestamp": "04-01-2",
@@ -3596,7 +3596,7 @@
                 "article": "Artículo 35"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH03_ART38",
@@ -3668,7 +3668,7 @@
                 "article": "Artículo 37"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART34",
@@ -3756,7 +3756,7 @@
                 "article": "Artículo 38"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH03_ART36",
@@ -4042,7 +4042,7 @@
                 "article": "Artículo 43"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH0X_ARTX",
@@ -4068,7 +4068,7 @@
         "content": "CAPÍTULO NUEVO: Del Consejo Territorial. Artículo X: Del Consejo Territorial. El Consejo Territorial es el órgano paritario y plurinacional de representación territorial encargado de concurrir en la formación de las leyes de acuerdo regional y de ejercer las demás competencias establecidas por esta Constitución. Artículo X: Elección e integración del Consejo Territorial. Los miembros del Consejo Territorial se elegirán en votación popular conjuntamente con las autoridades municipales y regionales, dos años después de la elección presidencial y parlamentaria. Los candidatos a la Asamblea Regional y al Consejo Territorial se presentarán en una misma lista, pero serán votados y elegidos separadamente, en la forma prevista por la ley. La ley determinará el número de consejeros a ser elegidos por región, el que deberá ser el mismo para cada una y en ningún caso inferior a 3, asegurando que la integración final del órgano respete el principio de paridad. La elección de escaños reservados para el Consejo Territorial se realizará en votación popular. El número de escaños por pueblo indígena que esté asentado en el territorio electoral respectivo y su forma de elección, se determinará por ley. Las consejeras y consejeros territoriales son miembros de la Asamblea Regional, a la que, dentro de sus competencias, representarán en el Consejo Territorial. La ley especificará sus derechos y obligaciones especiales, las que en todo caso deberán incluir la obligación de rendir cuenta para lo que serán especialmente convocados. Artículo X: Duración en el cargo y reelección. Los consejeros y consejeras durarán 4 años en el cargo y podrán ser reelegidos sucesivamente hasta por un período para el ejercicio del cargo. Para estos efectos se entenderá que las y los consejeros han ejercido su cargo durante un período cuando han cumplido más de la mitad de su mandato. Artículo X: Funcionamiento. El Consejo Territorial será presidido por el Vicepresidente o Vicepresidenta de la República, quien dirigirá las sesiones del Consejo Territorial y sólo tendrá derecho a voz. El Consejo Territorial funcionará de forma permanente, debiendo adoptar sus decisiones por la mayoría de sus miembros presentes, salvo que esta Constitución disponga de un quórum diferente. Todas las sesiones del Consejo Territorial son públicas. Una ley de acuerdo regional regulará la organización, funcionamiento y tramitación de leyes en el Consejo Territorial conforme a lo establecido en esta Constitución. En lo que no contradiga a la Constitución o la ley respectiva, el Consejo Territorial podrá dictar reglamentos para su organización y funcionamiento interno. El Consejo Territorial no podrá entrar en sesión sin la concurrencia de la tercera parte de sus miembros en ejercicio. Artículo X: Sólo son atribuciones del Consejo Territorial: 1. Participar del proceso de formación de las leyes de acuerdo regional, de conformidad con lo dispuesto en el artículo XX. 2. Las demás establecidas por la Constitución.",
         "content_to_remove": "",
         "placement_instructions": "introduce un nuevo Capítulo",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-GEN-CH04-TIT1",
@@ -4151,7 +4151,7 @@
                 "article": "Artículo 44"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH04_ART42",
@@ -4551,7 +4551,7 @@
                 "article": "Artículo 49.B"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH04_ARTX45B_46",
@@ -4628,7 +4628,7 @@
                 "article": "Artículo 51"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART47",
@@ -4658,7 +4658,7 @@
                 "article": "Artículo 52"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART48",
@@ -5210,7 +5210,7 @@
                 "article": "Artículo 55"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART52",
@@ -5262,7 +5262,7 @@
                 "article": "Artículo 56"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART53",
@@ -5497,7 +5497,7 @@
                 "article": "Artículo 57"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND_CH04_ARTX53_54",
@@ -5520,7 +5520,7 @@
                 "article": "Artículo 58"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART54",
@@ -5550,7 +5550,7 @@
                 "article": "Artículo 59"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-GEN-CH04-TIT4",
@@ -5641,7 +5641,7 @@
                 "article": "Artículo 60"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART55BIS",
@@ -5666,7 +5666,7 @@
                 "article": "Artículo 61"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH04_ART56",
@@ -5919,7 +5919,7 @@
                 "article": "Artículo 65"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH04_ART59B",
@@ -6326,7 +6326,7 @@
                 "article": "Artículo 70"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-GEN-CH05-TIT2",
@@ -6374,7 +6374,7 @@
                 "article": "Artículo 71"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH05_ART65",
@@ -6609,7 +6609,7 @@
                 "article": "Artículo 74"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-IND-CH05-TIT3",
@@ -6661,7 +6661,7 @@
                 "article": "Artículo 74.A"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND_CH05_ARTX67_68",
@@ -6686,7 +6686,7 @@
                 "article": "Artículo 75"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH05_ART68",
@@ -6790,7 +6790,7 @@
                 "article": "Artículo 76"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH05_ART69",
@@ -6956,7 +6956,7 @@
                 "article": "Artículo 80"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH05_ART72",
@@ -7007,7 +7007,7 @@
                 "article": "Artículo 81"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND03_17_CH05_ART73",
@@ -7041,7 +7041,7 @@
                 "article": "Artículo 82"
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "titleuid": "C1-IND04-01-2-CH2-TIT1",
@@ -7909,7 +7909,7 @@
         "content": "Artículo XX. Las autoridades electas por votación popular que se desempeñen en órganos colegiados recibirán una remuneración que no podrá ser superior a diez ingresos mínimos mensuales.",
         "content_to_remove": "",
         "placement_instructions": "nuevo artículo",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_CH*_ART10",
@@ -9491,7 +9491,8 @@
                 "timestamp": "04-30-1",
                 "article": "Artículo 27"
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND04_18_CH*_ART18septies",
@@ -9550,7 +9551,8 @@
                 "content_to_remove": "",
                 "placement_instructions": ""
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND04_18_CH*_ART18octies",
@@ -9743,7 +9745,7 @@
         "content": "Regla de paridad. El Congreso de Diputadas y Diputados será paritario, asegurando que, al menos, el cincuenta por ciento de su composición sean mujeres y que exista una representación efectiva de identidades trans y no binarias.",
         "content_to_remove": "",
         "placement_instructions": "añade un nuevo artículo del siguiente tenor",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT1_ART3.11",
@@ -10446,7 +10448,7 @@
                 "placement_instructions": ""
             }
         ],
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT4_ART16.21",
@@ -12159,7 +12161,7 @@
         "content": "El pueblo tribal afrodescendiente chileno tendrá un escaño reservado de representación en el Congreso de Diputadas y Diputados y se adicionará al número total de integrantes. La ley determinará el mecanismo de elección y los requisitos para poder optar al cargo.",
         "content_to_remove": "",
         "placement_instructions": "añade un nuevo artículo del siguiente tenor",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT8_ART59.91",
@@ -12192,7 +12194,7 @@
         "content": "La Constitución garantiza el pluralismo político. Las organizaciones políticas son entidades públicas no estatales, de carácter voluntario, que concurren a la formación de la voluntad popular. Deberán presentar un programa que oriente su actividad política. La ley regulará sus condiciones de constitución, organización, funcionamiento y disolución, así como las exigencias de transparencia, probidad y democracia interna que les serán aplicables. La Constitución protege el derecho de todas las personas a participar en organizaciones políticas y a postular a cargos de elección popular a través de ellas o como independientes. La ley regulará las condiciones del ejercicio de este derecho. Las organizaciones políticas y las candidaturas estarán sujetas a la supervigilancia y fiscalización del Servicio Electoral. Su contabilidad será pública y sus fuentes de financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero o de personas jurídicas. El Estado garantizará la equitativa promoción, debate y difusión electoral de las candidaturas, a través de los medios de comunicación.",
         "content_to_remove": "",
         "placement_instructions": "añade un nuevo artículo del siguiente tenor",
-        "final_status": "No se encuentra en el borrador final"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT8_ART60.93",
@@ -12275,7 +12277,8 @@
             "Politzer, Patricia",
             "Villena, Ingrid",
             "Catrileo, Rosa"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C1_GEN_DT_ART02",
@@ -12301,6 +12304,7 @@
             "Gutierrez, Hugo",
             "Celedon, Roberto",
             "Schonhaut, Constanza"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     }
 ]

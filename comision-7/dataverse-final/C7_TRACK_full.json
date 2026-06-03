@@ -106,7 +106,8 @@
         "placement_instructions": "nuevo artículo",
         "authors": [
             "Caamaño, Francisco"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH01_ART01.1",
@@ -360,7 +361,8 @@
                     "Dorador, Cristina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH01_ART01.4",
@@ -897,7 +899,8 @@
                     "Videla, Carolina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH03_ART01.3",
@@ -1109,7 +1112,8 @@
                     "Dorador, Cristina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_19_ART5",
@@ -1247,7 +1251,8 @@
         "placement_instructions": "como nuevo artículo 6C",
         "authors": [
             "Valenzuela, Paulina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH04_ART01.2",
@@ -1898,7 +1903,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C7_GEN_CH05_ART03.3",
@@ -1952,7 +1958,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C7_GEN_CH06_ART01",
@@ -3167,7 +3174,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH07_ART13",
@@ -3243,7 +3251,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C7_GEN_CH07_ART14",
@@ -3592,7 +3601,8 @@
             "Caamano, Francisco",
             "Reyes, Maria Ramona",
             "Cruz, Andres"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH07_ART20",
@@ -3618,7 +3628,8 @@
             "Caamano, Francisco",
             "Reyes, Maria Ramona",
             "Cruz, Andres"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH07_ART21",
@@ -3639,7 +3650,8 @@
             "Vidal, Rossana",
             "Hoppe, Vanessa",
             "Caamano, Francisco"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH08_ART01",
@@ -3883,7 +3895,8 @@
             "Vergara, Lisette",
             "Grandon, Giovanna",
             "Portilla, Ericka"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH08_ART03.1",
@@ -3984,7 +3997,8 @@
                     "Calvo, Carlos"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH09_ART02",
@@ -4378,7 +4392,8 @@
                     "Calvo, Carlos"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH09_ART09",
@@ -4595,7 +4610,8 @@
                     "Calvo, Carlos"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH10_ART02",
@@ -4782,7 +4798,8 @@
                     "Videla, Carolina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_GEN_CH11_ART02",
@@ -4872,7 +4889,8 @@
         "placement_instructions": "",
         "authors": [
             "Videla, Carolina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_19_ARTN3",
@@ -4903,7 +4921,8 @@
         "placement_instructions": "artículo nuevo previo al artículo 18",
         "authors": [
             "Videla, Carolina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH11_ART3",
@@ -5027,7 +5046,8 @@
             "Vargas, Margarita",
             "Videla, Carolina",
             "Woldarsky, Manuel"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART2",
@@ -5203,7 +5223,8 @@
             "Vidal, Rossana",
             "Videla, Carolina",
             "Vilches, Carolina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART6",
@@ -5366,7 +5387,8 @@
             "Vidal, Rossana",
             "Videla, Carolina",
             "Vilches, Carolina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART10",
@@ -6204,7 +6226,8 @@
             "Perez, Alejandra",
             "Vergara, Lisette",
             "Woldarsky, Manuel"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART25",
@@ -6389,7 +6412,8 @@
         "placement_instructions": "agregar el siguiente artículo",
         "authors": [
             "Vargas, Margarita"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART28",
@@ -6672,7 +6696,8 @@
             "Meneses, Janis",
             "Royo, Manuela",
             "Vidal, Rossana"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART33",
@@ -6728,7 +6753,8 @@
             "Royo, Manuela",
             "Sepulveda, Barbara",
             "Videla, Carolina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_19_CH13_ART34",
@@ -7600,7 +7626,8 @@
             "Caamaño, Francisco",
             "Caiguan, Alexis",
             "Calvo, Carlos"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 3.3",
@@ -7851,7 +7878,8 @@
             "Caamaño, Francisco",
             "Caiguan, Alexis",
             "Calvo, Carlos"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 3.4",
@@ -8434,7 +8462,8 @@
         "placement_instructions": null,
         "authors": [
             "Vidal, Rossana"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND03_08_1_CH1_ARTN",
@@ -8449,7 +8478,8 @@
         "placement_instructions": "agregar un nuevo artículo",
         "authors": [
             "Pinto, Malucha"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 1.2",
@@ -8865,7 +8895,8 @@
                     "Vidal, Rossana"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_19_ART9",
@@ -8880,7 +8911,8 @@
         "placement_instructions": "nuevo artículo",
         "authors": [
             "Videla, Carolina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_02_CH13_ART10BIS",
@@ -8895,7 +8927,8 @@
         "placement_instructions": "consignar el inciso segundo del artículo 10 como un nuevo artículo, que pasará a ser 10 bis",
         "authors": [
             "Vidal, Rossana"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_X_ART10",
@@ -9257,7 +9290,8 @@
             "Vega, Roberto"
         ],
         "article_uid": "C7_GEN2_CH2_ART3_2",
-        "timestamp": "02-17"
+        "timestamp": "02-17",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 3.3",
@@ -10023,7 +10057,8 @@
                     "Vidal, Rossana"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Art. 1",
@@ -10603,7 +10638,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 1:X",
@@ -10779,7 +10815,8 @@
                     "Vidal, Rossana"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "ARTÍCULO XX1",
@@ -10886,7 +10923,8 @@
                 "content_snapshot": "Todas las personas son iguales y gozarán de los mismos derechos, deberes, oportunidades y equidad de condiciones.\n El Estado reconoce y asegura estos derechos; sin discriminación de ninguna índole en razón de etnia, lugar de nacimiento, edad, sexo, género, identidad cultural, estado civil, idioma, religión, filiación política, pasado judicial, condición socio económica, condición migratoria, orientación sexual, estado de salud, vivir con VIH, discapacidad, neurodivergencia, ni por cualquier otra distinción, personal o colectiva, temporal o permanente, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de sus derechos.",
                 "comment": "Se rechazó por votación general el primer inciso. El segundo y tercero fueron aprobados"
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "ARTÍCULO XX3",
@@ -10959,7 +10997,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article": "ARTÍCULO X",
@@ -11077,7 +11116,8 @@
             "Videla, Carolina"
         ],
         "article_uid": "C7_GEN2_CH6_ARTXX",
-        "timestamp": "02-17"
+        "timestamp": "02-17",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "ARTÍCULO XXX2",
@@ -11104,7 +11144,8 @@
             "Videla, Carolina"
         ],
         "article_uid": "C7_GEN2_CH6_ARTXXX2",
-        "timestamp": "02-17"
+        "timestamp": "02-17",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "ARTÍCULO XXX2",
@@ -11172,7 +11213,8 @@
             "203-07"
         ],
         "article_uid": "C7_GEN2_CH6_ART1",
-        "timestamp": "02-17"
+        "timestamp": "02-17",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 1",
@@ -11340,7 +11382,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 4",
@@ -11392,7 +11435,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 5",
@@ -11552,7 +11596,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 8",
@@ -12321,7 +12366,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 20",
@@ -12387,7 +12433,8 @@
         "placement_instructions": "agregar un Artículo nuevo",
         "authors": [
             "Valenzuela, Paulina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_19_ARTN11",
@@ -12568,7 +12615,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 24",
@@ -12637,7 +12685,8 @@
                     "Botto, Miguel Angel"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_09_2_ARTN",
@@ -12780,7 +12829,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 27",
@@ -12999,7 +13049,8 @@
         "placement_instructions": "agregar a continuación del Artículo 19 por el siguiente artículo nuevo",
         "authors": [
             "Valenzuela, Paulina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 30",
@@ -13099,7 +13150,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 32",
@@ -13794,7 +13846,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 43",
@@ -13958,7 +14011,8 @@
                     "Pinto, Malucha"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C7_IND04_19_ARTN21",
@@ -13973,7 +14027,8 @@
         "placement_instructions": "agregar luego del Artículo 21 un nuevo Artículo",
         "authors": [
             "Valenzuela, Paulina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 46",
@@ -14328,7 +14383,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 53",
@@ -14419,7 +14475,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 55",
@@ -14485,7 +14542,8 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 56",
@@ -14660,7 +14718,8 @@
             "Videla, Carolina"
         ],
         "article_uid": "C7_GEN3_ART59",
-        "timestamp": "04-09-1"
+        "timestamp": "04-09-1",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 60",
@@ -14846,6 +14905,7 @@
                     "Valenzuela, Paulina"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     }
 ]

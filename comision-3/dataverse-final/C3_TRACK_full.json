@@ -1583,7 +1583,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN_CH01_ART16",
@@ -4801,7 +4801,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "Idéntico a 169"
+        "final_status": "Idéntico a 168.- Artículo 28"
     },
     {
         "article_uid": "C3_GEN_CH01_ART56",
@@ -5980,7 +5980,7 @@
         "content": "Art 67 bis. Competencia exclusiva de la legislación regional. Son materias de la ley regional:\n 1. La organización política, administrativa y financiera del Gobierno Regional. 2. El desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales. 3. Investigación, tecnología y ciencias en la Región Autónoma. 4. Conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua, bosques y los demás elementos naturales de su territorio y maritorio. 5. Culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio. 6. Participación popular en la Región Autónoma. 7. Contribuciones, tasas y beneficios tributarios regionales.",
         "content_to_remove": null,
         "placement_instructions": null,
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_IND02_14_CH01_ART67quater",
@@ -6003,7 +6003,7 @@
         "content": "De las competencias legislativas concurrentes. El Congreso Plurinacional y cada Asamblea Legislativa Regional tendrán potestades legislativas concurrentes. Se entenderán potestades legislativas concurrentes aquellas en que las Regiones Autónomas le corresponde la potestad legislativa específica, con la excepción de la determinación de los principios o reglas generales en una ley marco que le corresponde al Congreso Plurinacional. Son materias de legislación concurrente: 1) La coordinación tributaria; 2) La coordinación presupuestaria; 3) La creación de instituciones financieras y crediticias regionales, tales como bancos locales y rurales; 4) La creación de entidades de crédito inmobiliario y agrario regionales; 5) La política de desarrollo cultural y de educación regional, y la creación de instituciones de educación superior y técnica; 6) La protección de la soberanía alimentaria; 7) La investigación científica y tecnológica regional; 8) La suscripción de deuda pública regional y municipal; 9) El diseño y ejecución de proyectos de infraestructura interregional; 10) La regulación de los bienes fiscales y de los bienes nacionales de uso público, incluyendo las minas y los demás bienes comunes naturales. 11) La regulación de la organización sindical, la negociación o conflicto colectivo y la huelga; 12) El diseño y ejecución de proyectos de Infraestructura energética interregional; 13) La política de realización progresiva de los derechos económicos, sociales y culturales; 14) Creación de entidades de coordinación relativas a la provisión de servicios públicos esenciales; 15) La regulación de la responsabilidad por daño ambiental; 16) La política de protección de los derechos e inclusión social de personas con discapacidades; 17. Planificación, obras públicas, ordenamiento territorial y manejo integrado de cuencas en la Región Autónoma. 18. Vivienda, urbanismo, salud, educación, transporte, conectividad digital, turismo, deporte, ocio y recreación en la Región Autónoma.",
         "content_to_remove": null,
         "placement_instructions": null,
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN_CH01_ART68",
@@ -6093,7 +6093,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN_CH01_ART69",
@@ -6591,7 +6591,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN_CH01_ART73",
@@ -8451,7 +8451,7 @@
         "sources": [
             "633-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Abarca, Jorge",
             "Aguilera, Tiare",
@@ -9886,7 +9886,7 @@
         "content": "Artículo 10 bis.- La ley podrá establecer impuestos sobre actividades o bienes de clara identificación territorial.",
         "content_to_remove": null,
         "placement_instructions": null,
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_IND04_06_CH01_ART39bis",
@@ -9919,7 +9919,7 @@
         "target_scope": "TOTAL",
         "content": "Artículo 39 bis. Destino de los recursos tributarios. Una vez recaudados, los recursos obtenidos por tributos ingresarán al patrimonio de la entidad territorial respectiva, sin perjuicio de la compensación fiscal establecida en virtud del mecanismo de redistribución interregional e intercomunal establecido en la Constitución.",
         "placement_instructions": "luego del artículo 39",
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN2_CH01_ART40",
@@ -10381,7 +10381,7 @@
         "target_scope": "TOTAL",
         "content": "Artículo 43 bis. Participación en el ingreso por el uso y explotación de recursos naturales. Las entidades territoriales en cuyo territorio se desarrollen actividades ligadas a sus características y condiciones naturales o geográficas, tendrán derecho a participar, en conformidad al artículo 23 de los ingresos que el Estado perciba en relación con dichas actividades, en conformidad al principio de solidaridad interterritorial y en la forma que determine la ley. Sin perjuicio del derecho de las entidades territoriales a participar de los ingresos que el Estado percibe de acuerdo al inciso anterior, la ley determinará los mecanismos necesarios para que dichos ingresos sean destinados a inversión pública. Los ingresos a que se refiere este artículo, podrán provenir, entre otros, del uso y explotación de bienes nacionales de uso público y bienes fiscales, tales como recursos minerales, pesqueros y forestales, la observación astronómica, el uso de la energía solar, eólica, oceánica o geotermal, del espectro radioeléctrico, o de las concesiones sobre el uso de estos bienes, tales como el agua, carreteras o inmuebles fiscales",
         "placement_instructions": "incorporar un nuevo artículo 43 bis",
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN2_CH01_ART43ter",
@@ -10415,7 +10415,7 @@
         "target_scope": "TOTAL",
         "content": "Artículo 43 ter. Transferencias solidarias y compensación interterritorial. Con el fin de reducir las diferencias en la capacidad fiscal de las Regiones y Comunas, la ley establecerá mecanismos de redistribución interregional e intercomunal, respectivamente, que operarán a partir de sus correspondientes fórmulas de redistribución y de rangos de contribución definidos por la Constitución y la ley. Las Regiones y Comunas que obtengan ingresos que superen el promedio ponderado de ingresos fiscales por habitante de las respectivas Entidades Territoriales, transferirán a las Regiones o Comunas que obtengan recursos bajo el promedio ponderado. Ninguna Entidad Territorial contribuirá más de la mitad de sus ingresos fiscales por habitantes superiores al promedio ponderado de ingresos fiscales por habitante de todas las Regiones Autónomas o Comunas Autónomas de la República. Los recursos destinados a Regiones o Comunas por transferencias verticales directas del Estado, supletorias o solidarias, así como por tributos serán contabilizados como ingresos en el cálculo de la redistribución interregional e intercomunal, correspondiente. En el cálculo del promedio ponderado de ingresos por habitante y en la determinación de la fórmula de redistribución, la Comisión de Equidad Territorial y Transferencias Fiscales deberá contemplar criterios de capacidad fiscal, indicadores de pobreza, densidad demográfica, brechas de inversión pública y tamaño del territorio, u otros criterios otros semejantes.",
         "placement_instructions": "incorporar un nuevo artículo 43 ter",
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN2_CH01_ART43quater",
@@ -10449,7 +10449,7 @@
         "target_scope": "TOTAL",
         "content": "Artículo 43 quater. Transferencia directa supletoria. El Estado podrá efectuar transferencias directas a las entidades territoriales, para financiar proyectos específicos destinados al bienestar regional, comunal y autonómico indígena. El Estado deberá fundar sus transferencias directas en planes de Inversión en infraestructura pública, los que estarán basados en criterios tales como brechas de inversión pública, indicadores de pobreza y desarrollo territorial, o bien, en consideraciones que respondan al trato preferente a territorios especiales o poblaciones empobrecidas. El Estado, en ejercicio de las facultades supletorias a que se refiere el artículo 30 inciso final de la Constitución, podrá efectuar transferencias directas a las entidades territoriales que corresponda.",
         "placement_instructions": "incorporar un nuevo artículo 43 quater",
-        "final_status": "No encontrado"
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN2_CH01_ART44",
@@ -10754,7 +10754,7 @@
                 "content": "Artículo 47. Garantías jurisdiccionales de la autonomía financiera. Para hacer efectiva la autonomía financiera, incluidas las compensaciones territoriales en los términos consagrados en la Constitución, las entidades territoriales autónomas podrán recurrir a la jurisdicción constitucional, contenciosa administrativa u ordinaria competente, según corresponda."
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Ampuero, Adriana",
@@ -10811,7 +10811,7 @@
                 "content": "Artículo 48. Controles financieros. Un órgano de carácter técnico, desconcentrado territorialmente, con autonomía administrativa y presupuestaria, controlará la legalidad de la actividad financiera, la gestión y los resultados de la administración de los recursos públicos. Su actuar deberá fundarse en la eficiencia, la economía, la equidad y la valoración de los costos ambientales y sociales. Este órgano técnico, especialmente fiscalizará la elaboración y ejecución de los presupuestos de las entidades territoriales, las que deberán efectuarse bajo las normas contables aplicables al sector público determinadas por ley. Asimismo, la ley establecerá los mecanismos adecuados para incorporar un control ciudadano, democrático y participativo desde los territorios. El Estado promoverá la educación cívica de la ciudadanía en el control y la gestión de recursos públicos. Sin perjuicio de lo señalado en los incisos anteriores, la ley regulará otros controles internos y auditorías periódicas independientes. Con todo, serán públicos los informes de auditorías y los estados financieros de las entidades territoriales fiscalizadas"
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Ampuero, Adriana",
@@ -11927,7 +11927,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Aguilera, Tiare",
             "Alvarez, Julio",
@@ -12413,7 +12413,7 @@
         "sources": [
             "469-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Arancibia, Jorge",
             "Castro, Claudia",
@@ -12440,7 +12440,7 @@
         "sources": [
             "469-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Arancibia, Jorge",
             "Castro, Claudia",
@@ -12467,7 +12467,7 @@
         "sources": [
             "469-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Arancibia, Jorge",
             "Castro, Claudia",
@@ -12494,7 +12494,7 @@
         "sources": [
             "469-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Arancibia, Jorge",
             "Castro, Claudia",
@@ -12521,7 +12521,7 @@
         "sources": [
             "469-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Arancibia, Jorge",
             "Castro, Claudia",
@@ -12548,7 +12548,7 @@
         "sources": [
             "469-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Arancibia, Jorge",
             "Castro, Claudia",
@@ -12575,7 +12575,7 @@
         "sources": [
             "648-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Andrade, Cristobal",
             "Caamano, Francisco",
@@ -12722,7 +12722,7 @@
         "sources": [
             "1018-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -12748,7 +12748,7 @@
         "sources": [
             "1018-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -12774,7 +12774,7 @@
         "sources": [
             "1018-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -12800,7 +12800,7 @@
         "sources": [
             "1018-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -12931,7 +12931,8 @@
             "Reyes, Maria Ramona",
             "Uribe, Cesar",
             "Velasquez, Hernan"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN2_CH01_ART83",
@@ -13201,7 +13202,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -13290,7 +13291,7 @@
         "sources": [
             "1018-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -13485,7 +13486,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -14071,7 +14072,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -14208,7 +14209,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarez, Julio",
             "Alvez, Amaya",
@@ -14605,7 +14606,7 @@
         "sources": [
             "482-3"
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Alvarado, Gloria",
             "Ampuero, Adriana",
@@ -15521,8 +15522,22 @@
         "timestamp": "04-04",
         "article": "Artículo 117",
         "text": "El Gobernador Regional implementará oficinas territoriales debidamente descentralizadas, las cuales controlarán y fiscalizarán la prestación y calidad del servicio. En virtud de ello, podrá, mediante resolución fundada, sancionar directamente al prestador o empresa respectiva.\n Los municipios tendrán la facultad de apoyar directamente a las oficinas territoriales regionales, con el fin de fiscalizar el cumplimiento de la normativa de planificación vial y del tránsito, así como denunciar al correspondiente juzgado de policía local las faltas que observare.",
-        "sources": [],
-        "final_status": "No encontrado"
+        "sources": [
+            "618-5"
+        ],
+        "authors": [
+            "Andrade, Cristobal",
+            "Arauna, Francisca",
+            "Caamano, Francisco",
+            "Gomez, Claudio",
+            "Grandon, Paola",
+            "Henriquez, Natalia",
+            "Nunez, Nicolas",
+            "Uribe, Cesar",
+            "Vallejos, Loreto",
+            "Villena, Ingrid"
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C3_GEN2_CH01_ART118",
@@ -16362,7 +16377,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Gallardo, Bessy",
             "Godoy, Isabel",
@@ -16969,7 +16984,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Aguilera, Tiare",
             "Alvarez, Julio",
@@ -17030,7 +17045,7 @@
                 "placement_instructions": null
             }
         ],
-        "final_status": "No encontrado",
+        "final_status": "ART-FALLIDO",
         "authors": [
             "Aguilera, Tiare",
             "Alvarez, Julio",

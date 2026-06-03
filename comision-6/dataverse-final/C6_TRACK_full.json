@@ -4342,7 +4342,8 @@
             "Llanquileo, Natividad",
             "Logan, Rodrigo",
             "Stingo, Daniel"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 24.- Funciones de los tribunales",
@@ -4512,7 +4513,8 @@
                     "Gutierrez, Hugo"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C6_IND03_07_ART3",
@@ -4998,7 +5000,8 @@
         "placement_instructions": "agregar un nuevo artículo en el capítulo “De los Tribunales del Sistema Nacional de Justicia”",
         "authors": [
             "Jimenez, Luis"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND03_07_ART11",
@@ -5015,7 +5018,8 @@
             "Antilef, Victorino",
             "Caiguan, Alexis",
             "Linconao, Francisca"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 30.- Funciones y composición",
@@ -6466,7 +6470,8 @@
                     "Gutierrez, Hugo"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 45 A.- Tribunales de ejecución de penas",
@@ -6970,7 +6975,8 @@
         "placement_instructions": "a continuación del artículo 24, un nuevo artículo 24 bis",
         "authors": [
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 28 C",
@@ -7251,7 +7257,8 @@
                 "timestamp": "03-07",
                 "article": "Artículo 23"
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 53.- Sistema de seguimiento y evaluación de medidas cautelares",
@@ -7563,7 +7570,8 @@
                     "Jimenez, Luis"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 40 A",
@@ -7698,7 +7706,8 @@
                     "Daza, Mauricio"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 42",
@@ -8183,7 +8192,8 @@
                     "Gutierrez, Hugo"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 64 A.- Consejo de la Justicia",
@@ -10484,7 +10494,8 @@
             "Llanquileo, Natividad",
             "Gutierrez, Hugo",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 1",
@@ -14912,7 +14923,8 @@
                     "Giustinianovich, Elisa"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article": "Artículo 46",
@@ -14954,7 +14966,8 @@
                     "Giustinianovich, Elisa"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article": "Artículo 47",
@@ -14996,7 +15009,8 @@
                     "Giustinianovich, Elisa"
                 ]
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article": "Artículo 48",
@@ -15087,7 +15101,8 @@
                     "Bravo, Daniel"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND04_27_ART34",
@@ -15127,7 +15142,8 @@
             "Jimenez, Luis",
             "Bravo, Daniel",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 50",
@@ -15641,7 +15657,8 @@
                     "Daza, Mauricio"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 58",
@@ -16599,7 +16616,8 @@
         "placement_instructions": "a continuación del artículo 40 del Informe",
         "authors": [
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 63 B",
@@ -18496,7 +18514,8 @@
         ],
         "authors": [
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 78 A",
@@ -18856,7 +18875,8 @@
             "Llanquileo, Natividad",
             "Gutierrez, Hugo",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ART52TER",
@@ -18876,7 +18896,8 @@
             "Cespedes, Lorena",
             "Valenzuela, Cesar",
             "Henriquez, Natalia"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ART52QUATER",
@@ -18903,7 +18924,8 @@
             "Llanquileo, Natividad",
             "Gutierrez, Hugo",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 82 A",
@@ -20226,7 +20248,8 @@
             "Gutierrez, Hugo",
             "Daza, Mauricio",
             "Namor, Guillermo"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 97",
@@ -20322,7 +20345,8 @@
                     "Botto, Miguel Angel"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 98",
@@ -20702,7 +20726,8 @@
                 "article": "Articulo 63",
                 "content_snapshot": "Garantía de justicia y no repetición, de que nunca más un presidente abuse de su poder y le declare la guerra a su propio pueblo."
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 105",
@@ -20777,7 +20802,8 @@
                     "Daza, Mauricio"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 106",
@@ -22254,7 +22280,8 @@
         ],
         "authors": [
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 118 B",
@@ -24431,7 +24458,8 @@
                     "Daza, Mauricio"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 140",
@@ -24923,7 +24951,8 @@
                     "Daza, Mauricio"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 145",
@@ -25038,7 +25067,8 @@
         "placement_instructions": "nuevo artículo 85 bis",
         "authors": [
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 146",
@@ -25101,7 +25131,8 @@
                     "Villena, Ingrid"
                 ]
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 147",
@@ -25501,7 +25532,8 @@
             "Llanquileo, Natividad",
             "Gutierrez, Hugo",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ART92",
@@ -25528,7 +25560,8 @@
             "Llanquileo, Natividad",
             "Gutierrez, Hugo",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ARTN93",
@@ -25547,7 +25580,8 @@
             "Vallejos, Loreto",
             "Saldana, Alvin",
             "Valenzuela, Cesar"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ARTN94",
@@ -25566,7 +25600,8 @@
             "Vallejos, Loreto",
             "Saldana, Alvin",
             "Valenzuela, Cesar"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ARTN95",
@@ -25586,7 +25621,8 @@
             "Vallejos, Loreto",
             "Saldana, Alvin",
             "Valenzuela, Cesar"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ARTN96",
@@ -25603,7 +25639,8 @@
         "authors": [
             "Villena, Ingrid",
             "Bravo, Daniel"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C6_IND05_08_ARTN97",
@@ -25630,7 +25667,8 @@
             "Llanquileo, Natividad",
             "Gutierrez, Hugo",
             "Daza, Mauricio"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article": "Artículo 150 A",

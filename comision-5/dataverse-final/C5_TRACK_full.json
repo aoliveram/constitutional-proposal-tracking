@@ -676,7 +676,8 @@
         "action": "ADD",
         "content": "Artículo transitorio nuevo. Servicio para la Crisis Climática y Ecológica. Un servicio para enfrentar la crisis climática y ecológica, dependiente del Ministerio del Medio Ambiente, será el órgano, de carácter técnico, encargado de abordar de manera transdisciplinaria e integral la Crisis Climática y Ecológica. Su conformación será establecida por ley, considerando una integración plurinacional, debiendo incluir participación vinculante de la sociedad civil. Dicho servicio se implementará en el plazo de 2 años.",
         "content_to_remove": "",
-        "placement_instructions": "nuevo artículo transitorio en la temática 1 de Crisis Climática"
+        "placement_instructions": "nuevo artículo transitorio en la temática 1 de Crisis Climática",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH04_ART14",
@@ -746,7 +747,8 @@
                 "content_to_remove": "",
                 "placement_instructions": ""
             }
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_IND04_09_2_CH01_ART12A",
@@ -831,7 +833,8 @@
         "action": "SUBSTITUTE",
         "content": "Artículo 12 E. Los derechos de los pueblos indígenas sobre bienes comunes naturales que se encuentran en sus tierras y territorios, reconocidos en el derecho internacional de los derechos humanos, ratificado y vigente en Chile, serán reconocidos por la ley. Esos derechos en todo caso implicarán los deberes establecidos en el artículo tercero.",
         "content_to_remove": "",
-        "placement_instructions": "después del artículo 12"
+        "placement_instructions": "después del artículo 12",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_IND03_01_2_CH04_ARTAN15",
@@ -1202,7 +1205,8 @@
                 "content_to_remove": "",
                 "placement_instructions": ""
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C5_GEN_CH05_ART18",
@@ -1715,7 +1719,8 @@
             "Royo, Manuela",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH10_ART28",
@@ -1741,7 +1746,8 @@
             "Royo, Manuela",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH10_ART29",
@@ -1767,7 +1773,8 @@
             "Royo, Manuela",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH10_ART30",
@@ -1793,7 +1800,8 @@
             "Royo, Manuela",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH11_ART31",
@@ -1952,7 +1960,8 @@
             "Bravo, Daniel",
             "Bacian, Wilfredo",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH12_ART35",
@@ -1979,7 +1988,8 @@
             "Bravo, Daniel",
             "Bacian, Wilfredo",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH12_ART36",
@@ -2006,7 +2016,8 @@
             "Bravo, Daniel",
             "Bacian, Wilfredo",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH13_ART37",
@@ -2077,7 +2088,8 @@
                 "content_to_remove": "",
                 "placement_instructions": ""
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C5_GEN_CH14_ART38",
@@ -2196,7 +2208,8 @@
             "Zarate, Camila",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH14_ART41",
@@ -2214,7 +2227,8 @@
             "Zarate, Camila",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH15_ART42",
@@ -2646,7 +2660,8 @@
             "Caiguan, Alexis",
             "Antilef, Victorino",
             "Vergara, Lisette"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH20_ART51",
@@ -2681,7 +2696,8 @@
             "Caiguan, Alexis",
             "Antilef, Victorino",
             "Vergara, Lisette"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH20_ART52",
@@ -2716,7 +2732,8 @@
             "Caiguan, Alexis",
             "Antilef, Victorino",
             "Vergara, Lisette"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH20_ART53",
@@ -2751,7 +2768,8 @@
             "Caiguan, Alexis",
             "Antilef, Victorino",
             "Vergara, Lisette"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH21_ART54",
@@ -2770,7 +2788,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH21_ART55",
@@ -2789,7 +2808,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH21_ART56",
@@ -2808,7 +2828,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH21_ART57",
@@ -2827,7 +2848,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH21_ART58",
@@ -2846,7 +2868,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH21_ART59",
@@ -2909,7 +2932,8 @@
                 "content_to_remove": "",
                 "placement_instructions": ""
             }
-        ]
+        ],
+        "final_status": "Eliminado"
     },
     {
         "article_uid": "C5_GEN_CH22_ART60",
@@ -3111,7 +3135,8 @@
             "Bravo, Daniel",
             "Schonhaut, Constanza",
             "Villena, Ingrid"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH26_ART65",
@@ -3121,7 +3146,8 @@
         "sources": [
             "IPN 6-5"
         ],
-        "authors": []
+        "authors": [],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH27_ART66",
@@ -3142,7 +3168,8 @@
             "Royo, Manuela",
             "Portilla, Ericka",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH28_ART67",
@@ -3163,7 +3190,8 @@
             "Royo, Manuela",
             "Portilla, Ericka",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH29_ART68",
@@ -3184,7 +3212,8 @@
             "Royo, Manuela",
             "Portilla, Ericka",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH30_ART69",
@@ -3205,7 +3234,8 @@
             "Royo, Manuela",
             "Portilla, Ericka",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH31_ART70",
@@ -3232,7 +3262,8 @@
             "Caamano, Francisco",
             "Villena, Ingrid",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH32_ART71",
@@ -3259,7 +3290,8 @@
             "Caamano, Francisco",
             "Villena, Ingrid",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH33_ART72",
@@ -3852,7 +3884,8 @@
         "sources": [
             "IPC 73-5"
         ],
-        "authors": []
+        "authors": [],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH42_ART81",
@@ -3862,7 +3895,8 @@
         "sources": [
             "ICI 80-5"
         ],
-        "authors": []
+        "authors": [],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH43_ART82",
@@ -3889,7 +3923,8 @@
             "Toloza, Pablo",
             "Mayol, Luis",
             "Vega, Roberto"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH44_ART83",
@@ -3916,7 +3951,8 @@
             "Toloza, Pablo",
             "Mayol, Luis",
             "Vega, Roberto"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH45_ART84",
@@ -3943,7 +3979,8 @@
             "Toloza, Pablo",
             "Mayol, Luis",
             "Vega, Roberto"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH46_ART85",
@@ -3970,7 +4007,8 @@
             "Toloza, Pablo",
             "Mayol, Luis",
             "Vega, Roberto"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH47_ART86",
@@ -3995,7 +4033,8 @@
             "Sepulveda, Barbara",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH48_ART87",
@@ -4021,7 +4060,8 @@
             "Sepulveda, Barbara",
             "Caamano, Francisco",
             "Gallardo, Bessy"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH49_ART88",
@@ -4031,7 +4071,8 @@
         "sources": [
             "IPC 21-5"
         ],
-        "authors": []
+        "authors": [],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH50_ART89",
@@ -4041,7 +4082,8 @@
         "sources": [
             "ICI 787-5"
         ],
-        "authors": []
+        "authors": [],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH51_ART90",
@@ -4062,7 +4104,8 @@
             "Labrana, Elsa",
             "Chinga, Eric",
             "Caamano, Francisco"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH52_ART91",
@@ -4082,7 +4125,8 @@
             "Zarate, Camila",
             "Royo, Manuela",
             "Caamano, Francisco"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH53_ART92",
@@ -4106,7 +4150,8 @@
             "Gomez, Claudio",
             "Fernandez, Patricio",
             "Cruz, Andres"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH54_ART93",
@@ -4525,7 +4570,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH60_ART99",
@@ -4552,7 +4598,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH61_ART100",
@@ -4574,7 +4621,8 @@
             "Giustinianovich, Elisa",
             "Alvarado, Gloria",
             "Hoppe, Vanessa"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH62_ART101",
@@ -4584,7 +4632,8 @@
         "sources": [
             "963-1"
         ],
-        "authors": []
+        "authors": [],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH63_ART102",
@@ -4611,7 +4660,8 @@
             "Alvarado, Gloria",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH64_ART103",
@@ -4636,7 +4686,8 @@
             "Hoppe, Vanessa",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH65_ART104",
@@ -4661,7 +4712,8 @@
             "Hoppe, Vanessa",
             "Caamano, Francisco",
             "Olivares, Ivanna"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN_CH66_ART105",
@@ -5322,7 +5374,8 @@
             "Vilches, Carolina",
             "Woldarsky, Manuel",
             "Zarate, Camila"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_IND05_04_CH1_ART5_6",
@@ -5338,7 +5391,8 @@
         "action": "ADD",
         "content": "Artículo X: Consejo de Cuencas. De los actores: Los comités de cuencas hidrográficas deberán ser compuestos por representantes del Estado, Usuarios y Sociedad Civil con actuación comprobada en la Cuenca. Los usuarios son aquellos que tienen el poder para usufructuar de los recursos hídricos, pudiendo estar sujetos a un permiso o una concesión formal de derechos de uso. Los representantes del Estado deben ser entidades integrantes de los gobiernos municipales, regionales y cuándo tratase de una Cuenca entre regiones, deberá estar representado por el poder central. Los actores de la sociedad civil deben ser organizaciones o entidades que representan los intereses generales y difusos de la comunidad local y deben ser actores en la defensa de los intereses colectivos.",
         "content_to_remove": "",
-        "placement_instructions": "luego del artículo 5º"
+        "placement_instructions": "luego del artículo 5º",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART6",
@@ -5374,7 +5428,8 @@
             "Laibe, Tomas",
             "Munoz, Pedro",
             "Vargas, Mario"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART7",
@@ -10879,7 +10934,8 @@
             "Vilches, Carolina",
             "Villena, Ingrid",
             "Woldarsky, Manuel"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART144",
@@ -13505,7 +13561,8 @@
             "Tepper, Maria Angelica",
             "Vega, Roberto",
             "Veloso, Paulina"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_IND05_04_CH1_ART27B",
@@ -13521,7 +13578,8 @@
         "action": "ADD",
         "content": "Artículo 27 B. Los organismos públicos competentes y empresas del Estado, creadas por ley, podrán explorar y explotar las sustancias establecidas en el artículo 22. “Son sustancias estratégicas el litio, los hidrocarburos líquidos, sólidos o gaseosos y aquellas sustancias situadas en áreas que la Constitución considere de interés nacional. Las sustancias estratégicas en su estado natural deberán ser objeto de exploración y explotación por parte de los organismos y empresas del Estado. En el caso de asociarse con empresas privadas, mantendrá siempre su participación de al menos un tercio. Las actividades mineras de exploración, explotación o aprovechamiento, serán entregadas por los títulos administrativos que defina la ley, los cuales caducarán de no ejercerse dichas actividades. Éstos se otorgarán de forma temporal y renovables, mediante un procedimiento transparente e informado a la ciudadanía, en los términos y condiciones que establezca la ley. Estos títulos administrativos no generan derecho de propiedad sobre las mismas. Será de competencia de un órgano administrativo, de carácter autónomo y técnico, creado por ley, la evaluación, otorgamiento, revisión, caducidad, renovación y extinción de los títulos administrativos de exploración, explotación y aprovechamiento, así como el seguimiento del cumplimiento de estas. La ley determinará su organización, nombramientos, atribuciones y funciones. Las controversias surgidas en relación con estos procedimientos administrativos darán derecho al afectado a reclamar ante los tribunales competentes que determine la ley.”",
         "content_to_remove": "",
-        "placement_instructions": "nuevo artículo inmediatamente después del artículo 27"
+        "placement_instructions": "nuevo artículo inmediatamente después del artículo 27",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_IND05_04_CH1_ART28",
@@ -13537,7 +13595,8 @@
         "action": "ADD",
         "content": "Artículo 28. La ley regulará las regalías u otro tipo de compensaciones patrimoniales que deberá percibir el Estado por la explotación y aprovechamiento de las sustancias señaladas en el inciso primero de este artículo. Las regalías, en cuanto exacciones, no tendrán carácter tributario. La ley podrá destinar parte de los recursos recaudados a la reparación de daños socioambientales generados por la actividad minera, así como para la investigación e innovación del desarrollo productivo en el sector u otras que defina la ley.",
         "content_to_remove": "",
-        "placement_instructions": "nuevo artículo inmediatamente después del artículo 27"
+        "placement_instructions": "nuevo artículo inmediatamente después del artículo 27",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART204",
@@ -13588,7 +13647,8 @@
             "Orellana, Matias",
             "Schonhaut, Constanza",
             "Viera, Christian"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_IND05_04_CH1_ART28_29",
@@ -13604,7 +13664,8 @@
         "action": "ADD",
         "content": "Artículo X: Educación Ambiental: El Estado debe promover la educación ambiental en todos los niveles de enseñanza y la concientización pública para la preservación del medio ambiente",
         "content_to_remove": "",
-        "placement_instructions": "nuevo artículo luego del artículo 28"
+        "placement_instructions": "nuevo artículo luego del artículo 28",
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART205",
@@ -13677,7 +13738,8 @@
             "Orellana, Matias",
             "Schonhaut, Constanza",
             "Viera, Christian"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART207",
@@ -15207,7 +15269,8 @@
             "Royo, Manuela",
             "San Juan, Constanza",
             "Zarate, Camila"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART243",
@@ -15333,7 +15396,8 @@
             "Royo, Manuela",
             "San Juan, Constanza",
             "Zarate, Camila"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART245",
@@ -19527,7 +19591,8 @@
             "Vallejos, Loreto",
             "Villena, Ingrid",
             "Zarate, Camila"
-        ]
+        ],
+        "final_status": "ART-FALLIDO"
     },
     {
         "article_uid": "C5_GEN2_CH1_ART349",
