@@ -3708,8 +3708,7 @@
                 ]
             }
         ],
-        "comment": "Solo se considera el inciso 1 en el borrador final",
-        "final_status": "Idéntico a 480.- Artículo 9"
+        "final_status": "Similar a 480.- Artículo 9"
     },
     {
         "article_uid": "C7_GEN_CH08_ART01.1",
@@ -3800,7 +3799,7 @@
                 "timestamp": "04-19",
                 "article": "Artículo 10",
                 "step": "Indicación",
-                "content_snapshot": "Derecho a la seguridad informática. Todas las personas, individual y colectivamente, tienen el derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.\n Toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, como el cifrado o la encriptación. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este derecho",
+                "content_snapshot": "Derecho a la seguridad informática. Todas las personas, individual y colectivamente, tienen el derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.\n Toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, como el cifrado o la encriptación. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este derecho.",
                 "number": "41",
                 "target_scope": "TOTAL",
                 "action": "SUBSTITUTE",
@@ -4977,8 +4976,7 @@
                 ]
             }
         ],
-        "comment": "Solo se considera el inciso 1 en el borrador final",
-        "final_status": "Idéntico a 485.- Artículo 17",
+        "final_status": "Similar a 485.- Artículo 17",
         "authors": [
             "Arancibia, Jorge",
             "Arrau, Martin",
@@ -5358,7 +5356,7 @@
                 ]
             }
         ],
-        "final_status": "Similar a 465.- Artículo 13",
+        "final_status": "ART-FALLIDO",
         "authors": []
     },
     {
@@ -9291,7 +9289,7 @@
         ],
         "article_uid": "C7_GEN2_CH2_ART3_2",
         "timestamp": "02-17",
-        "final_status": "ART-FALLIDO"
+        "final_status": "Similar a 465.- Artículo 13"
     },
     {
         "article": "Artículo 3.3",
@@ -12440,11 +12438,11 @@
         "article_uid": "C7_IND04_19_ARTN11",
         "timestamp": "04-19",
         "article": "Artículo 11",
-        "text": "El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.´\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
+        "text": "El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
         "number": "43",
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
-        "content": "Artículo 11.- El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.´\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
+        "content": "Artículo 11.- El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
         "content_to_remove": "",
         "placement_instructions": "",
         "final_status": "Similar a 482.- Artículo 11",

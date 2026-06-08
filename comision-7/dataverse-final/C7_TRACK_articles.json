@@ -357,8 +357,7 @@
                 ]
             }
         ],
-        "comment": "Solo se considera el inciso 1 en el borrador final",
-        "final_status": "Idéntico a 480.- Artículo 9"
+        "final_status": "Similar a 480.- Artículo 9"
     },
     {
         "article_uid": "C7_GEN_CH08_ART01.1",
@@ -449,7 +448,7 @@
                 "timestamp": "04-19",
                 "article": "Artículo 10",
                 "step": "Indicación",
-                "content_snapshot": "Derecho a la seguridad informática. Todas las personas, individual y colectivamente, tienen el derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.\n Toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, como el cifrado o la encriptación. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este derecho",
+                "content_snapshot": "Derecho a la seguridad informática. Todas las personas, individual y colectivamente, tienen el derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.\n Toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, como el cifrado o la encriptación. Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este derecho.",
                 "number": "41",
                 "target_scope": "TOTAL",
                 "action": "SUBSTITUTE",
@@ -532,8 +531,7 @@
                 ]
             }
         ],
-        "comment": "Solo se considera el inciso 1 en el borrador final",
-        "final_status": "Idéntico a 485.- Artículo 17",
+        "final_status": "Similar a 485.- Artículo 17",
         "authors": [
             "Arancibia, Jorge",
             "Arrau, Martin",
@@ -582,48 +580,6 @@
             "Urrutia, Tatiana",
             "Viera, Christian"
         ]
-    },
-    {
-        "article_uid": "C7_IND03_19_CH13_ART8",
-        "timestamp": "NA",
-        "article": "Artículo 8",
-        "text": "Los pueblos y naciones preexistentes al Estado tienen el derecho a salvaguardar su identidad cultural. También tendrán derecho a desarrollar, revitalizar, preservar, mantener, administrar, controlar, proteger, recuperar, fomentar su patrimonio cultural, sus conocimientos tradicionales, sus expresiones culturales tradicionales y las manifestaciones de sus artes, artesanías, ciencias, técnicas, tecnologías y culturas, comprendidos los recursos humanos, genéticos y fitogenéticos, las semillas, las plantas, las prácticas y formas de cultivo, las medicinas tradicionales, el conocimiento tradicional sobre la flora, la fauna y otros elementos de la naturaleza, las tradiciones orales, la filosofía y la cosmovisión, las literaturas, sistemas de escrituras, la lengua, los diseños, las danzas, los deportes, juegos tradicionales, prácticas espirituales y festividades, espacios culturalmente relevantes y otros que se deriven de su producción cultural. También tienen derecho a mantener, controlar, proteger y desarrollar su propiedad intelectual colectiva de dicho patrimonio cultural, sus conocimientos tradicionales y sus expresiones culturales tradicionales y Iniciativas de Pueblos Originarios sus innovaciones. (ICI 153-7Inciso primero). Los pueblos y naciones preexistentes al Estado establecerán las medidas eficaces para resguardar, fomentar, reconocer y proteger el ejercicio de estos derechos que debe adoptar el Estado. (ICI 153-7 inciso segundo). Nada de lo contenido en estos derechos será susceptible de apropiación pública o privada por ser parte de la herencia cultural de los pueblos y naciones preexistentes al Estado. (ICI 153-7 inciso tercero). Los pueblos y naciones preexistentes tienen derecho a obtener la repatriación de objetos de cultura y de restos humanos pertenecientes a los pueblos. El Estado adoptará mecanismos eficaces en materia de restitución y repatriación de objetos de culto y restos humanos que fueron confiscados sin consentimiento de los pueblos y garantizará el acceso de los pueblos a su propio patrimonio, incluyendo objetos, restos humanos y sitios culturalmente significativos para su desarrollo. (ICI 153-7 inciso cuarto).",
-        "sources": [
-            "153-7"
-        ],
-        "history": [
-            {
-                "timestamp": "03-19",
-                "article": "Artículo 3",
-                "step": "Indicación",
-                "content_snapshot": "Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos consagrados en esta Constitución y las leyes, así como los derechos de los pueblos y naciones indígenas preexistentes.",
-                "number": 465,
-                "target_scope": "TOTAL",
-                "action": "SUBSTITUTE",
-                "content": "Artículo 3. Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos consagrados en esta Constitución y las leyes, así como los derechos de los pueblos y naciones indígenas preexistentes.",
-                "placement_instructions": "",
-                "authors": [
-                    "Calvo, Carlos"
-                ]
-            },
-            {
-                "timestamp": "04-19",
-                "article": "Artículo 21",
-                "step": "Indicación",
-                "content_snapshot": "Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos de los pueblos y naciones indígenas preexistentes, así como los demás consagrados en esta Constitución y las leyes.",
-                "number": "61",
-                "target_scope": "TOTAL",
-                "action": "SUBSTITUTE",
-                "content": "Artículo 21.- Derecho al acceso a los patrimonios. Todas las personas tienen derecho a acceder a los patrimonios naturales y culturales, respetando los derechos de los pueblos y naciones indígenas preexistentes, así como los demás consagrados en esta Constitución y las leyes.",
-                "content_to_remove": "",
-                "placement_instructions": "",
-                "authors": [
-                    "Videla, Carolina"
-                ]
-            }
-        ],
-        "final_status": "Similar a 465.- Artículo 13",
-        "authors": []
     },
     {
         "article": "Artículo 1",
@@ -1437,6 +1393,33 @@
             }
         ],
         "final_status": "Idéntico a 464.- Artículo 12"
+    },
+    {
+        "article": "Artículo 3.2",
+        "text": "Los pueblos y naciones preexistentes tienen derecho a obtener la repatriación de objetos de cultura y de restos humanos pertenecientes a los pueblos. (ICI 207-7 Artículo único inciso cuarto).",
+        "sources": [
+            "207-7"
+        ],
+        "authors": [
+            "Alvarez, Rodrigo",
+            "Arancibia, Jorge",
+            "Arrau, Martin",
+            "Cantuarias, Rocio",
+            "Cubillos, Marcela",
+            "Hurtado, Ruth",
+            "Jofre, Alvaro",
+            "Jurgensen, Harry",
+            "Letelier, Margarita",
+            "Mayol, Luis",
+            "Mena, Felipe",
+            "Navarrete, Geoconda",
+            "Neumann, Ricardo",
+            "Rivera, Pollyana",
+            "Vega, Roberto"
+        ],
+        "article_uid": "C7_GEN2_CH2_ART3_2",
+        "timestamp": "02-17",
+        "final_status": "Similar a 465.- Artículo 13"
     },
     {
         "article": "Art. 1",
@@ -2343,11 +2326,11 @@
         "article_uid": "C7_IND04_19_ARTN11",
         "timestamp": "04-19",
         "article": "Artículo 11",
-        "text": "El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.´\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
+        "text": "El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
         "number": "43",
         "target_scope": "TOTAL",
         "action": "SUBSTITUTE",
-        "content": "Artículo 11.- El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.´\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
+        "content": "Artículo 11.- El acceso a la información pública será garantizado con la sola excepción de aquellas materias que la ley determine reservada o secreta.\n Con todo, no será susceptible de reserva o secreto aquella información que, a criterio de los tribunales competentes, afecte la investigación de actos que configuren violaciones a los derechos humanos, de la naturaleza o de corrupción, resguardando los derechos de las víctimas o denunciantes.",
         "content_to_remove": "",
         "placement_instructions": "",
         "final_status": "Similar a 482.- Artículo 11",
