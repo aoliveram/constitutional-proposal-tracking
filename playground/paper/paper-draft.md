@@ -13,15 +13,16 @@ From initiative to constitutional draft: an article-level genealogy dataset of C
 
 ## Authors
 
-Aníbal Olivera Morales\*, Vicente [APELLIDO — completar], [¿Jorge Fábrega? — decidir orden de autores]
+Aníbal Olivera Morales\*, Vicente López\, Jorge Fábrega\*
 
 ## Affiliations
 
-[COMPLETAR: afiliación institucional completa con dirección postal de cada autor]
+Center for Research in Social Complexity, Universidad del Desarrollo, Santiago, Chile.
 
 ## Corresponding author's email address and Twitter handle
 
-anibal.olivera.m@gmail.com [reemplazar por email institucional — requisito del journal]
+an.oliveram@udd.cl
+jfabrega@udd.cl
 
 ## Keywords
 
@@ -153,7 +154,7 @@ The authors have read and follow the ethical requirements for publication in Dat
 # CRediT AUTHOR STATEMENT
 
 [COMPLETAR según orden de autores definitivo. Propuesta:]
-**Aníbal Olivera Morales:** Conceptualization, Methodology, Software, Data curation, Validation, Writing – original draft, Supervision. **Vicente [APELLIDO]:** Data curation, Validation, Software, Writing – review & editing. **[¿Jorge Fábrega?]:** [Conceptualization, Writing – review & editing, Supervision].
+**Aníbal Olivera Morales:** Conceptualization, Methodology, Software, Data curation, Validation, Writing – original draft, Supervision. **Vicente López:** Data curation, Validation, Software, Writing – review & editing. **Jorge Fábrega:** [Conceptualization, Writing – review & editing, Supervision].
 
 # ACKNOWLEDGEMENTS
 
@@ -184,4 +185,4 @@ The authors declare that they have no known competing financial interests or per
 
 [9] A.D. Martin, K.M. Quinn, Dynamic ideal point estimation via Markov chain Monte Carlo for the U.S. Supreme Court, 1953–1999, Political Analysis 10 (2) (2002) 134–153. https://doi.org/10.1093/pan/10.2.134
 
-[10] A. Olivera Morales, V. [APELLIDO], et al., From initiative to constitutional draft: article-level genealogy data of Chile's Constitutional Convention (2021–2022), Harvard Dataverse, V1, 2026. [DOI PENDIENTE — citar el depósito propio, obligatorio]
+[10] A. Olivera Morales, V. López, J. Fábrega, From initiative to constitutional draft: article-level genealogy data of Chile's Constitutional Convention (2021–2022), Harvard Dataverse, V1, 2026. [DOI PENDIENTE — citar el depósito propio, obligatorio]
