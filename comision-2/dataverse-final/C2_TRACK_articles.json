@@ -1,0 +1,606 @@
+[
+    {
+        "article": "Artículo 1",
+        "text": "La finalidad del Estado es el bien común de la sociedad y sus integrantes. Es deber de los órganos del Estado, dentro del ámbito de sus competencias, respetar, asegurar, garantizar y promover el goce y ejercicio irrenunciable de los derechos fundamentales de toda persona, sin discriminación, de conformidad con los principios de universalidad, inalienabilidad, interdependencia, indivisibilidad y pro persona. Como parte de esa finalidad, el Estado propenderá activamente a suprimir los obstáculos de orden económico y social que impidan el pleno desarrollo de la persona humana. Es también deber del Estado el reconocimiento y protección de los diversos proyectos de vida personal y comunitaria que respondan a la autonomía y preferencias de los individuos y al libre y permanente desarrollo de su personalidad. El Estado reconoce y protege las distintas formas de familia que existen en la sociedad. El Estado promoverá una justa, adecuada y armónica relación de todos los sectores de la sociedad y respetará la autonomía de las organizaciones que tales sectores formen.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART1",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 1",
+                "timestamp": "03-02",
+                "indication_number": "1",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 1 por el siguiente: Artículo 1.- Estado: Chile es un Estado social y democrático de derecho. Su carácter es plurinacional e intercultural y ecológico. Es una República democrática, solidaria y paritaria que reconoce como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza. Los fines de toda acción estatal son garantizar el bienestar de las personas, de la sociedad y de la naturaleza, construir las condiciones para una vida digna y remover los obstáculos que impidan o dificulten el igual goce de los derechos y la integración de las personas en la vida política, económica, social y cultural para su pleno desarrollo.",
+                "content_snapshot": "Artículo 1.- Estado: Chile es un Estado social y democrático de derecho. Su carácter es plurinacional e intercultural y ecológico. Es una República democrática, solidaria y paritaria que reconoce como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza. Los fines de toda acción estatal son garantizar el bienestar de las personas, de la sociedad y de la naturaleza, construir las condiciones para una vida digna y remover los obstáculos que impidan o dificulten el igual goce de los derechos y la integración de las personas en la vida política, económica, social y cultural para su pleno desarrollo."
+            },
+            {
+                "timestamp": "03-23-2",
+                "article": "Artículo 1",
+                "content_snapshot": "Estado. Chile es un Estado social y democrático de derecho. Es plurinacional, intercultural y ecológico. Se constituye como una República solidaria, su democracia es paritaria y reconoce como valores intrínsecos e irrenunciables la dignidad, la libertad, la igualdad sustantiva de los seres humanos y su relación indisoluble con la naturaleza. La protección y garantía de los derechos humanos individuales y colectivos son el fundamento del Estado y orientan toda su actividad. Es deber del Estado generar las condiciones necesarias y proveer los bienes y servicios para asegurar el igual goce de los derechos y la integración de las personas en la vida política, económica, social y cultural para su pleno desarrollo."
+            }
+        ],
+        "final_status": "Idéntico a 101.- Artículo 1"
+    },
+    {
+        "article": "Artículo 2",
+        "text": "Todas las personas nacen y permanecen libres e iguales en dignidad, que les es inherente, irrenunciable e inviolable, y en ella se basan derechos fundamentales que se reconocen sin excepción y hacen a las personas acreedoras a igual consideración y respeto.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART2",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-02",
+                "article": "Artículo 2",
+                "content_snapshot": "Persona. En Chile, las personas nacen y permanecen libres, interdependientes e iguales. El Estado debe respetar, promover, proteger y garantizar los derechos fundamentales reconocidos en esta Constitución y los derechos humanos consagrados en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Para su protección, las personas gozarán de garantías, nacionales e internacionales, que sean eficaces, oportunas, pertinentes y universales.",
+                "step": "Report 1 (03-02)",
+                "indication_number": "58",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 2 por el siguiente: Artículo 2.- Persona. En Chile, las personas nacen y permanecen libres, interdependientes e iguales. El Estado debe respetar, promover, proteger y garantizar los derechos fundamentales reconocidos en esta Constitución y los derechos humanos consagrados en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Para su protección, las personas gozarán de garantías, nacionales e internacionales, que sean eficaces, oportunas, pertinentes y universales."
+            },
+            {
+                "timestamp": "03-02",
+                "article": "Artículo 2",
+                "content_snapshot": "Persona. En Chile, las personas nacen y permanecen libres, interdependientes e iguales. El Estado debe respetar, promover, proteger y garantizar los derechos fundamentales reconocidos en esta Constitución y los derechos humanos consagrados en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Para su protección, las personas gozarán de garantías, nacionales e internacionales, que sean eficaces, oportunas, pertinentes y universales.\nLa efectividad de los derechos fundamentales reconocidos en esta Constitución y en los tratados internacionales ratificados y vigentes en Chile no se encuentra sujeta a la ausencia de normativas para el reclamo ni a la discrecionalidad de las autoridades.",
+                "step": "Report 1 (03-02)",
+                "indication_number": "63",
+                "action": "Add",
+                "authors": [
+                    "Portilla, Ericka"
+                ],
+                "raw_content": "Indicación de la señorita Portilla para agregar un inciso final al Artículo 2 siguiente texto: “La efectividad de los derechos fundamentales reconocidos en esta Constitución y en los tratados internacionales ratificados y vigentes en Chile no se encuentra sujeta a la ausencia de normativas para el reclamo ni a la discrecionalidad de las autoridades.”"
+            },
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 2",
+                "content_snapshot": "Persona. En Chile, las personas nacen y permanecen libres, interdependientes e iguales en dignidad y derechos. El Estado debe respetar, promover, proteger y garantizar los derechos fundamentales reconocidos en esta Constitución y en los tratados internacionales ratificados por Chile y que se encuentren vigentes. Para su protección, las personas gozarán de todas las garantías eficaces, oportunas, pertinentes y universales, nacionales e internacionales."
+            }
+        ],
+        "final_status": "Idéntico a 102.- Artículo 2"
+    },
+    {
+        "article": "Artículo 3",
+        "text": "La soberanía reside en el pueblo y se ejerce directamente por este y de manera representativa por diversas autoridades, de conformidad a la Constitución y las leyes. El ejercicio de la soberanía reconoce como límite el respeto a los derechos humanos. Es deber de los órganos del Estado y de todas las personas y organizaciones respetar, cumplir y promover los derechos y principios establecidos por esta Constitución y por tratados y normas internacionales vigentes que obliguen a Chile. Las disposiciones sobre derechos humanos contenidas en tratados internacionales de los que Chile es parte tienen jerarquía constitucional. Sin perjuicio de la universalidad de los derechos humanos, la Constitución garantiza también derechos de personas que se encuentran en situación de vulnerabilidad o condición de discapacidad y que tienen dificultades para el ejercicio de los derechos fundamentales comunes a todos.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART3",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-02",
+                "article": "Artículo 3",
+                "content_snapshot": "Soberanía. La soberanía reside en los pueblos de Chile. Se ejerce directamente por las personas y de manera representativa a través de elecciones de las autoridades, de conformidad a la Constitución y las leyes. El ejercicio de la soberanía reconoce como límite el respeto a los derechos establecidos en esta Constitución y en los tratados internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes. Las fuerzas de orden y seguridad pública deberán actuar conforme a los Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego adoptados por las Naciones Unidas Lo dispuesto por esta Constitución mantendrá su imperio aun cuando se terminare o interrumpiere su observancia, mediante cualquier acto de fuerza o régimen de facto.",
+                "step": "Report 1 (03-02)",
+                "indication_number": "106",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 3 por el siguiente: Artículo 3.- Soberanía. La soberanía reside en los pueblos de Chile. Se ejerce directamente por las personas y de manera representativa a través de elecciones de las autoridades, de conformidad a la Constitución y las leyes. El ejercicio de la soberanía reconoce como límite el respeto a los derechos establecidos en esta Constitución y en los tratados internacionales de Derechos Humanos ratificados por Chile y que se encuentren vigentes. Las fuerzas de orden y seguridad pública deberán actuar conforme a los Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego adoptados por las Naciones Unidas Lo dispuesto por esta Constitución mantendrá su imperio aun cuando se terminare o interrumpiere su observancia, mediante cualquier acto de fuerza o régimen de facto.”"
+            },
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 3",
+                "content_snapshot": "Soberanía. La soberanía reside en el Pueblo de Chile, conformado por diversas naciones. Se ejerce democráticamente, de manera directa y mediante representantes, de conformidad a lo dispuesto en esta Constitución y las leyes. Ningún sector del pueblo ni individuo alguno puede atribuirse su ejercicio. Es deber de los órganos del Estado y de todas las personas y organizaciones respetar, garantizar y promover los derechos humanos y principios establecidos por esta Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes. El ejercicio de la soberanía reconoce como limitación los derechos humanos en cuanto atributo que deriva de la dignidad humana."
+            }
+        ],
+        "final_status": "Similar a 103.- Artículo 3"
+    },
+    {
+        "article": "Artículo 5",
+        "text": "La República de Chile es un Estado social y democrático de derecho. Su democracia representativa es complementada con las modalidades de democracia directa y participativa que se establecen y regulan en la Constitución y las leyes.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART5",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 5",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "203",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 5 por el siguiente: Artículo 5.- Democracia. En Chile, la democracia es paritaria, inclusiva, intercultural y plurinacional, basada en la libertad e igualdad sustantiva, política y social de todas las personas que la integran. Se ejerce en forma directa, participativa, comunitaria y representativa. El Estado deberá asegurar la prevalencia del interés general, y el carácter electivo de los cargos de representación política, con alternancia y responsabilidad de quienes ejercen el poder. Es deber del Estado promover y garantizar la adopción de medidas para la participación efectiva de toda la sociedad en el proceso político y el pleno ejercicio de la democracia. Del mismo modo, deberá facilitar espacios de reflexión y deliberación política y garantizar una educación que impulse una cultura democrática. La actividad política organizada contribuye a la expresión de la voluntad popular, y su funcionamiento respetará los principios de independencia, probidad, transparencia financiera y democracia interna.",
+                "content_snapshot": "Artículo 5.- Democracia. En Chile, la democracia es paritaria, inclusiva, intercultural y plurinacional, basada en la libertad e igualdad sustantiva, política y social de todas las personas que la integran. Se ejerce en forma directa, participativa, comunitaria y representativa. El Estado deberá asegurar la prevalencia del interés general, y el carácter electivo de los cargos de representación política, con alternancia y responsabilidad de quienes ejercen el poder. Es deber del Estado promover y garantizar la adopción de medidas para la participación efectiva de toda la sociedad en el proceso político y el pleno ejercicio de la democracia. Del mismo modo, deberá facilitar espacios de reflexión y deliberación política y garantizar una educación que impulse una cultura democrática. La actividad política organizada contribuye a la expresión de la voluntad popular, y su funcionamiento respetará los principios de independencia, probidad, transparencia financiera y democracia interna."
+            },
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 5",
+                "content_snapshot": "Democracia. En Chile, la democracia es inclusiva y paritaria. Se ejerce en forma directa, participativa, comunitaria y representativa. Es deber del Estado promover y garantizar la adopción de medidas para la participación efectiva de toda la sociedad en el proceso político y el pleno ejercicio de la democracia. El Estado deberá asegurar la prevalencia del interés general, y el carácter electivo de los cargos de representación política con responsabilidad de quienes ejercen el poder. La actividad política organizada contribuye a la expresión de la voluntad popular, y su funcionamiento respetará los principios de independencia, probidad, transparencia financiera y democracia interna."
+            }
+        ],
+        "final_status": "Idéntico a 104.- Artículo 5"
+    },
+    {
+        "article": "Artículo 6",
+        "text": "Chile reconoce y promueve la igualdad sustantiva entre las personas, y, por ende, entre hombres y mujeres, y prohíbe toda forma de discriminación entre ellas. Reconoce también las distintas identidades de género y las diversas orientaciones sexuales de las personas y prohíbe igualmente cualquier forma de discriminación a su respecto. Es deber del Estado promover esta igualdad, adoptando las medidas legislativas y administrativas para eliminar toda discriminación que la afecte.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART6",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 6",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "227",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras reemplazar el actual Artículo 6 por el siguiente: Artículo 6. Igualdad Sustantiva. La Constitución asegura a todas las personas la igualdad sustantiva, en tanto garantía de igualdad de trato y oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, con pleno respeto a la diversidad, la inclusión social y la integración de los grupos oprimidos e históricamente excluidos. La Constitución asegura especialmente la igualdad sustantiva de género, obligándose a garantizar la igualdad de trato y condiciones para las mujeres, niñas y diversidades y disidencias sexogenéricas ante todos los órganos estatales y espacios de organización de la sociedad civil. El Estado deberá garantizar la eliminación de todos los obstáculos que dificulten el cumplimiento de este principio y promover acciones positivas que habiliten su pleno ejercicio, aplicando un enfoque de interseccionalidad y teniendo como base las obligaciones asumidas conforme al derecho internacional de los derechos humanos.",
+                "content_snapshot": "Artículo 6. Igualdad Sustantiva. La Constitución asegura a todas las personas la igualdad sustantiva, en tanto garantía de igualdad de trato y oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, con pleno respeto a la diversidad, la inclusión social y la integración de los grupos oprimidos e históricamente excluidos. La Constitución asegura especialmente la igualdad sustantiva de género, obligándose a garantizar la igualdad de trato y condiciones para las mujeres, niñas y diversidades y disidencias sexogenéricas ante todos los órganos estatales y espacios de organización de la sociedad civil. El Estado deberá garantizar la eliminación de todos los obstáculos que dificulten el cumplimiento de este principio y promover acciones positivas que habiliten su pleno ejercicio, aplicando un enfoque de interseccionalidad y teniendo como base las obligaciones asumidas conforme al derecho internacional de los derechos humanos."
+            },
+            {
+                "article": "Artículo 6",
+                "timestamp": "03-23-2",
+                "content_snapshot": "Igualdad Sustantiva. La Constitución asegura a todas las personas la igualdad sustantiva, en tanto garantía de igualdad de trato y oportunidades para el reconocimiento, goce y ejercicio de los derechos humanos y las libertades fundamentales, con pleno respeto a la diversidad, la inclusión social y la integración de los grupos oprimidos e históricamente excluidos.\n La Constitución asegura la igualdad sustantiva de género, obligándose a garantizar el mismo trato y condiciones para las mujeres, niñas y diversidades y disidencias sexogenéricas ante todos los órganos estatales y espacios de organización de la sociedad civil."
+            }
+        ],
+        "final_status": "Idéntico a 105.- Artículo 6"
+    },
+    {
+        "article": "Artículo 7",
+        "text": "Familias. Las familias serán protegidas y reconocidas en todas sus diversas formas, sus expresiones y modos de vida. El Estado debe garantizar a las familias una vida digna que les permita el buen vivir a partir de sus cosmovisiones particulares. Tendrá como especial deber, el interés superior de niños, niñas y adolescentes, dotándola de autonomía progresiva y garantizándoles todos sus derechos.",
+        "sources": [
+            "58-2"
+        ],
+        "article_uid": "C2_GEN_ART7",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 7",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "264",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 7 por el siguiente: Artículo 7. Familias. Las familias serán protegidas y reconocidas en sus diversas formas, con independencia de sus lazos consanguíneos y filiativos. El Estado debe garantizar a las familias una vida digna que les permita el buen vivir a partir de sus cosmovisiones particulares, procurando que los trabajos de cuidados no representen una desventaja para quienes los ejercen.",
+                "content_snapshot": "Artículo 7. Familias. Las familias serán protegidas y reconocidas en sus diversas formas, con independencia de sus lazos consanguíneos y filiativos. El Estado debe garantizar a las familias una vida digna que les permita el buen vivir a partir de sus cosmovisiones particulares, procurando que los trabajos de cuidados no representen una desventaja para quienes los ejercen."
+            },
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 7",
+                "content_snapshot": "Familias. El Estado reconoce y protege a las familias en sus diversas formas, expresiones y modos de vida, no restringiéndose a vínculos exclusivamente filiativos y consanguíneos. El Estado debe garantizar a las familias una vida digna, procurando que los trabajos de cuidados no representen una desventaja para quienes los ejercen."
+            }
+        ],
+        "final_status": "Idéntico a 106.- Artículo 7"
+    },
+    {
+        "article": "Artículo 9",
+        "text": "La especie humana es parte de la naturaleza y es deber del Estado, de la sociedad y de toda persona proteger el ecosistema, su biodiversidad, el medio ambiente, el patrimonio natural y cultural del país, y promover acciones contra las causas y los efectos del cambio climático. Es también obligación del Estado promover el desarrollo tecnológico y digital.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART9",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 9",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "307",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 9 por el siguiente: Artículo 9.- Naturaleza. Las personas y los pueblos son interdependientes con la naturaleza y forman, con ella, un conjunto inseparable. La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de protegerlos y respetarlos. El Estado garantiza la conservación, restauración, recuperación progresiva y equilibrio de la naturaleza y sus elementos, promoviendo además su regeneración.",
+                "content_snapshot": "Artículo 9.- Naturaleza. Las personas y los pueblos son interdependientes con la naturaleza y forman, con ella, un conjunto inseparable.\n La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de protegerlos y respetarlos.\n El Estado garantiza la conservación, restauración, recuperación progresiva y equilibrio de la naturaleza y sus elementos, promoviendo además su regeneración. Todo ello, mediante la actuación coordinada con los pueblos y sus instituciones, y la sociedad en su conjunto, tomando decisiones basadas en la ciencia y los saberes de los pueblos, los principios preventivo, precautorio, de no regresión, solidaridad intergeneracional y los demás reconocidos por esta Constitución y las leyes.\n El Estado debe adoptar una administración ecológicamente responsable y promover la educación ambiental y científica mediante procesos de formación y aprendizaje permanentes.\n Chile y sus pueblos tienen la obligación de tomar las medidas necesarias para combatir la emergencia climática y ecológica, mediante la transformación de sistemas productivos, la transición justa e inclusiva, la restauración de los equilibrios ecosistémicos y las acciones de mitigación y adaptación a partir de un enfoque de equidad y solidaridad entre territorios, comunidades y generaciones.\n Chile tiene la obligación de cooperar con otros estados, organizaciones internacionales y otras entidades, para la protección de la Naturaleza y enfrentar la crisis climática y ecológica, cumpliendo los estándares internacionales emanados de los órganos a los cuales Chile les reconoce competencia."
+            },
+            {
+                "timestamp": "03-23-2",
+                "article": "Artículo 9",
+                "content_snapshot": "Naturaleza. Las personas y los pueblos son interdependientes con la naturaleza y forman, con ella, un conjunto inseparable.\n La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de protegerlos y respetarlos.\n El Estado debe adoptar una administración ecológicamente responsable y promover la educación ambiental y científica mediante procesos de formación y aprendizaje permanentes.\n Es deber del Estado, en conjunto con los pueblos, promover la conservación y restauración del equilibrio de la naturaleza, sus ciclos y elementos. Las decisiones públicas estarán basadas en los principios precautorio, de no regresión, solidaridad intergeneracional y demás reconocidos por esta Constitución y las leyes. Chile y sus pueblos tienen la obligación de tomar las medidas necesarias para combatir la emergencia climática y ecológica, mediante la transición justa e inclusiva, y las acciones de mitigación y adaptación a partir de un enfoque de equidad y solidaridad entre territorios, comunidades y generaciones. Chile tiene la obligación de cooperar con otros estados, organizaciones internacionales y otras entidades, para la protección de la Naturaleza y enfrentar la crisis climática y ecológica, cumpliendo los estándares internacionales emanados de los órganos a los cuales Chile les reconoce competencia, de acuerdo a los tratados ratificados por el Estado de Chile que se encuentren vigentes."
+            }
+        ],
+        "final_status": "Similar a 107.- Artículo 9"
+    },
+    {
+        "article": "Artículo 9 A",
+        "text": "Principio del Buen Vivir. El Estado asume y promueve como principio ético-moral el Buen Vivir, fundamento de los pueblos originarios que habitan el territorio de Chile... El Buen Vivir significa la valoración y respeto de todas las formas de vida de manera interdependiente y en equilibrio... Para desarrollar el Buen Vivir el Estado asume una nueva forma de convivencia, en diversidad, armonía y respeto con la Naturaleza. Esta convivencia se sustenta en los valores de unidad, igualdad, inclusión, solidaridad, reciprocidad, respeto, complementariedad, colaboración, armonía, equilibrio, equidad de género, bienestar común, responsabilidad, justicia social, redistribución de los bienes sociales y del poder. Principios del Buen vivir respecto del Estado. El Estado definirá planes y programas económicos, sociales y ambientales para la implementación del Buen Vivir. En el desarrollo de estos planes los diversos pueblos de Chile serán los protagonistas de su formulación y evaluación...",
+        "sources": [
+            "54-2"
+        ],
+        "article_uid": "C2_GEN_ART9A",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 9 A",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "315",
+                "action": "Replace",
+                "authors": [
+                    "Loncon, Elisa"
+                ],
+                "raw_content": "Indicación de la señora Loncon y otros para reemplazar el actual Artículo 9 A por el siguiente: “Artículo 9.- Principio del Buen Vivir. El Estado asume y promueve el principio de Buen Vivir, fundamento de la vida y aporte de los pueblos originarios, denominado küme mogen en lengua mapuche, lo que comprende el principio del itrofill mogen biodversidad, suma qamaña en aimara, sumak kawsay en quechua, ckaya Ckausatur en ckunsa, Mo ora riva riva en rapa nui. El principio del Buen vivir comprende la valoración y respeto de todas las formas de vida de manera interdependiente y en equilibrio. En virtud de este principio, el Estado promueve y garantiza la igual dignidad y derechos de las personas, los pueblos y la naturaleza, y su convivencia en armonía; el derecho de los pueblos al control de sus formas de vida y desarrollo económico, social y cultural, y la economía de reciprocidad y complementariedad.”.",
+                "content_snapshot": "Artículo 9.- Principio del Buen Vivir. El Estado asume y promueve el principio de Buen Vivir, fundamento de la vida y aporte de los pueblos originarios, denominado küme mogen en lengua mapuche, lo que comprende el principio del itrofill mogen biodversidad, suma qamaña en aimara, sumak kawsay en quechua, ckaya Ckausatur en ckunsa, Mo ora riva riva en rapa nui. El principio del Buen vivir comprende la valoración y respeto de todas las formas de vida de manera interdependiente y en equilibrio. En virtud de este principio, el Estado promueve y garantiza la igual dignidad y derechos de las personas, los pueblos y la naturaleza, y su convivencia en armonía; el derecho de los pueblos al control de sus formas de vida y desarrollo económico, social y cultural, y la economía de reciprocidad y complementariedad."
+            },
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 9 A",
+                "content_snapshot": "Principio de Buen Vivir. El Estado reconoce y promueve una relación de equilibrio armónico entre las personas, la naturaleza y la organización de la sociedad.\n El Estado garantiza el derecho de los pueblos al control de sus propias formas de vida y desarrollo económico, social y cultural, con reciprocidad y complementariedad."
+            }
+        ],
+        "final_status": "Similar a 108.- Artículo 9 A"
+    },
+    {
+        "article": "Artículo 9 G",
+        "text": "Principio de responsabilidad. Quien dañe el medio ambiente tendrá el deber de repararlo, sin perjuicio de cumplir con las sanciones administrativas, penales y civiles que correspondan en conformidad a la constitución y las leyes.",
+        "sources": [
+            "672-2"
+        ],
+        "article_uid": "C2_GEN_ART9G",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 9 G",
+                "content_snapshot": "Principio de responsabilidad ambiental. Quien dañe el medio ambiente tendrá el deber de repararlo, sin perjuicio de las sanciones administrativas, penales y civiles que correspondan en conformidad a la constitución y las leyes."
+            }
+        ],
+        "final_status": "Idéntico a 109.- Artículo 9 G"
+    },
+    {
+        "article": "Artículo 9 M",
+        "text": "Chile es un país oceánico. Es deber del Estado la conservación de los ecosistemas marinos y costeros continentales, insulares y antárticos. El Estado reconoce y da especial protección a las formas de relación de los pueblos originarios y comunidades costeras, y su cultura de relación armónica con el maritorio, garantizando que se respeten y promuevan sus usos consuetudinarios y locales.",
+        "sources": [
+            "761-2"
+        ],
+        "article_uid": "C2_GEN_ART9M",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 9 M",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "352",
+                "action": "Replace",
+                "authors": [
+                    "Saldana, Alvin"
+                ],
+                "raw_content": "Indicación del señor Saldaña para sustituir el artículo 9 M, por el siguiente: Artículo 9 M.- “Chile es un país oceánico. Es deber integral del Estado la conservación, preservación y cuidado de los ecosistemas marinos y costeros continentales, insulares y antárticos.”",
+                "content_snapshot": "Chile es un país oceánico. Es deber integral del Estado la conservación, preservación y cuidado de los ecosistemas marinos y costeros continentales, insulares y antárticos."
+            }
+        ],
+        "final_status": "Idéntico a 110.- Artículo 9 M"
+    },
+    {
+        "article": "Artículo 10 G",
+        "text": "El ejercicio de la soberanía reconoce como limitación el respeto a los derechos humanos. Es deber de los órganos del Estado respetar y promover tales derechos garantizados por esta Constitución, así como en los tratados internacionales ratificados por Chile y que se encuentren vigentes... Los órganos del Estado deberán conciliar estos derechos con los establecidos en esta Constitución.",
+        "sources": [
+            "772-2"
+        ],
+        "article_uid": "C2_GEN_ART10G",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 10 G",
+                "content_snapshot": "Recepción e integración del derecho internacional de los Derechos Humanos. Los derechos y obligaciones establecidos en los tratados internacionales de derechos humanos ratificados por Chile y que se encuentren vigentes, los principios generales del derecho internacional de los derechos humanos, el derecho internacional consuetudinario, así como en la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas, forman parte integral de esta constitución y gozan de rango constitucional. Las normas relativas a derechos humanos se interpretarán favoreciendo siempre la más efectiva protección de las personas, los pueblos y la naturaleza. El Estado tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos conforme a las disposiciones y principios del derecho internacional de los derechos humanos. Asimismo, debe prevenir, investigar, sancionar y reparar integralmente las violaciones a los derechos humanos."
+            }
+        ],
+        "final_status": "Similar a 111.- Artículo 10 G"
+    },
+    {
+        "article": "Artículo 11",
+        "text": "Principio de interculturalidad. Chile es un Estado intercultural. La Constitución reconoce la igual dignidad de las diversas culturas, y garantiza su respeto y promoción, junto con la protección y salvaguardia de todas las formas de expresiones culturales, prácticas, artes, tradiciones culturales, saberes, lenguas nacionales o regionales y dialectos de las distintas comunidades, pueblos y naciones que conviven en el país. Ello con pleno respeto a los derechos humanos y de la naturaleza. El Estado deberá velar... por generar condiciones que posibiliten el intercambio recíproco y la creación de expresiones compartidas entre las diversas culturas, en condiciones de equidad, a través del diálogo y del respeto mutuo.",
+        "sources": [
+            "9-2"
+        ],
+        "article_uid": "C2_GEN_ART11",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 11",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "439",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 11 por el siguiente: Artículo 11.- Interculturalidad. El Estado es intercultural. Reconocerá, valorará y promoverá el diálogo horizontal y transversal entre las diversas cosmovisiones de los pueblos y naciones que conviven en el país con dignidad y respeto recíproco. El Estado deberá garantizar los mecanismos institucionales que permitan ese diálogo superando las asimetrías existentes en el acceso, distribución y ejercicio del poder y en todos los ámbitos de la vida en sociedad.",
+                "content_snapshot": "Interculturalidad. El Estado es intercultural. Reconocerá, valorará y promoverá el diálogo horizontal y transversal entre las diversas cosmovisiones de los pueblos y naciones que conviven en el país con dignidad y respeto recíproco. El Estado deberá garantizar los mecanismos institucionales que permitan ese diálogo superando las asimetrías existentes en el acceso, distribución y ejercicio del poder y en todos los ámbitos de la vida en sociedad."
+            }
+        ],
+        "final_status": "Idéntico a 112.- Artículo 11"
+    },
+    {
+        "article": "Artículo 12",
+        "text": "Lenguas. La lengua oficial del Estado de Chile es el castellano. El Estado reconoce las lenguas de las naciones preexistentes y la lengua de señas como derecho fundamental, individual y colectivo. Las naciones preexistentes podrán oficializar su lengua materna en el marco de la autonomía territorial. La ley podrá disponer el uso simultáneo de aquellas lenguas junto al castellano para una o varias finalidades oficiales. Es deber del Estado promover el respeto, recuperar y fomentar el aprendizaje de las lenguas y sus funciones sociales en todos los ámbitos, tanto en las comunidades lingüísticas como en la sociedad en general.",
+        "sources": [
+            "58-2"
+        ],
+        "article_uid": "C2_GEN_ART12",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 12",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "474",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 12 por el siguiente: Artículo 12.- Plurilingüismo. Chile es un Estado plurilingüe, su idioma oficial es el castellano y los idiomas de los pueblos indígenas serán oficiales en sus autonomías territoriales. El Estado garantizará el conocimiento, valoración y respeto de las lenguas indígenas de todos los pueblos del Estado Plurinacional. El Estado reconoce la lengua de señas chilena como lengua natural y oficial de las personas sordas así como sus derechos lingüísticos en todos los ámbitos de la vida social.",
+                "content_snapshot": "Artículo 12.- Plurilingüismo. Chile es un Estado plurilingüe, su idioma oficial es el castellano y los idiomas de los pueblos indígenas serán oficiales en sus autonomías territoriales. El Estado garantizará el conocimiento, valoración y respeto de las lenguas indígenas de todos los pueblos del Estado Plurinacional. El Estado reconoce la lengua de señas chilena como lengua natural y oficial de las personas sordas así como sus derechos lingüísticos en todos los ámbitos de la vida social."
+            },
+            {
+                "timestamp": "03-23-2",
+                "article": "Artículo 12",
+                "content_snapshot": "Plurilingüismo. Chile es un Estado plurilingüe, su idioma oficial es el castellano y los idiomas de los pueblos indígenas serán oficiales en sus territorios y en zonas de alta densidad poblacional de cada pueblo indígena. El Estado promueve el conocimiento, revitalización, valoración y respeto de las lenguas indígenas de todos los pueblos del Estado Plurinacional.\n El Estado reconoce la lengua de señas chilena como lengua natural y oficial de las personas sordas, así como sus derechos lingüísticos en todos los ámbitos de la vida social."
+            }
+        ],
+        "final_status": "Idéntico a 113.- Artículo 12"
+    },
+    {
+        "article": "Artículo 13 E",
+        "text": "Chile es un Estado Laico, en el que se respeta y garantiza la libertad de religión y de creencias espirituales. Ninguna religión, creencia en particular es la del Estado u oficial, sin perjuicio de su reconocimiento y libre ejercicio en el espacio público o privado, que no tiene más limitación que lo que indique la Constitución o las leyes.\n El Estado no promulgará ninguna ley para establecer una religión, imponer cualquier observancia religiosa, ni prohibir el libre ejercicio de cualquier religión, y no se exigirá ninguna prueba religiosa como requisito para ocupar cargos públicos.",
+        "sources": [
+            "Iniciativa Popular 48-2"
+        ],
+        "article_uid": "C2_GEN_ART13E",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 13 E",
+                "step": "Report 1 (03-02)",
+                "indication_number": "526",
+                "action": "Replace",
+                "authors": [
+                    "Cespedes, Lorena"
+                ],
+                "raw_content": "Indicación de la señora Céspedes y otras para reemplazar el segundo inciso del actual artículo 13. E por el siguiente: “El Estado es neutral respecto de las convicciones y creencias religiosas de sus habitantes.”",
+                "content_snapshot": "Chile es un Estado Laico, en el que se respeta y garantiza la libertad de religión y de creencias espirituales. Ninguna religión, creencia en particular es la del Estado u oficial, sin perjuicio de su reconocimiento y libre ejercicio en el espacio público o privado, que no tiene más limitación que lo que indique la Constitución o las leyes.\n El Estado es neutral respecto de las convicciones y creencias religiosas de sus habitantes."
+            },
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 13 E",
+                "content_snapshot": "Estado Laico. Chile es un Estado Laico, donde se respeta y garantiza la libertad de religión y de creencias espirituales. Ninguna religión, ni creencia en particular es la oficial del Estado, sin perjuicio de su reconocimiento y libre ejercicio, el cual no tiene más limitación que lo dispuesto por esta Constitución. El Estado es neutral entre las diversas convicciones, creencias religiosas y cosmovisiones de sus habitantes y su relación con lo público."
+            }
+        ],
+        "final_status": "Similar a 114.- Artículo 13 E"
+    },
+    {
+        "article": "Artículo 14",
+        "text": "La función pública tiene por finalidad el bienestar de la sociedad y quien la desempeñe observará estrictamente la probidad, publicidad y eficiencia en cada uno de sus actos. El Estado será responsable por las acciones u omisiones que infrinjan este mandato, así como cuando vulneren derechos humanos o causen perjuicio ilegítimo a las personas.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART14",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-02",
+                "article": "Artículo 14",
+                "step": "Report 1 (03-02)",
+                "indication_number": "528",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 14 por el siguiente: Artículo 14.- Probidad y Transparencia. El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular. Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley. Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos. Toda información que se encuentre en poder del Estado es pública y es deber del mismo asegurar la transparencia tanto de dicha información como de sus proceso deliberativos, participativos y administrativos, facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará la forma en que se podrá establecer la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines. Las normas sobre transparencia activa se aplicarán a aquellas instituciones privadas que reciban fondos o subvenciones del Estado, quienes, además, deberán rendir públicamente cuenta de los gastos que efectúen con dichas asignaciones, en la forma que determine la ley.”.",
+                "content_snapshot": "Artículo 14.- Probidad y Transparencia. El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular. Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley. Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos. Toda información que se encuentre en poder del Estado es pública y es deber del mismo asegurar la transparencia tanto de dicha información como de sus proceso deliberativos, participativos y administrativos, facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará la forma en que se podrá establecer la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines. Las normas sobre transparencia activa se aplicarán a aquellas instituciones privadas que reciban fondos o subvenciones del Estado, quienes, además, deberán rendir públicamente cuenta de los gastos que efectúen con dichas asignaciones, en la forma que determine la ley.”."
+            },
+            {
+                "timestamp": "03-02",
+                "article": "Artículo 14",
+                "step": "Report 1 (03-02)",
+                "indication_number": "531",
+                "action": "Modify",
+                "authors": [
+                    "Arrau, Martin"
+                ],
+                "raw_content": "Indicación del señor Arrau y otros para incorporar, en el artículo 14, como último inciso, el siguiente: “Corresponderá a ley regular el principio de transparencia de la función pública, los procedimientos para el ejercicio de ese derecho y su amparo, así como el órgano que deberá promover la transparencia de la función pública, fiscalizar el cumplimiento de las normas sobre transparencia y publicidad de la información pública de los órganos e administración del Estado, poderes del Estado y organismos autónomos regulados en la Constitución, además de garantizar el derecho de acceso a la información antes señalada”.",
+                "content_snapshot": "Artículo 14.- Probidad y Transparencia. El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular.\n Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley.\n Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos.\n La Constitución asegura a todas las personas la transparencia de la información pública en poder del Estado y de sus procesos deliberativos, decisionales, de participación y administrativos, facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará la forma en que se podrá establecer la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines.\n Las normas sobre transparencia activa se aplicarán a aquellas instituciones privadas que reciban fondos o subvenciones del Estado, quienes, además, deberán rendir públicamente cuenta de los gastos que efectúen con dichas asignaciones, en la forma que determine la ley."
+            },
+            {
+                "timestamp": "03-23-2",
+                "article": "Artículo 14",
+                "content_snapshot": "Probidad y Transparencia. El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento a los principios de probidad, transparencia y rendición de cuentas en todas sus actuaciones, con primacía del interés general por sobre el particular.\n Es deber del Estado promover la integridad de la función pública y erradicar la corrupción en todas sus formas, tanto en el sector público como privado. En cumplimiento de lo anterior, deberá adoptar medidas eficaces para prevenir, detectar y sancionar los actos de corrupción. Esta obligación abarca el deber de perseguir administrativa y judicialmente la aplicación de las sanciones administrativas, civiles y penales que correspondan, en la forma que determine la ley.\n Una ley regulará los casos y las condiciones en las que los funcionarios, funcionarias y autoridades deleguen a terceros la administración de aquellos bienes y obligaciones que supongan un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos.\n La Constitución asegura a todas las personas la transparencia de la información pública en poder del Estado facilitando su acceso de manera comprensible y oportuna, en los plazos y condiciones que la ley establezca. Esta señalará́ la forma en que podrá ordenarse la reserva o secreto de dicha información, por razones de seguridad del Estado, protección de los derechos de las personas o cuando su publicidad afectare el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines.\n La ley podrá ampliar las obligaciones de transparencia a instituciones privadas que ejerzan funciones públicas.\n Es deber del Estado garantizar, promover, amparar y fiscalizar una regulada competencia libre y leal, evitando las prácticas colusorias."
+            }
+        ],
+        "final_status": "Similar a 115.- Artículo 14"
+    },
+    {
+        "article": "Artículo 15",
+        "text": "Los preceptos de esta Constitución y normas dictadas conforme a ella obligan tanto a los titulares o integrantes de los órganos del Estado, así como a toda persona, institución o grupo. Los órganos del Estado, previa investidura de sus integrantes, en conformidad a la ley, deben actuar en el marco de su competencia y en la forma establecida por esta Constitución y las leyes. Ninguna magistratura, persona ni grupo de personas, civiles o militares, pueden atribuirse... otra autoridad, competencia o derechos que los que expresamente se les haya conferido en virtud de la Constitución y las leyes. Todo acto en contravención a este artículo es nulo y originará las responsabilidades y sanciones que señala la ley.",
+        "sources": [
+            "7-2"
+        ],
+        "article_uid": "C2_GEN_ART15",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "article": "Artículo 15",
+                "timestamp": "03-02",
+                "step": "Report 1 (03-02)",
+                "indication_number": "570",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 15 por el siguiente: Artículo 15.- Supremacía Constitucional y Legal. Chile es un Estado fundado en el principio de la supremacía constitucional y el respeto irrestricto a los derechos humanos. Los preceptos de esta Constitución obligan igualmente a toda persona, institución, autoridad o grupo. Los órganos del Estado y sus titulares e integrantes, actúan previa investidura regular y someten su actuar a la Constitución y a las normas dictadas conforme a esta, dentro de los límites y competencias por ellas establecidos. Ninguna magistratura, persona ni grupo de personas, civiles o militares, pueden atribuirse otra autoridad, competencia o derechos que los que expresamente se les haya conferido en virtud de la Constitución y las leyes, ni aún a pretexto de circunstancias extraordinarias, sean estas de la naturaleza, políticas o sociales. En aquellas normas se determinarán las responsabilidades y sanciones por la contravención a este artículo.",
+                "content_snapshot": "Artículo 15.- Supremacía Constitucional y Legal. Chile es un Estado fundado en el principio de la supremacía constitucional y el respeto irrestricto a los derechos humanos. Los preceptos de esta Constitución obligan igualmente a toda persona, institución, autoridad o grupo. Los órganos del Estado y sus titulares e integrantes, actúan previa investidura regular y someten su actuar a la Constitución y a las normas dictadas conforme a esta, dentro de los límites y competencias por ellas establecidos. Ninguna magistratura, persona ni grupo de personas, civiles o militares, pueden atribuirse otra autoridad, competencia o derechos que los que expresamente se les haya conferido en virtud de la Constitución y las leyes, ni aún a pretexto de circunstancias extraordinarias, sean estas de la naturaleza, políticas o sociales. En aquellas normas se determinarán las responsabilidades y sanciones por la contravención a este artículo."
+            },
+            {
+                "article": "Artículo 15",
+                "timestamp": "03-23-2",
+                "content_snapshot": "Supremacía Constitucional y Legal. Chile es un Estado fundado en el principio de la supremacía constitucional y el respeto irrestricto a los derechos humanos. Los preceptos de esta Constitución obligan igualmente a toda persona, institución, autoridad o grupo.\n Los órganos del Estado y sus titulares e integrantes, actúan previa investidura regular y someten su actuar a la Constitución y a las normas dictadas conforme a esta, dentro de los límites y competencias por ellas establecidos.\n Ninguna magistratura, ninguna persona ni grupo de personas pueden atribuirse, ni aun a pretexto de circunstancias extraordinarias, autoridad, derechos o facultades distintas a las expresamente conferidas en virtud de la Constitución o las leyes.\n Todo acto en contravención a este artículo es nulo de pleno derecho, y originará las responsabilidades que la ley señale.\n Se podrá ejercer la acción para obtener la declaración judicial que reconozca la nulidad, según el procedimiento dispuesto por esta Constitución y la ley."
+            }
+        ],
+        "final_status": "Similar a 116.- Artículo 15"
+    },
+    {
+        "article": "Artículo 17",
+        "text": "Emblemas. Son emblemas representativos de Chile la bandera, el escudo y el himno nacional, en las condiciones que defina la ley. El Estado reconoce los símbolos y emblemas propios de las naciones preexistentes. La ley podrá disponer el uso simultáneo de emblemas reconocidos por esta Constitución para una o varias finalidades oficiales.",
+        "sources": [
+            "58-2"
+        ],
+        "article_uid": "C2_GEN_ART17",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-02",
+                "article": "Artículo 17",
+                "step": "Report 1 (03-02)",
+                "indication_number": "613",
+                "action": "Replace",
+                "authors": [
+                    "Roa, Giovanna"
+                ],
+                "raw_content": "Indicación de la señorita Roa y otras para reemplazar el actual Artículo 17 por el siguiente: Artículo 17.- Emblemas Nacionales. Son emblemas representativos de Chile la bandera, el escudo y el himno nacional. El Estado reconoce los símbolos y emblemas plurinacionales propios de los distintos pueblos indígenas y tribales.",
+                "content_snapshot": "Artículo 17.- Emblemas Nacionales. Son emblemas representativos de Chile la bandera, el escudo y el himno nacional. El Estado reconoce los símbolos y emblemas plurinacionales propios de los distintos pueblos indígenas y tribales."
+            },
+            {
+                "article": "Artículo 15",
+                "timestamp": "03-23-2",
+                "content_snapshot": "Emblemas. Son emblemas de Chile la bandera, el escudo, el himno nacional y aquellos pertenecientes a los pueblos y naciones indígenas.\n Junto a los emblemas de Chile, cada región del país podrá tener una bandera, escudo e himno regional. Las características de estos emblemas serán definidas y aprobadas por los respectivos Gobiernos Regionales."
+            }
+        ],
+        "final_status": "Similar a 116.- Artículo 17"
+    },
+    {
+        "article": "Artículo 29",
+        "text": "El Estado manejará el presupuesto considerando las necesidades de las presentes y futuras generaciones, y velará por la seguridad de subsistencia de la población y por la distribución de la prosperidad material.",
+        "sources": [
+            "987-2"
+        ],
+        "article_uid": "C2_GEN_ART29",
+        "timestamp": "02-16",
+        "history": [
+            {
+                "timestamp": "03-23-1",
+                "article": "Artículo 29",
+                "content_snapshot": "Principio de sostenibilidad y responsabilidad fiscal. Las finanzas públicas se conducirán de conformidad a los principios de sostenibilidad y responsabilidad fiscal, los que guiarán el actuar del Estado en todas sus instituciones y en todos sus niveles."
+            }
+        ],
+        "final_status": "Idéntico a 118.- Artículo 29"
+    },
+    {
+        "article": "Artículo 1",
+        "text": "Derechos de las personas mayores. Las personas mayores son plenos sujetos de derechos. Las personas mayores tienen derecho a una vida digna en la vejez y a todos los demás derechos consagrados en esta Constitución y en los tratados internacionales de derechos humanos ratificados por Chile y que se encuentren vigente, en igualdad de condiciones que el resto de la población. En especial tienen derecho a: a.- La capacidad jurídica de goce y ejercicio en todos los aspectos de la vida, con apoyos y salvaguardias. b.- La accesibilidad universal, considerando especialmente al entorno físico, social, económico, político y cultural. c.- La vida independiente y autónoma, a su movilidad personal, a ser incluidas en la comunidad y a participar activamente en asuntos públicos. d.- Una pensión suficiente para una vejez digna. e.- Vivir una vida libre de violencia. Es deber del Estado adoptar las medidas necesarias para garantizar estos derechos y prevenir todo obstáculo o discriminación que impida su pleno ejercicio. Un sistema público de atención y protección de personas mayores, de carácter universal, integral, con enfoque de curso de vida, perspectiva de género e interseccionalidad; elaborará, coordinará y ejecutará las políticas y programas dirigidos a atender sus necesidades; de conformidad a la ley. Considerará, especialmente, a las personas mayores en situación de dependencia y sujetas al cuidado del Estado.",
+        "sources": [],
+        "article_uid": "C2_GEN3_ART1",
+        "timestamp": "04-01",
+        "final_status": "Similar a 136.- Artículo 1"
+    },
+    {
+        "article": "Artículo 2",
+        "text": "El Estado de Chile reconoce el derecho a una vida libre de violencia a las mujeres, niñeces, diversidades y disidencias sexo-genéricas como un derecho humano y garantiza su promoción en todos los ámbitos y en todas sus manifestaciones. Es deber inclaudicable del Estado prevenir, investigar, sancionar y erradicar todas las manifestaciones de violencia de género sin discriminación alguna, provenga su perpetración de particulares, del Estado, de sus integrantes o agentes en pleno ejercicio de sus funciones o retirados de ellas. El Estado será especialmente responsable por su falta de servicio ante el incumplimiento de alguno de sus deberes y obligaciones normativas en la materia. Es una obligación irrestricta del Estado la reparación efectiva, oportuna e integral a las víctimas de violencia, mujeres, niñeces, diversidades y disidencias sexo-genéricas, y la adopción de garantías de no repetición. El Estado dispondrá de todos los medios para garantizar el asesoramiento y defensa jurídica gratuita, oportuna, efectiva y con perspectiva de género a niñeces, mujeres, diversidades y disidencias sexo-genéricas víctimas de violencia en todas sus manifestaciones. Es deber del Estado actuar con debida diligencia, velar por una investigación eficaz y oportuna, un debido proceso con enfoque de género y garantías procesales eficaces y eficientes, para la adecuada protección de los derechos de las víctimas, y la aplicación de medidas o sanciones, evitando la revictimización y victimización secundaria. Es también deber del Estado garantizar, tanto en el sector público como en el privado, una educación integral no sexista, que asegure la erradicación de la violencia simbólica en el sistema educativo, la cual reproduce estereotipos sexuales y contenidos discriminatorios. El Estado garantizará la no discriminación en contra de mujeres, niñeces, diversidades y disidencias sexo-genéricas, en razón de su edad, estado civil, nación de origen, idioma, religión o creencia, ideología u opinión política, filiación, situación socioeconómica, situación laboral, nivel educacional, de embarazo, identidad y expresión de género, apariencia personal, diversidad funcional, condición de salud, de migración, de refugiada, de ruralidad, situación de vulnerabilidad especial, situación de privación de libertad o cualquier otra que reproduzca las relaciones de poder históricamente desiguales. Será materia de ley asegurar la existencia efectiva de un presupuesto fiscal anual, prioritario y de emergencia si es necesario, para el cumplimiento de lo estipulado en los preceptos anteriores y de todas las políticas públicas que emanen de la norma.",
+        "sources": [],
+        "article_uid": "C2_GEN3_ART2",
+        "timestamp": "04-01",
+        "history": [
+            {
+                "timestamp": "04-08",
+                "article": "Artículo 2",
+                "content_snapshot": "El Estado garantiza y promueve el derecho de las mujeres, niñas, diversidades y disidencias sexogenéricas a una vida libre de violencia de género en todas sus manifestaciones, tanto en el ámbito público como privado, sea que provenga de particulares, instituciones o agentes del Estado. El Estado deberá adoptar las medidas necesarias para erradicar todo tipo de violencia de género y los patrones socioculturales que la posibilitan, actuando con la debida diligencia para prevenir, investigar y sancionar dicha violencia, así como brindar atención, protección y reparación integral a las víctimas, considerando especialmente las situaciones de vulnerabilidad en que puedan hallarse.",
+                "authors": [
+                    "Sepulveda, Barbara"
+                ]
+            }
+        ],
+        "final_status": "Idéntico a 137.- Artículo 3"
+    },
+    {
+        "article": "Artículo 4",
+        "text": "La Constitución reconoce a las personas con discapacidad como plenos sujetos de derechos, en igualdad de condiciones que las demás y garantiza el goce y ejercicio de su capacidad jurídica y su derecho a una vida independiente. El Estado promoverá, protegerá y garantizará el goce pleno y en condiciones de igualdad de los derechos fundamentales de las personas con discapacidad, con el objetivo de su plena inclusión social, la promoción de su accesibilidad universal, el resguardo de su dignidad inherente y el desarrollo de sus capacidades y autonomía en todas las esferas de la vida. La ley arbitrará los medios necesarios para identificar y remover las barreras físicas, sociales, culturales, actitudinales, de comunicación y de otra índole que dificulten a las personas con discapacidad el goce o ejercicio de sus derechos. Dicha regulación, además, dispondrá las medidas de accesibilidad, provisión de ajustes razonables, ayudas técnicas y apoyos que serán puestas a disposición de las personas con discapacidad. Los órganos del Estado podrán adoptar medidas que beneficien específicamente a las personas con discapacidad, con la finalidad de promover su inclusión y garantizar su participación política, económica, social y cultural. Existirá, de conformidad a la ley, un sistema nacional a través del cual se elaborarán, coordinarán y ejecutarán las políticas y programas destinadas a atender las necesidades de trabajo, educación, vivienda, salud y cuidado de las personas con discapacidad. La ley garantizará que la elaboración, ejecución y supervisión de dichos planes y programas cuente con la participación activa y vinculante de las personas con discapacidad y de las organizaciones que las representan. Se reconoce la lengua de señas chilena como la lengua oficial de las personas sordas. La ley dispondrá las medidas necesarias para promover la enseñanza, uso y reconocimiento de la lengua de señas chilena. La ley prohibirá y sancionará cualquier tipo de discriminación, abuso, maltrato, violencia y explotación en contra de las personas con discapacidad, y en particular contra mujeres, niños, niñas y adolescentes y personas mayores con discapacidad.",
+        "sources": [],
+        "article_uid": "C2_GEN3_ART4",
+        "timestamp": "04-01",
+        "history": [
+            {
+                "timestamp": "04-08",
+                "article": "Artículo 4",
+                "content_snapshot": "La Constitución reconoce a las personas con discapacidad como sujetos de derechos que esta Constitución y los tratados internacionales ratificados y vigentes les reconocen, en igualdad de condiciones con los demás y garantiza el goce y ejercicio de su capacidad jurídica, con apoyos y salvaguardias, según corresponda.\n Las personas con discapacidad tienen derecho a la accesibilidad universal, así como también la inclusión social, inserción laboral, su participación política, económica, social y cultural.\n El Estado establecerá un servicio nacional para brindar apoyo personalizado e integral a las personas con discapacidad y sus familias a través del cual se elaborarán, coordinarán y ejecutarán las políticas y programas destinados a atender las necesidades de quien lo solicite o lo necesite. Este Servicio deberá tener como principios rectores el respeto a la dignidad, autonomía, la voluntad y las preferencias de la persona con discapacidad que incluirá siempre su derecho a tomar las propias decisiones.\n La ley arbitrará los medios necesarios para identificar y remover las barreras físicas, sociales, culturales, actitudinales, de comunicación y de otra índole para facilitar a las personas con discapacidad el ejercicio de sus derechos.",
+                "authors": [
+                    "Saldana, Alvin"
+                ]
+            },
+            {
+                "timestamp": "04-08",
+                "article": "Artículo 4",
+                "content_snapshot": "La Constitución reconoce a las personas con discapacidad como sujetos de derechos que esta Constitución y los tratados internacionales ratificados y vigentes les reconocen, en igualdad de condiciones con los demás y garantiza el goce y ejercicio de su capacidad jurídica, con apoyos y salvaguardias, según corresponda.\n Las personas con discapacidad tienen derecho a la accesibilidad universal, así como también la inclusión social, inserción laboral, su participación política, económica, social y cultural.\n El Estado establecerá un servicio nacional para brindar apoyo personalizado e integral a las personas con discapacidad y sus familias a través del cual se elaborarán, coordinarán y ejecutarán las políticas y programas destinados a atender las necesidades de quien lo solicite o lo necesite. Este Servicio deberá tener como principios rectores el respeto a la dignidad, autonomía, la voluntad y las preferencias de la persona con discapacidad que incluirá siempre su derecho a tomar las propias decisiones.\n La ley arbitrará los medios necesarios para identificar y remover las barreras físicas, sociales, culturales, actitudinales, de comunicación y de otra índole para facilitar a las personas con discapacidad el ejercicio de sus derechos.\n El Estado garantizará los derechos lingüísticos e identidades culturales de las personas con discapacidad, los que incluyen el derecho a expresarse y comunicarse a través de sus lenguas y el acceso a mecanismos, medios y formas alternativas de comunicación. Asimismo, garantizará la autonomía lingüística de las personas sordas en todos los ámbitos de la vida, considerando especialmente el derecho a la educación en su propia lengua, al trabajo, a los servicios de salud, al sistema de justicia, y programas de prevención de la violencia lingüística y culturalmente concordantes.",
+                "authors": [
+                    "Serey, Mariela"
+                ]
+            }
+        ],
+        "final_status": "Similar a 138.- Artículo 6"
+    },
+    {
+        "article": "Artículo 10",
+        "text": "Derecho al asilo. Toda persona tiene derecho a buscar y recibir asilo, de acuerdo con la legislación nacional y los tratados internacionales suscritos y ratificados por Chile, y que se encuentren vigentes. Una ley regulará el procedimiento de solicitud y reconocimiento de la condición de refugiado, así como las garantías y protecciones específicas que se establezcan en favor de las personas solicitantes de asilo o refugiadas.",
+        "sources": [],
+        "article_uid": "C2_GEN3_ART10",
+        "timestamp": "04-01",
+        "history": [
+            {
+                "timestamp": "04-08",
+                "article": "Artículo 10",
+                "content_snapshot": "Derecho al asilo. Toda persona tiene derecho a buscar y recibir asilo, de acuerdo con la legislación nacional y los tratados internacionales suscritos y ratificados por Chile, y que se encuentren vigentes. Una ley regulará el procedimiento de solicitud y reconocimiento de la condición de refugiado, así como las garantías y protecciones específicas que se establezcan en favor de las personas solicitantes de asilo o refugiadas.",
+                "authors": [
+                    "Saldana, Alvin"
+                ]
+            }
+        ],
+        "final_status": "Idéntico a 139.- Artículo 9"
+    },
+    {
+        "article": "Artículo 11",
+        "text": "Principio de no devolución. Ninguna persona solicitante de asilo o refugiada será regresada por la fuerza a la frontera o al territorio del país de nacionalidad o residencia habitual en caso de ser apátrida, o a cualquier otro lugar donde su vida, libertad o seguridad peligren, a causa de su raza, religión, nacionalidad, pertenencia a un determinado grupo social u opinión política, o bien por la existencia de una situación de violencia generalizada, la agresión extranjera, los conflictos internos, la violación masiva de los derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en dicho país. La prohibición anterior comprende cualquier medida de rechazo en frontera, deportación, expulsión, extradición, y devolución, sea directa o indirecta. En conformidad con la prohibición de devolución bajo el derecho internacional de los derechos humanos, ninguna persona será trasladada a otro país si esto ha de exponerla a graves violaciones de derechos humanos, en particular la privación arbitraria de la vida, la tortura u otros tratos o penas crueles, inhumanos o degradantes.",
+        "sources": [],
+        "article_uid": "C2_GEN3_ART11",
+        "timestamp": "04-01",
+        "history": [
+            {
+                "timestamp": "04-08",
+                "article": "Artículo 11",
+                "content_snapshot": "Principio de no devolución. Ninguna persona solicitante de asilo o refugiada será regresada por la fuerza a las fronteras de territorios donde su vida o libertad pueden verse amenazadas, corra riesgo de persecución o graves violaciones de derechos humanos. Esto incluye las devoluciones masivas de grupos o personas.\n El Estado no podrá deportar, expulsar, extraditar, o devolver, sea directa o indirectamente a ninguna persona que sea solicitante de asilo o refugiada.",
+                "authors": [
+                    "Saldana, Alvin"
+                ]
+            }
+        ],
+        "final_status": "Similar a 140.- Artículo 10"
+    },
+    {
+        "article": "Artículo 12",
+        "text": "Derechos de niños, niñas y adolescentes. Los niños, niñas y adolescentes son sujetos de derecho y como tales gozarán de aquellos derechos comunes a todas las personas, los consagrados en esta Constitución, en los tratados internacionales ratificados por Chile; y las leyes. La Constitución reconoce especialmente los siguientes derechos para niños, niñas y adolescentes: su nombre y nacionalidad, vivir en una familia y no ser separados arbitrariamente de ella, los cuidados que requieran para su desarrollo armonioso e integral, la educación y la cultura acordes con su cosmovisión, la recreación, la protección de su vida privada y la libre expresión de su opinión. Serán protegidos especialmente contra toda forma de abandono, violencia, malos tratos, discriminación, negligencia, abuso sexual y explotación sexual, laboral o económica. El Estado reconoce el rol esencial que las diversas formas de familia cumplen en el pleno desarrollo de los derechos de la niñez y su bienestar. Consecuentemente, el Estado asegurará el derecho de los niños, niñas y adolescentes a crecer en un ambiente familiar, así como a que los adultos responsables de su cuidado cuenten con los apoyos necesarios para el cumplimiento de sus responsabilidades.",
+        "sources": [],
+        "article_uid": "C2_GEN3_ART12",
+        "timestamp": "04-01",
+        "history": [
+            {
+                "timestamp": "04-08",
+                "article": "Artículo 12",
+                "content_snapshot": "Derechos de niñas, niños y adolescentes. Las niñas, niños y adolescentes son titulares de todos los derechos y garantías establecidas en esta Constitución, en las leyes y tratados internacionales ratificados y vigentes en Chile.\n El Estado tiene el deber prioritario de promover, respetar y garantizar, sin discriminación y en todo su actuar, los derechos de niñas, niños y adolescentes, resguardando su interés superior, su autonomía progresiva, su desarrollo integral y a ser escuchados y a participar e influir en todos los asuntos que les afecten en el grado que corresponda a su nivel de desarrollo en la vida familiar, comunitaria y social. El Estado deberá velar porque no sean separados de sus familias salvo como medida temporal y último recurso en resguardo de su interés superior.\n Las familias tienen un rol de garantes en el desarrollo integral de niños, niñas y adolescentes. Es deber del Estado reconocer este rol, donde la sociedad y comunidades coparticipan activamente y dar el apoyo necesario para la realización de este. La ley establecerá un sistema integral y universal de garantías de los derechos a los que se refiere este artículo, a través del cual establecerá responsabilidades específicas de los poderes y órganos del Estado y su deber de trabajo intersectorial y coordinado para asegurar la promoción y protección efectiva de los derechos de niñas, niños y adolescentes.",
+                "authors": [
+                    "Vallejos, Loreto"
+                ]
+            }
+        ],
+        "final_status": "Similar a 141.- Artículo 11"
+    }
+]
