@@ -631,7 +631,7 @@
         "final_status": "Idéntico a 6.- Artículo 5"
     },
     {
-        "article_uid": "C1_IND04_30_CH03_ART5bis",
+        "article_uid": "C1_IND04_30_CH03_ART5BIS",
         "article": "Artículo 5bis",
         "timestamp": "04-30-2",
         "text": "Del Poder Legislativo. El poder legislativo se compone del Congreso de Diputadas y Diputados y la Cámara de las Regiones.",
@@ -1206,7 +1206,8 @@
         "final_status": "Similar a 30.- Artículo 26"
     },
     {
-        "article_uid": "C1_IND_CH03_ART29BIS",
+        "article_uid": "C1_IND03_17_CH03_ART29BIS",
+        "timestamp": "03-17",
         "step": "Indicacion",
         "article": "Artículo 34 bis",
         "text": "Leyes de acuerdo regional. Sólo son leyes de acuerdo regional: 1. La relativa al presupuesto anual; 2. Las relativas a la elección, designación, competencias, atribuciones y procedimientos de los órganos y autoridades de las entidades territoriales; 3. Las que establezcan los mecanismos de distribución fiscal y presupuestaria; 4. Las que alteren la división política o administrativa del país; 5. Las que reformen el texto constitucional en aquellas materias relativas a la elección, designación, competencias, atribuciones y procedimientos de los órganos y autoridades de las entidades territoriales; 6. Las que ratifiquen el estatuto regional.",
@@ -3772,7 +3773,7 @@
         "final_status": "Idéntico a 77.- Artículo 7"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART07bis",
+        "article_uid": "C1_IND04_18_CH*_ART07BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 7° bis",
@@ -3897,7 +3898,7 @@
         "final_status": "Idéntico a 80.- Artículo 10"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART09bis",
+        "article_uid": "C1_IND04_18_CH*_ART09BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 9° bis",
@@ -5150,7 +5151,7 @@
         "final_status": "Idéntico a 92.- Artículo 22"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18bis",
+        "article_uid": "C1_IND04_18_CH*_ART18BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° bis",
@@ -5185,7 +5186,7 @@
         "final_status": "Similar a 93.- Artículo 23"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18ter",
+        "article_uid": "C1_IND04_18_CH*_ART18TER",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° ter",
@@ -5220,7 +5221,7 @@
         "final_status": "Similar a 94.- Artículo 24"
     },
     {
-        "article_uid": "C1_IND04_30_CH*_ART24bis",
+        "article_uid": "C1_IND04_30_CH*_ART24BIS",
         "article": "Artículo 24 bis",
         "step": "Indicacion",
         "text": "La Presidenta o Presidente de la República podrá solicitar la prórroga del estado de catástrofe, para lo cual requerirá la aprobación de la mayoría de los integrantes del Congreso de Diputadas y Diputados y la Cámara de las Regiones, quienes resolverán en sesión conjunta",
@@ -5250,7 +5251,7 @@
         "final_status": "Idéntico a 95.- Artículo 24 bis"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18quater",
+        "article_uid": "C1_IND04_18_CH*_ART18QUATER",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° quater",
@@ -5339,10 +5340,10 @@
         "final_status": "Similar a 96.- Artículo 25"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18quinquier",
+        "article_uid": "C1_IND04_18_CH*_ART18QUINQUIES",
         "timestamp": "04-18",
         "step": "Indicacion",
-        "article": "Artículo 20° quinquier",
+        "article": "Artículo 20° quinquies",
         "text": "Ejecución de las medidas de excepción. Los actos de la Presidenta o Presidente de la República, o el Jefe o Jefa de Estado de Excepción, que tengan por fundamento la declaración del estado de excepción constitucional, deberán señalar expresamente los derechos constitucionales que suspendan o restrinjan. El decreto de declaración deberá indicar específicamente las medidas a adoptarse en razón de la excepción, las que deberán ser proporcionales a los fines establecidos en la declaración de excepción, y no limitar excesivamente o impedir de manera total el legítimo ejercicio de cualquier derecho establecido en esta Constitución. Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de la vigencia de los mismos. Los estados de excepción constitucional permitirán al Congreso de Diputadas y Diputados y a la Presidenta o Presidente de la República el ejercicio de potestades y competencias que ordinariamente estarían reservadas a niveles territoriales inferiores, cuando el restablecimiento de la normalidad así lo requiera. Las Fuerzas Armadas y policías deberán cumplir estrictamente las órdenes de la autoridad civil a cargo del estado de excepción.",
         "number": "134",
         "authors": [
@@ -5416,7 +5417,7 @@
         "final_status": "Idéntico a 97.- Artículo 26"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18octies",
+        "article_uid": "C1_IND04_18_CH*_ART18OCTIES",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° octies",
@@ -5752,7 +5753,7 @@
         "final_status": "Idéntico a 12.- Artículo 11"
     },
     {
-        "article_uid": "C1_IND04_30_2_CH03_ART11bis",
+        "article_uid": "C1_IND04_30_2_CH03_ART11BIS",
         "article": "Artículo 11 bis",
         "step": "Indicacion",
         "timestamp": "04-30-2",
@@ -5777,7 +5778,7 @@
         "final_status": "Similar a 13.- Artículo 11 bis"
     },
     {
-        "article_uid": "C1_IND04_30_2_CH03_ART11ter",
+        "article_uid": "C1_IND04_30_2_CH03_ART11TER",
         "article": "Artículo 11 ter",
         "step": "Indicacion",
         "timestamp": "04-30-2",
@@ -5835,7 +5836,7 @@
         "final_status": "Similar a 15.- Artículo 12"
     },
     {
-        "article_uid": "C1_IND04_30_2_CH03_ART12bis",
+        "article_uid": "C1_IND04_30_2_CH03_ART12BIS",
         "article": "Artículo 12 bis",
         "step": "Indicacion",
         "timestamp": "04-30-2",

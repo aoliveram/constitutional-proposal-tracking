@@ -1018,7 +1018,7 @@
         ]
     },
     {
-        "article_uid": "C5_IND05_04_CH1_ARTNUEVO",
+        "article_uid": "C5_IND05_04_CH1_ARTN",
         "timestamp": "05-04",
         "article": "Artículo Nuevo",
         "text": "Los bienes comunes naturales son elementos o componentes de la Naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la Naturaleza y el interés de las generaciones presentes y futuras.",
@@ -1649,7 +1649,6 @@
                 "placement_instructions": ""
             },
             {
-                "article_uid": "C5-IND05-04-CH1-ART27-30",
                 "timestamp": "05-04",
                 "step": "Indicación",
                 "article": "Artículo 30",
@@ -1709,7 +1708,6 @@
                 "placement_instructions": ""
             },
             {
-                "article_uid": "C5-IND05-04-CH1-ART27-30",
                 "timestamp": "05-04",
                 "step": "Indicación",
                 "article": "Artículo 32",
