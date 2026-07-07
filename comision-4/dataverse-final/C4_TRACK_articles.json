@@ -3214,7 +3214,24 @@
         "icc_id": "41",
         "text": "Artículo X. Derecho a la identidad. Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su identidad, en todas sus distintas dimensiones y manifestaciones, incluyendo la nacionalidad, etnia, cultura, edad, características sexuales, identidades y expresiones de género, y orientaciones sexoafectivas, entre otras.\n Ni el Estado, ni ninguna persona, institución o grupo podrá restringir, condicionar o excluir el reconocimiento ni ejercicio de este derecho a través de requisitos que vayan en contra de los derechos y garantías que esta Constitución reconoce y los tratados internacionales de Derechos Humanos que Chile haya ratificado y se encuentren vigentes.\n El Estado deberá garantizar el reconocimiento de este derecho a través de los respectivos documentos de identidad, inscripción registral y otras herramientas y acciones judiciales y administrativas que materialicen este derecho.",
         "voting_result": "Sometida a votación se aprobó (25 votos a favor, 7 votos en contra, 1 abstención).",
-        "authors": [],
+        "authors": [
+            "Daza, Mauricio",
+            "Gutierrez, Hugo",
+            "Hoppe, Vanessa",
+            "Woldarsky, Manuel",
+            "Llanquileo, Natividad",
+            "Royo, Manuela",
+            "Stingo, Daniel",
+            "Namor, Guillermo",
+            "Politzer, Patricia",
+            "Baranda, Benito",
+            "Valenzuela, Paulina",
+            "Celedon, Roberto",
+            "Logan, Rodrigo",
+            "Martinez, Helmuth",
+            "Abarca, Jorge",
+            "Cespedes, Lorena"
+        ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART77",
         "history": [
@@ -4385,7 +4402,25 @@
                 ]
             }
         ],
-        "final_status": "Idéntico a 268.- Artículo 1"
+        "final_status": "Idéntico a 268.- Artículo 1",
+        "authors": [
+            "Videla, Carolina",
+            "Gutierrez, Hugo",
+            "San Juan, Constanza",
+            "Olivares, Ivanna",
+            "Vargas, Mario",
+            "Nunez, Nicolas",
+            "Rivera, Maria Magdalena",
+            "Gonzalez, Lidia",
+            "Sepulveda, Barbara",
+            "Woldarsky, Manuel",
+            "Royo, Manuela",
+            "Celedon, Roberto",
+            "Miranda, Valentina",
+            "Perez, Alejandra",
+            "Dorador, Cristina",
+            "Flores, Alejandra"
+        ]
     },
     {
         "icc_id": [
@@ -4421,7 +4456,25 @@
                 ]
             }
         ],
-        "final_status": "Idéntico a 269.- Artículo 2"
+        "final_status": "Idéntico a 269.- Artículo 2",
+        "authors": [
+            "Videla, Carolina",
+            "Gutierrez, Hugo",
+            "San Juan, Constanza",
+            "Olivares, Ivanna",
+            "Vargas, Mario",
+            "Nunez, Nicolas",
+            "Rivera, Maria Magdalena",
+            "Gonzalez, Lidia",
+            "Sepulveda, Barbara",
+            "Woldarsky, Manuel",
+            "Royo, Manuela",
+            "Celedon, Roberto",
+            "Miranda, Valentina",
+            "Perez, Alejandra",
+            "Dorador, Cristina",
+            "Flores, Alejandra"
+        ]
     },
     {
         "icc_id": [
@@ -4521,7 +4574,25 @@
                 ]
             }
         ],
-        "final_status": "Idéntico a 270.- Artículo 3"
+        "final_status": "Idéntico a 270.- Artículo 3",
+        "authors": [
+            "Videla, Carolina",
+            "Gutierrez, Hugo",
+            "San Juan, Constanza",
+            "Olivares, Ivanna",
+            "Vargas, Mario",
+            "Nunez, Nicolas",
+            "Rivera, Maria Magdalena",
+            "Gonzalez, Lidia",
+            "Sepulveda, Barbara",
+            "Woldarsky, Manuel",
+            "Royo, Manuela",
+            "Celedon, Roberto",
+            "Miranda, Valentina",
+            "Perez, Alejandra",
+            "Dorador, Cristina",
+            "Flores, Alejandra"
+        ]
     },
     {
         "icc_id": "16",
@@ -4758,7 +4829,18 @@
                 ]
             }
         ],
-        "final_status": "Similar a 271.- Artículo 4"
+        "final_status": "Similar a 271.- Artículo 4",
+        "authors": [
+            "Mamani, Isabella",
+            "Gonzalez, Lidia",
+            "Tirado, Fernando",
+            "Catrileo, Rosa",
+            "Loncon, Elisa",
+            "Millabur, Adolfo",
+            "Aguilera, Tiare",
+            "Galleguillos, Felix",
+            "Jimenez, Luis"
+        ]
     },
     {
         "icc_id": "688",
@@ -4891,7 +4973,25 @@
                 ]
             }
         ],
-        "final_status": "Similar a 272.- Artículo 7"
+        "final_status": "Similar a 272.- Artículo 7",
+        "authors": [
+            "Orellana, Matias",
+            "Baranda, Benito",
+            "Serey, Mariela",
+            "Abarca, Damaris",
+            "Fernandez, Patricio",
+            "Fuchslocher, Javier",
+            "Urrutia, Tatiana",
+            "Cancino, Adriana",
+            "Dominguez, Gaspar",
+            "Delgado, Aurora",
+            "Valenzuela, Cesar",
+            "Abarca, Jorge",
+            "Schonhaut, Constanza",
+            "Hurtado, Maximiliano",
+            "Martin, Juan Jose",
+            "Sepulveda, Carolina"
+        ]
     },
     {
         "icc_id": "682-4",
@@ -5141,7 +5241,25 @@
                 ]
             }
         ],
-        "final_status": "Similar a 273.- Artículo 8"
+        "final_status": "Similar a 273.- Artículo 8",
+        "authors": [
+            "Atria, Fernando",
+            "Abarca, Jorge",
+            "Cancino, Adriana",
+            "Delgado, Aurora",
+            "Dominguez, Gaspar",
+            "Fernandez, Patricio",
+            "Fuchslocher, Javier",
+            "Namor, Guillermo",
+            "Orellana, Matias",
+            "Serey, Mariela",
+            "Stingo, Daniel",
+            "Urrutia, Tatiana",
+            "Valenzuela, Cesar",
+            "Valenzuela, Paulina",
+            "Alvarez, Julio",
+            "Baranda, Benito"
+        ]
     },
     {
         "icc_id": "682-4",
@@ -5174,7 +5292,25 @@
                 ]
             }
         ],
-        "final_status": "Idéntico a 274.- Artículo 9"
+        "final_status": "Idéntico a 274.- Artículo 9",
+        "authors": [
+            "Atria, Fernando",
+            "Abarca, Jorge",
+            "Cancino, Adriana",
+            "Delgado, Aurora",
+            "Dominguez, Gaspar",
+            "Fernandez, Patricio",
+            "Fuchslocher, Javier",
+            "Namor, Guillermo",
+            "Orellana, Matias",
+            "Serey, Mariela",
+            "Stingo, Daniel",
+            "Urrutia, Tatiana",
+            "Valenzuela, Cesar",
+            "Valenzuela, Paulina",
+            "Alvarez, Julio",
+            "Baranda, Benito"
+        ]
     },
     {
         "icc_id": "355",
@@ -5566,7 +5702,17 @@
                 ]
             }
         ],
-        "final_status": "Similar a 279.- Artículo 14"
+        "final_status": "Similar a 279.- Artículo 14",
+        "authors": [
+            "Arrau, Martin",
+            "Hurtado, Ruth",
+            "Jurgensen, Harry",
+            "Letelier, Margarita",
+            "Cantuarias, Rocio",
+            "Castro, Claudia",
+            "Toloza, Pablo",
+            "Marinovic, Teresa"
+        ]
     },
     {
         "icc_id": "IPC N°15",
