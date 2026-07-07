@@ -1,8 +1,9 @@
 <!--
-DRAFT v0.1 (2026-07-03) — Data in Brief data article.
+DRAFT v0.2 (2026-07-07) — Data in Brief data article.
 Escrito en Markdown para versionar en git; al enviar, volcar a la plantilla Word
 oficial (ver data-in-brief-guidelines.md §2). Los [PLACEHOLDERS] marcan decisiones
-pendientes del equipo. Cifras congeladas al commit fb78ef0 (merge a main, 2026-07-03).
+pendientes del equipo. Cifras actualizadas tras la armonización de ids (commit
+f8b9ddc) y el fix del scraper BCN (154 perfiles).
 -->
 
 # ARTICLE INFORMATION
@@ -32,7 +33,7 @@ Constitution-making; norm tracking; text reuse; co-authorship networks; amendmen
 
 This dataset provides an article-level genealogy of the constitutional draft produced by Chile's Constitutional Convention (2021–2022), the elected body created after the 2019 social uprising to write a new constitution, whose proposal was ultimately rejected in the September 2022 referendum. The data trace each of the 498 articles of the draft approved by the plenary on 14 May 2022 back through the full lineage that produced it: the original norm proposals (1,892 "genesis" texts consolidated from constituent initiatives), the amendments (*indicaciones*) debated and voted in each of the seven thematic commissions, and the intermediate text versions, down to the final drafted article.
 
-The core of the dataset is a set of tracking files, one per commission, containing 2,047 lineage records. Each record includes the article text, its unique identifier, its co-authors (harmonized against the official roster of 154 convention members), the initiative(s) it originated from, a history of amendment snapshots with dates, and a terminal status field that classifies its fate: eliminated in commission (1,191 records), rejected in the plenary (350), or surviving into the draft as an identical (293) or similar (185) version of a final article. A master crosswalk table links every final-draft article to its source lineage(s) with a three-level traceability status (identical, similar, not yet traced). The dataset also includes the pool of 996 constituent initiatives with their signatories, member-level biographical data web-scraped from the Chilean Library of Congress (147 profiles with gender, age, profession, district, and political affiliation), and dynamic ideal-point estimates for the 154 members computed from plenary roll-call votes.
+The core of the dataset is a set of tracking files, one per commission, containing 2,019 lineage records. Each record includes the article text, its unique identifier, its co-authors (harmonized against the official roster of 154 convention members), the initiative(s) it originated from, a history of amendment snapshots with dates, and a terminal status field that classifies its fate: eliminated in commission (1,191 records), rejected in the plenary (350), or surviving into the draft as an identical (293) or similar (185) version of a final article. A master crosswalk table links every final-draft article to its source lineage(s) with a three-level traceability status (identical, similar, not yet traced). The dataset also includes the pool of 996 constituent initiatives with their signatories, member-level biographical data web-scraped from the Chilean Library of Congress (154 profiles — one per member — with gender, age, profession, district, and political affiliation), and dynamic ideal-point estimates for the 154 members computed from plenary roll-call votes.
 
 The data were extracted from official Convention documents (PDF committee reports, systematized genesis texts, and the published draft) through Python pipelines combining large-language-model-assisted parsing with extensive human-in-the-loop reconstruction and one-by-one manual validation. The dataset supports research on constitution-making, legislative behavior, co-authorship and collaboration networks, textual survival and legislative success, and the interplay between ideology and drafting in elected constituent bodies.
 
@@ -72,35 +73,37 @@ The repository is organized in seven commission folders (`comision-1` to `comisi
 
 | Commission (official name, abbreviated) | `TRACK_full` | `TRACK_articles` | `GENESIS_master` | `BORRADOR_final` |
 |---|---|---|---|---|
-| C1 — Political System, Government, Legislative Power and Electoral System | 230 | 131 | 96 | 100 |
+| C1 — Political System, Government, Legislative Power and Electoral System | 202 | 131 | 96 | 100 |
 | C2 — Constitutional Principles, Democracy, Nationality and Citizenship | 182 | 24 | 312 | 41 |
 | C3 — Form of the State, Territorial Organization and Decentralization | 234 | 72 | 222 | 96 |
 | C4 — Fundamental Rights | 175 | 58 | 167 | 58 |
 | C5 — Environment, Rights of Nature, Natural Commons and Economic Model | 484 | 36 | 464 | 43 |
 | C6 — Justice Systems, Autonomous Control Organs and Constitutional Reform | 491 | 117 | 440 | 119 |
 | C7 — Knowledge Systems, Cultures, Science, Technology, Arts and Heritage | 251 | 40 | 191 | 41 |
-| **Total** | **2,047** | **478** | **1,892** | **498** |
+| **Total** | **2,019** | **478** | **1,892** | **498** |
 
-**`C{X}_TRACK_full.json`** is the core genealogical file of each commission: one record per tracked text lineage, including lineages that died along the way. Table 2 describes its fields. Records carry a unique identifier (`article_uid`) with the scheme `C{X}_GEN[…]_ART{N}` for genesis-derived articles (optionally with a chapter component `CH##`) and `C{X}_IND[…]_ART{N}` for amendment records. The `sources` field lists the identifiers of the constituent initiative(s) the text came from (e.g., `"672-2"`), which link to the initiative pool described below. The `history` field stores a list of amendment snapshots, each with its own timestamp, amendment action, content, and authors, so the successive wording of an article can be reconstructed step by step.
+**`C{X}_TRACK_full.json`** is the core genealogical file of each commission: one record per tracked text lineage, including lineages that died along the way. Table 2 describes its fields. Records carry a unique identifier (`article_uid`) with the scheme `C{X}_GEN[…]_ART{N}` for genesis-derived articles (optionally with a chapter component `CH##`) and `C{X}_IND[…]_ART{N}` for amendment records. The `sources` field lists the identifiers of the constituent initiative(s) the text came from (e.g., `"672-2"`), which link to the initiative pool described below. The `history` field stores a list of amendment snapshots, each with its own timestamp, amendment action, content, and authors, so the successive wording of an article can be reconstructed step by step. The full identifier grammar (including uppercase constitutional suffixes such as `BIS`/`TER` and `ARTN{n}` labels for new articles) and the parsing rules for `final_status` are documented in the codebook released with the deposit.
 
-**Table 2. Main fields of `C{X}_TRACK_full.json` and `C{X}_TRACK_articles.json`** (presence out of 2,047 TRACK_full records)
+**Table 2. Main fields of `C{X}_TRACK_full.json` and `C{X}_TRACK_articles.json`** (presence out of 2,019 TRACK_full records)
 
 | Field | Type | Description | Presence |
 |---|---|---|---|
 | `article_uid` | string | Unique lineage identifier (see naming scheme above) | 2,019 |
 | `article` | string | Article label as printed in the source report (e.g., "Artículo 14") | 1,848 |
 | `text` | string | Full article text (Spanish) | 2,008 |
-| `authors` | list of strings | Co-authors, harmonized to "Surname, Name" against the official roster | 1,773 |
+| `authors` | list of strings | Co-authors, harmonized to "Surname, Name" against the official roster | 1,758 |
 | `sources` | list of strings | Originating initiative ID(s), format `<number>-<version>` | 1,638 |
-| `timestamp` | string | Date label of the session/report the record comes from (MM-DD) | 2,026 |
-| `history` | list of dicts | Amendment snapshots: timestamp, action (ADD/SUBSTITUTE/DELETE), target scope, content, content removed, placement instructions, authors | 1,620 |
-| `final_status` | string | Terminal fate of the lineage (see Table 3) | 2,020 |
+| `timestamp` | string | Date label of the session/report the record comes from (MM-DD) | 2,008 |
+| `history` | list of dicts | Amendment snapshots: timestamp, action (ADD/SUBSTITUTE/DELETE), target scope, content, content removed, placement instructions, authors | 1,619 |
+| `final_status` | string | Terminal fate of the lineage (see Table 3) | 2,019 |
 | `icc_id`, `voting_result` | string/list | Committee vote identifier and outcome text, where recorded | 167 |
-| `number`, `target_scope`, `action`, `content`, `content_to_remove`, `placement_instructions`, `step` | mixed | Amendment-specific fields (subset of ~224 amendment records) | 125–226 |
+| `number`, `target_scope`, `action`, `content`, `content_to_remove`, `placement_instructions`, `step` | mixed | Amendment-specific fields (subset of 210 standalone amendment records, see below) | 122–212 |
+
+A subset of 210 records in `TRACK_full` are standalone amendment records: *indicaciones* whose target article could not be unambiguously identified in the source reports. Rather than discarding them or forcing an uncertain link, they are retained as top-level records carrying the amendment-specific fields of Table 2 (action, content, target scope, placement instructions) and their authors, since they document amendment activity and authorship even when the affected article is unknown.
 
 **`C{X}_TRACK_articles.json`** is the survivor subset of `TRACK_full`: the 478 lineages whose text reached the 14 May 2022 draft. `article_uid` and `final_status` are present in 100% of these records, and `final_status` only takes pointer values ("Idéntico a …" / "Similar a …") that name the final-draft article the lineage became.
 
-**Table 3. `final_status` categories in `TRACK_full` (2,020 records with the field)**
+**Table 3. `final_status` categories in `TRACK_full` (present in all 2,019 records)**
 
 | Value | Meaning | Count |
 |---|---|---|
@@ -125,7 +128,7 @@ The repository is organized in seven commission folders (`comision-1` to `comisi
 | `match_notes_primary` | Free-text notes explaining non-identical matches | — |
 | `…_secondary`, `…_tertiary` (uid, status, notes) | Same fields for additional sources, where they exist | secondary: `similar` (35), `identical` (2) |
 
-**Member-level and initiative-level files.** `convention_members.json` is the canonical roster of the 154 convention members ("Surname, Name") used for author harmonization. `conventionals-bcn-webscrapping/conventional-profiles.json` provides 147 biographical profiles scraped from the Library of the National Congress (BCN), with eight variables per member: harmonized name, gender indicator, grouped political affiliation, district, lawyer indicator, age at installation, education level, and prior institutional experience (a raw-text version, `conventional-profiles-raw.json`, preserves the full biographies). `submitted_initiatives/` contains the pool of 996 constituent initiatives (*iniciativas convencionales constituyentes*) as extracted from the official platform, keyed by the original PDF file name, with the proposed norm text, author, matched author, thematic commission (869 initiatives carry a commission assignment), date, and the full list of signatories with match diagnostics. `emIRT-analysis/emIRT_summary_positions.csv` provides dynamic ideal-point estimates for the 154 members (mean, standard deviation, minimum, maximum, range, and left-to-right ranking), with the underlying R scripts and model objects included in the same folder. `unique_status_values.txt` documents the 124 raw status strings found before normalization, as a curation audit trail, and `reports/` contains the data-quality and reconstruction reports produced during curation.
+**Member-level and initiative-level files.** `convention_members.json` is the canonical roster of the 154 convention members ("Surname, Name") used for author harmonization. `conventionals-bcn-webscrapping/conventional-profiles.json` provides 154 biographical profiles — full coverage of the roster — scraped from the Library of the National Congress (BCN), with eight variables per member: harmonized name, gender indicator, grouped political affiliation, district, lawyer indicator, age at installation, education level, and prior institutional experience (a raw-text version, `conventional-profiles-raw.json`, preserves the full biographies). `submitted_initiatives/` contains the pool of 996 constituent initiatives (*iniciativas convencionales constituyentes*) as extracted from the official platform, keyed by the original PDF file name, with the proposed norm text, author, matched author, thematic commission (869 initiatives carry a commission assignment), date, and the full list of signatories with match diagnostics. `emIRT-analysis/emIRT_summary_positions.csv` provides dynamic ideal-point estimates for the 154 members (mean, standard deviation, minimum, maximum, range, and left-to-right ranking), with the underlying R scripts and model objects included in the same folder. `unique_status_values.txt` documents the 124 raw status strings found before normalization, as a curation audit trail, and `reports/` contains the data-quality and reconstruction reports produced during curation.
 
 **Figure 1. Fate of tracked text lineages by commission (to be generated).** Stacked bar or Sankey diagram from `TRACK_full`: for each commission, the share of lineages ending as `Eliminado`, `ART-FALLIDO`, `Idéntico a…`, and `Similar a…`.
 
@@ -145,7 +148,7 @@ The repository is organized in seven commission folders (`comision-1` to `comisi
 
 # LIMITATIONS
 
-The seven commissions published their reports in heterogeneous and sometimes irregular formats; despite commission-specific pipelines and manual reconstruction, coverage is not perfectly uniform across commissions. In the master crosswalk, 54 of the 498 final-draft articles (10.8%) remain `not_traced` to a source lineage in the current version. Some tracking records lack author lists (a missing-authors report is included), and 127 of the 996 constituent initiatives lack a thematic commission assignment. The `final_status` field is semi-structured: survivor categories embed the final article label as free text. LLM-assisted extraction may introduce residual transcription errors, although every lineage endpoint was manually validated. The genealogy targets the plenary draft of 14 May 2022; the subsequent work of the Harmonization Commission that produced the 388-article final proposal of 4 July 2022 is not yet covered. Raw plenary roll-call matrices are not redistributed here (they are available from official records and an existing deposit [3]).
+The seven commissions published their reports in heterogeneous and sometimes irregular formats; despite commission-specific pipelines and manual reconstruction, coverage is not perfectly uniform across commissions. In the master crosswalk, 54 of the 498 final-draft articles (10.8%) remain `not_traced` to a source lineage in the current version. Some tracking records lack author lists (a missing-authors report is included), 210 amendment records could not be anchored to a specific article lineage and are provided as standalone records, and 127 of the 996 constituent initiatives lack a thematic commission assignment. The `final_status` field is semi-structured: survivor categories embed the final article label as free text. LLM-assisted extraction may introduce residual transcription errors, although every lineage endpoint was manually validated. The genealogy targets the plenary draft of 14 May 2022; the subsequent work of the Harmonization Commission that produced the 388-article final proposal of 4 July 2022 is not yet covered. Raw plenary roll-call matrices are not redistributed here (they are available from official records and an existing deposit [3]).
 
 # ETHICS STATEMENT
 
