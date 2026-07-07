@@ -33,3 +33,7 @@ Thumbs.db
 *.log
 temp/
 tmp/
+
+# Office lock/temp files (created while a .xlsx/.docx is open)
+~$*
+.~lock.*#
