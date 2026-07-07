@@ -69,23 +69,45 @@ class BCNConvencionalesScraper:
         return bcn_profiles
 
     def match_names(self, json_members, bcn_profiles):
-        matched_count = 0
-        
-        for member in json_members:
-            for bcn_name, bcn_url in bcn_profiles.items():
-                import unicodedata
-                
-                def normalize_text(text):
-                    return unicodedata.normalize('NFKD', text).encode('ASCII', 'ignore').decode('utf-8').lower()
-                
-                bcn_normalized = normalize_text(bcn_name)
-                first_norm = normalize_text(member['first_name_lower'])
-                last_norm = normalize_text(member['last_name_lower'])
+        import unicodedata
+        from difflib import SequenceMatcher
 
-                if first_norm in bcn_normalized and last_norm in bcn_normalized:
-                    member['bcn_url'] = bcn_url
-                    matched_count += 1
+        def normalize_text(text):
+            return unicodedata.normalize('NFKD', text).encode('ASCII', 'ignore').decode('utf-8').lower()
+
+        matched_count = 0
+
+        for member in json_members:
+            first_norm = normalize_text(member['first_name_lower'])
+            last_norm = normalize_text(member['last_name_lower'])
+            first_tokens = first_norm.split()
+
+            best_url = None
+            for bcn_name, bcn_url in bcn_profiles.items():
+                bcn_normalized = normalize_text(bcn_name)
+                if last_norm not in bcn_normalized:
+                    continue
+                bcn_tokens = bcn_normalized.split()
+
+                # Full given-name field as substring (original criterion)
+                if first_norm in bcn_normalized:
+                    best_url = bcn_url
                     break
+                # BCN keeps only one of the given names (e.g. "Miguel Angel" -> "Miguel",
+                # "Maria Ramona" -> "Ramona"): accept any exact given-name token
+                if any(t in bcn_tokens for t in first_tokens):
+                    best_url = best_url or bcn_url
+                    continue
+                # Spelling variants (e.g. Dayana / Dayyana)
+                if any(SequenceMatcher(None, t, bt).ratio() >= 0.85
+                       for t in first_tokens for bt in bcn_tokens):
+                    best_url = best_url or bcn_url
+
+            if best_url:
+                member['bcn_url'] = best_url
+                matched_count += 1
+            else:
+                logger.warning(f"No directory match for {member['original']}")
 
         logger.info(f"Successfully matched canonical URLs for {matched_count} out of {len(json_members)} members.")
         return json_members

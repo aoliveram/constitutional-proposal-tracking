@@ -143,7 +143,7 @@
         "nombre_armonizado": "Arrau, Martin",
         "es_mujer": 0,
         "afiliacion_agrupada": "Independiente",
-        "distrito": "19° distrito",
+        "distrito": "19° Distrito",
         "es_abogado": 0,
         "edad_al_asumir": 42,
         "grado_academico_nivel": 0,
@@ -217,6 +217,16 @@
         "es_abogado": 1,
         "edad_al_asumir": 44,
         "grado_academico_nivel": 2,
+        "experiencia_previa_institucional": 0
+    },
+    {
+        "nombre_armonizado": "Botto, Miguel Angel",
+        "es_mujer": 0,
+        "afiliacion_agrupada": "Independiente",
+        "distrito": "6° distrito",
+        "es_abogado": 0,
+        "edad_al_asumir": 52,
+        "grado_academico_nivel": 0,
         "experiencia_previa_institucional": 0
     },
     {
@@ -308,6 +318,16 @@
         "edad_al_asumir": 71,
         "grado_academico_nivel": 1,
         "experiencia_previa_institucional": 1
+    },
+    {
+        "nombre_armonizado": "Castillo, Maria Trinidad",
+        "es_mujer": 1,
+        "afiliacion_agrupada": "Independiente",
+        "distrito": "5° distrito",
+        "es_abogado": 0,
+        "edad_al_asumir": 64,
+        "grado_academico_nivel": 1,
+        "experiencia_previa_institucional": 0
     },
     {
         "nombre_armonizado": "Castro, Claudia",
@@ -556,6 +576,16 @@
         "distrito": "Desconocido",
         "es_abogado": 0,
         "edad_al_asumir": 53,
+        "grado_academico_nivel": 0,
+        "experiencia_previa_institucional": 0
+    },
+    {
+        "nombre_armonizado": "Gonzalez, Dayana",
+        "es_mujer": 1,
+        "afiliacion_agrupada": "Independiente",
+        "distrito": "3er distrito",
+        "es_abogado": 0,
+        "edad_al_asumir": 33,
         "grado_academico_nivel": 0,
         "experiencia_previa_institucional": 0
     },
@@ -1120,6 +1150,26 @@
         "experiencia_previa_institucional": 0
     },
     {
+        "nombre_armonizado": "Reyes, Maria Ramona",
+        "es_mujer": 1,
+        "afiliacion_agrupada": "Desconocida",
+        "distrito": "24° distrito",
+        "es_abogado": 0,
+        "edad_al_asumir": 54,
+        "grado_academico_nivel": 0,
+        "experiencia_previa_institucional": 1
+    },
+    {
+        "nombre_armonizado": "Rivera, Maria Magdalena",
+        "es_mujer": 1,
+        "afiliacion_agrupada": "Independiente",
+        "distrito": "8° distrito",
+        "es_abogado": 1,
+        "edad_al_asumir": 63,
+        "grado_academico_nivel": 0,
+        "experiencia_previa_institucional": 0
+    },
+    {
         "nombre_armonizado": "Rivera, Pollyana",
         "es_mujer": 1,
         "afiliacion_agrupada": "Independiente",
@@ -1258,6 +1308,16 @@
         "edad_al_asumir": 50,
         "grado_academico_nivel": 0,
         "experiencia_previa_institucional": 1
+    },
+    {
+        "nombre_armonizado": "Tepper, Maria Angelica",
+        "es_mujer": 1,
+        "afiliacion_agrupada": "Independiente",
+        "distrito": "23er distrito",
+        "es_abogado": 0,
+        "edad_al_asumir": 60,
+        "grado_academico_nivel": 0,
+        "experiencia_previa_institucional": 0
     },
     {
         "nombre_armonizado": "Tirado, Fernando",
@@ -1468,5 +1528,15 @@
         "edad_al_asumir": 29,
         "grado_academico_nivel": 0,
         "experiencia_previa_institucional": 0
+    },
+    {
+        "nombre_armonizado": "Zuniga, Luis Arturo",
+        "es_mujer": 0,
+        "afiliacion_agrupada": "Independiente",
+        "distrito": "9° distrito",
+        "es_abogado": 0,
+        "edad_al_asumir": 38,
+        "grado_academico_nivel": 0,
+        "experiencia_previa_institucional": 1
     }
 ]
