@@ -68,6 +68,22 @@ Case and accents are part of the raw identifier. For joins, preserve the exact v
 | `C6_X_ART3` | Commission 6, special/manual provenance marker, article 3. |
 | `C7_GEN_CH01_ART01.1` | Commission 7, Genesis-derived record, chapter 1, article 1.1. |
 
+## `authors`
+
+`authors` is a list of convention members in "Surname, Name" format, harmonized against the canonical roster of 154 members (`convention_members.json`). Only natural persons from the roster appear in this field.
+
+**Provenance rule.** For genesis-derived records, `authors` corresponds to the matched signatories (`firmantes_matched`) of the constituent initiative(s) referenced in `sources`, taking the union when a record has several sources. This rule was validated against the commissions where both fields coexist (C3, C5, C6, C7): 1,252 of 1,253 GENESIS records match the signatory list of their source initiatives exactly. C2, whose custom reconstruction pipeline had lost this linkage, was populated ex post with the same rule (401 records: 235 in `C2_GENESIS_master`, 149 in `C2_TRACK_full`, 17 in `C2_TRACK_articles`).
+
+**Records without authors.** In the seven `TRACK_full` files, 149 of 2,019 records carry no non-empty `authors` list, in three documented classes:
+
+| Class | Count | Meaning |
+|---|---|---|
+| Source is a citizen initiative or an unrecovered constituent initiative | 93 | `sources` points to a popular or indigenous citizen initiative (strings such as `Iniciativa Popular 40-2`, `Iniciativa Popular Indígena 201-2`, `IPC/IPN/ICI N-V`), which has no convention-member signatories by design, or to one of the 39 constituent-initiative numbers absent from `submitted_initiatives/` (e.g., 639, 816, 963). |
+| No source reference | 24 | The record carries no `sources` field, so no signatory list can be derived. |
+| C4 pending join | 32 | C4 genesis records reference initiatives through `icc_id` rather than `sources`; the `icc_id`-to-initiative mapping is not yet established. |
+
+Sponsorship information for citizen initiatives remains available at the initiative level (`sources` strings and the metadata in `submitted_initiatives/`); it is deliberately not mixed into `authors`.
+
 ## `timestamp`
 
 `timestamp` records the session/report label under which a record (or an amendment snapshot inside `history[]`) was extracted. It is a documentary label taken from the source report, not a full calendar date.
@@ -78,9 +94,9 @@ Case and accents are part of the raw identifier. For joins, preserve the exact v
 |---|---|---|
 | `MM-DD` | Month and day of the source report/session. The year is implicit: all observed values fall between January and May, within the 2022 commission reporting period. | 1,634 |
 | `MM-DD-{block}` | Same as `MM-DD`, plus a block ordinal distinguishing multiple reports or voting blocks issued on the same day (e.g., `04-01-2` is the second block of 1 April 2022). This `{block}` component is the same one used by the `IND{MM}_{DD}_{block}` origin token of `article_uid`. | 319 |
-| `NA` | The source report did not provide a usable session date label. All 55 such records belong to C6 (17) and C7 (38). | 55 |
+| `NA` or key absent | The source report did not provide a usable session date label. 55 records carry an explicit `"NA"` (C6: 17, C7: 38) and 11 records omit the key altogether (C1: 4, C3: 2, C5: 5); both forms should be treated alike as "undated". | 66 |
 
-The same convention applies to `timestamp` values inside `history[]` snapshots (observed months: February–May, implicit year 2022).
+The same convention applies to `timestamp` values inside `history[]` snapshots (observed months: February–May, implicit year 2022); 5 nested snapshots are undated (C2: 1, C3: 2, C7: 2).
 
 ### Cautions
 
