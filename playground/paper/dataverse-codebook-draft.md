@@ -68,6 +68,27 @@ Case and accents are part of the raw identifier. For joins, preserve the exact v
 | `C6_X_ART3` | Commission 6, special/manual provenance marker, article 3. |
 | `C7_GEN_CH01_ART01.1` | Commission 7, Genesis-derived record, chapter 1, article 1.1. |
 
+## `timestamp`
+
+`timestamp` records the session/report label under which a record (or an amendment snapshot inside `history[]`) was extracted. It is a documentary label taken from the source report, not a full calendar date.
+
+### Format
+
+| Pattern | Meaning | Count (top-level, all `TRACK_full`) |
+|---|---|---|
+| `MM-DD` | Month and day of the source report/session. The year is implicit: all observed values fall between January and May, within the 2022 commission reporting period. | 1,634 |
+| `MM-DD-{block}` | Same as `MM-DD`, plus a block ordinal distinguishing multiple reports or voting blocks issued on the same day (e.g., `04-01-2` is the second block of 1 April 2022). This `{block}` component is the same one used by the `IND{MM}_{DD}_{block}` origin token of `article_uid`. | 319 |
+| `NA` | The source report did not provide a usable session date label. All 55 such records belong to C6 (17) and C7 (38). | 55 |
+
+The same convention applies to `timestamp` values inside `history[]` snapshots (observed months: February–May, implicit year 2022).
+
+### Cautions
+
+- Treat `timestamp` as an ordinal session label within 2022, not as an exact legal date. For precise dating, consult the source PDF report.
+- Do not parse the `-{block}` suffix as a day or month component.
+- For chronological sorting, parse as (month, day, block) with block defaulting to 0; `NA` values cannot be ordered and should be handled explicitly.
+- In C2, nested `history[].step` labels name reconstruction stages of that commission's custom pipeline (e.g., `Genesis (02-16)`, `Report 1 (03-02)`, `Consolidation 04-08`); the date inside the label follows the same `MM-DD` convention. In all other commissions, `step` takes the value `Indicacion` (stored without accent by convention).
+
 ## `final_status`
 
 `final_status` is a curatorial endpoint field. It summarizes how a reconstructed article-lineage record relates to the constitutional draft approved by the Convention plenary on 14 May 2022, after considering both the article text and the reconstructed amendment history.
