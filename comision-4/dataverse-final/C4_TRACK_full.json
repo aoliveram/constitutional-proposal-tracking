@@ -17,6 +17,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART1",
+        "article": "Artículo 1",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -103,6 +104,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART2",
+        "article": "Artículo 2",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -141,6 +143,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART3",
+        "article": "Artículo 3",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -303,6 +306,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART4",
+        "article": "Artículo 4",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -345,6 +349,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART5",
+        "article": "Artículo 5",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -385,6 +390,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART6",
+        "article": "Artículo 6",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -426,6 +432,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART7",
+        "article": "Artículo 7",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -547,6 +554,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART8",
+        "article": "Artículo 8",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -584,6 +592,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART9",
+        "article": "Artículo 9",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -620,6 +629,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART10",
+        "article": "Artículo 10",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -638,6 +648,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART11",
+        "article": "Artículo 11",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -684,6 +695,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART12",
+        "article": "Artículo 12",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -835,6 +847,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART13",
+        "article": "Artículo 13",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -874,6 +887,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART14",
+        "article": "Artículo 14",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -939,6 +953,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART15",
+        "article": "Artículo 15",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -974,6 +989,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART16",
+        "article": "Artículo 16",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1017,6 +1033,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART17",
+        "article": "Artículo 17",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1162,6 +1179,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART18",
+        "article": "Artículo 18",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1201,6 +1219,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART19",
+        "article": "Artículo 19",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1238,6 +1257,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART20",
+        "article": "Artículo 20",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -1264,6 +1284,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART21",
+        "article": "Artículo 21",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1307,6 +1328,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART22",
+        "article": "Artículo 22",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -1333,6 +1355,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART23",
+        "article": "Artículo 23",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -1359,6 +1382,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART24",
+        "article": "Artículo 24",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -1385,6 +1409,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART25",
+        "article": "Artículo 25",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -1411,6 +1436,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART26",
+        "article": "Artículo 26",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1449,6 +1475,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART27",
+        "article": "Artículo 27",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1491,6 +1518,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART28",
+        "article": "Artículo 28",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1531,6 +1559,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART29",
+        "article": "Artículo 29",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -1550,6 +1579,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART30",
+        "article": "Artículo 30",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1593,6 +1623,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART31",
+        "article": "Artículo 31",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1865,6 +1896,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART32",
+        "article": "Artículo 32",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -1912,6 +1944,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART33",
+        "article": "Artículo 33",
         "history": [
             {
                 "timestamp": "03-24",
@@ -1985,6 +2018,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART34",
+        "article": "Artículo 34",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2277,6 +2311,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART35",
+        "article": "Artículo 35",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2458,6 +2493,7 @@
         "voting_result": "Sometida a votación se aprobó (26 votos a favor, 7 votos en contra, sin abstenciones).",
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART36",
+        "article": "Artículo 36",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2496,6 +2532,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART37",
+        "article": "Artículo 37",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2542,6 +2579,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART38",
+        "article": "Artículo 38",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2617,6 +2655,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART39",
+        "article": "Artículo 39",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -2639,6 +2678,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART40",
+        "article": "Artículo 40",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2862,6 +2902,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART41",
+        "article": "Artículo 41",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2905,6 +2946,7 @@
         "voting_result": "Sometido a votación del primer inciso se aprobó (23 votos a favor, 8 votos en contra, 0 abstención).",
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART42",
+        "article": "Artículo 42",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -2959,6 +3001,7 @@
         "voting_result": "Sometido a votación del segundo inciso se aprobó (26 votos a favor, 7 votos en contra, sin abstenciones).",
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART43",
+        "article": "Artículo 43",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -2983,6 +3026,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART44",
+        "article": "Artículo 44",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3029,6 +3073,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART45",
+        "article": "Artículo 45",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3075,6 +3120,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART46",
+        "article": "Artículo 46",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -3101,6 +3147,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART47",
+        "article": "Artículo 47",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3164,6 +3211,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART48",
+        "article": "Artículo 48",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -3186,6 +3234,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART49",
+        "article": "Artículo 49",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3396,6 +3445,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART50",
+        "article": "Artículo 50",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3559,6 +3609,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART51",
+        "article": "Artículo 51",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3717,6 +3768,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART52",
+        "article": "Artículo 52",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3826,6 +3878,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART53",
+        "article": "Artículo 53",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3862,6 +3915,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART54",
+        "article": "Artículo 54",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3898,6 +3952,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART55",
+        "article": "Artículo 55",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -3933,6 +3988,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART56",
+        "article": "Artículo 56",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -3954,6 +4010,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART58",
+        "article": "Artículo 58",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4015,6 +4072,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART59",
+        "article": "Artículo 59",
         "final_status": "Idéntico a 258.- Artículo 23"
     },
     {
@@ -4040,6 +4098,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART60",
+        "article": "Artículo 60",
         "final_status": "Idéntico a 259.- Artículo 24"
     },
     {
@@ -4066,6 +4125,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART61",
+        "article": "Artículo 61",
         "final_status": "Idéntico a 260.- Artículo 25"
     },
     {
@@ -4092,6 +4152,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART62",
+        "article": "Artículo 62",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4162,6 +4223,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART63",
+        "article": "Artículo 63",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4234,6 +4296,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART64",
+        "article": "Artículo 64",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -4265,6 +4328,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART65",
+        "article": "Artículo 65",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4355,6 +4419,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART66",
+        "article": "Artículo 66",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4411,6 +4476,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART67",
+        "article": "Artículo 67",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4561,6 +4627,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART68",
+        "article": "Artículo 68",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4707,6 +4774,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART69",
+        "article": "Artículo 69",
         "final_status": "Idéntico a 265.- Artículo 46"
     },
     {
@@ -4726,6 +4794,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART70",
+        "article": "Artículo 70",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4889,6 +4958,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART71",
+        "article": "Artículo 71",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4930,6 +5000,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART72",
+        "article": "Artículo 72",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -4971,6 +5042,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART73",
+        "article": "Artículo 73",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5243,6 +5315,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART74",
+        "article": "Artículo 74",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5302,6 +5375,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART75",
+        "article": "Artículo 75",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5338,6 +5412,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART76",
+        "article": "Artículo 76",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5422,6 +5497,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART77",
+        "article": "Artículo 77",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5495,6 +5571,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART78",
+        "article": "Artículo 78",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5538,6 +5615,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART79",
+        "article": "Artículo 79",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5583,6 +5661,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART80",
+        "article": "Artículo 80",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -5609,6 +5688,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART81",
+        "article": "Artículo 81",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5698,6 +5778,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART82",
+        "article": "Artículo 82",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5747,6 +5828,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART83",
+        "article": "Artículo 83",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -5766,6 +5848,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART84",
+        "article": "Artículo 84",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5802,6 +5885,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART85",
+        "article": "Artículo 85",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5837,6 +5921,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART86",
+        "article": "Artículo 86",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5873,6 +5958,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART87",
+        "article": "Artículo 87",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5907,6 +5993,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART88",
+        "article": "Artículo 88",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5956,6 +6043,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART89",
+        "article": "Artículo 89",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -5993,6 +6081,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART90",
+        "article": "Artículo 90",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6028,6 +6117,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART91",
+        "article": "Artículo 91",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6063,6 +6153,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART92",
+        "article": "Artículo 92",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6099,6 +6190,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART93",
+        "article": "Artículo 93",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6134,6 +6226,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART94",
+        "article": "Artículo 94",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6170,6 +6263,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART95",
+        "article": "Artículo 95",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6206,6 +6300,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART96",
+        "article": "Artículo 96",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6241,6 +6336,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART97",
+        "article": "Artículo 97",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6277,6 +6373,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART98",
+        "article": "Artículo 98",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6313,6 +6410,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART99",
+        "article": "Artículo 99",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6349,6 +6447,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART100",
+        "article": "Artículo 100",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6385,6 +6484,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART101",
+        "article": "Artículo 101",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6421,6 +6521,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART102",
+        "article": "Artículo 102",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6457,6 +6558,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART103",
+        "article": "Artículo 103",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6494,6 +6596,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART104",
+        "article": "Artículo 104",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6530,6 +6633,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART105",
+        "article": "Artículo 105",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6578,6 +6682,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART106",
+        "article": "Artículo 106",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6638,6 +6743,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART107",
+        "article": "Artículo 107",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6684,6 +6790,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART108",
+        "article": "Artículo 108",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6746,6 +6853,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART109",
+        "article": "Artículo 109",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6784,6 +6892,7 @@
         ],
         "timestamp": "03-07-1",
         "article_uid": "C4_GEN_ART110",
+        "article": "Artículo 110",
         "history": [
             {
                 "timestamp": "03-07-2",
@@ -6826,6 +6935,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART1",
+        "article": "Artículo 1",
         "final_status": "ART-FALLIDO"
     },
     {
@@ -6850,6 +6960,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART2",
+        "article": "Artículo 2",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -6924,6 +7035,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART3",
+        "article": "Artículo 3",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7073,6 +7185,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART4",
+        "article": "Artículo 4",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7126,6 +7239,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART5",
+        "article": "Artículo 5",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7159,6 +7273,7 @@
         "voting_result": "Sometido a votación se aprobó (23 votos a favor, 9 en contra y ninguna abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART6",
+        "article": "Artículo 6",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7184,6 +7299,7 @@
         "voting_result": "Sometido a votación se aprobó (17 votos a favor, 14 en contra y 2 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART7",
+        "article": "Artículo 7",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7221,6 +7337,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART8",
+        "article": "Artículo 8",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7264,6 +7381,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART9",
+        "article": "Artículo 9",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7305,6 +7423,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART10",
+        "article": "Artículo 10",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7348,6 +7467,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART11",
+        "article": "Artículo 11",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7488,6 +7608,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART12",
+        "article": "Artículo 12",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7720,6 +7841,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART13",
+        "article": "Artículo 13",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7771,6 +7893,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART14",
+        "article": "Artículo 14",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7825,6 +7948,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART15",
+        "article": "Artículo 15",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -7953,6 +8077,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART16",
+        "article": "Artículo 16",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8071,6 +8196,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART17",
+        "article": "Artículo 17",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8128,6 +8254,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART18",
+        "article": "Artículo 18",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8235,6 +8362,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART19",
+        "article": "Artículo 19",
         "comment": "Rechazado en votación general",
         "final_status": "Eliminado"
     },
@@ -8262,6 +8390,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART20",
+        "article": "Artículo 20",
         "final_status": "Eliminado",
         "comment": "Rechazado en votación general"
     },
@@ -8281,6 +8410,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART21",
+        "article": "Artículo 21",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8312,6 +8442,7 @@
         "voting_result": "Sometida a votación se aprobó (24 votos a favor,5 votos en contra, 3 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART22",
+        "article": "Artículo 22",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8366,6 +8497,7 @@
         "voting_result": "Sometida a votación se aprobó (24 votos a favor,5 votos en contra, 3 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART23",
+        "article": "Artículo 23",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8420,6 +8552,7 @@
         "voting_result": "Sometida a votación se aprobó (24 votos a favor,5 votos en contra, 3 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART24",
+        "article": "Artículo 24",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8535,6 +8668,7 @@
         "voting_result": "Sometido a votación se aprobó (24 votos a favor, 7 votos en contra, 2 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART25",
+        "article": "Artículo 25",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8783,6 +8917,7 @@
         "voting_result": "Sometido a votación se aprobó (24 votos a favor, 7 votos en contra, 2 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART26",
+        "article": "Artículo 26",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -8973,6 +9108,7 @@
         "voting_result": "Sometido a votación se aprobó (24 votos a favor, 7 votos en contra, 2 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART27",
+        "article": "Artículo 27",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9032,6 +9168,7 @@
         "voting_result": "Sometida a votación se aprobó (25 votos a favor, 8 votos en contra, ninguna abstención.).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART28",
+        "article": "Artículo 28",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9183,6 +9320,7 @@
         "voting_result": "Sometido a votación se aprobó (24 votos a favor, 6 votos en contra, 2 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART29",
+        "article": "Artículo 29",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9250,6 +9388,7 @@
         "voting_result": "Sometido a votación se aprobó (17 votos a favor, 13 votos en contra, 3 abstenciones)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART30",
+        "article": "Artículo 30",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9518,6 +9657,7 @@
         "voting_result": "Sometido a votación se aprobó (17 votos a favor, 13 votos en contra, 3 abstenciones)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART31",
+        "article": "Artículo 31",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9569,6 +9709,7 @@
         "voting_result": "Sometido a votación se aprobó (17 votos a favor, 14 votos en contra, 2 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART32",
+        "article": "Artículo 32",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9613,6 +9754,7 @@
         "voting_result": "Sometido a votación se aprobó (26 votos a favor, 7 votos en contra, 0 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART33",
+        "article": "Artículo 33",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -9673,6 +9815,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART34",
+        "article": "Artículo 34",
         "history": [
             {
                 "timestamp": "05-05",
@@ -9698,6 +9841,7 @@
         "voting_result": "Sometida a votación se aprobó (25 votos a favor, 7 en contra y ninguna abstención)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART35",
+        "article": "Artículo 35",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10059,6 +10203,7 @@
         "voting_result": "Sometida a votación se aprobó (16 votos a favor, 12 en contra y 3 abstenciones)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART36",
+        "article": "Artículo 36",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10107,6 +10252,7 @@
         "voting_result": "Sometido a votación se aprobó (19 votos a favor, 12 votos en contra y 2 abstenciones)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART37",
+        "article": "Artículo 37",
         "final_status": "Eliminado",
         "comment": "Rechazado en votación general"
     },
@@ -10116,6 +10262,7 @@
         "voting_result": "Sometido a votación se aprobó (17 votos a favor, 14 votos en contra y 1 abstención)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART38",
+        "article": "Artículo 38",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10141,6 +10288,7 @@
         "voting_result": "Sometido a votación se aprobó (23 votos a favor, 9 en contra y ninguna abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART39",
+        "article": "Artículo 39",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10181,6 +10329,7 @@
         "voting_result": "Sometido a votación se aprobó (23 votos a favor, 9 en contra y ninguna abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART40",
+        "article": "Artículo 40",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10326,6 +10475,7 @@
         "voting_result": "Sometido a votación se aprobó (23 votos a favor, 9 en contra y ninguna abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART41",
+        "article": "Artículo 41",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10366,6 +10516,7 @@
         "voting_result": "Sometido a votación se aprobó (23 votos a favor, 9 en contra y ninguna abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART42",
+        "article": "Artículo 42",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10458,6 +10609,7 @@
         "voting_result": "Sometido a votación se aprobó (23 votos a favor, 9 en contra y ninguna abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART43",
+        "article": "Artículo 43",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10585,6 +10737,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART44",
+        "article": "Artículo 44",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10679,6 +10832,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART45",
+        "article": "Artículo 45",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10720,6 +10874,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART46",
+        "article": "Artículo 46",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10761,6 +10916,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART47",
+        "article": "Artículo 47",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10802,6 +10958,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART48",
+        "article": "Artículo 48",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10836,6 +10993,7 @@
         "voting_result": "Sometido a votación se aprobó (17 votos a favor, 13 en contra y 2 abstenciones)",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART49",
+        "article": "Artículo 49",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10870,6 +11028,7 @@
         "voting_result": "Sometido a votación se aprobó (21 votos a favor, 8 en contra y 3 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART50",
+        "article": "Artículo 50",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10899,6 +11058,7 @@
         "voting_result": "Sometido a votación se aprobó (21 votos a favor, 8 en contra y 3 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART51",
+        "article": "Artículo 51",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10927,6 +11087,7 @@
         "voting_result": "Sometido a votación se aprobó (21 votos a favor, 8 en contra y 3 abstenciones).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART52",
+        "article": "Artículo 52",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -10966,6 +11127,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART53",
+        "article": "Artículo 53",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -11005,6 +11167,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART54",
+        "article": "Artículo 54",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -11045,6 +11208,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART55",
+        "article": "Artículo 55",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -11083,6 +11247,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART56",
+        "article": "Artículo 56",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -11121,6 +11286,7 @@
         ],
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART57",
+        "article": "Artículo 57",
         "history": [
             {
                 "timestamp": "04-08-2",
@@ -11147,6 +11313,7 @@
         "voting_result": "Sometida en votación el resto del articulado se aprobó (20 votos a favor, 12 votos en contra, 1 abstención).",
         "timestamp": "04-08-1",
         "article_uid": "C4_GEN3_ART58",
+        "article": "Artículo 58",
         "history": [
             {
                 "timestamp": "04-08-2",
