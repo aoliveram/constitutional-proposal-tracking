@@ -1,0 +1,997 @@
+icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_matched,archivo_json
+1,10/noviembre/2021,2021-11-10,,4,"Vega, Roberto",10,api_extracted_1_99_corrected_4.json
+2,25/noviembre/2021,2021-11-25,,4,"Sepulveda, Barbara",16,api_extracted_1_99_corrected_4.json
+3,30/noviembre/2021,2021-11-30,,5,"Miranda, Valentina",9,api_extracted_1_99_corrected_4.json
+4,01/diciembre/2021,2021-12-01,,1,"Arrau, Martin",16,api_extracted_1_99_corrected_4.json
+5,02/diciembre/2021,2021-12-02,,2,"Hurtado, Ruth",16,api_extracted_1_99_corrected_4.json
+6,07/diciembre/2021,2021-12-07,,4,"Rebolledo, Barbara",10,api_extracted_1_99_corrected_4.json
+7,08/diciembre/2021,2021-12-08,,2,"Barcelo, Luis",8,api_extracted_1_99_corrected_4.json
+8,09/diciembre/2021,2021-12-09,,4,"Dorador, Cristina",42,api_extracted_1_99_corrected_4.json
+9,10/diciembre/2021,2021-12-10,,2,"Achurra, Ignacio",20,api_extracted_1_99_corrected_4.json
+10,17/diciembre/2021,2021-12-17,,5,"Dorador, Cristina",15,api_extracted_1_99_corrected_4.json
+11,20/Diciembre/2021,2021-12-20,,4,"Quinteros, Maria Elisa",8,api_extracted_1_99_corrected_4.json
+12,20/diciembre/2021,2021-12-20,,4,"Pustilnick, Tammy",13,api_extracted_1_99_corrected_4.json
+13,20/diciembre/2021,2021-12-20,,4,"Rivera, Maria Magdalena",8,api_extracted_1_99_corrected_4.json
+14,20/diciembre/2021,2021-12-20,,4,"Delgado, Aurora",10,api_extracted_1_99_corrected_4.json
+15,20/diciembre/2021,2021-12-20,,4,"Celedon, Roberto",8,api_extracted_1_99_corrected_4.json
+16,20/Diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+17,20/diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+18,20/diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+19,20/diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+20,20/diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+21,20/diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+22,20/diciembre/2021,2021-12-20,,6,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+23,20/diciembre/2021,2021-12-20,,4,"Mamani, Isabella",9,api_extracted_1_99_corrected_4.json
+24,17/diciembre/2021,2021-12-17,,7,Cristina Dorador,20,api_extracted_1_99_corrected_4.json
+25,22/diciembre/2021,2021-12-22,,6,"Bown, Carol",8,api_extracted_1_99_corrected_4.json
+26,22/diciembre/2021,2021-12-22,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+27,22/diciembre/2021,2021-12-22,,4,"Cancino, Adriana",16,api_extracted_1_99_corrected_4.json
+28,22/diciembre/2021,2021-12-22,,4,"Delgado, Aurora",32,api_extracted_1_99_corrected_4.json
+29,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+30,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+31,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+32,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+33,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+34,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+35,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+36,23/diciembre/2021,2021-12-23,,3,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+37,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+38,23/diciembre/2021,2021-12-23,,2,"Arrau, Martin",8,api_extracted_1_99_corrected_4.json
+39,23/diciembre/2021,2021-12-23,,2,"Vergara, Lisette",13,api_extracted_1_99_corrected_4.json
+40,23/diciembre/2021,2021-12-23,,2,"Vergara, Lisette",28,api_extracted_1_99_corrected_4.json
+41,24/diciembre/2021,2021-12-24,,6,"Daza, Mauricio",16,api_extracted_1_99_corrected_4.json
+42,27/diciembre/2021,2021-12-27,,1,"Rivera, Pollyana",8,api_extracted_1_99_corrected_4.json
+43,27/diciembre/2021,2021-12-27,,3,"Pustilnick, Tammy",14,api_extracted_1_99_corrected_4.json
+44,24/diciembre/2021,2021-12-24,,2,"Castro, Claudia",10,api_extracted_1_99_corrected_4.json
+45,24/diciembre/2021,2021-12-24,,1,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+46,24/diciembre/2021,2021-12-24,,1,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+47,24/diciembre/2021,2021-12-24,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+48,24/diciembre/2021,2021-12-24,,4,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+49,24/diciembre/2021,2021-12-24,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+50,24/diciembre/2021,2021-12-24,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+51,27/diciembre/2021,2021-12-27,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+52,27/diciembre/2021,2021-12-27,,2,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+53,23/diciembre/2021,2021-12-23,,6,"Arrau, Martin",9,api_extracted_1_99_corrected_4.json
+54,27/diciembre/2021,2021-12-27,,2,"Saldana, Alvin",16,api_extracted_1_99_corrected_4.json
+55,27/diciembre/2021,2021-12-27,,2,"Saldana, Alvin",16,api_extracted_1_99_corrected_4.json
+56,27/diciembre/2021,2021-12-27,,5,"Saldana, Alvin",16,api_extracted_1_99_corrected_4.json
+57,27/diciembre/2021,2021-12-27,,2,"Vergara, Lisette",15,api_extracted_1_99_corrected_4.json
+58,27/diciembre/2021,2021-12-27,,2,"Vallejos, Loreto",12,api_extracted_1_99_corrected_4.json
+59,27/diciembre/2021,2021-12-27,,2,"Portilla, Ericka",11,api_extracted_1_99_corrected_4.json
+60,27/diciembre/2021,2021-12-27,,2,"Alvarez, Julio",16,api_extracted_1_99_corrected_4.json
+61,27/diciembre/2021,2021-12-27,,2,"Cretton, Eduardo",12,api_extracted_1_99_corrected_4.json
+62,27/diciembre/2021,2021-12-27,,5,"Cretton, Eduardo",8,api_extracted_1_99_corrected_4.json
+63,27/diciembre/2021,2021-12-27,,2,"Cretton, Eduardo",16,api_extracted_1_99_corrected_4.json
+64,27/diciembre/2021,2021-12-27,,2,,12,api_extracted_1_99_corrected_4.json
+65,27/diciembre/2021,2021-12-27,,2,"Cretton, Eduardo",16,api_extracted_1_99_corrected_4.json
+66,27/diciembre/2021,2021-12-27,,2,"Cretton, Eduardo",11,api_extracted_1_99_corrected_4.json
+67,27/diciembre/2021,2021-12-27,,2,"Monckeberg, Cristian",8,api_extracted_1_99_corrected_4.json
+68,27/diciembre/2021,2021-12-27,,4,"Monckeberg, Cristian",8,api_extracted_1_99_corrected_4.json
+69,27/diciembre/2021,2021-12-27,,2,"Silva, Luciano",8,api_extracted_1_99_corrected_4.json
+70,27/diciembre/2021,2021-12-27,,2,"Veloso, Paulina",9,api_extracted_1_99_corrected_4.json
+71,27/diciembre/2021,2021-12-27,,2,"Oyarzun, Maria Jose",16,api_extracted_1_99_corrected_4.json
+72,28/diciembre/2021,2021-12-28,,2,"Loncon, Elisa",14,api_extracted_1_99_corrected_4.json
+73,28/diciembre/2021,2021-12-28,,4,"Ossandon, Manuel",8,api_extracted_1_99_corrected_4.json
+74,28/diciembre/2021,2021-12-28,,5,"Llanquileo, Natividad",16,api_extracted_1_99_corrected_4.json
+75,28/diciembre/2021,2021-12-28,,3,"Jurgensen, Harry",15,api_extracted_1_99_corrected_4.json
+76,28/diciembre/2021,2021-12-28,,6,"Jurgensen, Harry",14,api_extracted_1_99_corrected_4.json
+77,28/diciembre/2021,2021-12-28,,6,"Jurgensen, Harry",8,api_extracted_1_99_corrected_4.json
+78,28/diciembre/2021,2021-12-28,,5,"Nunez, Nicolas",13,api_extracted_1_99_corrected_4.json
+79,28/diciembre/2021,2021-12-28,,2,"Caiguan, Alexis",10,api_extracted_1_99_corrected_4.json
+80,28/diciembre/2021,2021-12-28,,2,"Cespedes, Lorena",9,api_extracted_1_99_corrected_4.json
+81,28/diciembre/2021,2021-12-28,,1,"Arrau, Martin",8,api_extracted_1_99_corrected_4.json
+82,28/diciembre/2021,2021-12-28,,1,"Arrau, Martin",8,api_extracted_1_99_corrected_4.json
+83,28/diciembre/2021,2021-12-28,,1,"Arrau, Martin",8,api_extracted_1_99_corrected_4.json
+84,27/diciembre/2021,2021-12-27,,2,"Arrau, Martin",16,api_extracted_1_99_corrected_4.json
+85,27/diciembre/2021,2021-12-27,,3,"Arrau, Martin",16,api_extracted_1_99_corrected_4.json
+86,27/diciembre/2021,2021-12-27,,2,"Bown, Carol",8,api_extracted_1_99_corrected_4.json
+87,29/diciembre/2021,2021-12-29,,7,"Vidal, Rossana",16,api_extracted_1_99_corrected_4.json
+88,29/diciembre/2021,2021-12-29,,6,"Viera, Christian",14,api_extracted_1_99_corrected_4.json
+89,29/diciembre/2021,2021-12-29,,6,"Viera, Christian",16,api_extracted_1_99_corrected_4.json
+90,29/diciembre/2021,2021-12-29,,6,"Laibe, Tomas",16,api_extracted_1_99_corrected_4.json
+91,30/diciembre/2021,2021-12-30,,3,"Bacian, Wilfredo",15,api_extracted_1_99_corrected_4.json
+92,31/diciembre/2021,2021-12-31,,7,"Caamano, Francisco",13,api_extracted_1_99_corrected_4.json
+93,03/enero/2022,2022-01-03,,7,"Caamano, Francisco",16,api_extracted_1_99_corrected_4.json
+94,30/diciembre/2021,2021-12-30,,1,"Catrileo, Rosa",21,api_extracted_1_99_corrected_4.json
+95,31/diciembre/2021,2021-12-31,,6,"Daza, Mauricio",16,api_extracted_1_99_corrected_4.json
+96,03/enero/2022,2022-01-03,,6,"Harboe, Felipe",10,api_extracted_1_99_corrected_4.json
+97,03/enero/2022,2022-01-03,,6,"Bravo, Daniel",14,api_extracted_1_99_corrected_4.json
+98,03/enero/2022,2022-01-03,,6,"Cozzi, Ruggero",10,api_extracted_1_99_corrected_4.json
+99,04/enero/2022,2022-01-04,,3,"Pustilnick, Tammy",16,api_extracted_1_99_corrected_4.json
+100,04/enero/2022,2022-01-04,,7,"Caamano, Francisco",16,api_extracted_100_199_corrected_4.json
+101,30/diciembre/2021,2021-12-30,,4,"Montealegre, Katerine",8,api_extracted_100_199_corrected_4.json
+102,31/diciembre/2021,2021-12-31,,4,"Montealegre, Katerine",8,api_extracted_100_199_corrected_4.json
+103,31/diciembre/2021,2021-12-31,,4,"Montealegre, Katerine",8,api_extracted_100_199_corrected_4.json
+104,31/diciembre/2021,2021-12-31,,4,"Montealegre, Katerine",8,api_extracted_100_199_corrected_4.json
+105,06/enero/2022,2022-01-06,,7,"Botto, Miguel Angel",12,api_extracted_100_199_corrected_4.json
+106,06/enero/2021,2022-01-06,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,7,"Caiguan, Alexis",16,api_extracted_100_199_corrected_4.json
+107,06/enero/2022,2022-01-06,,4,"Grandon, Giovanna",15,api_extracted_100_199_corrected_4.json
+108,06/enero/2022,2022-01-06,,4,"Grandon, Giovanna",13,api_extracted_100_199_corrected_4.json
+109,06/enero/2022,2022-01-06,,4,"Navarrete, Geoconda",9,api_extracted_100_199_corrected_4.json
+110,06/enero/2022,2022-01-06,,4,"Grandon, Giovanna",12,api_extracted_100_199_corrected_4.json
+111,06/enero/2022,2022-01-06,,1,"Arancibia, Jorge",13,api_extracted_100_199_corrected_4.json
+112,07/enero/2022,2022-01-07,,2,"Labrana, Elsa",18,api_extracted_100_199_corrected_4.json
+113,07/enero/2022,2022-01-07,,5,"Labrana, Elsa",14,api_extracted_100_199_corrected_4.json
+114,07/enero/2022,2022-01-07,,4,"Castillo, Eduardo",9,api_extracted_100_199_corrected_4.json
+115,07/enero/2022,2022-01-07,,5,"Caamano, Francisco",16,api_extracted_100_199_corrected_4.json
+116,07/Enero/2022,2022-01-07,,2,"Carrillo, Alondra",16,api_extracted_100_199_corrected_4.json
+117,10/enero/2022,2022-01-10,,3,"Labbe, Bastian",8,api_extracted_100_199_corrected_4.json
+118,10/enero/2022,2022-01-10,,3,"Andrade, Cristobal",10,api_extracted_100_199_corrected_4.json
+119,10/enero/2022,2022-01-10,,3,"Pustilnick, Tammy",14,api_extracted_100_199_corrected_4.json
+120,10/enero/2022,2022-01-10,,3,"Pustilnick, Tammy",16,api_extracted_100_199_corrected_4.json
+122,10/enero/2022,2022-01-10,,3,"Mella, Jeniffer",13,api_extracted_100_199_corrected_4.json
+123,11/Enero/2022,2022-01-11,,2,"Vilches, Carolina",9,api_extracted_100_199_corrected_4.json
+124,10/enero/2022,2022-01-10,,4,"Fontaine, Bernardo",16,api_extracted_100_199_corrected_4.json
+125,10/enero/2022,2022-01-10,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+126,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",14,api_extracted_100_199_corrected_4.json
+127,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+128,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",15,api_extracted_100_199_corrected_4.json
+129,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",14,api_extracted_100_199_corrected_4.json
+130,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+131,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+132,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+133,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+134,10/enero/2022,2022-01-10,,5,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+135,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",12,api_extracted_100_199_corrected_4.json
+136,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+137,10/enero/2022,2022-01-10,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+138,10/enero/2022,2022-01-10,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+139,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+140,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+141,10/enero/2022,2022-01-10,,4,"Arrau, Martin",15,api_extracted_100_199_corrected_4.json
+142,10/enero/2022,2022-01-10,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+143,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+144,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+145,10/enero/2022,2022-01-10,,4,"Ossandon, Manuel",9,api_extracted_100_199_corrected_4.json
+146,10/enero/2022,2022-01-10,,4,"Ossandon, Manuel",9,api_extracted_100_199_corrected_4.json
+147,10/enero/2022,2022-01-10,,4,"Ossandon, Manuel",9,api_extracted_100_199_corrected_4.json
+148,10/enero/2022,2022-01-10,,4,"Ossandon, Manuel",9,api_extracted_100_199_corrected_4.json
+149,07/enero/2021,2022-01-07,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,7,"Tepper, Maria Angelica",12,api_extracted_100_199_corrected_4.json
+150,10/enero/2022,2022-01-10,,7,"Tepper, Angelica",14,api_extracted_100_199_corrected_4.json
+151,10/enero/2022,2022-01-10,,3,"Jofre, Alvaro",18,api_extracted_100_199_corrected_4.json
+152,10/enero/2022,2022-01-10,,4,"Fontaine, Bernardo",16,api_extracted_100_199_corrected_4.json
+154,11/enero/2022,2022-01-11,,3,"Jofre, Alvaro",21,api_extracted_100_199_corrected_4.json
+156,11/enero/2022,2022-01-11,,6,"Woldarsky, Manuel",14,api_extracted_100_199_corrected_4.json
+157,11/enero/2022,2022-01-11,,3,"Alvarez, Julio",16,api_extracted_100_199_corrected_4.json
+158,11/enero/2022,2022-01-11,,7,"Arrau, Martin",9,api_extracted_100_199_corrected_4.json
+159,10/enero/2022,2022-01-10,,3,"Mella, Jeniffer",13,api_extracted_100_199_corrected_4.json
+160,12/enero/2022,2022-01-12,,4,"Miranda, Valentina",8,api_extracted_100_199_corrected_4.json
+161,12/enero/2022,2022-01-12,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+162,12/enero/2022,2022-01-12,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+163,12/enero/2022,2022-01-12,,3,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+164,12/enero/2022,2022-01-12,,4,"Arancibia, Jorge",11,api_extracted_100_199_corrected_4.json
+165,12/enero/2022,2022-01-12,,1,"Chahín, Fuad",10,api_extracted_100_199_corrected_4.json
+166,12/enero/2022,2022-01-12,,4,"Chahin, Fuad",9,api_extracted_100_199_corrected_4.json
+167,13/enero/2022,2022-01-13,,1,"Sepulveda, Barbara",15,api_extracted_100_199_corrected_4.json
+168,13/enero/2022,2022-01-13,,1,"Jurgensen, Harry",11,api_extracted_100_199_corrected_4.json
+169,13/enero/2022,2022-01-13,,1,"Cubillos, Marcela",16,api_extracted_100_199_corrected_4.json
+170,14/enero/2022,2022-01-14,,2,"Cubillos, Marcela",16,api_extracted_100_199_corrected_4.json
+171,14/diciembre/2022,2022-01-14,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Chahin, Fuad",10,api_extracted_100_199_corrected_4.json
+172,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+173,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+174,14/enero/2022,2022-01-14,,1,"Alvarez, Rodrigo",14,api_extracted_100_199_corrected_4.json
+175,14/enero/2022,2022-01-14,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+176,14/enero/2022,2022-01-14,,2,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+177,14/enero/2022,2022-01-14,,5,"Cubillos, Marcela",15,api_extracted_100_199_corrected_4.json
+178,14/enero/2022,2022-01-14,,5,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+179,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+180,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+181,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",15,api_extracted_100_199_corrected_4.json
+182,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
+183,14/enero/2022,2022-01-14,,2,,15,api_extracted_100_199_corrected_4.json
+184,14/enero/2022,2022-01-14,,6,"Alvarez, Rodrigo",14,api_extracted_100_199_corrected_4.json
+185,14/enero/2022,2022-01-14,,7,"Pinto, Malucha",8,api_extracted_100_199_corrected_4.json
+186,14/enero/2022,2022-01-14,,7,"Achurra, Ignacio",18,api_extracted_100_199_corrected_4.json
+187,14/enero/2022,2022-01-14,,7,"Achurra, Ignacio",17,api_extracted_100_199_corrected_4.json
+188,14/enero/2022,2022-01-14,,7,"Achurra, Ignacio",15,api_extracted_100_199_corrected_4.json
+189,14/enero/2022,2022-01-14,,7,"Achurra, Ignacio",10,api_extracted_100_199_corrected_4.json
+190,14/enero/2022,2022-01-14,,2,"Llanquileo, Natividad",9,api_extracted_100_199_corrected_4.json
+191,14/enero/2022,2022-01-14,,2,"Arrau, Martin",9,api_extracted_100_199_corrected_4.json
+192,14/enero/2022,2022-01-14,,1,"Montero, Ricardo",17,api_extracted_100_199_corrected_4.json
+193,14/enero/2022,2022-01-14,,1,"Montero, Ricardo",16,api_extracted_100_199_corrected_4.json
+194,14/enero/2022,2022-01-14,,1,"Uribe, Cesar",10,api_extracted_100_199_corrected_4.json
+195,14/enero/2022,2022-01-14,,7,"Pinto, Malucha",8,api_extracted_100_199_corrected_4.json
+196,14/enero/2022,2022-01-14,,2,"Arellano, Marco",11,api_extracted_100_199_corrected_4.json
+197,14/enero/2022,2022-01-14,,3,,8,api_extracted_100_199_corrected_4.json
+198,14/enero/2022,2022-01-14,,6,"Villena, Ingrid",12,api_extracted_100_199_corrected_4.json
+199,14/enero/2022,2022-01-14,,4,"Harboe, Felipe",13,api_extracted_100_199_corrected_4.json
+200,14/enero/2022,2022-01-14,,3,"Harboe, Felipe",9,api_extracted_200_299_corrected_4.json
+201,14/enero/2022,2022-01-14,,6,"Harboe, Felipe",8,api_extracted_200_299_corrected_4.json
+202,14/enero/2022,2022-01-14,,6,"Villena, Ingrid",16,api_extracted_200_299_corrected_4.json
+204,14/enero/2022,2022-01-14,,1,"Arrau, Martin",9,api_extracted_200_299_corrected_4.json
+205,14/enero/2022,2022-01-14,,6,"Arrau, Martin",11,api_extracted_200_299_corrected_4.json
+206,14/enero/2022,2022-01-14,,1,"Grandon, Giovanna",13,api_extracted_200_299_corrected_4.json
+207,14/enero/2022,2022-01-14,,5,"Jurgensen, Harry",15,api_extracted_200_299_corrected_4.json
+208,14/enero/2022,2022-01-14,,4,"Arrau, Martin",11,api_extracted_200_299_corrected_4.json
+209,14/enero/2022,2022-01-14,,1,"Arellano, Marco",13,api_extracted_200_299_corrected_4.json
+210,14/enero/2022,2022-01-14,,2,"Monckeberg, Cristian",9,api_extracted_200_299_corrected_4.json
+211,14/enero/2022,2022-01-14,,1,"Monckeberg, Cristian",9,api_extracted_200_299_corrected_4.json
+212,14/enero/2022,2022-01-14,,7,"Achurra, Ignacio",12,api_extracted_200_299_corrected_4.json
+213,14/enero/2022,2022-01-14,,1,"Bassa, Jaime",16,api_extracted_200_299_corrected_4.json
+214,14/enero/2022,2022-01-14,,1,"Catrileo, Rosa",11,api_extracted_200_299_corrected_4.json
+215,14/diciembre/2022,2022-01-14,imputada: iniciativas vecinas por número tienen esta misma fecha,1,"Catrileo, Rosa",11,api_extracted_200_299_corrected_4.json
+216,14/enero/2022,2022-01-14,,1,"Catrileo, Rosa",8,api_extracted_200_299_corrected_4.json
+217,14/enero/2022,2022-01-14,,1,"Catrileo, Rosa",8,api_extracted_200_299_corrected_4.json
+218,14/enero/2022,2022-01-14,,1,"Catrileo, Rosa",8,api_extracted_200_299_corrected_4.json
+219,14/enero/2022,2022-01-14,,1,"Catrileo, Rosa",8,api_extracted_200_299_corrected_4.json
+220,14/diciembre/2022,2022-01-14,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Bravo, Daniel",15,api_extracted_200_299_corrected_4.json
+221,,2022-01-14,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Reyes, Maria Ramona",16,api_extracted_200_299_corrected_4.json
+222,14/enero/2022,2022-01-14,,7,"Calvo, Carlos",10,api_extracted_200_299_corrected_4.json
+223,,2022-01-14,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Andrade, Cristobal",14,api_extracted_200_299_corrected_4.json
+224,14/enero/2022,2022-01-14,,1,"Bassa, Jaime",9,api_extracted_200_299_corrected_4.json
+225,14/enero/2022,2022-01-14,,1,"Bassa, Jaime",10,api_extracted_200_299_corrected_4.json
+226,14/enero/2022,2022-01-14,,6,"Royo, Manuela",12,api_extracted_200_299_corrected_4.json
+227,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Carrillo, Alondra",11,api_extracted_200_299_corrected_4.json
+228,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Carrillo, Alondra",11,api_extracted_200_299_corrected_4.json
+229,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Carrillo, Alondra",11,api_extracted_200_299_corrected_4.json
+230,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Carrillo, Alondra",14,api_extracted_200_299_corrected_4.json
+231,14/Enero/2022,2022-01-14,,6,"Cozzi, Ruggero",10,api_extracted_200_299_corrected_4.json
+232,03/Noviembre/2021,2021-11-03,,6,"Arellano, Marco",9,api_extracted_200_299_corrected_4.json
+233,01/Febrero/2022,2022-02-01,,6,"Cozzi, Ruggero",10,api_extracted_200_299_corrected_4.json
+234,14/enero/2022,2022-01-14,,1,"Bassa, Jaime",13,api_extracted_200_299_corrected_4.json
+235,14/enero/2022,2022-01-14,,,"Hoppe, Vanessa",9,api_extracted_200_299_corrected_4.json
+236,14/Enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Barraza, Marcos",9,api_extracted_200_299_corrected_4.json
+237,14/Enero/2022,2022-01-14,,1,"Madriaga, Tania",9,api_extracted_200_299_corrected_4.json
+238,14/Enero/2022,2022-01-14,,1,"Madriaga, Tania",9,api_extracted_200_299_corrected_4.json
+239,14/Enero/2022,2022-01-14,,1,"Madriaga, Tania",9,api_extracted_200_299_corrected_4.json
+240,14/Enero/2022,2022-01-14,,1,"Madriaga, Tania",9,api_extracted_200_299_corrected_4.json
+241,14/Enero/2022,2022-01-14,,1,"Flores, Alejandra",11,api_extracted_200_299_corrected_4.json
+242,14/enero/2022,2022-01-14,,6,"Hoppe, Vanessa",17,api_extracted_200_299_corrected_4.json
+243,16/enero/2022,2022-01-16,,4,"Labrana, Elsa",9,api_extracted_200_299_corrected_4.json
+244,16/enero/2022,2022-01-16,,4,"Labrana, Elsa",10,api_extracted_200_299_corrected_4.json
+245,14/enero/2022,2022-01-14,,7,"Caiguan, Alexis",11,api_extracted_200_299_corrected_4.json
+246,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",11,api_extracted_200_299_corrected_4.json
+247,17/diciembre/2021,2021-12-17,,4,"Grandon, Giovanna",9,api_extracted_200_299_corrected_4.json
+248,17/diciembre/2021,2021-12-17,,4,"Grandon, Giovanna",9,api_extracted_200_299_corrected_4.json
+249,17/diciembre/2021,2021-12-17,,,"Grandon, Giovanna",9,api_extracted_200_299_corrected_4.json
+251,,,,4,"Fernandez, Patricio",16,api_extracted_200_299_corrected_4.json
+252,16/enero/2022,2022-01-16,,4,"Urrutia, Tatiana",8,api_extracted_200_299_corrected_4.json
+253,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",10,api_extracted_200_299_corrected_4.json
+254,14/enero/2022,2022-01-14,,7,"Dorador, Cristina",9,api_extracted_200_299_corrected_4.json
+255,14/enero/2022,2022-01-14,,7,"Dorador, Cristina",8,api_extracted_200_299_corrected_4.json
+256,20/Diciembre/2021,2021-12-20,,4,"Labrana, Elsa",52,api_extracted_200_299_corrected_4.json
+257,15/enero/2022,2022-01-15,,4,"Rivera, Maria Magdalena",13,api_extracted_200_299_corrected_4.json
+258,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+259,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+260,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+261,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+262,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+263,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+264,16/enero/2022,2022-01-16,,4,"Meneses, Janis",8,api_extracted_200_299_corrected_4.json
+265,16/enero/2022,2022-01-16,,4,"Meneses, Janis",10,api_extracted_200_299_corrected_4.json
+266,16/enero/2022,2022-01-16,,4,"Meneses, Janis",11,api_extracted_200_299_corrected_4.json
+267,16/enero/2022,2022-01-16,,4,"Meneses, Janis",8,api_extracted_200_299_corrected_4.json
+268,06/enero/2022,2022-01-06,,3,"Mena, Felipe",25,api_extracted_200_299_corrected_4.json
+269,10/enero/2022,2022-01-10,,3,"Mena, Felipe",21,api_extracted_200_299_corrected_4.json
+270,13/enero/2022,2022-01-13,,4,"Olivares, Ivanna",9,api_extracted_200_299_corrected_4.json
+271,16/enero/2022,2022-01-16,,4,"Henriquez, Natalia",16,api_extracted_200_299_corrected_4.json
+272,16/enero/2022,2022-01-16,,4,"Henriquez, Natalia",21,api_extracted_200_299_corrected_4.json
+273,16/enero/2022,2022-01-16,,4,"Henriquez, Natalia",15,api_extracted_200_299_corrected_4.json
+274,16/enero/2022,2022-01-16,,4,"Henriquez, Natalia",21,api_extracted_200_299_corrected_4.json
+275,14/enero/2022,2022-01-14,,2,"Vidal, Rossana",15,api_extracted_200_299_corrected_4.json
+276,,,,,"Jurgensen, Harry",15,api_extracted_200_299_corrected_4.json
+277,15/enero/2022,2022-01-15,,2,"Olivares, Ivanna",11,api_extracted_200_299_corrected_4.json
+278,17/Enero/2022,2022-01-17,,,"Munoz, Pedro",17,api_extracted_200_299_corrected_4.json
+279,17/diciembre/2021,2021-12-17,,4,"Grandon, Giovanna",11,api_extracted_200_299_corrected_4.json
+280,16/enero/2022,2022-01-16,,4,"Olivares, Ivanna",15,api_extracted_200_299_corrected_4.json
+281,17/enero/2022,2022-01-17,,4,"Olivares, Ivanna",8,api_extracted_200_299_corrected_4.json
+282,10/enero/2022,2022-01-10,,2,"Vilches, Carolina",9,api_extracted_200_299_corrected_4.json
+283,17/enero/2022,2022-01-17,,4,"Olivares, Ivanna",8,api_extracted_200_299_corrected_4.json
+284,17/enero/2022,2022-01-17,,4,"Olivares, Ivanna",8,api_extracted_200_299_corrected_4.json
+285,16/enero/2022,2022-01-16,,4,"Olivares, Ivanna",15,api_extracted_200_299_corrected_4.json
+286,14/Enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",9,api_extracted_200_299_corrected_4.json
+287,17/Enero/2022,2022-01-17,,4,"Baranda, Benito",11,api_extracted_200_299_corrected_4.json
+288,17/enero/2021,2022-01-17,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Hube, Constanza",16,api_extracted_200_299_corrected_4.json
+289,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Catrileo, Rosa",11,api_extracted_200_299_corrected_4.json
+290,16/enero/2022,2022-01-16,,4,"Urrutia, Tatiana",9,api_extracted_200_299_corrected_4.json
+291,16/enero/2022,2022-01-16,,,"Urrutia, Tatiana",10,api_extracted_200_299_corrected_4.json
+292,16/enero/2022,2022-01-16,,,"Urrutia, Tatiana",10,api_extracted_200_299_corrected_4.json
+293,16/enero/2022,2022-01-16,,4,"Urrutia, Tatiana",12,api_extracted_200_299_corrected_4.json
+294,17/Enero/2022,2022-01-17,,4,,16,api_extracted_200_299_corrected_4.json
+295,17/enero/2022,2022-01-17,,7,"Neumann, Ricardo",16,api_extracted_200_299_corrected_4.json
+296,17/Enero/2022,2022-01-17,,4,"Woldarsky, Manuel",15,api_extracted_200_299_corrected_4.json
+297,,2022-01-17,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Woldarsky, Manuel",10,api_extracted_200_299_corrected_4.json
+298,17/enero/2022,2022-01-17,,7,"Videla, Carolina",11,api_extracted_200_299_corrected_4.json
+299,17/enero/2022,2022-01-17,,4,"Bassa, Jaime",14,api_extracted_200_299_corrected_4.json
+300,17/Enero/2022,2022-01-17,,7,"Caamano, Francisco",14,api_extracted_300_399_corrected_4.json
+301,18/enero/2022,2022-01-18,,4,"Cantuarias, Rocio",15,api_extracted_300_399_corrected_4.json
+302,18/Enero/2022,2022-01-18,,2,"Chahin, Fuad",8,api_extracted_300_399_corrected_4.json
+303,18/Enero/2022,2022-01-18,,4,"Valenzuela, Cesar",17,api_extracted_300_399_corrected_4.json
+304,,2022-01-18,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Miranda, Valentina",8,api_extracted_300_399_corrected_4.json
+306,18/Enero/2022,2022-01-18,,5,"Alvarado, Gloria",8,api_extracted_300_399_corrected_4.json
+307,18/enero/2021,2022-01-18,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Rebolledo, Barbara",14,api_extracted_300_399_corrected_4.json
+308,18/Enero/2022,2022-01-18,,2,"Chahin, Fuad",8,api_extracted_300_399_corrected_4.json
+310,18/enero/2022,2022-01-18,,,"Videla, Carolina",15,api_extracted_300_399_corrected_4.json
+314,18/Ene/2022,2022-01-18,,5,"Botto, Miguel Angel",10,api_extracted_300_399_corrected_4.json
+315,18/Enero/2022,2022-01-18,,5,"Godoy, Isabel",24,api_extracted_300_399_corrected_4.json
+316, de enero de 2022,2022-01-18,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Vega, Roberto",13,api_extracted_300_399_corrected_4.json
+317,18/Enero/2022,2022-01-18,,,"Monckeberg, Cristian",12,api_extracted_300_399_corrected_4.json
+318,18/Enero/2022,2022-01-18,,,"Monckeberg, Cristian",7,api_extracted_300_399_corrected_4.json
+319,18/Ene/2022,2022-01-18,,6,"Daza, Mauricio",13,api_extracted_300_399_corrected_4.json
+320,19/Ene/2022,2022-01-19,,2,"Miranda, Valentina",10,api_extracted_300_399_corrected_4.json
+321,14/enero/2022,2022-01-14,,1,"Sepulveda, Barbara",16,api_extracted_300_399_corrected_4.json
+322,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",16,api_extracted_300_399_corrected_4.json
+323,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",8,api_extracted_300_399_corrected_4.json
+324,14/enero/2022,2022-01-14,,6,"Royo, Manuela",12,api_extracted_300_399_corrected_4.json
+325,,,,6,"Laibe, Tomas",12,api_extracted_300_399_corrected_4.json
+326,18/enero/2022,2022-01-18,,4,"Rivera, Pollyana",15,api_extracted_300_399_corrected_4.json
+327,18/enero/2022,2022-01-18,,,"Videla, Carolina",15,api_extracted_300_399_corrected_4.json
+328,18/Enero/2022,2022-01-18,,4,"Madriaga, Tania",11,api_extracted_300_399_corrected_4.json
+329,18/Enero/2022,2022-01-18,,3,"Madriaga, Tania",12,api_extracted_300_399_corrected_4.json
+330,18/Enero/2022,2022-01-18,,4,"Madriaga, Tania",12,api_extracted_300_399_corrected_4.json
+331,19/Enero/2022,2022-01-19,,4,"Fontaine, Bernardo",16,api_extracted_300_399_corrected_4.json
+332,19/Enero/2022,2022-01-19,,5,,14,api_extracted_300_399_corrected_4.json
+333,19/Enero/2022,2022-01-19,,3,"Arancibia, Jorge",14,api_extracted_300_399_corrected_4.json
+334,,2022-01-19,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Hurtado, Ruth",9,api_extracted_300_399_corrected_4.json
+335,19/enero/2022,2022-01-19,,7,"Videla, Carolina",14,api_extracted_300_399_corrected_4.json
+336,19/enero/2022,2022-01-19,,4,"Abarca, Damaris",16,api_extracted_300_399_corrected_4.json
+337,20/Enero/2022,2022-01-20,,4,"Calvo, Carlos",16,api_extracted_300_399_corrected_4.json
+338,20/enero/2022,2022-01-20,,4,"Calvo, Carlos",16,api_extracted_300_399_corrected_4.json
+339,20/Enero/2021,2022-01-20,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Botto, Miguel Angel",19,api_extracted_300_399_corrected_4.json
+340,18/Enero/2022,2022-01-18,,4,"Madriaga, Tania",12,api_extracted_300_399_corrected_4.json
+341,20/enero/2022,2022-01-20,,,"Rivera, Pollyana",8,api_extracted_300_399_corrected_4.json
+342,20/enero/2022,2022-01-20,,,"Baradit, Jorge",19,api_extracted_300_399_corrected_4.json
+343,19/enero/2021,2022-01-19,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Ossandon, Manuel",8,api_extracted_300_399_corrected_4.json
+344,14/Enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Larrain, Hernan",12,api_extracted_300_399_corrected_4.json
+345,20/Enero/2022,2022-01-20,,4,"Flores, Alejandra",13,api_extracted_300_399_corrected_4.json
+346,,2022-01-20,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Hurtado, Ruth",10,api_extracted_300_399_corrected_4.json
+347,20/Enero/2022,2022-01-20,,1,"Hurtado, Ruth",9,api_extracted_300_399_corrected_4.json
+349,,2022-01-20,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Mayol, Luis",16,api_extracted_300_399_corrected_4.json
+351,20/enero/2022,2022-01-20,,4,"Hurtado, Ruth",11,api_extracted_300_399_corrected_4.json
+352,20 de enero de 2022,2022-01-20,,,"Hurtado, Ruth",10,api_extracted_300_399_corrected_4.json
+353,14/enero/2022,2022-01-14,,1,"Bassa, Jaime",16,api_extracted_300_399_corrected_4.json
+354,21/Ene/2022,2022-01-21,,4,"Botto, Miguel Angel",14,api_extracted_300_399_corrected_4.json
+355,30/Diciembre/2021,2021-12-30,,4,"Serey, Mariela",14,api_extracted_300_399_corrected_4.json
+356,21/enero/2022,2022-01-21,,5,"Calvo, Carlos",8,api_extracted_300_399_corrected_4.json
+357,21/Enero/2022,2022-01-21,,,"Alvez, Amaya",16,api_extracted_300_399_corrected_4.json
+358,12/enero/2022,2022-01-12,,2,"Castillo, Eduardo",10,api_extracted_300_399_corrected_4.json
+359,24 de enero de 2022,2022-01-24,,4,"Calvo, Carlos",11,api_extracted_300_399_corrected_4.json
+362,20/enero/2022,2022-01-20,,2,"Meneses, Janis",13,api_extracted_300_399_corrected_4.json
+363,21/Enero/2022,2022-01-21,,4,"Meneses, Janis",16,api_extracted_300_399_corrected_4.json
+364,,2022-01-21,imputada: iniciativas vecinas por número tienen esta misma fecha,5,"Jurgensen, Harry",13,api_extracted_300_399_corrected_4.json
+365,,2022-01-21,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Jurgensen, Harry",11,api_extracted_300_399_corrected_4.json
+366,21/enero/2021,2022-01-21,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Arellano, Marco",11,api_extracted_300_399_corrected_4.json
+367,21/Enero/2022,2022-01-21,,2,"Castillo, Eduardo",8,api_extracted_300_399_corrected_4.json
+368,22/Enero/2022,2022-01-22,,7,"Caamano, Francisco",14,api_extracted_300_399_corrected_4.json
+369,23 de enero de 2022,2022-01-23,,4,"Vallejos, Loreto",12,api_extracted_300_399_corrected_4.json
+370,23/enero/2022,2022-01-23,,4,"San Juan, Constanza",22,api_extracted_300_399_corrected_4.json
+371,,,,4,"San Juan, Constanza",17,api_extracted_300_399_corrected_4.json
+372,24/Enero/2022,2022-01-24,,4,"Celedon, Roberto",16,api_extracted_300_399_corrected_4.json
+373,24 de enero de 2022,2022-01-24,,4,"Calvo, Carlos",11,api_extracted_300_399_corrected_4.json
+374,22/Enero/2022,2022-01-22,,2,"Vallejos, Loreto",15,api_extracted_300_399_corrected_4.json
+375,17/Enero/2022,2022-01-17,,4,"Celedon, Roberto",11,api_extracted_300_399_corrected_4.json
+376,22/Enero/2022,2022-01-22,,4,"Meneses, Janis",16,api_extracted_300_399_corrected_4.json
+377,24/enero/2022,2022-01-24,,2,"Saldana, Alvin",11,api_extracted_300_399_corrected_4.json
+378,24/enero/2022,2022-01-24,,2,"Saldana, Alvin",14,api_extracted_300_399_corrected_4.json
+379,21/Enero/2022,2022-01-21,,4,"Labbe, Bastian",12,api_extracted_300_399_corrected_4.json
+380,21/Enero/2022,2022-01-21,,4,"Labbe, Bastian",14,api_extracted_300_399_corrected_4.json
+381,21/Enero/2022,2022-01-21,,4,"Labbe, Bastian",12,api_extracted_300_399_corrected_4.json
+382,21/Enero/2022,2022-01-21,,4,"Labbe, Bastian",12,api_extracted_300_399_corrected_4.json
+383,23/enero/2022,2022-01-23,,4,"Cespedes, Lorena",16,api_extracted_300_399_corrected_4.json
+384,23/enero/2022,2022-01-23,,3,"Mena, Felipe",8,api_extracted_300_399_corrected_4.json
+385,23/enero/2022,2022-01-23,,3,"Mena, Felipe",8,api_extracted_300_399_corrected_4.json
+386,23/Enero/2022,2022-01-23,,4,"Linconao, Francisca",8,api_extracted_300_399_corrected_4.json
+387,23/Enero/2022,2022-01-23,,4,"Linconao, Francisca",10,api_extracted_300_399_corrected_4.json
+388,24/Enero/2022,2022-01-24,,,"Tirado, Fernando",10,api_extracted_300_399_corrected_4.json
+389,24/enero/2021,2022-01-24,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,2,"Aguilera, Tiare",9,api_extracted_300_399_corrected_4.json
+390,20/enero/2021,2022-01-20,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,5,"Godoy, Isabel",22,api_extracted_300_399_corrected_4.json
+391,,,,4,"Miranda, Valentina",21,api_extracted_300_399_corrected_4.json
+392,24/enero/2022,2022-01-24,,7,"Cespedes, Lorena",14,api_extracted_300_399_corrected_4.json
+393,24/Enero/2022,2022-01-24,,7,"Moreno, Alfredo",8,api_extracted_300_399_corrected_4.json
+394,,2022-01-24,imputada: iniciativas vecinas por número tienen esta misma fecha,3,"Reyes, Maria Ramona",16,api_extracted_300_399_corrected_4.json
+395,24/Enero/2022,2022-01-24,,4,"Uribe, Cesar",15,api_extracted_300_399_corrected_4.json
+396,24/enero/2022,2022-01-24,,4,"Henriquez, Natalia",12,api_extracted_300_399_corrected_4.json
+397,24/enero/2022,2022-01-24,,3,"Uribe, Cesar",9,api_extracted_300_399_corrected_4.json
+398,20/Enero/2022,2022-01-20,,6,"Olivares, Ivanna",10,api_extracted_300_399_corrected_4.json
+399,24/enero/2022,2022-01-24,,2,"San Juan, Constanza",9,api_extracted_300_399_corrected_4.json
+400,24/enero/202,2022-01-24,,,"Hube, Constanza",8,api_extracted_400_499_corrected_4.json
+401,24/enero/202,2022-01-24,,1,"Hube, Constanza",11,api_extracted_400_499_corrected_4.json
+402,,2022-01-24,imputada: iniciativas vecinas por número tienen esta misma fecha,3,"Giustinianovich, Elisa",16,api_extracted_400_499_corrected_4.json
+403,24/Enero/2021,2022-01-24,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Dorador, Cristina",15,api_extracted_400_499_corrected_4.json
+404,23/enero/2022,2022-01-23,,,"Gonzalez, Lidia",15,api_extracted_400_499_corrected_4.json
+405,24/Enero/2022,2022-01-24,,,"Arrau, Martin",8,api_extracted_400_499_corrected_4.json
+406,24/enero/2022,2022-01-24,,4,"Martin, Juan Jose",16,api_extracted_400_499_corrected_4.json
+407,16/enero/2022,2022-01-16,,4,"Urrutia, Tatiana",9,api_extracted_400_499_corrected_4.json
+408,16/enero/2022,2022-01-16,,4,"Urrutia, Tatiana",10,api_extracted_400_499_corrected_4.json
+409,24/enero/2022,2022-01-24,,6,"Villena, Ingrid",16,api_extracted_400_499_corrected_4.json
+410,01/enero/2022,2022-01-01,,1,"Castillo, Eduardo",9,api_extracted_400_499_corrected_4.json
+411,24/enero/2022,2022-01-24,,4,"Pinto, Malucha",10,api_extracted_400_499_corrected_4.json
+412,20/enero/2022,2022-01-20,,6,"Olivares, Ivanna",9,api_extracted_400_499_corrected_4.json
+413,25/enero/2022,2022-01-25,,,"Rivera, Pollyana",15,api_extracted_400_499_corrected_4.json
+414,25/enero/2022,2022-01-25,,5,"Fontaine, Bernardo",16,api_extracted_400_499_corrected_4.json
+415,25/enero/2022,2022-01-25,,5,"Fontaine, Bernardo",16,api_extracted_400_499_corrected_4.json
+416,25/enero/2022,2022-01-25,,7,"Caamano, Francisco",11,api_extracted_400_499_corrected_4.json
+417,25/enero/2022,2022-01-25,,4,"Caamano, Francisco",14,api_extracted_400_499_corrected_4.json
+418,25/enero/2022,2022-01-25,,5,"Caamano, Francisco",15,api_extracted_400_499_corrected_4.json
+419,,,,,"Pustilnick, Tammy",15,api_extracted_400_499_corrected_4.json
+420,26/enero/2022,2022-01-26,,7,"Caamano, Francisco",9,api_extracted_400_499_corrected_4.json
+421,26/Enero/2022,2022-01-26,,2,"Squella, Agustin",9,api_extracted_400_499_corrected_4.json
+422,26/Enero/2022,2022-01-26,,4,"Castillo, Maria Trinidad",9,api_extracted_400_499_corrected_4.json
+423,26/enero/2022,2022-01-26,,1,"Barraza, Marcos",11,api_extracted_400_499_corrected_4.json
+424,26/enero/2022,2022-01-26,,,"Monckeberg, Cristian",12,api_extracted_400_499_corrected_4.json
+425,26/enero/2022,2022-01-26,,6,"Viera, Christian",10,api_extracted_400_499_corrected_4.json
+426,23/enero/2022,2022-01-23,,4,"San Juan, Constanza",8,api_extracted_400_499_corrected_4.json
+427,20/Enero/2022,2022-01-20,,1,"Vargas, Margarita",9,api_extracted_400_499_corrected_4.json
+428,26/enero/2022,2022-01-26,,7,"Vidal, Rossana",16,api_extracted_400_499_corrected_4.json
+429,26/enero/2022,2022-01-26,,7,"Vidal, Rossana",16,api_extracted_400_499_corrected_4.json
+430,27/enero/2022,2022-01-27,,5,"Castillo, Maria Trinidad",9,api_extracted_400_499_corrected_4.json
+431,26/enero/2022,2022-01-26,,,"Gallardo, Bessy",11,api_extracted_400_499_corrected_4.json
+432,26/Enero/2022,2022-01-26,,1,"Hoppe, Vanessa",13,api_extracted_400_499_corrected_4.json
+433,26/Enero/2022,2022-01-26,,2,"Abarca, Jorge",13,api_extracted_400_499_corrected_4.json
+434,26/Enero/2022,2022-01-26,,5,"Vilches, Carolina",8,api_extracted_400_499_corrected_4.json
+435,24/enero/2022,2022-01-24,,7,"Calvo, Carlos",9,api_extracted_400_499_corrected_4.json
+436,26/Enero/2022,2022-01-26,,4,"Labrana, Elsa",7,api_extracted_400_499_corrected_4.json
+437,26/Enero/2022,2022-01-26,,4,"Labrana, Elsa",10,api_extracted_400_499_corrected_4.json
+438,26/Enero/2022,2022-01-26,,,"Bacian, Wilfredo",15,api_extracted_400_499_corrected_4.json
+439,27/enero/2022,2022-01-27,,5,,8,api_extracted_400_499_corrected_4.json
+440,27/Enero/2022,2022-01-27,,,"Harboe, Felipe",10,api_extracted_400_499_corrected_4.json
+441,27/Enero/2022,2022-01-27,,4,"Navarrete, Geoconda",9,api_extracted_400_499_corrected_4.json
+442,27/Enero/2022,2022-01-27,,,"Pinto, Malucha",9,api_extracted_400_499_corrected_4.json
+443,27/enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Grandon, Giovanna",8,api_extracted_400_499_corrected_4.json
+444,27/Enero/2022,2022-01-27,,,,9,api_extracted_400_499_corrected_4.json
+445,27/ENE/2022,2022-01-27,,,"Royo, Manuela",10,api_extracted_400_499_corrected_4.json
+446,28/enero/2022,2022-01-28,,6,"Videla, Carolina",15,api_extracted_400_499_corrected_4.json
+447,28/enero/2022,2022-01-28,,,"Bacian, Wilfredo",11,api_extracted_400_499_corrected_4.json
+448,28/enero/2022,2022-01-28,,5,"Barraza, Marcos",10,api_extracted_400_499_corrected_4.json
+449,28/enero/2022,2022-01-28,,5,"Barraza, Marcos",10,api_extracted_400_499_corrected_4.json
+450,28/enero/2022,2022-01-28,,5,"Gallardo, Bessy",10,api_extracted_400_499_corrected_4.json
+451,27/enero/2022,2022-01-27,,,"Videla, Carolina",16,api_extracted_400_499_corrected_4.json
+452,27/enero/2022,2022-01-27,,4,"Rivera, Maria Magdalena",11,api_extracted_400_499_corrected_4.json
+453,28/enero/2022,2022-01-28,,2,"Baradit, Jorge",10,api_extracted_400_499_corrected_4.json
+454,28/enero/2022,2022-01-28,,5,"Barraza, Marcos",10,api_extracted_400_499_corrected_4.json
+455,28/enero/2022,2022-01-28,,5,"Gallardo, Bessy",11,api_extracted_400_499_corrected_4.json
+456,20/Enero/2022,2022-01-20,,,"Baranda, Benito",19,api_extracted_400_499_corrected_4.json
+457,,,,6,"Royo, Manuela",16,api_extracted_400_499_corrected_4.json
+458,31/enero/2022,2022-01-31,,4,"Harboe, Felipe",17,api_extracted_400_499_corrected_4.json
+459,31/enero/2022,2022-01-31,,7,"Caamano, Francisco",16,api_extracted_400_499_corrected_4.json
+460,,,,6,"Woldarsky, Manuel",16,api_extracted_400_499_corrected_4.json
+461,29/enero/2022,2022-01-29,,4,"Rivera, Maria Magdalena",11,api_extracted_400_499_corrected_4.json
+462,31/enero/2022,2022-01-31,,1,"Barraza, Marcos",13,api_extracted_400_499_corrected_4.json
+463,,,,4,"Urrutia, Tatiana",16,api_extracted_400_499_corrected_4.json
+464,28/enero/2022,2022-01-28,,4,"Dominguez, Gaspar",11,api_extracted_400_499_corrected_4.json
+465,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cancino, Adriana",16,api_extracted_400_499_corrected_4.json
+466,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cancino, Adriana",16,api_extracted_400_499_corrected_4.json
+467,28/enero/2022,2022-01-28,,6,"Bravo, Daniel",14,api_extracted_400_499_corrected_4.json
+468,30/enero/2022,2022-01-30,,4,"Barraza, Marcos",8,api_extracted_400_499_corrected_4.json
+469,30/enero/2022,2022-01-30,,3,"Mena, Felipe",15,api_extracted_400_499_corrected_4.json
+470,31/enero/2022,2022-01-31,,3,"Bassa, Jaime",10,api_extracted_400_499_corrected_4.json
+471,30/enero/2022,2022-01-30,,3,"Mena, Felipe",17,api_extracted_400_499_corrected_4.json
+472,28/enero/2022,2022-01-28,,6,"Bravo, Daniel",16,api_extracted_400_499_corrected_4.json
+473,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",8,api_extracted_400_499_corrected_4.json
+475,29/enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_400_499_corrected_4.json
+476,31/enero/2022,2022-01-31,,5,"Fontaine, Bernardo",16,api_extracted_400_499_corrected_4.json
+477,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",9,api_extracted_400_499_corrected_4.json
+478,28/enero/2021,2022-01-28,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Rebolledo, Barbara",8,api_extracted_400_499_corrected_4.json
+479,29/enero/2022,2022-01-29,,,,8,api_extracted_400_499_corrected_4.json
+480,31/Enero/2022,2022-01-31,,1,,12,api_extracted_400_499_corrected_4.json
+481,29/enero/2021,2022-01-29,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Vega, Roberto",7,api_extracted_400_499_corrected_4.json
+482,31/ENERO/2022,2022-01-31,,3,"Arauna, Francisca",13,api_extracted_400_499_corrected_4.json
+483,31/enero/2022,2022-01-31,,7,,18,api_extracted_400_499_corrected_4.json
+485,31/enero/2022,2022-01-31,,2,"Baradit, Jorge",11,api_extracted_400_499_corrected_4.json
+486,31/enero/2021,2022-01-31,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Carrillo, Alondra",16,api_extracted_400_499_corrected_4.json
+488,31/enero/2022,2022-01-31,,2,"Vargas, Margarita",8,api_extracted_400_499_corrected_4.json
+489,24/enero/2021,2022-01-24,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,,16,api_extracted_400_499_corrected_4.json
+490,26/enero/2022,2022-01-26,,6,"Vergara, Lisette",8,api_extracted_400_499_corrected_4.json
+492,26/enero/2022,2022-01-26,,4,"Vergara, Lisette",8,api_extracted_400_499_corrected_4.json
+494,25/enero/2022,2022-01-25,,1,"Labrana, Elsa",8,api_extracted_400_499_corrected_4.json
+495,26/Enero/2022,2022-01-26,,4,"Miranda, Valentina",9,api_extracted_400_499_corrected_4.json
+497,26/Enero/2022,2022-01-26,,7,"Pinto, Malucha",11,api_extracted_400_499_corrected_4.json
+498,26/enero/2022,2022-01-26,,5,"Nunez, Nicolas",13,api_extracted_400_499_corrected_4.json
+499,26/enero/2022,2022-01-26,,5,"Nunez, Nicolas",12,api_extracted_400_499_corrected_4.json
+500,26/enero/2022,2022-01-26,,5,"Nunez, Nicolas",13,api_extracted_500_599_corrected_4.json
+501,26/enero/2022,2022-01-26,,1,"Bown, Carol",9,api_extracted_500_599_corrected_4.json
+502,26/enero/2022,2022-01-26,,5,"Nunez, Nicolas",16,api_extracted_500_599_corrected_4.json
+504,26/enero/2022,2022-01-26,,,"Rivera, Pollyana",8,api_extracted_500_599_corrected_4.json
+506,27/Enero/2022,2022-01-27,,,"Namor, Guillermo",11,api_extracted_500_599_corrected_4.json
+507,27/enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Grandon, Giovanna",8,api_extracted_500_599_corrected_4.json
+508,27/enero/2022,2022-01-27,,,"Arrau, Martin",11,api_extracted_500_599_corrected_4.json
+509,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Jurgensen, Harry",13,api_extracted_500_599_corrected_4.json
+510,27/enero/2022,2022-01-27,,,"Veloso, Paulina",8,api_extracted_500_599_corrected_4.json
+511,27/Enero/2022,2022-01-27,,7,"Caamano, Francisco",11,api_extracted_500_599_corrected_4.json
+512,27/Enero/2022,2022-01-27,,4,"Fontaine, Bernardo",16,api_extracted_500_599_corrected_4.json
+513,27/Enero/2022,2022-01-27,,3,"Millabur, Adolfo",8,api_extracted_500_599_corrected_4.json
+514,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",9,api_extracted_500_599_corrected_4.json
+515,27/Enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Grandon, Giovanna",9,api_extracted_500_599_corrected_4.json
+516,28/enero/2022,2022-01-28,,4,"Royo, Manuela",15,api_extracted_500_599_corrected_4.json
+517,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,7,"Cruz, Andres",12,api_extracted_500_599_corrected_4.json
+518,28/enero/2022,2022-01-28,,7,"De la Maza, Bernardo",18,api_extracted_500_599_corrected_4.json
+519,27/enero/2022,2022-01-27,,,"Videla, Carolina",16,api_extracted_500_599_corrected_4.json
+521,27/enero/2022,2022-01-27,,5,"Labrana, Elsa",10,api_extracted_500_599_corrected_4.json
+522,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",8,api_extracted_500_599_corrected_4.json
+523,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",10,api_extracted_500_599_corrected_4.json
+524,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",11,api_extracted_500_599_corrected_4.json
+525,27/enero/2022,2022-01-27,,5,"Godoy, Isabel",15,api_extracted_500_599_corrected_4.json
+526,27/enero/2022,2022-01-27,,1,"Barraza, Marcos",14,api_extracted_500_599_corrected_4.json
+527,31/enero/2022,2022-01-31,,5,"Barraza, Marcos",12,api_extracted_500_599_corrected_4.json
+528,28/enero/2022,2022-01-28,,5,"Vargas, Margarita",9,api_extracted_500_599_corrected_4.json
+529,27/enero/2022,2022-01-27,,4,"Rivera, Maria Magdalena",11,api_extracted_500_599_corrected_4.json
+530,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",8,api_extracted_500_599_corrected_4.json
+531,28/enero/2022,2022-01-28,,5,"Vega, Roberto",8,api_extracted_500_599_corrected_4.json
+532,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",9,api_extracted_500_599_corrected_4.json
+533,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",11,api_extracted_500_599_corrected_4.json
+534,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",9,api_extracted_500_599_corrected_4.json
+535,28/enero/2021,2022-01-28,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Loncon, Elisa",13,api_extracted_500_599_corrected_4.json
+536,28/Enero/2022,2022-01-28,,3,"Arancibia, Jorge",10,api_extracted_500_599_corrected_4.json
+537,28/Enero/2021,2022-01-28,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Ossandon, Manuel",8,api_extracted_500_599_corrected_4.json
+538,27/Enero/2022,2022-01-27,,2,"Grandon, Paola",13,api_extracted_500_599_corrected_4.json
+539,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Sepulveda, Barbara",12,api_extracted_500_599_corrected_4.json
+540,27/Enero/2022,2022-01-27,,,"Abarca, Jorge",11,api_extracted_500_599_corrected_4.json
+541,27/enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,6,"Rebolledo, Barbara",16,api_extracted_500_599_corrected_4.json
+542,27/enero/2022,2022-01-27,,2,"Alvarez, Rodrigo",16,api_extracted_500_599_corrected_4.json
+543,26/enero/2021,2022-01-26,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,6,"Godoy, Isabel",17,api_extracted_500_599_corrected_4.json
+544,,,,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
+545,31/enero/2022,2022-01-31,,2,"Dominguez, Gaspar",16,api_extracted_500_599_corrected_4.json
+546,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",8,api_extracted_500_599_corrected_4.json
+547,31/enero/2022,2022-01-31,,4,"Arauna, Francisca",16,api_extracted_500_599_corrected_4.json
+548,31/enero/2022,2022-01-31,,4,"Politzer, Patricia",14,api_extracted_500_599_corrected_4.json
+549,,,,,"Sepulveda, Barbara",16,api_extracted_500_599_corrected_4.json
+550,29/enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_500_599_corrected_4.json
+551,29/Enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_500_599_corrected_4.json
+552,29/enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_500_599_corrected_4.json
+553,,,,,"Jurgensen, Harry",12,api_extracted_500_599_corrected_4.json
+554,31/enero/2022,2022-01-31,,5,"Munoz, Pedro",16,api_extracted_500_599_corrected_4.json
+555,31/Enero/2022,2022-01-31,,4,"Fontaine, Bernardo",16,api_extracted_500_599_corrected_4.json
+556,31/enero/2022,2022-01-31,,,"Jofre, Alvaro",8,api_extracted_500_599_corrected_4.json
+557,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
+558,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
+559,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
+560,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
+563,31/enero/2022,2022-01-31,,4,"Gonzalez, Dayana",13,api_extracted_500_599_corrected_4.json
+564,31/enero/2022,2022-01-31,,,"Bassa, Jaime",9,api_extracted_500_599_corrected_4.json
+566,31/enero/2022,2022-01-31,,4,"Cespedes, Lorena",16,api_extracted_500_599_corrected_4.json
+567,31/enero/2022,2022-01-31,,3,"Barraza, Marcos",10,api_extracted_500_599_corrected_4.json
+568,30/Enero/2022,2022-01-30,,4,"Botto, Miguel Angel",8,api_extracted_500_599_corrected_4.json
+569,31/Enero/2022,2022-01-31,,4,"Celedon, Roberto",10,api_extracted_500_599_corrected_4.json
+570,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Miranda, Valentina",9,api_extracted_500_599_corrected_4.json
+571,31/Enero/2022,2022-01-31,,,"Vega, Roberto",8,api_extracted_500_599_corrected_4.json
+572,31/Enero/2022,2022-01-31,,2,"Vega, Roberto",8,api_extracted_500_599_corrected_4.json
+573,31/enero/2022,2022-01-31,,6,"Hoppe, Vanessa",16,api_extracted_500_599_corrected_4.json
+574,01/Febrero/2022,2022-02-01,,6,"Hoppe, Vanessa",16,api_extracted_500_599_corrected_4.json
+575,01/Febrero/2022,2022-02-01,,5,"Delgado, Aurora",12,api_extracted_500_599_corrected_4.json
+576,28/enero/2022,2022-01-28,,7,"De la Maza, Bernardo",17,api_extracted_500_599_corrected_4.json
+577,31/enero/2022,2022-01-31,,7,"Calvo, Carlos",11,api_extracted_500_599_corrected_4.json
+578,31/enero/2022,2022-01-31,,6,"Viera, Christian",14,api_extracted_500_599_corrected_4.json
+579,31/enero/2022,2022-01-31,,6,"Viera, Christian",15,api_extracted_500_599_corrected_4.json
+580,30/enero/2022,2022-01-30,,6,"Stingo, Daniel",15,api_extracted_500_599_corrected_4.json
+581,01/FEBRERO/2022,2022-02-01,,4,"Arauna, Francisca",18,api_extracted_500_599_corrected_4.json
+582,31/Enero/2022,2022-01-31,,7,"Caamano, Francisco",14,api_extracted_500_599_corrected_4.json
+583,31/enero/2022,2022-01-31,,7,"Vidal, Rossana",10,api_extracted_500_599_corrected_4.json
+584,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",14,api_extracted_500_599_corrected_4.json
+585,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",16,api_extracted_500_599_corrected_4.json
+586,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",13,api_extracted_500_599_corrected_4.json
+587,01/febrero/2022,2022-02-01,,2,"Barraza, Marcos",10,api_extracted_500_599_corrected_4.json
+588,01/febrero/2022,2022-02-01,,6,"Barraza, Marcos",14,api_extracted_500_599_corrected_4.json
+589,31/enero/2022,2022-01-31,,4,"Castillo, Maria Trinidad",10,api_extracted_500_599_corrected_4.json
+590,31/enero/2022,2022-01-31,,4,"Serey, Mariela",10,api_extracted_500_599_corrected_4.json
+591,01/febrero/2022,2022-02-01,,2,"Vallejos, Loreto",10,api_extracted_500_599_corrected_4.json
+592,01/febrero/2022,2022-02-01,,2,"Vallejos, Loreto",9,api_extracted_500_599_corrected_4.json
+593,31/enero/2022,2022-01-31,,7,"Vidal, Rossana",10,api_extracted_500_599_corrected_4.json
+594,31/enero/2022,2022-01-31,,5,"Pustilnick, Tammy",13,api_extracted_500_599_corrected_4.json
+595,01/Febrero/2022,2022-02-01,,5,"Uribe, Cesar",19,api_extracted_500_599_corrected_4.json
+596,01/Febrero/2022,2022-02-01,,,"Andrade, Cristobal",9,api_extracted_500_599_corrected_4.json
+597,31/enero/2022,2022-01-31,,5,"Abarca, Jorge",16,api_extracted_500_599_corrected_4.json
+598,31/enero/2022,2022-01-31,,4,"Arauna, Francisca",13,api_extracted_500_599_corrected_4.json
+599,31/enero/2022,2022-01-31,,7,"Caamano, Francisco",16,api_extracted_500_599_corrected_4.json
+600,31/enero/2022,2022-01-31,,4,"Caamano, Francisco",16,api_extracted_600_699_corrected_4.json
+601,31/enero/2022,2022-01-31,,3,"Abarca, Jorge",8,api_extracted_600_699_corrected_4.json
+602,31/enero/2022,2022-01-31,,2,"Baradit, Jorge",8,api_extracted_600_699_corrected_4.json
+603,31/enero/2022,2022-01-31,,2,"Baradit, Jorge",11,api_extracted_600_699_corrected_4.json
+604,31/enero/2022,2022-01-31,,2,"Baradit, Jorge",8,api_extracted_600_699_corrected_4.json
+605,31/enero/2021,2022-01-31,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Barraza, Marcos",13,api_extracted_600_699_corrected_4.json
+606,31/Enero/2022,2022-01-31,,5,"Barraza, Marcos",12,api_extracted_600_699_corrected_4.json
+608,30/enero/2022,2022-01-30,,6,"Botto, Miguel Angel",10,api_extracted_600_699_corrected_4.json
+609,31/enero/2022,2022-01-31,,3,"Alvarez, Rodrigo",14,api_extracted_600_699_corrected_4.json
+610,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Miranda, Valentina",8,api_extracted_600_699_corrected_4.json
+611,,2022-01-31,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Miranda, Valentina",8,api_extracted_600_699_corrected_4.json
+612,31/Enero/2022,2022-01-31,,,"Jofre, Alvaro",16,api_extracted_600_699_corrected_4.json
+613,31/enero/2022,2022-01-31,,4,"Sepulveda, Barbara",15,api_extracted_600_699_corrected_4.json
+614,31/Enero/2022,2022-01-31,,5,"Uribe, Cesar",13,api_extracted_600_699_corrected_4.json
+615,31/enero/2022,2022-01-31,,6,"Viera, Christian",15,api_extracted_600_699_corrected_4.json
+616,31/enero/2022,2022-01-31,,,"Harboe, Felipe",16,api_extracted_600_699_corrected_4.json
+617,28/enero/2022,2022-01-28,,5,"Uribe, Cesar",17,api_extracted_600_699_corrected_4.json
+618,27/ENERO/2022,2022-01-27,,,"Andrade, Cristobal",10,api_extracted_600_699_corrected_4.json
+619,,,,,"Harboe, Felipe",8,api_extracted_600_699_corrected_4.json
+620,,,,,"Harboe, Felipe",9,api_extracted_600_699_corrected_4.json
+621,,,,,"Harboe, Felipe",16,api_extracted_600_699_corrected_4.json
+622,,,,4,"Harboe, Felipe",10,api_extracted_600_699_corrected_4.json
+623,29/enero/2022,2022-01-29,,4,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+624,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",9,api_extracted_600_699_corrected_4.json
+625,28/enero/2022,2022-01-28,,,"Vega, Roberto",10,api_extracted_600_699_corrected_4.json
+626,29/enero/2022,2022-01-29,,2,"Vega, Roberto",9,api_extracted_600_699_corrected_4.json
+627,28/Enero/2022,2022-01-28,,,"Vega, Roberto",11,api_extracted_600_699_corrected_4.json
+628,28/Enero/2022,2022-01-28,,,"Vega, Roberto",9,api_extracted_600_699_corrected_4.json
+629,,,,4,"Miranda, Valentina",9,api_extracted_600_699_corrected_4.json
+630,,,,4,"Miranda, Valentina",9,api_extracted_600_699_corrected_4.json
+631,31/enero/2022,2022-01-31,,6,"Villena, Ingrid",13,api_extracted_600_699_corrected_4.json
+632,29/enero/2022,2022-01-29,,2,"Vega, Roberto",9,api_extracted_600_699_corrected_4.json
+633,01/febrero/2022,2022-02-01,,,"Gomez, Yarela",16,api_extracted_600_699_corrected_4.json
+634,01/Febrero/2022,2022-02-01,,5,"Chahin, Fuad",10,api_extracted_600_699_corrected_4.json
+635,31/enero/2022,2022-01-31,,,"Andrade, Cristobal",9,api_extracted_600_699_corrected_4.json
+636,,,,6,"Royo, Manuela",16,api_extracted_600_699_corrected_4.json
+637,01/febrero/2022,2022-02-01,,2,"Vallejos, Loreto",14,api_extracted_600_699_corrected_4.json
+638,01/febrero/2022,2022-02-01,,7,"Vidal, Rossana",16,api_extracted_600_699_corrected_4.json
+640,01/febrero/2022,2022-02-01,,1,"Castillo, Eduardo",8,api_extracted_600_699_corrected_4.json
+641,01/Feb/2022,2022-02-01,,,"Daza, Mauricio",9,api_extracted_600_699_corrected_4.json
+642,01/febrero/2022,2022-02-01,,3,"Alvarez, Rodrigo",10,api_extracted_600_699_corrected_4.json
+643,01/febrero/2022,2022-02-01,,6,"Barraza, Marcos",10,api_extracted_600_699_corrected_4.json
+644,31/enero/2022,2022-01-31,,4,"Godoy, Isabel",9,api_extracted_600_699_corrected_4.json
+645,01/febrero/2022,2022-02-01,,,"Sepulveda, Carolina",11,api_extracted_600_699_corrected_4.json
+646,01/febrero/2022,2022-02-01,,4,"Castillo, Maria Trinidad",8,api_extracted_600_699_corrected_4.json
+647,01/Febrero/2022,2022-02-01,,5,"Zarate, Camila",11,api_extracted_600_699_corrected_4.json
+648,01/febrero/2022,2022-02-01,,3,"Sepulveda, Carolina",9,api_extracted_600_699_corrected_4.json
+649,01/febrero/2022,2022-02-01,,,"Videla, Carolina",12,api_extracted_600_699_corrected_4.json
+650,01/febrero/2022,2022-02-01,,4,"Gonzalez, Dayana",8,api_extracted_600_699_corrected_4.json
+651,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",10,api_extracted_600_699_corrected_4.json
+652,01/Febrero/2022,2022-02-01,,2,"Portilla, Ericka",18,api_extracted_600_699_corrected_4.json
+653,01/febrero/2022,2022-02-01,,4,"Villena, Ingrid",16,api_extracted_600_699_corrected_4.json
+654,01/Febrero/2022,2022-02-01,,,"Mamani, Isabella",9,api_extracted_600_699_corrected_4.json
+655,01/Febrero/2022,2022-02-01,,4,"Mella, Jeniffer",10,api_extracted_600_699_corrected_4.json
+656,01/febrero/2022,2022-02-01,,3,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+657,01/febrero/2022,2022-02-01,,6,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+658,01/febrero/2022,2022-02-01,,4,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+659,01/febrero/2022,2022-02-01,,6,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+660,01/febrero/2022,2022-02-01,,2,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+661,01/febrero/2022,2022-02-01,,4,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
+662,01/febrero/2022,2022-02-01,,4,"Cespedes, Lorena",16,api_extracted_600_699_corrected_4.json
+663,01/febrero/2022,2022-02-01,,7,"Vargas, Margarita",8,api_extracted_600_699_corrected_4.json
+664,31/enero/2022,2022-01-31,,5,"Rivera, Maria Magdalena",8,api_extracted_600_699_corrected_4.json
+665,01/febrero/2022,2022-02-01,,4,"Reyes, Maria Ramona",9,api_extracted_600_699_corrected_4.json
+666,01/febrero/2022,2022-02-01,,4,"Urrutia, Tatiana",16,api_extracted_600_699_corrected_4.json
+667,01/febrero/2022,2022-02-01,,4,"Urrutia, Tatiana",16,api_extracted_600_699_corrected_4.json
+668,01/Febrero/2022,2022-02-01,,,"Mamani, Isabella",13,api_extracted_600_699_corrected_4.json
+669,31/enero/2022,2022-01-31,,4,"Munoz, Pedro",17,api_extracted_600_699_corrected_4.json
+670,01/Febrero/2022,2022-02-01,,2,"Saldana, Alvin",9,api_extracted_600_699_corrected_4.json
+671,01/febrero/2022,2022-02-01,,1,"Fontaine, Bernardo",16,api_extracted_600_699_corrected_4.json
+672,01/Febrero/2022,2022-02-01,,2,"Sepulveda, Carolina",13,api_extracted_600_699_corrected_4.json
+673,01/febrero/2022,2022-02-01,,,"Sepulveda, Carolina",13,api_extracted_600_699_corrected_4.json
+674,01/febrero/2022,2022-02-01,,4,"Valenzuela, Cesar",16,api_extracted_600_699_corrected_4.json
+675,01/Febrero/2022,2022-02-01,,,"Harboe, Felipe",13,api_extracted_600_699_corrected_4.json
+676,01/febrero/2022,2022-02-01,,,"Harboe, Felipe",15,api_extracted_600_699_corrected_4.json
+677,31/enero/2022,2022-01-31,,5,"Mena, Felipe",8,api_extracted_600_699_corrected_4.json
+678,31/Enero/2022,2022-01-31,,4,"Galleguillos, Felix",9,api_extracted_600_699_corrected_4.json
+679,01/febrero/2022,2022-02-01,,5,"Caamano, Francisco",14,api_extracted_600_699_corrected_4.json
+680,01/febrero/2022,2022-02-01,,5,"Caamano, Francisco",13,api_extracted_600_699_corrected_4.json
+681,01/febrero/2022,2022-02-01,,4,"Dominguez, Gaspar",18,api_extracted_600_699_corrected_4.json
+682,01/febrero/2022,2022-02-01,,4,"Fuchslocher, Javier",16,api_extracted_600_699_corrected_4.json
+683,01/Febrero/2022,2022-02-01,,1,"Abarca, Jorge",9,api_extracted_600_699_corrected_4.json
+684,01/Febrero/2022,2022-02-01,,5,"Barcelo, Luis",8,api_extracted_600_699_corrected_4.json
+685,01/febrero/2022,2022-02-01,,4,"Vargas, Mario",16,api_extracted_600_699_corrected_4.json
+686,01/febrero/2022,2022-02-01,,2,"Vargas, Mario",14,api_extracted_600_699_corrected_4.json
+687,01/Feb/2022,2022-02-01,,4,"Orellana, Matias",23,api_extracted_600_699_corrected_4.json
+688,01/febrero/2022,2022-02-01,,4,"Orellana, Matias",16,api_extracted_600_699_corrected_4.json
+689,01/Feb/2022,2022-02-01,,4,"Orellana, Matias",16,api_extracted_600_699_corrected_4.json
+690,01/febrero/2022,2022-02-01,,4,"Fernandez, Patricio",16,api_extracted_600_699_corrected_4.json
+691,01/febrero/2022,2022-02-01,,4,"Fernandez, Patricio",16,api_extracted_600_699_corrected_4.json
+692,31/enero/2022,2022-01-31,,5,"Munoz, Pedro",16,api_extracted_600_699_corrected_4.json
+693,01/febrero/2022,2022-02-01,,7,"Neumann, Ricardo",16,api_extracted_600_699_corrected_4.json
+694,01/Febrero/2022,2022-02-01,,6,"Alvarez, Rodrigo",16,api_extracted_600_699_corrected_4.json
+695,01/Febrero/2022,2022-02-01,,,"Harboe, Felipe",10,api_extracted_600_699_corrected_4.json
+696,01/febrero/2022,2022-02-01,,,"Jofre, Alvaro",8,api_extracted_600_699_corrected_4.json
+697,01/febrero/2022,2022-02-01,,7,"Castillo, Maria Trinidad",10,api_extracted_600_699_corrected_4.json
+698,01/febrero/2022,2022-02-01,,4,"Flores, Alejandra",11,api_extracted_600_699_corrected_4.json
+699,Febrero/2022,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Perez, Alejandra",8,api_extracted_600_699_corrected_4.json
+700,01/febrero/2022,2022-02-01,,4,"Perez, Alejandra",8,api_extracted_700_799_corrected_4.json
+701,01/febrero/2022,2022-02-01,,,"Perez, Alejandra",8,api_extracted_700_799_corrected_4.json
+702,01/Febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,5,"Tepper, Maria Angelica",12,api_extracted_700_799_corrected_4.json
+703,01/febrero/2022,2022-02-01,,,"Videla, Carolina",9,api_extracted_700_799_corrected_4.json
+704,01/Febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_700_799_corrected_4.json
+705,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_700_799_corrected_4.json
+706,01/Febrero/2022,2022-02-01,,,"Labrana, Elsa",11,api_extracted_700_799_corrected_4.json
+707,01/FEB/2022,2022-02-01,,,"Labrana, Elsa",9,api_extracted_700_799_corrected_4.json
+708,01/Febrero/2022,2022-02-01,,5,"Arauna, Francisca",15,api_extracted_700_799_corrected_4.json
+709,29/enero/2022,2022-01-29,,5,"Alvarado, Gloria",10,api_extracted_700_799_corrected_4.json
+710,01/febrero/2022,2022-02-01,,5,"Alvarado, Gloria",11,api_extracted_700_799_corrected_4.json
+711,01/Febrero/2022,2022-02-01,,6,"Villena, Ingrid",10,api_extracted_700_799_corrected_4.json
+712,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,3,"Vergara, Lisette",9,api_extracted_700_799_corrected_4.json
+713,01/febrero/2022,2022-02-01,,5,"Vergara, Lisette",9,api_extracted_700_799_corrected_4.json
+714,01/febrero/2022,2022-02-01,,6,"Vergara, Lisette",9,api_extracted_700_799_corrected_4.json
+715,01/febrero/2022,2022-02-01,,5,"Vergara, Lisette",9,api_extracted_700_799_corrected_4.json
+716,01/febrero/2022,2022-02-01,,4,"Vergara, Lisette",10,api_extracted_700_799_corrected_4.json
+717,01/Febrero/2022,2022-02-01,,6,"Royo, Manuela",8,api_extracted_700_799_corrected_4.json
+718,31/Enero/2022,2022-01-31,,4,"Quinteros, Maria Elisa",8,api_extracted_700_799_corrected_4.json
+719,31/enero/2022,2022-01-31,,4,"Rivera, Maria Magdalena",8,api_extracted_700_799_corrected_4.json
+720,31/enero/2022,2022-01-31,,1,"Rivera, Maria Magdalena",8,api_extracted_700_799_corrected_4.json
+721,01/febrero/2022,2022-02-01,,5,"Castillo, Maria Trinidad",8,api_extracted_700_799_corrected_4.json
+722,31/enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",11,api_extracted_700_799_corrected_4.json
+723,31/Enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",11,api_extracted_700_799_corrected_4.json
+724,01/Febrero/2022,2022-02-01,,2,"Politzer, Patricia",13,api_extracted_700_799_corrected_4.json
+725,31/enero/2022,2022-01-31,,,"Urrutia, Tatiana",9,api_extracted_700_799_corrected_4.json
+726,01/Febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Miranda, Valentina",16,api_extracted_700_799_corrected_4.json
+727,01/Febrero/2022,2022-02-01,,,"Chinga, Eric",9,api_extracted_700_799_corrected_4.json
+728,01/Febrero/2022,2022-02-01,,4,"Neumann, Ricardo",15,api_extracted_700_799_corrected_4.json
+729,,,,6,"Cozzi, Ruggero",12,api_extracted_700_799_corrected_4.json
+730,27/Enero/2022,2022-01-27,,3,"Millabur, Adolfo",8,api_extracted_700_799_corrected_4.json
+731,01/febrero/2022,2022-02-01,,4,"Moreno, Alfredo",9,api_extracted_700_799_corrected_4.json
+732,31/enero/2022,2022-01-31,,5,"Labbe, Bastian",10,api_extracted_700_799_corrected_4.json
+733,31/enero/2022,2022-01-31,,6,"Fontaine, Bernardo",15,api_extracted_700_799_corrected_4.json
+734,01/Febrero/2022,2022-02-01,,1,"Castillo, Eduardo",8,api_extracted_700_799_corrected_4.json
+735,01/Febrero/2022,2022-02-01,,,"Chinga, Eric",9,api_extracted_700_799_corrected_4.json
+736,01/Febrero/2022,2022-02-01,,,"Chinga, Eric",9,api_extracted_700_799_corrected_4.json
+737,01/febrero/2022,2022-02-01,,5,"Caamano, Francisco",10,api_extracted_700_799_corrected_4.json
+738,01/febrero/2022,2022-02-01,,7,"Achurra, Ignacio",8,api_extracted_700_799_corrected_4.json
+739,01/Febrero/2022,2022-02-01,,7,"Achurra, Ignacio",9,api_extracted_700_799_corrected_4.json
+740,01/Febrero/2022,2022-02-01,,5,"Nunez, Nicolas",16,api_extracted_700_799_corrected_4.json
+741,01/Febrero/2022,2022-02-01,,7,"Achurra, Ignacio",9,api_extracted_700_799_corrected_4.json
+742,01/Febrero/2022,2022-02-01,,7,,13,api_extracted_700_799_corrected_4.json
+743,01/Febrero/2022,2022-02-01,,7,"Achurra, Ignacio",10,api_extracted_700_799_corrected_4.json
+744,31/Enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",12,api_extracted_700_799_corrected_4.json
+745,31/enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",8,api_extracted_700_799_corrected_4.json
+746,,,,4,"Woldarsky, Manuel",13,api_extracted_700_799_corrected_4.json
+747,,,,4,,11,api_extracted_700_799_corrected_4.json
+748,,,,6,,0,api_extracted_700_799_corrected_4.json
+749,01/Febrero/2022,2022-02-01,,4,"Quinteros, Maria Elisa",9,api_extracted_700_799_corrected_4.json
+750,01/Febrero/2022,2022-02-01,,1,"Celis, Raul",11,api_extracted_700_799_corrected_4.json
+751,01/febrero/2022,2022-02-01,,1,"Celis, Raul",14,api_extracted_700_799_corrected_4.json
+752,01/febrero/2022,2022-02-01,,1,"Celis, Raul",14,api_extracted_700_799_corrected_4.json
+753,01/febrero/2022,2022-02-01,,3,"Celis, Raul",14,api_extracted_700_799_corrected_4.json
+754,01/febrero/2022,2022-02-01,,1,"Montero, Ricardo",18,api_extracted_700_799_corrected_4.json
+755,01/febrero/2022,2022-02-01,,2,"Celedon, Roberto",12,api_extracted_700_799_corrected_4.json
+756,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Bacian, Wilfredo",13,api_extracted_700_799_corrected_4.json
+757,01/febrero/2022,2022-02-01,,,"Valenzuela, Cesar",16,api_extracted_700_799_corrected_4.json
+758,01/Febrero/2022,2022-02-01,,2,,13,api_extracted_700_799_corrected_4.json
+759,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,2,"Veloso, Paulina",9,api_extracted_700_799_corrected_4.json
+760,01/Febrero/2022,2022-02-01,,2,"Hoppe, Vanessa",9,api_extracted_700_799_corrected_4.json
+761,01/Febrero/2022,2022-02-01,,2,"Saldana, Alvin",14,api_extracted_700_799_corrected_4.json
+762,01/Febrero/2022,2022-02-01,,2,"Saldana, Alvin",13,api_extracted_700_799_corrected_4.json
+763,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Daza, Mauricio",10,api_extracted_700_799_corrected_4.json
+764,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",15,api_extracted_700_799_corrected_4.json
+765,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",13,api_extracted_700_799_corrected_4.json
+766,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",14,api_extracted_700_799_corrected_4.json
+767,01/febrero/2022,2022-02-01,,,"Martin, Juan Jose",13,api_extracted_700_799_corrected_4.json
+768,27/Enero/2022,2022-01-27,,3,"Chinga, Eric",11,api_extracted_700_799_corrected_4.json
+769,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",16,api_extracted_700_799_corrected_4.json
+771,01/febrero/2022,2022-02-01,,4,"Salinas, Fernando",14,api_extracted_700_799_corrected_4.json
+772,27/enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Tepper, Maria Angelica",10,api_extracted_700_799_corrected_4.json
+773,,,,4,"Cancino, Adriana",13,api_extracted_700_799_corrected_4.json
+774,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Rebolledo, Barbara",9,api_extracted_700_799_corrected_4.json
+775,01/febrero/2022,2022-02-01,,4,"Sepulveda, Barbara",16,api_extracted_700_799_corrected_4.json
+776,01/febrero/2022,2022-02-01,,4,,12,api_extracted_700_799_corrected_4.json
+778,01/febrero/2022,2022-02-01,,5,"Navarrete, Geoconda",13,api_extracted_700_799_corrected_4.json
+779,01/febrero/2022,2022-02-01,,3,"Olivares, Ivanna",8,api_extracted_700_799_corrected_4.json
+780,01/febrero/2022,2022-02-01,,2,"Martinez, Helmuth",15,api_extracted_700_799_corrected_4.json
+781,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Woldarsky, Manuel",12,api_extracted_700_799_corrected_4.json
+782,01/Febrero/2022,2022-02-01,,5,"Salinas, Fernando",14,api_extracted_700_799_corrected_4.json
+783,01/Febrero/2022,2022-02-01,,2,"Olivares, Ivanna",10,api_extracted_700_799_corrected_4.json
+784,01/febrero/2022,2022-02-01,,,"Abarca, Damaris",15,api_extracted_700_799_corrected_4.json
+785,01/febrero/2022,2022-02-01,,,"Labra, Patricia",12,api_extracted_700_799_corrected_4.json
+786,01/febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_700_799_corrected_4.json
+787,01/febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_700_799_corrected_4.json
+788,01/Febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_700_799_corrected_4.json
+789,01/febrero/2022,2022-02-01,,4,"Hube, Constanza",8,api_extracted_700_799_corrected_4.json
+790,01/febrero/2022,2022-02-01,,,"Dorador, Cristina",19,api_extracted_700_799_corrected_4.json
+791,01/febrero/2022,2022-02-01,,7,"Dorador, Cristina",10,api_extracted_700_799_corrected_4.json
+792,01/Febrero/2022,2022-02-01,,5,"Labrana, Elsa",12,api_extracted_700_799_corrected_4.json
+793,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Alvarado, Gloria",12,api_extracted_700_799_corrected_4.json
+794,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_700_799_corrected_4.json
+795,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_700_799_corrected_4.json
+796,01/febrero/2022,2022-02-01,,5,"Martin, Juan Jose",16,api_extracted_700_799_corrected_4.json
+797,31/enero/2022,2022-01-31,,,"Cespedes, Lorena",12,api_extracted_700_799_corrected_4.json
+798,,,,6,"Labra, Patricia",12,api_extracted_700_799_corrected_4.json
+799,01/febrero/2022,2022-02-01,,,"Martin, Juan Jose",12,api_extracted_700_799_corrected_4.json
+800,01/Febrero/2022,2022-02-01,,4,"Fontaine, Bernardo",16,api_extracted_800_899_corrected_4.json
+801,01/Febrero/2022,2022-02-01,,6,"Viera, Christian",11,api_extracted_800_899_corrected_4.json
+802,01/Febrero/2022,2022-02-01,,6,"Viera, Christian",11,api_extracted_800_899_corrected_4.json
+803,01/Febrero/2022,2022-02-01,,6,"Viera, Christian",16,api_extracted_800_899_corrected_4.json
+804,01/Febrero/2022,2022-02-01,,4,"Galleguillos, Felix",12,api_extracted_800_899_corrected_4.json
+805,01/febrero/2022,2022-02-01,,6,,15,api_extracted_800_899_corrected_4.json
+806,01/febrero/2022,2022-02-01,,3,"Gutierrez, Hugo",10,api_extracted_800_899_corrected_4.json
+807,01/febrero/2022,2022-02-01,,1,"Bassa, Jaime",14,api_extracted_800_899_corrected_4.json
+809,31/enero/2022,2022-01-31,,,"Martin, Juan Jose",9,api_extracted_800_899_corrected_4.json
+810,01/febrero/2022,2022-02-01,,5,"Martin, Juan Jose",16,api_extracted_800_899_corrected_4.json
+811,01/febrero/2022,2022-02-01,,5,"Martin, Juan Jose",10,api_extracted_800_899_corrected_4.json
+812,01/febrero/2022,2022-02-01,,,"Martin, Juan Jose",13,api_extracted_800_899_corrected_4.json
+813,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Woldarsky, Manuel",8,api_extracted_800_899_corrected_4.json
+814,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,2,"Woldarsky, Manuel",15,api_extracted_800_899_corrected_4.json
+815,01/Febrero/2022,2022-02-01,,1,"Arellano, Marco",14,api_extracted_800_899_corrected_4.json
+817,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Daza, Mauricio",10,api_extracted_800_899_corrected_4.json
+818,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Daza, Mauricio",8,api_extracted_800_899_corrected_4.json
+819,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Daza, Mauricio",12,api_extracted_800_899_corrected_4.json
+820,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Daza, Mauricio",9,api_extracted_800_899_corrected_4.json
+821,01/Febrero/2022,2022-02-01,,5,"Nunez, Nicolas",15,api_extracted_800_899_corrected_4.json
+822,01/febrero/2022,2022-02-01,,5,"Nunez, Nicolas",16,api_extracted_800_899_corrected_4.json
+823,01/Febrero/2022,2022-02-01,,5,"Alvarez, Rodrigo",10,api_extracted_800_899_corrected_4.json
+824,01/Febrero/2022,2022-02-01,,5,"Alvarez, Rodrigo",10,api_extracted_800_899_corrected_4.json
+825,01/Febrero/2022,2022-02-01,,5,"Alvarez, Rodrigo",10,api_extracted_800_899_corrected_4.json
+826,01/Febrero/2022,2022-02-01,,5,"Antilef, Victorino",11,api_extracted_800_899_corrected_4.json
+827,01/Febrero/2022,2022-02-01,,4,,8,api_extracted_800_899_corrected_4.json
+828,01/Febrero/2022,2022-02-01,,5,"Godoy, Isabel",14,api_extracted_800_899_corrected_4.json
+829,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Rebolledo, Barbara",8,api_extracted_800_899_corrected_4.json
+830,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Rebolledo, Barbara",8,api_extracted_800_899_corrected_4.json
+831,01/febrero/2022,2022-02-01,,2,"Sepulveda, Barbara",16,api_extracted_800_899_corrected_4.json
+832,31/Enero/2022,2022-01-31,,7,"Dorador, Cristina",8,api_extracted_800_899_corrected_4.json
+833,01/Febrero/2022,2022-02-01,,4,"Dorador, Cristina",11,api_extracted_800_899_corrected_4.json
+834,01/Febrero/2022,2022-02-01,,2,"Dorador, Cristina",8,api_extracted_800_899_corrected_4.json
+835,01/febrero/2022,2022-02-01,,7,"Calvo, Carlos",16,api_extracted_800_899_corrected_4.json
+836,01/febrero/2022,2022-02-01,,,"Loncon, Elisa",9,api_extracted_800_899_corrected_4.json
+837,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_800_899_corrected_4.json
+838,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_800_899_corrected_4.json
+839,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",12,api_extracted_800_899_corrected_4.json
+840,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_800_899_corrected_4.json
+841,01/febrero/2022,2022-02-01,,1,"Arauna, Francisca",11,api_extracted_800_899_corrected_4.json
+842,31/Enero/2022,2022-01-31,,4,"Linconao, Francisca",10,api_extracted_800_899_corrected_4.json
+843,01/febrero/2022,2022-02-01,,4,"Linconao, Francisca",15,api_extracted_800_899_corrected_4.json
+844,01/febrero/2022,2022-02-01,,4,"Linconao, Francisca",16,api_extracted_800_899_corrected_4.json
+845,01/febrero/2022,2022-02-01,,4,"Linconao, Francisca",15,api_extracted_800_899_corrected_4.json
+846,01/Febrero/2022,2022-02-01,,1,"Olivares, Ivanna",10,api_extracted_800_899_corrected_4.json
+847,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_800_899_corrected_4.json
+848,01/febrero/2022,2022-02-01,,4,"Meneses, Janis",12,api_extracted_800_899_corrected_4.json
+849,01/febrero/2022,2022-02-01,,5,"Labra, Patricia",10,api_extracted_800_899_corrected_4.json
+850,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Labra, Patricia",8,api_extracted_800_899_corrected_4.json
+851,01/febrero/2022,2022-02-01,,7,"Rivera, Pollyana",9,api_extracted_800_899_corrected_4.json
+852,14/Enero/2022,2022-01-14,,5,"Madriaga, Tania",11,api_extracted_800_899_corrected_4.json
+853,01/Febrero/2022,2022-02-01,,4,"Millabur, Adolfo",8,api_extracted_800_899_corrected_4.json
+854,01/febrero/2022,2022-02-01,,4,,8,api_extracted_800_899_corrected_4.json
+855,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",16,api_extracted_800_899_corrected_4.json
+856,01/Febrero/2022,2022-02-01,,7,"Caamano, Francisco",11,api_extracted_800_899_corrected_4.json
+857,01/febrero/2022,2022-02-01,,4,"Abarca, Jorge",11,api_extracted_800_899_corrected_4.json
+858,27/Enero/2022,2022-01-27,,2,"Abarca, Jorge",16,api_extracted_800_899_corrected_4.json
+859,01/febrero/2022,2022-02-01,,4,"Abarca, Jorge",12,api_extracted_800_899_corrected_4.json
+860,01/Febrero/2022,2022-02-01,,5,"Abarca, Jorge",11,api_extracted_800_899_corrected_4.json
+861,01/Febrero/2022,2022-02-01,,4,"Barcelo, Luis",8,api_extracted_800_899_corrected_4.json
+862,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,2,"Woldarsky, Manuel",9,api_extracted_800_899_corrected_4.json
+863,01/febrero/2022,2022-02-01,,1,"Barraza, Marcos",10,api_extracted_800_899_corrected_4.json
+864,01/Febrero/2022,2022-02-01,,1,"Barraza, Marcos",14,api_extracted_800_899_corrected_4.json
+865,01/febrero/2022,2022-02-01,,1,"Barraza, Marcos",12,api_extracted_800_899_corrected_4.json
+866,01/Febrero/2022,2022-02-01,,6,"Garin, Renato",14,api_extracted_800_899_corrected_4.json
+867,01/Febrero/2022,2022-02-01,,5,"Alvarez, Rodrigo",11,api_extracted_800_899_corrected_4.json
+868,01/febrero/2022,2022-02-01,,5,"Alvarez, Rodrigo",10,api_extracted_800_899_corrected_4.json
+869,01/Febrero/2022,2022-02-01,,3,"Ampuero, Adriana",15,api_extracted_800_899_corrected_4.json
+870,01/febrero/2022,2022-02-01,,1,"Carrillo, Alondra",12,api_extracted_800_899_corrected_4.json
+871,01/febrero/2022,2022-02-01,,,"Alvez, Amaya",11,api_extracted_800_899_corrected_4.json
+872,01/febrero/2022,2022-02-01,,4,"Rebolledo, Barbara",9,api_extracted_800_899_corrected_4.json
+873,01/Febrero/2022,2022-02-01,,5,"Zarate, Camila",10,api_extracted_800_899_corrected_4.json
+874,01/febrero/2022,2022-02-01,,7,"Videla, Carolina",10,api_extracted_800_899_corrected_4.json
+875,01/febrero/2022,2022-02-01,,5,"San Juan, Constanza",23,api_extracted_800_899_corrected_4.json
+876,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,5,"Giustinianovich, Elisa",15,api_extracted_800_899_corrected_4.json
+877,01/febrero/2022,2022-02-01,,2,"Labrana, Elsa",11,api_extracted_800_899_corrected_4.json
+878,01/febrero/2022,2022-02-01,,4,"Portilla, Ericka",8,api_extracted_800_899_corrected_4.json
+879,01/febrero/2022,2022-02-01,,4,"Portilla, Ericka",9,api_extracted_800_899_corrected_4.json
+880,01/febrero/2022,2022-02-01,,6,"Villena, Ingrid",10,api_extracted_800_899_corrected_4.json
+881,01/Febrero/2022,2022-02-01,,4,"Villena, Ingrid",8,api_extracted_800_899_corrected_4.json
+882,01/Febrero/2022,2022-02-01,,5,"Godoy, Isabel",10,api_extracted_800_899_corrected_4.json
+883,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_800_899_corrected_4.json
+884,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_800_899_corrected_4.json
+885,01/Febrero/2022,2022-02-01,,1,"Gonzalez, Lidia",13,api_extracted_800_899_corrected_4.json
+886,01/febrero/2022,2022-02-01,,2,"Vergara, Lisette",14,api_extracted_800_899_corrected_4.json
+887,01/febrero/2022,2022-02-01,,4,"Castillo, Maria Trinidad",10,api_extracted_800_899_corrected_4.json
+888,01/febrero/2022,2022-02-01,,4,"Henriquez, Natalia",10,api_extracted_800_899_corrected_4.json
+889,01/febrero/2022,2022-02-01,,,"Llanquileo, Natividad",16,api_extracted_800_899_corrected_4.json
+890,01/febrero/2022,2022-02-01,,2,"Gutierrez, Hugo",11,api_extracted_800_899_corrected_4.json
+892,01/febrero/2022,2022-02-01,,,"Baranda, Benito",11,api_extracted_800_899_corrected_4.json
+893,01/Febrero/2022,2022-02-01,,,"Baranda, Benito",13,api_extracted_800_899_corrected_4.json
+896,31/enero/2022,2022-01-31,,5,"Uribe, Cesar",8,api_extracted_800_899_corrected_4.json
+897,01/Febrero/2022,2022-02-01,,4,"Uribe, Cesar",10,api_extracted_800_899_corrected_4.json
+898,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,3,"Uribe, Cesar",17,api_extracted_800_899_corrected_4.json
+899,01/febrero/2022,2022-02-01,,4,"Uribe, Cesar",16,api_extracted_800_899_corrected_4.json
+900,01/Febrero/2022,2022-02-01,,6,,9,api_extracted_900_999_corrected_4.json
+901,01/febrero/2022,2022-02-01,,7,"Bravo, Daniel",8,api_extracted_900_999_corrected_4.json
+902,01/Febrero/2022,2022-02-01,,6,"Stingo, Daniel",11,api_extracted_900_999_corrected_4.json
+903,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",16,api_extracted_900_999_corrected_4.json
+904,01/febrero/2022,2022-02-01,,2,"Gutierrez, Hugo",8,api_extracted_900_999_corrected_4.json
+905,01/febrero/2022,2022-02-01,,2,"Gutierrez, Hugo",9,api_extracted_900_999_corrected_4.json
+906,01/febrero/2022,2022-02-01,,5,"Gutierrez, Hugo",9,api_extracted_900_999_corrected_4.json
+907,01/febrero/2022,2022-02-01,,3,"Gutierrez, Hugo",8,api_extracted_900_999_corrected_4.json
+908,01/febrero/2022,2022-02-01,,1,"Gutierrez, Hugo",8,api_extracted_900_999_corrected_4.json
+909,01/febrero/2022,2022-02-01,,6,"Gutierrez, Hugo",10,api_extracted_900_999_corrected_4.json
+910,01/febrero/2022,2022-02-01,,5,"Gutierrez, Hugo",10,api_extracted_900_999_corrected_4.json
+911,01/febrero/2022,2022-02-01,,1,"Gutierrez, Hugo",10,api_extracted_900_999_corrected_4.json
+912,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Abarca, Jorge",12,api_extracted_900_999_corrected_4.json
+913,01/febrero/2022,2022-02-01,,,"Jimenez, Luis",12,api_extracted_900_999_corrected_4.json
+914,01/Febrero/2022,2022-02-01,,6,"Jimenez, Luis",12,api_extracted_900_999_corrected_4.json
+915,01/febrero/2022,2022-02-01,,6,"Jimenez, Luis",11,api_extracted_900_999_corrected_4.json
+916,01/febrero/2022,2022-02-01,,1,"Jimenez, Luis",9,api_extracted_900_999_corrected_4.json
+917,01/Febrero/2022,2022-02-01,,6,"Arellano, Marco",16,api_extracted_900_999_corrected_4.json
+918,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Daza, Mauricio",13,api_extracted_900_999_corrected_4.json
+919,01/febrero/2022,2022-02-01,,5,"Nunez, Nicolas",15,api_extracted_900_999_corrected_4.json
+920,01/febrero/2022,2022-02-01,,5,"Llanquileo, Natividad",16,api_extracted_900_999_corrected_4.json
+921,01/Febrero/2022,2022-02-01,,3,"Gomez, Yarela",16,api_extracted_900_999_corrected_4.json
+922,01/febrero/2022,2022-02-01,,2,"Llanquileo, Natividad",16,api_extracted_900_999_corrected_4.json
+924,01/febrero/2022,2022-02-01,,1,"Schonhaut, Constanza",11,api_extracted_900_999_corrected_4.json
+925,01/Febrero/2022,2022-02-01,,1,"Olivares, Ivanna",10,api_extracted_900_999_corrected_4.json
+926,01/febrero/2022,2022-02-01,,2,"Saldana, Alvin",15,api_extracted_900_999_corrected_4.json
+927,01/febrero/2022,2022-02-01,,2,"Carrillo, Alondra",10,api_extracted_900_999_corrected_4.json
+928,01/febrero/2022,2022-02-01,,4,"San Juan, Constanza",16,api_extracted_900_999_corrected_4.json
+929,01/febrero/2022,2022-02-01,,3,"Rivera, Maria Magdalena",10,api_extracted_900_999_corrected_4.json
+930,01/febrero/2022,2022-02-01,,5,"San Juan, Constanza",8,api_extracted_900_999_corrected_4.json
+931,01/febrero/2022,2022-02-01,,3,"Mena, Felipe",16,api_extracted_900_999_corrected_4.json
+932,01/Febrero/2022,2022-02-01,,7,"Galleguillos, Felix",17,api_extracted_900_999_corrected_4.json
+933,01/Febrero/2022,2022-02-01,,1,"Montero, Ricardo",8,api_extracted_900_999_corrected_4.json
+934,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Cozzi, Ruggero",9,api_extracted_900_999_corrected_4.json
+935,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Rebolledo, Barbara",8,api_extracted_900_999_corrected_4.json
+936,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Daza, Mauricio",9,api_extracted_900_999_corrected_4.json
+937,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Laibe, Tomas",16,api_extracted_900_999_corrected_4.json
+938,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,3,"Giustinianovich, Elisa",13,api_extracted_900_999_corrected_4.json
+939,01/Febrero/2022,2022-02-01,,4,"Alvarez, Rodrigo",8,api_extracted_900_999_corrected_4.json
+940,,,,4,,10,api_extracted_900_999_corrected_4.json
+941,31/enero/2022,2022-01-31,,4,"Gonzalez, Dayana",13,api_extracted_900_999_corrected_4.json
+942,01/Febrero/2022,2022-02-01,,7,"Pinto, Malucha",8,api_extracted_900_999_corrected_4.json
+943,26/enero/2022,2022-01-26,,6,"Vergara, Lisette",9,api_extracted_900_999_corrected_4.json
+944,26/enero/2021,2022-01-26,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Vergara, Lisette",9,api_extracted_900_999_corrected_4.json
+945,01/febrero/2022,2022-02-01,,7,"Caamano, Francisco",10,api_extracted_900_999_corrected_4.json
+946,01/febrero/2022,2022-02-01,,5,"Antilef, Victorino",11,api_extracted_900_999_corrected_4.json
+947,01/febrero/2022,2022-02-01,,4,"Rebolledo, Barbara",8,api_extracted_900_999_corrected_4.json
+948,01/febrero/2022,2022-02-01,,4,"Rebolledo, Barbara",8,api_extracted_900_999_corrected_4.json
+949,01/Febrero/2022,2022-02-01,,1,"Chahin, Fuad",8,api_extracted_900_999_corrected_4.json
+950,01/Febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_900_999_corrected_4.json
+951,01/Febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_900_999_corrected_4.json
+952,01/febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_900_999_corrected_4.json
+953,01/Febrero/2022,2022-02-01,,1,"Vilches, Carolina",8,api_extracted_900_999_corrected_4.json
+954,01/febrero/2022,2022-02-01,,5,"Vilches, Carolina",82,api_extracted_900_999_corrected_4.json
+957,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",15,api_extracted_900_999_corrected_4.json
+958,01/febrero/2022,2022-02-01,,2,"Oyarzun, Maria Jose",11,api_extracted_900_999_corrected_4.json
+959,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Catrileo, Rosa",14,api_extracted_900_999_corrected_4.json
+960,01/Febrero/2022,2022-02-01,,4,"Madriaga, Tania",12,api_extracted_900_999_corrected_4.json
+961,01/Febrero/2022,2022-02-01,,3,"Madriaga, Tania",14,api_extracted_900_999_corrected_4.json
+962,01/febrero/2022,2022-02-01,,,"Monckeberg, Cristian",13,api_extracted_900_999_corrected_4.json
+964,01/Febrero/2022,2022-02-01,,,"Salinas, Fernando",14,api_extracted_900_999_corrected_4.json
+965,01/Febrero/2022,2022-02-01,,5,,16,api_extracted_900_999_corrected_4.json
+966,29/enero/2022,2022-01-29,,2,"Oyarzun, Maria Jose",13,api_extracted_900_999_corrected_4.json
+967,01/Febrero/2022,2022-02-01,,2,"Madriaga, Tania",12,api_extracted_900_999_corrected_4.json
+968,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,4,"Miranda, Valentina",8,api_extracted_900_999_corrected_4.json
+969,01/febrero/2022,2022-02-01,,5,"Alvarado, Gloria",14,api_extracted_900_999_corrected_4.json
+970,01/febrero/2022,2022-02-01,,5,"Nunez, Nicolas",12,api_extracted_900_999_corrected_4.json
+971,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_900_999_corrected_4.json
+972,01/Febrero/2022,2022-02-01,,3,"Vilches, Carolina",11,api_extracted_900_999_corrected_4.json
+973,01/Febrero/2022,2022-02-01,,5,"Vilches, Carolina",10,api_extracted_900_999_corrected_4.json
+974,01/Febrero/2022,2022-02-01,,4,"Madriaga, Tania",16,api_extracted_900_999_corrected_4.json
+975,01/Febrero/2022,2022-02-01,,4,"Labbe, Bastian",9,api_extracted_900_999_corrected_4.json
+976,01/Febrero/2022,2022-02-01,,5,"Madriaga, Tania",13,api_extracted_900_999_corrected_4.json
+977,01/Febrero/2022,2022-02-01,,4,,12,api_extracted_900_999_corrected_4.json
+978,01/febrero/2022,2022-02-01,,5,,9,api_extracted_900_999_corrected_4.json
+979,01/Febrero/2022,2022-02-01,,4,"Madriaga, Tania",12,api_extracted_900_999_corrected_4.json
+980,01/febrero/2022,2022-02-01,,1,"Carrillo, Alondra",14,api_extracted_900_999_corrected_4.json
+981,01/Febrero/2022,2022-02-01,,,"Dorador, Cristina",11,api_extracted_900_999_corrected_4.json
+982,01/febrero/2022,2022-02-01,,5,"San Juan, Constanza",9,api_extracted_900_999_corrected_4.json
+983,01/Febrero/2022,2022-02-01,,5,"Vilches, Carolina",11,api_extracted_900_999_corrected_4.json
+984,01/febrero/2022,2022-02-01,,5,"Hoppe, Vanessa",16,api_extracted_900_999_corrected_4.json
+985,01/febrero/2022,2022-02-01,,5,"Labrana, Elsa",11,api_extracted_900_999_corrected_4.json
+986,01/febrero/2022,2022-02-01,,4,"Vidal, Rossana",14,api_extracted_900_999_corrected_4.json
+987,01/febrero/2022,2022-02-01,,2,"Schonhaut, Constanza",10,api_extracted_900_999_corrected_4.json
+988,01/febrero/2022,2022-02-01,,2,"Loncon, Elisa",9,api_extracted_900_999_corrected_4.json
+989,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_900_999_corrected_4.json
+990,01/Febrero/2022,2022-02-01,,2,"Labrana, Elsa",10,api_extracted_900_999_corrected_4.json
+991,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",14,api_extracted_900_999_corrected_4.json
+992,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_900_999_corrected_4.json
+993,01/febrero/2022,2022-02-01,,4,"Videla, Carolina",9,api_extracted_900_999_corrected_4.json
+994,01/febrero/2022,2022-02-01,,4,"Pinto, Malucha",10,api_extracted_900_999_corrected_4.json
+995,01/febrero/2022,2022-02-01,,2,"Viera, Christian",13,api_extracted_900_999_corrected_4.json
+996,25/enero/2022,2022-01-25,,5,"Caamano, Francisco",15,api_extracted_900_999_corrected_4.json
+997,01/febrero/2022,2022-02-01,,7,"Caamano, Francisco",10,api_extracted_900_999_corrected_4.json
+998,26/enero/2022,2022-01-26,,7,"Caamano, Francisco",9,api_extracted_900_999_corrected_4.json
+999,25/enero/2022,2022-01-25,,4,"Caamano, Francisco",14,api_extracted_900_999_corrected_4.json
+1000,,,,4,"Abarca, Jorge",8,api_extracted_1000_1035_corrected_4.json
+1001,1/febrero/2022,2022-02-01,,5,"Martin, Juan Jose",11,api_extracted_1000_1035_corrected_4.json
+1002,1/febrero/2022,2022-02-01,,,"Martin, Juan Jose",12,api_extracted_1000_1035_corrected_4.json
+1003,,,,6,"Mayol, Luis",8,api_extracted_1000_1035_corrected_4.json
+1004,26/enero/2022,2022-01-26,,1,"Barraza, Marcos",11,api_extracted_1000_1035_corrected_4.json
+1005,01/Febrero/2022,2022-02-01,,4,"Celedon, Roberto",11,api_extracted_1000_1035_corrected_4.json
+1006,01/Febrero/2022,2022-02-01,,4,"Labbe, Bastian",9,api_extracted_1000_1035_corrected_4.json
+1007,1/Febrero/2022,2022-02-01,,6,"Celedon, Roberto",11,api_extracted_1000_1035_corrected_4.json
+1008,02/febrero/2022,2022-02-02,,,"Castro, Claudia",9,api_extracted_1000_1035_corrected_4.json
+1009,26 de enero de 2022,2022-01-26,,5,"Nunez, Nicolas",13,api_extracted_1000_1035_corrected_4.json
+1010,01/febrero/2022,2022-02-01,,5,"Vilches, Carolina",9,api_extracted_1000_1035_corrected_4.json
+1011,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,,,api_extracted_1000_1035_corrected_4.json
+1012,1/febrero/2022,2022-02-01,,5,"Nunez, Nicolas",13,api_extracted_1000_1035_corrected_4.json
+1013,01/febrero/2022,2022-02-01,,7,"Galleguillos, Felix",11,api_extracted_1000_1035_corrected_4.json
+1014,1/Febrero/2022,2022-02-01,,3,"Ampuero, Adriana",12,api_extracted_1000_1035_corrected_4.json
+1015,1/febrero/2022,2022-02-01,,2,"Valenzuela, Paulina",12,api_extracted_1000_1035_corrected_4.json
+1016,31/Enero/2022,2022-01-31,,,"Chinga, Eric",14,api_extracted_1000_1035_corrected_4.json
+1017,01/Febrero/2022,2022-02-01,,6,"Vergara, Lisette",8,api_extracted_1000_1035_corrected_4.json
+1018,01/Enero/2022,2022-01-01,,3,"Reyes, Maria Ramona",14,api_extracted_1000_1035_corrected_4.json
+1019,01/Febrero/2022,2022-02-01,,4,"Fontaine, Bernardo",16,api_extracted_1000_1035_corrected_4.json
+1020,01/Febrero/2022,2022-02-01,,5,"Salinas, Fernando",14,api_extracted_1000_1035_corrected_4.json
+1021,01/febrero/2022,2022-02-01,,4,"Labrana, Elsa",11,api_extracted_1000_1035_corrected_4.json
+1022,01/Febrero/2022,2022-02-01,,4,"Labrana, Elsa",8,api_extracted_1000_1035_corrected_4.json
+1023,1/febrero/2022,2022-02-01,,4,"Vilches, Carolina",10,api_extracted_1000_1035_corrected_4.json
+1024,01/Febrero/2022,2022-02-01,,3,"Vilches, Carolina",10,api_extracted_1000_1035_corrected_4.json
+1025,01/Febrero/2022,2022-02-01,,4,"Chinga, Eric",9,api_extracted_1000_1035_corrected_4.json
+1026,25/enero/2022,2022-01-25,,4,"Serey, Mariela",16,api_extracted_1000_1035_corrected_4.json
+1027,12/Enero/2022,2022-01-12,,4,"Harboe, Felipe",10,api_extracted_1000_1035_corrected_4.json
+1028,01/febrero/2022,2022-02-01,,6,"Vergara, Lisette",8,api_extracted_1000_1035_corrected_4.json
+1029,1/febrero/2022,2022-02-01,,5,"Vilches, Carolina",16,api_extracted_1000_1035_corrected_4.json
+1030,01/Febrero/2022,2022-02-01,,4,,11,api_extracted_1000_1035_corrected_4.json
+1031,,,,4,"Laibe, Tomas",16,api_extracted_1000_1035_corrected_4.json
+1032,31/enero/2022,2022-01-31,,5,"Mella, Jeniffer",13,api_extracted_1000_1035_corrected_4.json
+1033,1/Febrero/2022,2022-02-01,,7,"Neumann, Ricardo",15,api_extracted_1000_1035_corrected_4.json
+1034,26/Enero/2022,2022-01-26,,6,"Gutierrez, Hugo",10,api_extracted_1000_1035_corrected_4.json
+1035,26/Enero/2022,2022-01-26,,6,"Gutierrez, Hugo",11,api_extracted_1000_1035_corrected_4.json
