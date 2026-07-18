@@ -1,10 +1,5 @@
 [
     {
-        "titleuid": "C1-GEN-CH01-TIT1",
-        "title": "De la Democracia",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_IND04_01_2_CH01_ART01",
         "timestamp": "04-01-2",
         "article": "Artículo 1",
@@ -551,11 +546,6 @@
         "final_status": "Eliminado"
     },
     {
-        "titleuid": "C1-GEN-CH02-TIT1",
-        "title": "De la Democracia",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_GEN_CH02_ART06",
         "timestamp": "03-17",
         "article": "Artículo 6",
@@ -1065,29 +1055,7 @@
         "final_status": "Idéntico a 6.- Artículo 5"
     },
     {
-        "titleuid": "C1-GEN-CH03-TIT1",
-        "title": "Del Congreso Plurinacional",
-        "timestamp": "03-17",
-        "history": [
-            {
-                "timestamp": "04-30-2",
-                "title": "Del Poder Legislativo",
-                "number": 3,
-                "authors": [
-                    "Schonhaut, Constanza",
-                    "Bassa, Jaime",
-                    "Atria, Fernando"
-                ],
-                "target_scope": "TOTAL",
-                "action": "ADD",
-                "content": "Del poder legislativo",
-                "content_to_remove": "",
-                "placement_instructions": "repone el título del capítulo"
-            }
-        ]
-    },
-    {
-        "article_uid": "C1_IND04_30_CH03_ART5bis",
+        "article_uid": "C1_IND04_30_CH03_ART5BIS",
         "article": "Artículo 5bis",
         "timestamp": "04-30-2",
         "text": "Del Poder Legislativo. El poder legislativo se compone del Congreso de Diputadas y Diputados y la Cámara de las Regiones.",
@@ -1103,22 +1071,6 @@
         "content_to_remove": "",
         "placement_instructions": "agrega el siguiente artículo",
         "final_status": "Idéntico a 7.- Artículo 5 bis"
-    },
-    {
-        "titleuid": "C1-IND04-30-2-CH03-TIT2",
-        "title": "Del Congreso de Diputadas y Diputados",
-        "timestamp": "04-30-2",
-        "number": 4,
-        "authors": [
-            "Schonhaut, Constanza",
-            "Bassa, Jaime",
-            "Atria, Fernando"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "Del Congreso de Diputadas y Diputados",
-        "content_to_remove": "",
-        "placement_instructions": "repone el epígrafe"
     },
     {
         "article_uid": "C1_GEN_CH02_ART08",
@@ -1242,11 +1194,6 @@
             }
         ],
         "final_status": "ART-FALLIDO"
-    },
-    {
-        "titleuid": "C1-GEN-CH03-TIT1",
-        "title": "Del Congreso Plurinacional",
-        "timestamp": "03-17"
     },
     {
         "article_uid": "C1_GEN_CH03_ART10",
@@ -1473,22 +1420,6 @@
             }
         ],
         "final_status": "ART-FALLIDO"
-    },
-    {
-        "titleuid": "C1-IND04-30-2-CH03-TIT3",
-        "timestamp": "04-30-2",
-        "title": "De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones",
-        "number": 28,
-        "authors": [
-            "Schonhaut, Constanza",
-            "Bassa, Jaime",
-            "Atria, Fernando"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones",
-        "content_to_remove": "",
-        "placement_instructions": "repone el epígrafe"
     },
     {
         "article_uid": "C1_GEN_CH03_ART12",
@@ -2510,11 +2441,6 @@
         ]
     },
     {
-        "titleuid": "C1-GEN-CH03-TIT2",
-        "title": "De la legislación y la potestad reglamentaria",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_GEN_CH03_ART21",
         "timestamp": "03-17",
         "article": "Artículo 25",
@@ -2881,8 +2807,9 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "article_uid": "C1_IND_CH03_ART22.A",
+        "article_uid": "C1_IND03_17_CH03_ART22.A",
         "article": "Artículo 22.A",
+        "timestamp": "03-17",
         "text": "Son atribuciones del Consejo Territorial: 1) Decidir acerca de la proposición de nombramientos de altos cargos del Estado y de la administración que le fueren propuestos o nominados por el Presidente o Presidenta de la República, en los términos previstos en esta Constitución. El Consejo Territorial adoptará acuerdo de confirmación con la mayoría absoluta de los miembros de la Cámara Territorial en ejercicio, a menos que expresamente se establezca un quórum distinto. El Presidente o Presidenta de la República determinará y calificará la urgencia de la nominación y nombramiento. Si el Consejo Territorial no se pronunciare dentro de sesenta días después de pedida la urgencia por el Presidente de la República, se tendrá por otorgado su asentimiento. 3) Declarar la inhabilidad del Presidente o Presidenta de la República o del Presidente o Presidenta electo cuando un impedimento físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente o Presidenta de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla.",
         "number": 329,
         "authors": [
@@ -3408,8 +3335,9 @@
         "final_status": "Similar a 30.- Artículo 26"
     },
     {
-        "article_uid": "C1_IND_CH03_ART29BIS",
+        "article_uid": "C1_IND03_17_CH03_ART29BIS",
         "step": "Indicacion",
+        "timestamp": "03-17",
         "article": "Artículo 34 bis",
         "text": "Leyes de acuerdo regional. Sólo son leyes de acuerdo regional: 1. La relativa al presupuesto anual; 2. Las relativas a la elección, designación, competencias, atribuciones y procedimientos de los órganos y autoridades de las entidades territoriales; 3. Las que establezcan los mecanismos de distribución fiscal y presupuestaria; 4. Las que alteren la división política o administrativa del país; 5. Las que reformen el texto constitucional en aquellas materias relativas a la elección, designación, competencias, atribuciones y procedimientos de los órganos y autoridades de las entidades territoriales; 6. Las que ratifiquen el estatuto regional.",
         "target_scope": "TOTAL",
@@ -3518,6 +3446,7 @@
     {
         "article_uid": "C1_IND03_17_CH03_ART31BIS",
         "article": "Artículo 36 bis",
+        "timestamp": "03-17",
         "text": "Tramitación de las leyes de acuerdo regional. Las leyes de acuerdo regional deberán ser aprobadas por el Consejo Territorial en el más breve plazo desde que fueren recibidas. De no entregar o negar su aprobación en el plazo establecido en la ley, se entenderá que el Consejo aprueba el proyecto y será remitido al Presidente para su aprobación. Este plazo no regirá en el caso de la tramitación de la ley de presupuesto anual. Si el Consejo Territorial negare su aprobación, podrá formular enmiendas que serán remitidas al Congreso Plurinacional. Si el Congreso Plurinacional no aprobare una o más enmiendas, el Vicepresidente o Vicepresidenta de la República deberá convocar a una Comisión Mixta integrada por igual número de miembros del Congreso Plurinacional y del Consejo Territorial para resolver las discrepancias. El número y forma de elección de sus integrantes será regulado por ley. La Comisión Mixta deberá informar dentro del plazo que fije la ley. En caso contrario, el proyecto originalmente despachado por el Congreso Plurinacional se entenderá aprobado. El proyecto modificado por la Comisión Mixta será despachado al Congreso Plurinacional, el que se pronunciará sobre las modificaciones propuestas por ésta. De rechazar las modificaciones realizadas por la Comisión Mixta, el Congreso Plurinacional podrá insistir en el proyecto original con el voto favorable de la mayoría de sus miembros en ejercicio.",
         "number": "416",
         "authors": [
@@ -3550,6 +3479,7 @@
     {
         "article_uid": "C1_IND03_17_CH03_ART31TER",
         "article": "Artículo 36 ter",
+        "timestamp": "03-17",
         "text": "Tramitación de las leyes de acuerdo regional. Las leyes de acuerdo regional deberán ser aprobadas por el Consejo Territorial en el más breve plazo desde que fueren recibidas. De no entregar o negar su aprobación en el plazo establecido en la ley, se entenderá que el Consejo aprueba el proyecto y será remitido al Presidente para su aprobación. Este plazo no regirá en el caso de la tramitación de la ley de presupuesto anual. Si el Consejo Territorial negare su aprobación, podrá formular enmiendas que serán remitidas al Congreso Plurinacional. Si el Congreso Plurinacional no aprobare una o más enmiendas, el Vicepresidente o Vicepresidenta de la República deberá convocar a una Comisión Mixta integrada por igual número de miembros del Congreso Plurinacional y del Consejo Territorial para resolver las discrepancias. El número y forma de elección de sus integrantes será regulado por ley. La Comisión Mixta deberá informar dentro del plazo que fije la ley. En caso contrario, el proyecto originalmente despachado por el Congreso Plurinacional se entenderá aprobado. El proyecto modificado por la Comisión Mixta será despachado al Congreso Plurinacional, el que se pronunciará sobre las modificaciones propuestas por ésta. De rechazar las modificaciones realizadas por la Comisión Mixta, el Congreso Plurinacional podrá insistir en el proyecto original con el voto favorable de la mayoría de sus miembros en ejercicio.",
         "number": "416",
         "authors": [
@@ -3636,6 +3566,7 @@
     {
         "article_uid": "C1_IND03_17_CH03_ART38",
         "step": "Indicacion",
+        "timestamp": "03-17",
         "article": "Artículo 38",
         "text": "El proyecto que fuere desechado en general por el Congreso Plurinacional, no podrá renovarse sino después de un año.",
         "number": "426",
@@ -4042,11 +3973,6 @@
         "final_status": "Similar a 44.- Artículo 37"
     },
     {
-        "titleuid": "C1-GEN-CH03-TIT3",
-        "title": "Consulta indígena en el proceso de formación de ley",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_GEN_CH03_ART40",
         "timestamp": "03-17",
         "article": "Artículo 40",
@@ -4090,6 +4016,7 @@
     {
         "article_uid": "C1_IND03_17_CH0X_ARTX",
         "step": "Indicacion",
+        "timestamp": "03-17",
         "text": "CAPÍTULO NUEVO: Del Consejo Territorial. Artículo X: Del Consejo Territorial. El Consejo Territorial es el órgano paritario y plurinacional de representación territorial encargado de concurrir en la formación de las leyes de acuerdo regional y de ejercer las demás competencias establecidas por esta Constitución. Artículo X: Elección e integración del Consejo Territorial. Los miembros del Consejo Territorial se elegirán en votación popular conjuntamente con las autoridades municipales y regionales, dos años después de la elección presidencial y parlamentaria. Los candidatos a la Asamblea Regional y al Consejo Territorial se presentarán en una misma lista, pero serán votados y elegidos separadamente, en la forma prevista por la ley. La ley determinará el número de consejeros a ser elegidos por región, el que deberá ser el mismo para cada una y en ningún caso inferior a 3, asegurando que la integración final del órgano respete el principio de paridad. La elección de escaños reservados para el Consejo Territorial se realizará en votación popular. El número de escaños por pueblo indígena que esté asentado en el territorio electoral respectivo y su forma de elección, se determinará por ley. Las consejeras y consejeros territoriales son miembros de la Asamblea Regional, a la que, dentro de sus competencias, representarán en el Consejo Territorial. La ley especificará sus derechos y obligaciones especiales, las que en todo caso deberán incluir la obligación de rendir cuenta para lo que serán especialmente convocados. Artículo X: Duración en el cargo y reelección. Los consejeros y consejeras durarán 4 años en el cargo y podrán ser reelegidos sucesivamente hasta por un período para el ejercicio del cargo. Para estos efectos se entenderá que las y los consejeros han ejercido su cargo durante un período cuando han cumplido más de la mitad de su mandato. Artículo X: Funcionamiento. El Consejo Territorial será presidido por el Vicepresidente o Vicepresidenta de la República, quien dirigirá las sesiones del Consejo Territorial y sólo tendrá derecho a voz. El Consejo Territorial funcionará de forma permanente, debiendo adoptar sus decisiones por la mayoría de sus miembros presentes, salvo que esta Constitución disponga de un quórum diferente. Todas las sesiones del Consejo Territorial son públicas. Una ley de acuerdo regional regulará la organización, funcionamiento y tramitación de leyes en el Consejo Territorial conforme a lo establecido en esta Constitución. En lo que no contradiga a la Constitución o la ley respectiva, el Consejo Territorial podrá dictar reglamentos para su organización y funcionamiento interno. El Consejo Territorial no podrá entrar en sesión sin la concurrencia de la tercera parte de sus miembros en ejercicio. Artículo X: Sólo son atribuciones del Consejo Territorial: 1. Participar del proceso de formación de las leyes de acuerdo regional, de conformidad con lo dispuesto en el artículo XX. 2. Las demás establecidas por la Constitución.",
         "number": "484",
         "authors": [
@@ -4112,11 +4039,6 @@
         "content_to_remove": "",
         "placement_instructions": "introduce un nuevo Capítulo",
         "final_status": "ART-FALLIDO"
-    },
-    {
-        "titleuid": "C1-GEN-CH04-TIT1",
-        "title": "Del Poder Ejecutivo",
-        "timestamp": "03-17"
     },
     {
         "article_uid": "C1_GEN_CH04_ART41",
@@ -4231,11 +4153,6 @@
             }
         ],
         "final_status": "Similar a 46.- Artículo 39"
-    },
-    {
-        "titleuid": "C1-GEN-CH04-TIT2",
-        "title": "Del Poder Ejecutivo",
-        "timestamp": "03-17"
     },
     {
         "article_uid": "C1_GEN_CH04_ART42",
@@ -5220,11 +5137,6 @@
         "final_status": "Similar a 56.- Artículo 48"
     },
     {
-        "titleuid": "C1-GEN-CH04-TIT3",
-        "title": "De la Vicepresidenta o Vicepresidente",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_GEN_CH04_ART51",
         "timestamp": "03-17",
         "article": "Artículo 51",
@@ -5556,10 +5468,11 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "article_uid": "C1_IND_CH04_ARTX53_54",
+        "article_uid": "C1_IND03_17_CH04_ARTX53_54",
         "article": "artículo 62",
         "text": "No podrá ser elegido Vicepresidente de la República: 1- Un ex Presidente de la República cuando la elección del Vicepresidente de la República sea para el período siguiente al suyo. 2- Los parientes dentro del tercer grado de consanguinidad o segundo de afinidad del Presidente de la República, para el período que sigue a aquel en el que el Presidente de la República hubiere ejercido el cargo. 3- El ciudadano que como Vicepresidente de la República hubiere ejercido el cargo de Presidente de la República. 4- Los parientes dentro del cuarto grado de consanguinidad y segundo de afinidad del ciudadano expresado en el numeral anterior para el período inmediatamente siguiente a aquel en que éste hubiere ejercido la Presidencia de la República. 5- Los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad del Presidente de la República.",
         "number": "600",
+        "timestamp": "03-17",
         "authors": [
             "Cubillos, Marcela",
             "Hube, Constanza",
@@ -5608,11 +5521,6 @@
             }
         ],
         "final_status": "ART-FALLIDO"
-    },
-    {
-        "titleuid": "C1-GEN-CH04-TIT4",
-        "title": "De las Ministras y Ministros",
-        "timestamp": "03-17"
     },
     {
         "article_uid": "C1_GEN_CH04_ART55",
@@ -5986,6 +5894,7 @@
     {
         "article_uid": "C1_IND03_17_CH04_ART59B",
         "article": "Artículo 68.B",
+        "timestamp": "03-17",
         "text": "Asistencia de los Ministros. Los Ministros podrán, cuando lo estimen conveniente, asistir a las sesiones del Congreso Plurinacional y Consejo Territorial y tomar parte en sus debates, con preferencia para hacer uso de la palabra. Sin perjuicio de lo anterior, las Ministras y Ministros deberán concurrir personalmente a las sesiones especiales que convoque el Congreso para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.",
         "number": "633",
         "authors": [
@@ -6014,11 +5923,6 @@
             }
         ],
         "final_status": "Similar a 61.- Artículo 53"
-    },
-    {
-        "titleuid": "C1-GEN-CH05-TIT1",
-        "title": "Del Sistema Electoral y Organizaciones Políticas. Del sistema Electoral",
-        "timestamp": "03-17"
     },
     {
         "article_uid": "C1_GEN_CH05_ART60",
@@ -6395,11 +6299,6 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "titleuid": "C1-GEN-CH05-TIT2",
-        "title": "De la elección de escaños reservados",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_GEN_CH05_ART64",
         "timestamp": "03-17",
         "article": "Artículo 64",
@@ -6547,11 +6446,6 @@
         "final_status": "Similar a 68.- Artículo 60"
     },
     {
-        "titleuid": "C1-GEN-CH05-TIT3",
-        "title": "De los partidos políticos y otros colectivos políticos",
-        "timestamp": "03-17"
-    },
-    {
         "article_uid": "C1_GEN_CH05_ART67",
         "timestamp": "03-17",
         "article": "Artículo 67",
@@ -6682,32 +6576,6 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "titleuid": "C1-IND-CH05-TIT3",
-        "title": "De las organizaciones políticas",
-        "timestamp": "03-17",
-        "step": "Indicacion",
-        "number": "719",
-        "authors": [
-            "Sepulveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Chahin, Fuad",
-            "Namor, Guillermo"
-        ],
-        "target_scope": "TOTAL",
-        "action": "SUBSTITUTE",
-        "content": "De las organizaciones políticas",
-        "content_to_remove": "De los partidos políticos y otros colectivos",
-        "placement_instructions": "reemplaza el título “De los partidos políticos y otros colectivos” por “De las organizaciones políticas”"
-    },
-    {
         "article_uid": "C1_GEN_CH05_ART67.A",
         "timestamp": "03-17",
         "article": "Artículo 76.A",
@@ -6735,7 +6603,7 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "article_uid": "C1_IND_CH05_ARTX67_68",
+        "article_uid": "C1_IND03_17_CH05_ARTX67_68",
         "article": "Artículo 77",
         "timestamp": "03-17",
         "step": "Indicacion",
@@ -7118,43 +6986,6 @@
             }
         ],
         "final_status": "ART-FALLIDO"
-    },
-    {
-        "titleuid": "C1-IND04-01-2-CH2-TIT1",
-        "title": "Del Poder Legislativo",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De la presentación de candidaturas. Las organizaciones políticas o las coaliciones que entre ellas formen, podrán presentar a militantes, adherentes o personas no afiliadas como candidatos o candidatas de elección popular. Los movimientos político-sociales sólo podrán presentar candidaturas en aquellos niveles territoriales en que se encuentren legalmente constituidos. Al solicitar la inscripción de candidaturas, las organizaciones políticas o las coaliciones que ellas formen, deberán presentar el programa político que orientará su actividad política.",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor"
-    },
-    {
-        "titleuid": "C1-GEN-CH*",
-        "title": "*******",
-        "timestamp": "04-06",
-        "authors": [],
-        "location": "Entre Artículo 61 y Artículo C1-GEN-CH*-ART01"
     },
     {
         "article_uid": "C1_GEN_CH*_ART01",
@@ -7745,7 +7576,7 @@
         "final_status": "Idéntico a 77.- Artículo 7"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART07bis",
+        "article_uid": "C1_IND04_18_CH*_ART07BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 7° bis",
@@ -7836,7 +7667,7 @@
         "final_status": "Idéntico a 79.- Artículo 9"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART08bis",
+        "article_uid": "C1_IND04_18_CH*_ART08BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 8° bis",
@@ -7927,7 +7758,7 @@
         "final_status": "Eliminado"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART09bis",
+        "article_uid": "C1_IND04_18_CH*_ART09BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 9° bis",
@@ -9273,7 +9104,7 @@
         "final_status": "Idéntico a 92.- Artículo 22"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18bis",
+        "article_uid": "C1_IND04_18_CH*_ART18BIS",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° bis",
@@ -9308,7 +9139,7 @@
         "final_status": "Similar a 93.- Artículo 23"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18ter",
+        "article_uid": "C1_IND04_18_CH*_ART18TER",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° ter",
@@ -9343,7 +9174,7 @@
         "final_status": "Similar a 94.- Artículo 24"
     },
     {
-        "article_uid": "C1_IND04_30_CH*_ART24bis",
+        "article_uid": "C1_IND04_30_CH*_ART24BIS",
         "article": "Artículo 24 bis",
         "step": "Indicacion",
         "text": "La Presidenta o Presidente de la República podrá solicitar la prórroga del estado de catástrofe, para lo cual requerirá la aprobación de la mayoría de los integrantes del Congreso de Diputadas y Diputados y la Cámara de las Regiones, quienes resolverán en sesión conjunta",
@@ -9373,7 +9204,7 @@
         "final_status": "Idéntico a 95.- Artículo 24 bis"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18quater",
+        "article_uid": "C1_IND04_18_CH*_ART18QUATER",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° quater",
@@ -9462,10 +9293,10 @@
         "final_status": "Similar a 96.- Artículo 25"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18quinquier",
+        "article_uid": "C1_IND04_18_CH*_ART18QUINQUIES",
         "timestamp": "04-18",
         "step": "Indicacion",
-        "article": "Artículo 20° quinquier",
+        "article": "Artículo 20° quinquies",
         "text": "Ejecución de las medidas de excepción. Los actos de la Presidenta o Presidente de la República, o el Jefe o Jefa de Estado de Excepción, que tengan por fundamento la declaración del estado de excepción constitucional, deberán señalar expresamente los derechos constitucionales que suspendan o restrinjan. El decreto de declaración deberá indicar específicamente las medidas a adoptarse en razón de la excepción, las que deberán ser proporcionales a los fines establecidos en la declaración de excepción, y no limitar excesivamente o impedir de manera total el legítimo ejercicio de cualquier derecho establecido en esta Constitución. Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de la vigencia de los mismos. Los estados de excepción constitucional permitirán al Congreso de Diputadas y Diputados y a la Presidenta o Presidente de la República el ejercicio de potestades y competencias que ordinariamente estarían reservadas a niveles territoriales inferiores, cuando el restablecimiento de la normalidad así lo requiera. Las Fuerzas Armadas y policías deberán cumplir estrictamente las órdenes de la autoridad civil a cargo del estado de excepción.",
         "number": "134",
         "authors": [
@@ -9539,7 +9370,7 @@
         "final_status": "Idéntico a 97.- Artículo 26"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18sexies",
+        "article_uid": "C1_IND04_18_CH*_ART18SEXIES",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° sexies",
@@ -9574,7 +9405,7 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18septies",
+        "article_uid": "C1_IND04_18_CH*_ART18SEPTIES",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° septies",
@@ -9634,7 +9465,7 @@
         "final_status": "ART-FALLIDO"
     },
     {
-        "article_uid": "C1_IND04_18_CH*_ART18octies",
+        "article_uid": "C1_IND04_18_CH*_ART18OCTIES",
         "timestamp": "04-18",
         "step": "Indicacion",
         "article": "Artículo 20° octies",
@@ -9661,56 +9492,6 @@
         "content_to_remove": "",
         "placement_instructions": "nuevo artículo 18 octies",
         "final_status": "Idéntico a 100.- Artículo 29"
-    },
-    {
-        "titleuid": "C1-IND04-18-CH*-TITX",
-        "title": "De la acusación constitucional",
-        "number": "145",
-        "authors": [
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Hurtado, Maximiliano",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Laibe, Tomas",
-            "Catrileo, Rosa",
-            "Chahin, Fuad"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De la acusación constitucional",
-        "content_to_remove": "",
-        "placement_instructions": "agrega un nuevo epígrafe"
-    },
-    {
-        "titleuid": "C1-IND04-01-2-CH3-TIT1",
-        "tite": "Del Poder Legislativo",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De la presentación de candidaturas. Las organizaciones políticas o las coaliciones que entre ellas formen, podrán presentar a militantes, adherentes o personas no afiliadas como candidatos o candidatas de elección popular. Los movimientos político-sociales sólo podrán presentar candidaturas en aquellos niveles territoriales en que se encuentren legalmente constituidos. Al solicitar la inscripción de candidaturas, las organizaciones políticas o las coaliciones que ellas formen, deberán presentar el programa político que orientará su actividad política.",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT1_ART1.9",
@@ -9924,36 +9705,6 @@
         "final_status": "Similar a 9.- Artículo 7"
     },
     {
-        "titleuid": "C1-IND04-01-2-CH3-TIT2",
-        "title": "De la Cámara de las Regiones",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De la Cámara de las Regiones",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor"
-    },
-    {
         "article_uid": "C1_IND04_01_2_CHTX_TIT2_ART5.51",
         "article": "Artículo 5 (51)",
         "step": "Indicacion",
@@ -10108,7 +9859,7 @@
         "final_status": "Similar a 13.- Artículo 11 bis"
     },
     {
-        "article_uid": "C1_IND04_30_2_CH03_ART11ter",
+        "article_uid": "C1_IND04_30_2_CH03_ART11TER",
         "article": "Artículo 11 ter",
         "step": "Indicacion",
         "timestamp": "04-30-2",
@@ -10131,36 +9882,6 @@
             "Flores, Alejandra"
         ],
         "final_status": "Idéntico a 14.- Artículo 11 ter"
-    },
-    {
-        "titleuid": "C1-IND04-01-2-CH3-TIT3",
-        "title": "De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De las sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT3_ART8.N",
@@ -10196,7 +9917,7 @@
         "final_status": "Similar a 15.- Artículo 12"
     },
     {
-        "article_uid": "C1_IND04_30_2_CH03_ART12bis",
+        "article_uid": "C1_IND04_30_2_CH03_ART12BIS",
         "article": "Artículo 12 bis",
         "step": "Indicacion",
         "timestamp": "04-30-2",
@@ -10219,36 +9940,6 @@
             "Flores, Alejandra"
         ],
         "final_status": "Similar a 16.- Artículo 12 bis"
-    },
-    {
-        "titleuid": "C1-IND04-01-2-CH3-TIT4",
-        "title": "Reglas comunes a diputadas, diputados y representantes regionales",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "Reglas comunes a diputadas, diputados y representantes regionales",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT4_ART9.13",
@@ -10624,36 +10315,6 @@
             }
         ],
         "final_status": "Similar a 25.- Artículo 21"
-    },
-    {
-        "titleuid": "C1-IND04-01-2-CH3-TIT5",
-        "title": "De la legislación y la potestad reglamentaria",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De la legislación y la potestad reglamentaria",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT5_ART18.32",
@@ -11307,37 +10968,6 @@
         "final_status": "Idéntico a 45.- Artículo 38"
     },
     {
-        "titleuid": "C1-IND04-01-2-CH3-TIT6",
-        "title": "Del Poder Ejecutivo",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "Del Poder Ejecutivo",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor",
-        "location": "no se encuentra en el borrador final"
-    },
-    {
         "article_uid": "C1_IND04_01_2_CHTX_TIT6_ART35.58",
         "article": "Artículo 35 (58)",
         "step": "Indicacion",
@@ -11833,38 +11463,6 @@
         "final_status": "Idéntico a 61.- Artículo 53"
     },
     {
-        "titleuid": "C1-IND04-01-2-CH3-TIT7",
-        "title": "Del Sistema Electoral y Organizaciones Políticas. Del sistema electoral",
-        "timestamp": "04-01-2",
-        "step": "Indicacion",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "Del Sistema Electoral y Organizaciones Políticas. Del sistema electoral",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo título del siguiente tenor",
-        "location": "no se encuentra en el borrador final"
-    },
-    {
         "article_uid": "C1_IND04_01_2_CHTX_TIT7_ART50.82",
         "article": "Artículo 50 (82)",
         "step": "Indicacion",
@@ -12055,39 +11653,6 @@
         "content_to_remove": "",
         "placement_instructions": "añade un nuevo artículo del siguiente tenor",
         "final_status": "Similar a 66.- Artículo 58"
-    },
-    {
-        "titleuid": "C1-IND04-01-2-CH3-TIT8",
-        "title": "De la elección de escaños reservados",
-        "step": "Indicacion",
-        "timestamp": "04-01-2",
-        "number": "4",
-        "authors": [
-            "Sepúlveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Namor, Guillermo",
-            "Bassa, Jaime",
-            "Madriaga, Tania",
-            "Arellano, Marco",
-            "Perez, Alejandra",
-            "Barraza, Marcos",
-            "Catrileo, Rosa"
-        ],
-        "target_scope": "TOTAL",
-        "action": "ADD",
-        "content": "De la elección de escaños reservados",
-        "content_to_remove": "",
-        "placement_instructions": "añade un nuevo artículo del siguiente tenor",
-        "final_status": "Idéntico",
-        "location": "Entre artículo 58 y 59"
     },
     {
         "article_uid": "C1_IND04_01_2_CHTX_TIT8_ART55.87",
@@ -12307,30 +11872,6 @@
         "content_to_remove": "",
         "placement_instructions": "añade un nuevo artículo del siguiente tenor",
         "final_status": "Similar a 70.- Artículo 64"
-    },
-    {
-        "titleuid": "C1-IND03-17-DT-TITX",
-        "title": "Disposiciones transitorias",
-        "number": "766",
-        "authors": [
-            "Sepulveda, Barbara",
-            "Munoz, Pedro",
-            "Montero, Ricardo",
-            "Arauna, Francisca",
-            "Schonhaut, Constanza",
-            "Atria, Fernando",
-            "Hurtado, Maximiliano",
-            "Carrillo, Alondra",
-            "Flores, Alejandra",
-            "Politzer, Patricia",
-            "Chahin, Fuad",
-            "Namor, Guillermo"
-        ],
-        "target_scope": "TOTAL",
-        "action": "DELETE",
-        "content": "",
-        "content_to_remove": "",
-        "placement_instructions": "suprime el título “Disposiciones transitorias”"
     },
     {
         "article_uid": "C1_GEN_DT_ART01",
