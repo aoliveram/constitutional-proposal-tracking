@@ -60,6 +60,10 @@ El proyecto se encuentra actualmente en fase de Reconocimiento y Reconstrucción
     - `indicaciones-universal-extracted/`: Datos de las votaciones e indicaciones extraídos.
 - **`reports/`**: Reportes de estado y análisis de calidad de datos.
 
+## Fechas de las iniciativas (`submitted_initiatives/`)
+
+Cada iniciativa conserva su fecha tal como aparece en el documento (`fecha`) y una versión normalizada ISO (`fecha_iso`); cuando el valor no proviene directamente del documento, `fecha_iso_nota` explica su origen. Regla de imputación: si el PDF no trae fecha, se imputa el **punto medio entre las fechas de las iniciativas vecinas por número** (redondeado hacia arriba), aprovechando que la numeración sigue el orden de ingreso a la plataforma (nov-2021 a feb-2022); cuando ambas vecinas comparten fecha, se hereda esa fecha. Los typos evidentes de año ("enero/febrero de 2021") se corrigen a 2022. `iniciativas_index.csv` resume número, fechas, comisión, autor y firmantes de las 995 iniciativas.
+
 ## Perfiles de Extracción por Comisión
 
 El archivo `constitutional_proposal_tracking/config/commission_profiles.py` define la estrategia de extracción para cada comisión, adaptándose a la estructura variable de sus documentos originales (PDFs de "Génesis" y "Votación").
