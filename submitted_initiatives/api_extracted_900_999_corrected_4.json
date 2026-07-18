@@ -1978,7 +1978,7 @@
     ],
     "firmantes_not_matched": [],
     "n_firmantes": 82,
-    "n_firmantes_matched": 82,
+    "n_firmantes_matched": 83,
     "n_firmantes_not_matched": 0,
     "error_limpieza": null,
     "fecha_iso": "2022-02-01"
@@ -2546,7 +2546,8 @@
     "n_firmantes_matched": 10,
     "n_firmantes_not_matched": 0,
     "error_limpieza": null,
-    "fecha_iso": null
+    "fecha_iso": "2022-02-01",
+    "fecha_iso_nota": "imputada: punto medio entre las fechas de las iniciativas vecinas por número"
   },
   "939-Iniciativa-Convencional-Constituyente-del-cc-Rodrigo-Alvarez-sobre-Terrorismo-y-Narcotrafico.pdf": {
     "propuesta_norma": "Artículo. El terrorismo y el tráfico de estupefacientes es por esencia contrario a los Derechos Humanos. Una ley determinará las conductas terroristas y aquellas que correspondan al tráfico de estupefacientes y su penalidad, la que incluirá siempre como pena accesoria la inhabilidad para ejercer funciones o cargos públicos, sean o no de elección popular; para ejercer funciones de enseñanza, rector o director de un establecimiento educacional cualquiera sea el nivel de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni dirigente de organizaciones políticas o director o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, por un plazo mínimo de 15 años. Lo anterior se entiende sin perjuicio de otras inhabilidades o sanciones que establezca la ley. El Estado será responsable de resarcir todos los daños y perjuicios que experimenten la o las personas afectadas, que sean consecuencia de las conductas terroristas y aquellas que correspondan al tráfico de estupefacientes y su penalidad. Los delitos a que se refiere los incisos anteriores serán considerados siempre comunes y no políticos para todos los efectos legales y no procederá respecto de ellos el indulto ni amnistía.",
@@ -4188,7 +4189,7 @@
     ],
     "firmantes_not_matched": [],
     "n_firmantes": 9,
-    "n_firmantes_matched": 9,
+    "n_firmantes_matched": 10,
     "n_firmantes_not_matched": 0,
     "error_limpieza": null,
     "fecha_iso": "2022-02-01"

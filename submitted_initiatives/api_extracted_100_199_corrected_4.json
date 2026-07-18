@@ -335,7 +335,7 @@
     ],
     "firmantes_not_matched": [],
     "n_firmantes": 17,
-    "n_firmantes_matched": 17,
+    "n_firmantes_matched": 16,
     "n_firmantes_not_matched": 0,
     "error_limpieza": null,
     "fecha_iso": "2022-01-14"
@@ -2861,7 +2861,7 @@
     ],
     "firmantes_not_matched": [],
     "n_firmantes": 16,
-    "n_firmantes_matched": 16,
+    "n_firmantes_matched": 12,
     "n_firmantes_not_matched": 0,
     "error_limpieza": null,
     "fecha_iso": "2022-01-10"

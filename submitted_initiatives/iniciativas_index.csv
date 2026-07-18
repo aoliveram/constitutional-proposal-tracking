@@ -89,7 +89,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 88,29/diciembre/2021,2021-12-29,,6,"Viera, Christian",14,api_extracted_1_99_corrected_4.json
 89,29/diciembre/2021,2021-12-29,,6,"Viera, Christian",16,api_extracted_1_99_corrected_4.json
 90,29/diciembre/2021,2021-12-29,,6,"Laibe, Tomas",16,api_extracted_1_99_corrected_4.json
-91,30/diciembre/2021,2021-12-30,,3,"Bacian, Wilfredo",15,api_extracted_1_99_corrected_4.json
+91,30/diciembre/2021,2021-12-30,,3,"Bacian, Wilfredo",14,api_extracted_1_99_corrected_4.json
 92,31/diciembre/2021,2021-12-31,,7,"Caamano, Francisco",13,api_extracted_1_99_corrected_4.json
 93,03/enero/2022,2022-01-03,,7,"Caamano, Francisco",16,api_extracted_1_99_corrected_4.json
 94,30/diciembre/2021,2021-12-30,,1,"Catrileo, Rosa",21,api_extracted_1_99_corrected_4.json
@@ -133,7 +133,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 133,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
 134,10/enero/2022,2022-01-10,,5,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
 135,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",12,api_extracted_100_199_corrected_4.json
-136,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
+136,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",12,api_extracted_100_199_corrected_4.json
 137,10/enero/2022,2022-01-10,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
 138,10/enero/2022,2022-01-10,,4,"Alvarez, Rodrigo",16,api_extracted_100_199_corrected_4.json
 139,10/enero/2022,2022-01-10,,4,"Cantuarias, Rocio",16,api_extracted_100_199_corrected_4.json
@@ -187,7 +187,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 189,14/enero/2022,2022-01-14,,7,"Achurra, Ignacio",10,api_extracted_100_199_corrected_4.json
 190,14/enero/2022,2022-01-14,,2,"Llanquileo, Natividad",9,api_extracted_100_199_corrected_4.json
 191,14/enero/2022,2022-01-14,,2,"Arrau, Martin",9,api_extracted_100_199_corrected_4.json
-192,14/enero/2022,2022-01-14,,1,"Montero, Ricardo",17,api_extracted_100_199_corrected_4.json
+192,14/enero/2022,2022-01-14,,1,"Montero, Ricardo",16,api_extracted_100_199_corrected_4.json
 193,14/enero/2022,2022-01-14,,1,"Montero, Ricardo",16,api_extracted_100_199_corrected_4.json
 194,14/enero/2022,2022-01-14,,1,"Uribe, Cesar",10,api_extracted_100_199_corrected_4.json
 195,14/enero/2022,2022-01-14,,7,"Pinto, Malucha",8,api_extracted_100_199_corrected_4.json
@@ -244,7 +244,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 247,17/diciembre/2021,2021-12-17,,4,"Grandon, Giovanna",9,api_extracted_200_299_corrected_4.json
 248,17/diciembre/2021,2021-12-17,,4,"Grandon, Giovanna",9,api_extracted_200_299_corrected_4.json
 249,17/diciembre/2021,2021-12-17,,,"Grandon, Giovanna",9,api_extracted_200_299_corrected_4.json
-251,,,,4,"Fernandez, Patricio",16,api_extracted_200_299_corrected_4.json
+251,,2022-01-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Fernandez, Patricio",16,api_extracted_200_299_corrected_4.json
 252,16/enero/2022,2022-01-16,,4,"Urrutia, Tatiana",8,api_extracted_200_299_corrected_4.json
 253,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",10,api_extracted_200_299_corrected_4.json
 254,14/enero/2022,2022-01-14,,7,"Dorador, Cristina",9,api_extracted_200_299_corrected_4.json
@@ -269,7 +269,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 273,16/enero/2022,2022-01-16,,4,"Henriquez, Natalia",15,api_extracted_200_299_corrected_4.json
 274,16/enero/2022,2022-01-16,,4,"Henriquez, Natalia",21,api_extracted_200_299_corrected_4.json
 275,14/enero/2022,2022-01-14,,2,"Vidal, Rossana",15,api_extracted_200_299_corrected_4.json
-276,,,,,"Jurgensen, Harry",15,api_extracted_200_299_corrected_4.json
+276,,2022-01-15,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Jurgensen, Harry",15,api_extracted_200_299_corrected_4.json
 277,15/enero/2022,2022-01-15,,2,"Olivares, Ivanna",11,api_extracted_200_299_corrected_4.json
 278,17/Enero/2022,2022-01-17,,,"Munoz, Pedro",17,api_extracted_200_299_corrected_4.json
 279,17/diciembre/2021,2021-12-17,,4,"Grandon, Giovanna",11,api_extracted_200_299_corrected_4.json
@@ -313,7 +313,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 322,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",16,api_extracted_300_399_corrected_4.json
 323,14/enero/2021,2022-01-14,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Sepulveda, Barbara",8,api_extracted_300_399_corrected_4.json
 324,14/enero/2022,2022-01-14,,6,"Royo, Manuela",12,api_extracted_300_399_corrected_4.json
-325,,,,6,"Laibe, Tomas",12,api_extracted_300_399_corrected_4.json
+325,,2022-01-16,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Laibe, Tomas",12,api_extracted_300_399_corrected_4.json
 326,18/enero/2022,2022-01-18,,4,"Rivera, Pollyana",15,api_extracted_300_399_corrected_4.json
 327,18/enero/2022,2022-01-18,,,"Videla, Carolina",15,api_extracted_300_399_corrected_4.json
 328,18/Enero/2022,2022-01-18,,4,"Madriaga, Tania",11,api_extracted_300_399_corrected_4.json
@@ -355,7 +355,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 368,22/Enero/2022,2022-01-22,,7,"Caamano, Francisco",14,api_extracted_300_399_corrected_4.json
 369,23 de enero de 2022,2022-01-23,,4,"Vallejos, Loreto",12,api_extracted_300_399_corrected_4.json
 370,23/enero/2022,2022-01-23,,4,"San Juan, Constanza",22,api_extracted_300_399_corrected_4.json
-371,,,,4,"San Juan, Constanza",17,api_extracted_300_399_corrected_4.json
+371,,2022-01-24,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"San Juan, Constanza",17,api_extracted_300_399_corrected_4.json
 372,24/Enero/2022,2022-01-24,,4,"Celedon, Roberto",16,api_extracted_300_399_corrected_4.json
 373,24 de enero de 2022,2022-01-24,,4,"Calvo, Carlos",11,api_extracted_300_399_corrected_4.json
 374,22/Enero/2022,2022-01-22,,2,"Vallejos, Loreto",15,api_extracted_300_399_corrected_4.json
@@ -375,7 +375,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 388,24/Enero/2022,2022-01-24,,,"Tirado, Fernando",10,api_extracted_300_399_corrected_4.json
 389,24/enero/2021,2022-01-24,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,2,"Aguilera, Tiare",9,api_extracted_300_399_corrected_4.json
 390,20/enero/2021,2022-01-20,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,5,"Godoy, Isabel",22,api_extracted_300_399_corrected_4.json
-391,,,,4,"Miranda, Valentina",21,api_extracted_300_399_corrected_4.json
+391,,2022-01-22,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Miranda, Valentina",21,api_extracted_300_399_corrected_4.json
 392,24/enero/2022,2022-01-24,,7,"Cespedes, Lorena",14,api_extracted_300_399_corrected_4.json
 393,24/Enero/2022,2022-01-24,,7,"Moreno, Alfredo",8,api_extracted_300_399_corrected_4.json
 394,,2022-01-24,imputada: iniciativas vecinas por número tienen esta misma fecha,3,"Reyes, Maria Ramona",16,api_extracted_300_399_corrected_4.json
@@ -403,7 +403,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 416,25/enero/2022,2022-01-25,,7,"Caamano, Francisco",11,api_extracted_400_499_corrected_4.json
 417,25/enero/2022,2022-01-25,,4,"Caamano, Francisco",14,api_extracted_400_499_corrected_4.json
 418,25/enero/2022,2022-01-25,,5,"Caamano, Francisco",15,api_extracted_400_499_corrected_4.json
-419,,,,,"Pustilnick, Tammy",15,api_extracted_400_499_corrected_4.json
+419,,2022-01-26,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Pustilnick, Tammy",15,api_extracted_400_499_corrected_4.json
 420,26/enero/2022,2022-01-26,,7,"Caamano, Francisco",9,api_extracted_400_499_corrected_4.json
 421,26/Enero/2022,2022-01-26,,2,"Squella, Agustin",9,api_extracted_400_499_corrected_4.json
 422,26/Enero/2022,2022-01-26,,4,"Castillo, Maria Trinidad",9,api_extracted_400_499_corrected_4.json
@@ -441,17 +441,17 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 454,28/enero/2022,2022-01-28,,5,"Barraza, Marcos",10,api_extracted_400_499_corrected_4.json
 455,28/enero/2022,2022-01-28,,5,"Gallardo, Bessy",11,api_extracted_400_499_corrected_4.json
 456,20/Enero/2022,2022-01-20,,,"Baranda, Benito",19,api_extracted_400_499_corrected_4.json
-457,,,,6,"Royo, Manuela",16,api_extracted_400_499_corrected_4.json
+457,,2022-01-26,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Royo, Manuela",16,api_extracted_400_499_corrected_4.json
 458,31/enero/2022,2022-01-31,,4,"Harboe, Felipe",17,api_extracted_400_499_corrected_4.json
 459,31/enero/2022,2022-01-31,,7,"Caamano, Francisco",16,api_extracted_400_499_corrected_4.json
-460,,,,6,"Woldarsky, Manuel",16,api_extracted_400_499_corrected_4.json
+460,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Woldarsky, Manuel",16,api_extracted_400_499_corrected_4.json
 461,29/enero/2022,2022-01-29,,4,"Rivera, Maria Magdalena",11,api_extracted_400_499_corrected_4.json
 462,31/enero/2022,2022-01-31,,1,"Barraza, Marcos",13,api_extracted_400_499_corrected_4.json
-463,,,,4,"Urrutia, Tatiana",16,api_extracted_400_499_corrected_4.json
+463,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Urrutia, Tatiana",16,api_extracted_400_499_corrected_4.json
 464,28/enero/2022,2022-01-28,,4,"Dominguez, Gaspar",11,api_extracted_400_499_corrected_4.json
 465,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cancino, Adriana",16,api_extracted_400_499_corrected_4.json
 466,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Cancino, Adriana",16,api_extracted_400_499_corrected_4.json
-467,28/enero/2022,2022-01-28,,6,"Bravo, Daniel",14,api_extracted_400_499_corrected_4.json
+467,28/enero/2022,2022-01-28,,6,"Bravo, Daniel",13,api_extracted_400_499_corrected_4.json
 468,30/enero/2022,2022-01-30,,4,"Barraza, Marcos",8,api_extracted_400_499_corrected_4.json
 469,30/enero/2022,2022-01-30,,3,"Mena, Felipe",15,api_extracted_400_499_corrected_4.json
 470,31/enero/2022,2022-01-31,,3,"Bassa, Jaime",10,api_extracted_400_499_corrected_4.json
@@ -495,7 +495,6 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 516,28/enero/2022,2022-01-28,,4,"Royo, Manuela",15,api_extracted_500_599_corrected_4.json
 517,,2022-01-28,imputada: iniciativas vecinas por número tienen esta misma fecha,7,"Cruz, Andres",12,api_extracted_500_599_corrected_4.json
 518,28/enero/2022,2022-01-28,,7,"De la Maza, Bernardo",18,api_extracted_500_599_corrected_4.json
-519,27/enero/2022,2022-01-27,,,"Videla, Carolina",16,api_extracted_500_599_corrected_4.json
 521,27/enero/2022,2022-01-27,,5,"Labrana, Elsa",10,api_extracted_500_599_corrected_4.json
 522,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",8,api_extracted_500_599_corrected_4.json
 523,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Harboe, Felipe",10,api_extracted_500_599_corrected_4.json
@@ -515,20 +514,20 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 537,28/Enero/2021,2022-01-28,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Ossandon, Manuel",8,api_extracted_500_599_corrected_4.json
 538,27/Enero/2022,2022-01-27,,2,"Grandon, Paola",13,api_extracted_500_599_corrected_4.json
 539,,2022-01-27,imputada: iniciativas vecinas por número tienen esta misma fecha,,"Sepulveda, Barbara",12,api_extracted_500_599_corrected_4.json
-540,27/Enero/2022,2022-01-27,,,"Abarca, Jorge",11,api_extracted_500_599_corrected_4.json
+540,27/Enero/2022,2022-01-27,,,"Abarca, Jorge",12,api_extracted_500_599_corrected_4.json
 541,27/enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,6,"Rebolledo, Barbara",16,api_extracted_500_599_corrected_4.json
 542,27/enero/2022,2022-01-27,,2,"Alvarez, Rodrigo",16,api_extracted_500_599_corrected_4.json
 543,26/enero/2021,2022-01-26,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,6,"Godoy, Isabel",17,api_extracted_500_599_corrected_4.json
-544,,,,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
+544,,2022-01-29,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Cruz, Andres",16,api_extracted_500_599_corrected_4.json
 545,31/enero/2022,2022-01-31,,2,"Dominguez, Gaspar",16,api_extracted_500_599_corrected_4.json
 546,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",8,api_extracted_500_599_corrected_4.json
 547,31/enero/2022,2022-01-31,,4,"Arauna, Francisca",16,api_extracted_500_599_corrected_4.json
 548,31/enero/2022,2022-01-31,,4,"Politzer, Patricia",14,api_extracted_500_599_corrected_4.json
-549,,,,,"Sepulveda, Barbara",16,api_extracted_500_599_corrected_4.json
+549,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Sepulveda, Barbara",16,api_extracted_500_599_corrected_4.json
 550,29/enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_500_599_corrected_4.json
 551,29/Enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_500_599_corrected_4.json
 552,29/enero/2022,2022-01-29,,4,"Meneses, Janis",12,api_extracted_500_599_corrected_4.json
-553,,,,,"Jurgensen, Harry",12,api_extracted_500_599_corrected_4.json
+553,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Jurgensen, Harry",12,api_extracted_500_599_corrected_4.json
 554,31/enero/2022,2022-01-31,,5,"Munoz, Pedro",16,api_extracted_500_599_corrected_4.json
 555,31/Enero/2022,2022-01-31,,4,"Fontaine, Bernardo",16,api_extracted_500_599_corrected_4.json
 556,31/enero/2022,2022-01-31,,,"Jofre, Alvaro",8,api_extracted_500_599_corrected_4.json
@@ -557,7 +556,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 582,31/Enero/2022,2022-01-31,,7,"Caamano, Francisco",14,api_extracted_500_599_corrected_4.json
 583,31/enero/2022,2022-01-31,,7,"Vidal, Rossana",10,api_extracted_500_599_corrected_4.json
 584,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",14,api_extracted_500_599_corrected_4.json
-585,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",16,api_extracted_500_599_corrected_4.json
+585,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",15,api_extracted_500_599_corrected_4.json
 586,31/enero/2022,2022-01-31,,7,"Pinto, Malucha",13,api_extracted_500_599_corrected_4.json
 587,01/febrero/2022,2022-02-01,,2,"Barraza, Marcos",10,api_extracted_500_599_corrected_4.json
 588,01/febrero/2022,2022-02-01,,6,"Barraza, Marcos",14,api_extracted_500_599_corrected_4.json
@@ -590,24 +589,24 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 616,31/enero/2022,2022-01-31,,,"Harboe, Felipe",16,api_extracted_600_699_corrected_4.json
 617,28/enero/2022,2022-01-28,,5,"Uribe, Cesar",17,api_extracted_600_699_corrected_4.json
 618,27/ENERO/2022,2022-01-27,,,"Andrade, Cristobal",10,api_extracted_600_699_corrected_4.json
-619,,,,,"Harboe, Felipe",8,api_extracted_600_699_corrected_4.json
-620,,,,,"Harboe, Felipe",9,api_extracted_600_699_corrected_4.json
-621,,,,,"Harboe, Felipe",16,api_extracted_600_699_corrected_4.json
-622,,,,4,"Harboe, Felipe",10,api_extracted_600_699_corrected_4.json
+619,,2022-01-28,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Harboe, Felipe",8,api_extracted_600_699_corrected_4.json
+620,,2022-01-28,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Harboe, Felipe",9,api_extracted_600_699_corrected_4.json
+621,,2022-01-28,imputada: punto medio entre las fechas de las iniciativas vecinas por número,,"Harboe, Felipe",16,api_extracted_600_699_corrected_4.json
+622,,2022-01-28,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Harboe, Felipe",10,api_extracted_600_699_corrected_4.json
 623,29/enero/2022,2022-01-29,,4,"Vergara, Lisette",8,api_extracted_600_699_corrected_4.json
 624,30/enero/2022,2022-01-30,,4,"Botto, Miguel Angel",9,api_extracted_600_699_corrected_4.json
 625,28/enero/2022,2022-01-28,,,"Vega, Roberto",10,api_extracted_600_699_corrected_4.json
 626,29/enero/2022,2022-01-29,,2,"Vega, Roberto",9,api_extracted_600_699_corrected_4.json
 627,28/Enero/2022,2022-01-28,,,"Vega, Roberto",11,api_extracted_600_699_corrected_4.json
 628,28/Enero/2022,2022-01-28,,,"Vega, Roberto",9,api_extracted_600_699_corrected_4.json
-629,,,,4,"Miranda, Valentina",9,api_extracted_600_699_corrected_4.json
-630,,,,4,"Miranda, Valentina",9,api_extracted_600_699_corrected_4.json
+629,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Miranda, Valentina",9,api_extracted_600_699_corrected_4.json
+630,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Miranda, Valentina",9,api_extracted_600_699_corrected_4.json
 631,31/enero/2022,2022-01-31,,6,"Villena, Ingrid",13,api_extracted_600_699_corrected_4.json
 632,29/enero/2022,2022-01-29,,2,"Vega, Roberto",9,api_extracted_600_699_corrected_4.json
 633,01/febrero/2022,2022-02-01,,,"Gomez, Yarela",16,api_extracted_600_699_corrected_4.json
 634,01/Febrero/2022,2022-02-01,,5,"Chahin, Fuad",10,api_extracted_600_699_corrected_4.json
 635,31/enero/2022,2022-01-31,,,"Andrade, Cristobal",9,api_extracted_600_699_corrected_4.json
-636,,,,6,"Royo, Manuela",16,api_extracted_600_699_corrected_4.json
+636,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Royo, Manuela",16,api_extracted_600_699_corrected_4.json
 637,01/febrero/2022,2022-02-01,,2,"Vallejos, Loreto",14,api_extracted_600_699_corrected_4.json
 638,01/febrero/2022,2022-02-01,,7,"Vidal, Rossana",16,api_extracted_600_699_corrected_4.json
 640,01/febrero/2022,2022-02-01,,1,"Castillo, Eduardo",8,api_extracted_600_699_corrected_4.json
@@ -692,14 +691,14 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 719,31/enero/2022,2022-01-31,,4,"Rivera, Maria Magdalena",8,api_extracted_700_799_corrected_4.json
 720,31/enero/2022,2022-01-31,,1,"Rivera, Maria Magdalena",8,api_extracted_700_799_corrected_4.json
 721,01/febrero/2022,2022-02-01,,5,"Castillo, Maria Trinidad",8,api_extracted_700_799_corrected_4.json
-722,31/enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",11,api_extracted_700_799_corrected_4.json
+722,31/enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",13,api_extracted_700_799_corrected_4.json
 723,31/Enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",11,api_extracted_700_799_corrected_4.json
 724,01/Febrero/2022,2022-02-01,,2,"Politzer, Patricia",13,api_extracted_700_799_corrected_4.json
 725,31/enero/2022,2022-01-31,,,"Urrutia, Tatiana",9,api_extracted_700_799_corrected_4.json
 726,01/Febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Miranda, Valentina",16,api_extracted_700_799_corrected_4.json
 727,01/Febrero/2022,2022-02-01,,,"Chinga, Eric",9,api_extracted_700_799_corrected_4.json
 728,01/Febrero/2022,2022-02-01,,4,"Neumann, Ricardo",15,api_extracted_700_799_corrected_4.json
-729,,,,6,"Cozzi, Ruggero",12,api_extracted_700_799_corrected_4.json
+729,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Cozzi, Ruggero",12,api_extracted_700_799_corrected_4.json
 730,27/Enero/2022,2022-01-27,,3,"Millabur, Adolfo",8,api_extracted_700_799_corrected_4.json
 731,01/febrero/2022,2022-02-01,,4,"Moreno, Alfredo",9,api_extracted_700_799_corrected_4.json
 732,31/enero/2022,2022-01-31,,5,"Labbe, Bastian",10,api_extracted_700_799_corrected_4.json
@@ -716,9 +715,9 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 743,01/Febrero/2022,2022-02-01,,7,"Achurra, Ignacio",10,api_extracted_700_799_corrected_4.json
 744,31/Enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",12,api_extracted_700_799_corrected_4.json
 745,31/enero/2022,2022-01-31,,5,"Castillo, Maria Trinidad",8,api_extracted_700_799_corrected_4.json
-746,,,,4,"Woldarsky, Manuel",13,api_extracted_700_799_corrected_4.json
-747,,,,4,,11,api_extracted_700_799_corrected_4.json
-748,,,,6,,0,api_extracted_700_799_corrected_4.json
+746,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Woldarsky, Manuel",13,api_extracted_700_799_corrected_4.json
+747,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,,11,api_extracted_700_799_corrected_4.json
+748,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,,0,api_extracted_700_799_corrected_4.json
 749,01/Febrero/2022,2022-02-01,,4,"Quinteros, Maria Elisa",9,api_extracted_700_799_corrected_4.json
 750,01/Febrero/2022,2022-02-01,,1,"Celis, Raul",11,api_extracted_700_799_corrected_4.json
 751,01/febrero/2022,2022-02-01,,1,"Celis, Raul",14,api_extracted_700_799_corrected_4.json
@@ -728,7 +727,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 755,01/febrero/2022,2022-02-01,,2,"Celedon, Roberto",12,api_extracted_700_799_corrected_4.json
 756,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Bacian, Wilfredo",13,api_extracted_700_799_corrected_4.json
 757,01/febrero/2022,2022-02-01,,,"Valenzuela, Cesar",16,api_extracted_700_799_corrected_4.json
-758,01/Febrero/2022,2022-02-01,,2,,13,api_extracted_700_799_corrected_4.json
+758,01/Febrero/2022,2022-02-01,,2,,12,api_extracted_700_799_corrected_4.json
 759,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,2,"Veloso, Paulina",9,api_extracted_700_799_corrected_4.json
 760,01/Febrero/2022,2022-02-01,,2,"Hoppe, Vanessa",9,api_extracted_700_799_corrected_4.json
 761,01/Febrero/2022,2022-02-01,,2,"Saldana, Alvin",14,api_extracted_700_799_corrected_4.json
@@ -742,7 +741,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 769,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",16,api_extracted_700_799_corrected_4.json
 771,01/febrero/2022,2022-02-01,,4,"Salinas, Fernando",14,api_extracted_700_799_corrected_4.json
 772,27/enero/2021,2022-01-27,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,,"Tepper, Maria Angelica",10,api_extracted_700_799_corrected_4.json
-773,,,,4,"Cancino, Adriana",13,api_extracted_700_799_corrected_4.json
+773,,2022-01-30,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Cancino, Adriana",13,api_extracted_700_799_corrected_4.json
 774,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,4,"Rebolledo, Barbara",9,api_extracted_700_799_corrected_4.json
 775,01/febrero/2022,2022-02-01,,4,"Sepulveda, Barbara",16,api_extracted_700_799_corrected_4.json
 776,01/febrero/2022,2022-02-01,,4,,12,api_extracted_700_799_corrected_4.json
@@ -766,7 +765,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 795,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",10,api_extracted_700_799_corrected_4.json
 796,01/febrero/2022,2022-02-01,,5,"Martin, Juan Jose",16,api_extracted_700_799_corrected_4.json
 797,31/enero/2022,2022-01-31,,,"Cespedes, Lorena",12,api_extracted_700_799_corrected_4.json
-798,,,,6,"Labra, Patricia",12,api_extracted_700_799_corrected_4.json
+798,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Labra, Patricia",12,api_extracted_700_799_corrected_4.json
 799,01/febrero/2022,2022-02-01,,,"Martin, Juan Jose",12,api_extracted_700_799_corrected_4.json
 800,01/Febrero/2022,2022-02-01,,4,"Fontaine, Bernardo",16,api_extracted_800_899_corrected_4.json
 801,01/Febrero/2022,2022-02-01,,6,"Viera, Christian",11,api_extracted_800_899_corrected_4.json
@@ -863,7 +862,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 897,01/Febrero/2022,2022-02-01,,4,"Uribe, Cesar",10,api_extracted_800_899_corrected_4.json
 898,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,3,"Uribe, Cesar",17,api_extracted_800_899_corrected_4.json
 899,01/febrero/2022,2022-02-01,,4,"Uribe, Cesar",16,api_extracted_800_899_corrected_4.json
-900,01/Febrero/2022,2022-02-01,,6,,9,api_extracted_900_999_corrected_4.json
+900,01/Febrero/2022,2022-02-01,,6,,10,api_extracted_900_999_corrected_4.json
 901,01/febrero/2022,2022-02-01,,7,"Bravo, Daniel",8,api_extracted_900_999_corrected_4.json
 902,01/Febrero/2022,2022-02-01,,6,"Stingo, Daniel",11,api_extracted_900_999_corrected_4.json
 903,01/febrero/2022,2022-02-01,,5,"Salinas, Fernando",16,api_extracted_900_999_corrected_4.json
@@ -902,7 +901,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 937,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,6,"Laibe, Tomas",16,api_extracted_900_999_corrected_4.json
 938,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,3,"Giustinianovich, Elisa",13,api_extracted_900_999_corrected_4.json
 939,01/Febrero/2022,2022-02-01,,4,"Alvarez, Rodrigo",8,api_extracted_900_999_corrected_4.json
-940,,,,4,,10,api_extracted_900_999_corrected_4.json
+940,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,,10,api_extracted_900_999_corrected_4.json
 941,31/enero/2022,2022-01-31,,4,"Gonzalez, Dayana",13,api_extracted_900_999_corrected_4.json
 942,01/Febrero/2022,2022-02-01,,7,"Pinto, Malucha",8,api_extracted_900_999_corrected_4.json
 943,26/enero/2022,2022-01-26,,6,"Vergara, Lisette",9,api_extracted_900_999_corrected_4.json
@@ -916,7 +915,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 951,01/Febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_900_999_corrected_4.json
 952,01/febrero/2022,2022-02-01,,5,"Zarate, Camila",16,api_extracted_900_999_corrected_4.json
 953,01/Febrero/2022,2022-02-01,,1,"Vilches, Carolina",8,api_extracted_900_999_corrected_4.json
-954,01/febrero/2022,2022-02-01,,5,"Vilches, Carolina",82,api_extracted_900_999_corrected_4.json
+954,01/febrero/2022,2022-02-01,,5,"Vilches, Carolina",83,api_extracted_900_999_corrected_4.json
 957,01/Febrero/2022,2022-02-01,,5,"Olivares, Ivanna",15,api_extracted_900_999_corrected_4.json
 958,01/febrero/2022,2022-02-01,,2,"Oyarzun, Maria Jose",11,api_extracted_900_999_corrected_4.json
 959,01/febrero/2021,2022-02-01,año corregido: el documento dice 2021 pero la plataforma operó nov-2021/feb-2022,1,"Catrileo, Rosa",14,api_extracted_900_999_corrected_4.json
@@ -959,10 +958,10 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 997,01/febrero/2022,2022-02-01,,7,"Caamano, Francisco",10,api_extracted_900_999_corrected_4.json
 998,26/enero/2022,2022-01-26,,7,"Caamano, Francisco",9,api_extracted_900_999_corrected_4.json
 999,25/enero/2022,2022-01-25,,4,"Caamano, Francisco",14,api_extracted_900_999_corrected_4.json
-1000,,,,4,"Abarca, Jorge",8,api_extracted_1000_1035_corrected_4.json
+1000,,2022-01-29,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Abarca, Jorge",8,api_extracted_1000_1035_corrected_4.json
 1001,1/febrero/2022,2022-02-01,,5,"Martin, Juan Jose",11,api_extracted_1000_1035_corrected_4.json
 1002,1/febrero/2022,2022-02-01,,,"Martin, Juan Jose",12,api_extracted_1000_1035_corrected_4.json
-1003,,,,6,"Mayol, Luis",8,api_extracted_1000_1035_corrected_4.json
+1003,,2022-01-29,imputada: punto medio entre las fechas de las iniciativas vecinas por número,6,"Mayol, Luis",8,api_extracted_1000_1035_corrected_4.json
 1004,26/enero/2022,2022-01-26,,1,"Barraza, Marcos",11,api_extracted_1000_1035_corrected_4.json
 1005,01/Febrero/2022,2022-02-01,,4,"Celedon, Roberto",11,api_extracted_1000_1035_corrected_4.json
 1006,01/Febrero/2022,2022-02-01,,4,"Labbe, Bastian",9,api_extracted_1000_1035_corrected_4.json
@@ -970,7 +969,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 1008,02/febrero/2022,2022-02-02,,,"Castro, Claudia",9,api_extracted_1000_1035_corrected_4.json
 1009,26 de enero de 2022,2022-01-26,,5,"Nunez, Nicolas",13,api_extracted_1000_1035_corrected_4.json
 1010,01/febrero/2022,2022-02-01,,5,"Vilches, Carolina",9,api_extracted_1000_1035_corrected_4.json
-1011,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,,,api_extracted_1000_1035_corrected_4.json
+1011,,2022-02-01,imputada: iniciativas vecinas por número tienen esta misma fecha,,,0,api_extracted_1000_1035_corrected_4.json
 1012,1/febrero/2022,2022-02-01,,5,"Nunez, Nicolas",13,api_extracted_1000_1035_corrected_4.json
 1013,01/febrero/2022,2022-02-01,,7,"Galleguillos, Felix",11,api_extracted_1000_1035_corrected_4.json
 1014,1/Febrero/2022,2022-02-01,,3,"Ampuero, Adriana",12,api_extracted_1000_1035_corrected_4.json
@@ -990,7 +989,7 @@ icc_num,fecha_raw,fecha_iso,fecha_iso_nota,comision_n,autor_matched,n_firmantes_
 1028,01/febrero/2022,2022-02-01,,6,"Vergara, Lisette",8,api_extracted_1000_1035_corrected_4.json
 1029,1/febrero/2022,2022-02-01,,5,"Vilches, Carolina",16,api_extracted_1000_1035_corrected_4.json
 1030,01/Febrero/2022,2022-02-01,,4,,11,api_extracted_1000_1035_corrected_4.json
-1031,,,,4,"Laibe, Tomas",16,api_extracted_1000_1035_corrected_4.json
+1031,,2022-02-01,imputada: punto medio entre las fechas de las iniciativas vecinas por número,4,"Laibe, Tomas",16,api_extracted_1000_1035_corrected_4.json
 1032,31/enero/2022,2022-01-31,,5,"Mella, Jeniffer",13,api_extracted_1000_1035_corrected_4.json
 1033,1/Febrero/2022,2022-02-01,,7,"Neumann, Ricardo",15,api_extracted_1000_1035_corrected_4.json
 1034,26/Enero/2022,2022-01-26,,6,"Gutierrez, Hugo",10,api_extracted_1000_1035_corrected_4.json
